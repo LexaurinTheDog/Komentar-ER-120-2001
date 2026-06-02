@@ -94,6 +94,15 @@ Díl 2 je **vlastním tělem procesního exekučního práva**. Pokrývá celý 
 > (3) Proti jinému, než kdo je v rozhodnutí označen jako povinný, nebo ve prospěch jiného, než kdo je v rozhodnutí označen jako oprávněný, **lze vést exekuci, jen jestliže je prokázáno, že na něj přešla povinnost nebo přešlo či bylo převedeno právo z exekučního titulu**.
 > (4) Přechod povinnosti nebo přechod či převod práva lze prokázat **jen listinou vydanou anebo ověřenou státním orgánem nebo notářem**, pokud nevyplývá přímo z právního předpisu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1947/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4C8857DEFCF17A8C1258AA5003C8FCE?openDocument) — 31. 10. 2023, kat. A
+  > „Poté, co nastanou účinky, s nimiž insolvenční zákon spojuje zákaz provádění výkonu rozhodnutí nebo exekuce na majetek dlužníka, a poté, co v souvislosti s prohlášením konkursu na majetek dlužníka lze po splnění podmínek uvedených v § 283 odst. 2 insolvenčního zákona přikročit ke zpeněžení majetkové podstaty dlužníka, nebrání insolvenčnímu správci dlužníka ve zpeněžení majetku náležejícího do majetkové podstaty dlužníka (včetně pohledávek dlužníka za jeho dlužníky) ve vazbě na exekuční řízení ani účinky tzv. generálního inhibitoria (§ 44a odst. 1 exekučního řádu) ani účinky speciálního inhibitoria (§ 47 odst. 6 exekučního řádu). V těch případech, v nichž povinný (dlužník) v době přikázání jiné peněžité pohledávky oprávněnému vede se svým dlužníkem (poddlužníkem) spor o zaplacení pohledávky, nebo na základě již získaného exekučního titulu vymáhá vůči svému dlužníku (poddlužníku)…"
+- *NS* [21 Cdo 1428/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6055C892A991BD6C1257E340046042D?openDocument) — 26. 2. 2015, kat. A
+  > „Dá-li věřitel podle ustanovení § 159 obč. zák. do zástavy pohledávku, která mu byla přiznána vykonatelným rozhodnutím nebo jiným titulem pro výkon rozhodnutí (exekučním titulem), přešlo tím ve smyslu ustanovení § 256 odst. 1 o. s. ř. (§ 36 odst. 3 ex. ř.) právo ze zástavního dlužníka na zástavního věřitele a oprávněným k vymáhání pohledávky cestou výkonu rozhodnutí (exekuce) se stal pouze zástavní věřitel"
+- *NS* [20 Cdo 1785/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1415115351EC8A06C1257C2F002D971B?openDocument) — 30. 10. 2013, kat. A
+  > „Jestliže správní orgán (vodoprávní úřad) vydal rozhodnutí podle § 8 odst. 3 zákona č. 274/2001 Sb., o vodovodech a kanalizacích, ve znění účinném do 14. 3. 2006, jímž nahradil dohodu vlastníků provozně souvisejících částí kanalizace o úpravě jejich vzájemných vztahů, jde o exekuční titul, podle nějž lze exekuci nařídit, jen prokáže-li oprávněný, že svou vzájemnou povinnost vůči povinnému již splnil (§ 43 odst. 1 a 2 exekučního řádu)"
+
 ### Výklad
 
 **Dva primární účastníci**:
@@ -158,6 +167,13 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 >
 > (7) V usnesení o spojení exekuční soud určí, který exekutor řízení povede. Exekutorovi, který řízení nepovede, náleží náhrada účelně vynaložených hotových výdajů, o níž soud rozhodne v usnesení o spojení. V zájmu hospodárnosti však exekuční soud řízení nespojí, vyžaduje-li to stav těchto řízení nebo se tato řízení ke spojení zjevně nehodí.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2600/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E3BCC1D6BDEBC79C1257D4000344C56?openDocument) — 29. 7. 2014, kat. A
+  > „Zavázala-li se osoba povinná v dohodě účastníků podle ustanovení § 71b zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění účinném do 31. 12. 2012, že svůj dluh s příslušenstvím bude osobě oprávněné splácet v pravidelných měsíčních splátkách, jejichž výše a splatnost byla určena, pod ztrátou výhody splátek, a ocitla-li se osoba povinná v prodlení s úhradou dohodnuté splátky v den její splatnosti, může se osoba oprávněná v době do splatnosti nejblíže příští splátky domáhat návrhem na nařízení exekuce uspokojení celého dluhu (pohledávky) s příslušenstvím, i když osoba povinná splátku, s níž byla v prodlení, po její splatnosti uhradila"
+- *NS* [21 Cdo 828/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E4F793F41FE0C1DC1257D00003505BC?openDocument) — 29. 5. 2014, kat. A
+  > „Dohoda uzavřená mezi oprávněným jako zástavním věřitelem a osobní dlužnicí, v níž se věřitel zavázal v případě, že osobní dlužnice částečně uhradí pohledávku vymáhanou v jiném exekučním řízení, upustit od vymáhání zbývající části pohledávky vůči ní, a zároveň, že v budoucnu proti ní nezahájí další exekuční řízení pro tutéž pohledávku, a v níž účastníci této dohody konstatovali, že se netýká nároku oprávněného (zástavního věřitele) vůči zástavnímu dlužníku z titulu zástavního práva k zastaveným nemovitostem, není ve vztahu k povinnému jako zástavnímu dlužníkovi jen proto v rozporu s dobrými mravy"
+
 ### Výklad
 
 **Co JDE do exekuce podle EŘ:**
@@ -187,6 +203,11 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 
 > (1) V exekučním návrhu musí být označen exekutor, který má exekuci vést, s uvedením jeho sídla. Z návrhu musí být dále patrné, kdo ho činí, které věci se týká a co sleduje, a musí být podepsán a datován. Kromě toho musí exekuční návrh obsahovat **jméno, popřípadě jména, a příjmení účastníků, místo jejich trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince, a popřípadě rodné číslo nebo datum narození účastníků, nebo obchodní firmu nebo název, sídlo a identifikační číslo, přesné označení exekučního titulu, uvedení povinnosti, která má být exekucí vymožena, a údaj o tom, zda, popřípadě v jakém rozsahu povinný vymáhanou povinnost splnil, popřípadě označení důkazů, kterých se oprávněný dovolává**.
 > (2) K exekučnímu návrhu je třeba připojit **originál nebo úředně ověřenou kopii exekučního titulu opatřeného potvrzením o jeho vykonatelnosti** nebo stejnopis notářského zápisu se svolením k vykonatelnosti, a případně rozhodnutí o prohlášení vykonatelnosti, rozhodnutí o uznání nebo osvědčení podle přímo použitelného předpisu Evropské unie.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 912/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5B1CD915DD1E301C1257A4E0067CB4C?openDocument) — 7. 2. 2006, kat. A
+  > „Oprávněný splní povinnost připojit stejnopis rozhodnutí vydaného v blokovém řízení tím, že předloží tu část bloku na pokutu na místě nezaplacenou, která obsahuje povinným podepsané prohlášení, že byl poučen o způsobu zaplacení pokuty, o lhůtě její splatnosti a o následcích nezaplacení pokuty, a doloží typ užitého pokutového bloku"
 
 ### Výklad
 
@@ -256,6 +277,25 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 >
 > (4) Exekuci rozhodnutí soudu o prodeji zástavy lze vést tehdy, obsahuje-li označení oprávněné a povinné osoby, zástavy a výši zajištěné pohledávky a jejího příslušenství.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
+  > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
+- *NS* [23 Cdo 4460/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB2D76015813E253C1257F2A00366845?openDocument) — 30. 9. 2015, kat. A
+  > „Nejde o překážku věci rozhodnuté, jestliže o stejné věci, týkající se stejného předmětu řízení a týchž osob, bylo již rozhodnuto rozhodčím nálezem vydaným rozhodcem, jenž neměl k vydání takového rozhodčího nálezu pravomoc"
+- *NS* [26 Cdo 3662/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3717D7EDE424FF83C1257E7E0025E040?openDocument) — 28. 4. 2015, kat. A
+  > „Pro posouzení nezávislosti a nestrannosti třetí osoby pověřené určením rozhodce se uplatní stejná pravidla jako pro nezávislost a nestrannost rozhodců. V úvahu přitom připadá jakýkoliv druh závislosti, zejména závislost materiální, stejně jako zájem na výsledku projednávání sporu"
+- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_1774_2013.txt) — 30. 12. 2014, kat. A
+  > „Vykonatelné usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, je způsobilým titulem pro výkon rozhodnutí nebo exekuci. V řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle takového titulu vystupuje za stát (Českou republiku) Ministerstvo financí"
+- *NS* [21 Cdo 3266/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4244A8161D2CAC1CC1257CB5003A7765?openDocument) — 25. 3. 2014, kat. A
+  > „Je-li exekučním titulem notářský zápis se svolením k vykonatelnosti a domáhá-li se povinný zastavení exekuce podle ustanovení § 268 odst. 1 písm. h) o. s. ř. z důvodu, že oprávněný nemá na vymáhané (vymožené) plnění podle hmotného práva nárok, rozhodne soud o tomto návrhu povinného i poté, co pohledávka s příslušenstvím a náklady exekuce byly vymoženy"
+- *NS* [21 Cdo 174/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6D9CECB5384DF75C1257CAD003EF34D?openDocument) — 18. 3. 2014, kat. A
+  > „Neobsahuje-li rozhodčí doložka přímé určení rozhodce ad hoc a odkazuje-li pouze na seznam rozhodců ,vedený a „rozhodčí řád“ vydaný fyzickou osobou (rozhodcem), je (jako celek) neplatná podle § 39 ,obč. zák. pro rozpor se zákonem. Rozhodčí nález vydaný rozhodcem určeným na základě takovéto ,absolutně neplatné rozhodčí doložky není způsobilým exekučním titulem, neboť rozhodce neměl k jeho ,vydání pravomoc"
+- *NS* [21 Cdo 3758/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/756E6917AD4601C6C1257CAE004107E7?openDocument) — 5. 3. 2014, kat. A
+  > „Jestliže odvolací soud v řízení o nařízení exekuce nařídil jednání, při němž provedl šetření k otázce pravomoci rozhodce vydat rozhodčí nález (ačkoliv povinný v odvolání žádné skutečnosti rozhodné pro nařízení exekuce nenamítal), a povinnému poté neposkytl poučení podle § 254 odst. 3 o. s. ř. o jeho procesních právech a povinnostech, tedy i o tom, že je oprávněn v odvolacím řízení změnit odvolací důvody a vznést námitky týkající se otázky pravomoci rozhodce k vydání rozhodčího nálezu, a přesto ke zjištěním, která z označených listinných důkazů učinil, při svém rozhodnutí přihlédl, založil výsledek řízení na zjištění o okolnostech, které nebyly v odvolacím řízení uplatněny a k nimž přihlížet nesměl (§ 212a odst. 3, § 254 odst. 6 o. s. ř., ve znění od 1. 7. 2009)"
+- *NS* [20 Cdo 2386/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C426F8111CE61F0C1257A9900268FB3?openDocument) — 25. 9. 2012, kat. A
+  > „Rozhodnutí vysoké školy o vyměření poplatku spojeného se studiem, respektive za delší dobu studia, vydané podle § 58 odst. 3 zákona č. 111/1998 Sb. ve znění pozdějších předpisů, podléhá přezkumu ve správním soudnictví a je exekučním titulem ve smyslu § 40 odst. 1 písm. e) exekučního řádu a § 274 odst. 1 písm. f) o. s. ř"
+
 ### Výklad
 
 **Šest typů titulů — taxativně:**
@@ -301,6 +341,15 @@ Notářský zápis (písm. d) doložku **nemá** — vykonatelnost je dána př�
 > (3) V ostatních případech lze vydat exekuční příkaz postihující majetek, který netvoří součást společného jmění manželů jen proto, že byl zákonný režim společného jmění manželů změněn.
 > (4) Jde-li o vydobytí dluhu, který patří do společného jmění manželů, nebo dluhu povinného, pro který lze vydat exekuční příkaz na majetek ve společném jmění manželů, **lze vést exekuci přikázáním pohledávky z účtu manžela povinného** u peněžního ústavu. **Exekuci přikázáním pohledávky z účtu manžela povinného u peněžního ústavu lze v jednom exekučním řízení provést nejvýše jednou.**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 5160/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A1F04DEBCBA07B8C1258267003C4281?openDocument) — 23. 1. 2018, kat. A
+  > „Podá-li po 30. 6. 2015 (od účinnosti zákona č. 139/2015 Sb.) manžel povinného návrh na částečné zastavení exekuce prodejem věcí s odůvodněním, že exekucí je postižen majetek ve společném jmění manželů nebo majetek manžela povinného ve větším rozsahu, než připouští zvláštní právní předpis (srov. § 262b odst. 1 o. s. ř. ve znění od 1. 7. 2015), přestože již dříve byl pravomocně zamítnut jeho návrh na vyloučení týchž věcí z exekuce podle § 267 odst. 2 o. s. ř. ve znění do 30. 6. 2015 podaný z téhož důvodu, brání věcnému projednání návrhu na částečné zastavení exekuce překážka věci pravomocně rozhodnuté (§ 159a odst. 4 o. s. ř.)"
+- *NS* [31 Cdo 4087/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23788231EE7F9698C1257F70004C6B9F?openDocument) — 9. 12. 2015, kat. A
+  > „Blankosměnka se stává směnkou (za předpokladu, že listina po vyplnění bílých míst má kvalitu směnky) až vyplněním, odtud teprve vznikají práva směnečná, a to se zpětnými účinky (ex tunc). Podle § 267 odst. 2 písm. a) o. s. ř., ve znění účinném do 31. 12. 2012, je významná nejen vědomost věřitele o obsahu smlouvy o zúžení společného jmění, ale i vědomost manžela povinného o budoucím závazku jeho manžela, jakož i to, kdy vznikla blankosměnkou zajištěná (budoucí) pohledávka"
+- *NS* [20 Cdo 2610/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A7A9FEA6876F9CBC1257A4E0068DF0C?openDocument) — 30. 3. 2011, kat. A
+  > „Bylo-li manželství pravomocně rozvedeno v řízení podle § 24a zák. o rod., ač nebyla uzavřena smlouva o vypořádání vzájemných majetkových vztahů, lze k vydobytí závazku, který vznikl za trvání manželství jen bývalému manželovi (povinnému), nařídit exekuci (výkon rozhodnutí) i na majetek patřící do zaniklého společného jmění, které v době zahájení řízení o výkon (vydáním exekučního příkazu) nebylo vypořádáno. Druhému manželovi tudíž nesvědčí ve smyslu § 267 odst. 1 o. s. ř. právo k majetku, které nepřipouští exekuci (výkon rozhodnutí)"
+
 ### Výklad
 
 Klíčový paragraf pro **složitou agendu SJM v exekuci**.
@@ -327,6 +376,13 @@ Klíčový paragraf pro **složitou agendu SJM v exekuci**.
 
 > (1) Jestliže je to, co ukládá exekuční titul povinnému, vázáno na splnění **podmínky** nebo na splnění **vzájemné povinnosti oprávněného** nebo **omezené doložením času**, lze vydat pověření podle § 43a jen tehdy, prokáže-li oprávněný, že se podmínka splnila nebo že sám svou vzájemnou povinnost vůči povinnému již splnil, popřípadě je připraven ji splnit, nebo že nastal doložený čas.
 > (2) V případech uvedených v odstavci 1 je třeba k potvrzení o vykonatelnosti exekučního titulu **připojit listinu vydanou nebo ověřenou státním orgánem nebo notářem**, z níž je patrné, že se splnila podmínka, že oprávněný splnil svou vzájemnou povinnost, popřípadě je připraven ji splnit, nebo že nastal doložený čas.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 2184/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D5404E177D47005C1257DEF001F6033?openDocument) — 11. 2. 2015, kat. A
+  > „Obsahuje-li dohoda osoby oprávněné a osoby povinné obsažená v notářském zápisu se svolením k vykonatelnosti (§ 71a až § 71c not. ř., ve znění účinném od 1. 1. 2001 do 30. 6. 2009) ujednání, podle kterého se dlužník zavazuje splnit pohledávku a jiné nároky věřitele, vyplývající ze závazkového právního vztahu vzniklého na základě smlouvy o budoucí smlouvě o půjčce (na jejímž základě věřitel plnil po sepisu notářského zápisu a jež je podle dohody účastníků skutečností, na níž se budoucí pohledávka zakládá), jde o podmínku ve smyslu ustanovení § 36 odst. 1, věty první, a odst. 2, věty první, obč. zák. (§ 71b odst. 2 not. ř.), jejíž splnění je třeba prokázat způsobem uvedeným v ustanovení § 43 odst. 2 ex. ř"
+- *NS* [20 Cdo 1785/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1415115351EC8A06C1257C2F002D971B?openDocument) — 30. 10. 2013, kat. A
+  > „Jestliže správní orgán (vodoprávní úřad) vydal rozhodnutí podle § 8 odst. 3 zákona č. 274/2001 Sb., o vodovodech a kanalizacích, ve znění účinném do 14. 3. 2006, jímž nahradil dohodu vlastníků provozně souvisejících částí kanalizace o úpravě jejich vzájemných vztahů, jde o exekuční titul, podle nějž lze exekuci nařídit, jen prokáže-li oprávněný, že svou vzájemnou povinnost vůči povinnému již splnil (§ 43 odst. 1 a 2 exekučního řádu)"
 
 ### Výklad
 
@@ -365,6 +421,13 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 > (6) Jestliže nejsou splněny všechny zákonem stanovené předpoklady pro vedení exekuce, soud udělí exekutorovi pokyn, aby exekuční návrh částečně nebo úplně odmítl nebo zamítl nebo aby exekuční řízení zastavil. Tímto pokynem je exekutor vázán.
 >
 > (7) Spolu s pověřením nebo pokynem podle odstavce 6 doručí exekuční soud exekutorovi rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání. Exekutor doručí rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání účastníkům spolu s vyrozuměním o zahájení exekuce, případně, nebylo-li mu vydáno pověření, s rozhodnutím o odmítnutí nebo zamítnutí exekučního návrhu nebo o zastavení exekučního řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1947/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4C8857DEFCF17A8C1258AA5003C8FCE?openDocument) — 31. 10. 2023, kat. A
+  > „Poté, co nastanou účinky, s nimiž insolvenční zákon spojuje zákaz provádění výkonu rozhodnutí nebo exekuce na majetek dlužníka, a poté, co v souvislosti s prohlášením konkursu na majetek dlužníka lze po splnění podmínek uvedených v § 283 odst. 2 insolvenčního zákona přikročit ke zpeněžení majetkové podstaty dlužníka, nebrání insolvenčnímu správci dlužníka ve zpeněžení majetku náležejícího do majetkové podstaty dlužníka (včetně pohledávek dlužníka za jeho dlužníky) ve vazbě na exekuční řízení ani účinky tzv. generálního inhibitoria (§ 44a odst. 1 exekučního řádu) ani účinky speciálního inhibitoria (§ 47 odst. 6 exekučního řádu). V těch případech, v nichž povinný (dlužník) v době přikázání jiné peněžité pohledávky oprávněnému vede se svým dlužníkem (poddlužníkem) spor o zaplacení pohledávky, nebo na základě již získaného exekučního titulu vymáhá vůči svému dlužníku (poddlužníku)…"
+- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — 1. 7. 2016, kat. A
+  > „Podléhá-li výkon cizího rozhodnutí úpravě podle ustanovení § 14 až § 16 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, lze jej provést jen soudním výkonem rozhodnutí, přičemž exekuci prostřednictvím zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, lze v takovém případě provést pouze podle cizího rozhodnutí, jež bylo uznáno na základě zvláštního rozhodnutí českého soudu podle ustanovení § 16 odst. 2 zákona č. 91/2012 Sb., tedy rozsudkem, který je třeba odůvodnit"
 
 ### Výklad
 
@@ -432,6 +495,15 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 > (4) Je-li vymáhaná povinnost v hrubém nepoměru k majetku povinného, na který by se vztahoval zákaz podle § 44a odst. 1, může exekutor před zasláním vyrozumění oprávněnému rozhodnout, že se zákaz podle § 44a odst. 1 vztahuje pouze na část majetku přiměřenou vymáhané povinnosti. Toto rozhodnutí zašle spolu s vyrozuměním oprávněnému a povinnému.
 >
 > (5) Na písemnou žádost zašle exekutor účastníkovi exekučního řízení poučení podle odstavce 3 písm. j) v listinné podobě; účinky doručení vyrozumění o zahájení exekuce tím nejsou dotčeny.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 174/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6D9CECB5384DF75C1257CAD003EF34D?openDocument) — 18. 3. 2014, kat. A
+  > „Neobsahuje-li rozhodčí doložka přímé určení rozhodce ad hoc a odkazuje-li pouze na seznam rozhodců ,vedený a „rozhodčí řád“ vydaný fyzickou osobou (rozhodcem), je (jako celek) neplatná podle § 39 ,obč. zák. pro rozpor se zákonem. Rozhodčí nález vydaný rozhodcem určeným na základě takovéto ,absolutně neplatné rozhodčí doložky není způsobilým exekučním titulem, neboť rozhodce neměl k jeho ,vydání pravomoc"
+- *NS* [21 Cdo 3758/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/756E6917AD4601C6C1257CAE004107E7?openDocument) — 5. 3. 2014, kat. A
+  > „Jestliže odvolací soud v řízení o nařízení exekuce nařídil jednání, při němž provedl šetření k otázce pravomoci rozhodce vydat rozhodčí nález (ačkoliv povinný v odvolání žádné skutečnosti rozhodné pro nařízení exekuce nenamítal), a povinnému poté neposkytl poučení podle § 254 odst. 3 o. s. ř. o jeho procesních právech a povinnostech, tedy i o tom, že je oprávněn v odvolacím řízení změnit odvolací důvody a vznést námitky týkající se otázky pravomoci rozhodce k vydání rozhodčího nálezu, a přesto ke zjištěním, která z označených listinných důkazů učinil, při svém rozhodnutí přihlédl, založil výsledek řízení na zjištění o okolnostech, které nebyly v odvolacím řízení uplatněny a k nimž přihlížet nesměl (§ 212a odst. 3, § 254 odst. 6 o. s. ř., ve znění od 1. 7. 2009)"
+- *NS* [31 Cdo 4545/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5046A62AB37D41BC1257A4E00696B45?openDocument) — 9. 3. 2011, kat. A
+  > „Je-li zastavena exekuce, aniž jí byl postižen majetek, s nímž povinný nakládal v rozporu s generálním inhibitoriem ve smyslu ustanovení § 44 odst. 7 zákona č. 120/2001 Sb. ve znění účinném do 31. 10. 2009, považují se úkony, jimiž povinný s tímto majetkem nakládal za trvání exekuce, za platné"
 
 ### Výklad
 
@@ -510,6 +582,11 @@ Pokud žádný z nich neplatnost nevznese, jednání je platné. Logika: chrán�
 >
 > (5) Náklady exekuce vzniklé v souvislosti se změnou exekutora podle odstavce 1, nejde-li o změnu exekutora podle § 15 odst. 5, nese oprávněný.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1465/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DB116282C3071D5C1257D3400350C35?openDocument) — 24. 6. 2014, kat. A
+  > „Zákonným důvodem podle ustanovení § 336k odst. 3 o. s. ř. pro změnu usnesení o příklepu tak, že se příklep neuděluje, není jednání vydražitele po udělení příklepu. Usnesení, jímž exekuční soud podle ustanovení § 44b zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění účinném do 31. 12. 2012, zprostil pověřeného soudního exekutora provedením exekuce a jejím provedením pověřil jiného soudního exekutora, je vykonatelné - není-li v něm výslovně stanoveno jinak - doručením tohoto usnesení účastníkům exekučního řízení a oběma soudním exekutorům (§ 171 odst. 2 o. s. ř.) od tohoto okamžiku (bez zřetele na případně podané odvolání) pokračuje nově pověřený soudní exekutor v provádění exekuce"
+
 ### Výklad
 
 Procesní mechanismus pro **změnu exekutora v rámci běžícího řízení**:
@@ -548,6 +625,11 @@ Užitečný pro ekonomické rozhodování velkých věřitelů: pokud po několi
 > (2) Místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu7b), popřípadě místo pobytu na území České republiky podle druhu pobytu cizince7d),7e). Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
 >
 > (3) Je-li podle odstavce 2 místně příslušných několik soudů, je místně příslušným ten soud, jehož název je první v abecedním, případně číselném pořadí.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Nd 200/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57512C4CD90CD53DC1257A78002EEDD6?openDocument) — 12. 9. 2012, kat. A
+  > „Skutečnost, zda povinný má exekučně postižitelný majetek na území České republiky, který by mohl ,být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem ,pověřeného soudního exekutora v rámci provádění exekuce. Exekuční soud proto před nařízením exekuce ,a pověřením exekutora jejím provedením nezjišťuje existenci majetku povinného. Nejvyšší soud ,rozhodující podle ustanovení § 11 odst. 3 o. s. ř. určí místně příslušný soud podle zásady ,hospodárnosti"
 
 ### Výklad
 
@@ -590,6 +672,23 @@ Tato pravidla určují **exekuční soud** podle § 45 — soud, který:
 > (8) Po skončení exekuce podle odstavců 2 a 6 a § 55 zašle exekutor oznámení o skončení exekuce všem orgánům a osobám, které ve svých evidencích (seznamech) vedou poznámku o probíhající exekuci anebo kterým byla v exekuci uložena nějaká povinnost; oznámení není rozhodnutím. V oznámení označí také exekuční příkazy, jejichž účinky skončením exekuce podle § 47 odst. 7 zanikly. Na žádost zašle toto oznámení neprodleně rovněž účastníkům řízení. Na žádost zašle exekutor oprávněnému, který je orgánem sociálního zabezpečení, neprodleně oznámení o dni, ve kterém zanikla vymáhaná povinnost.
 >
 > Exekuční příkaz
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3359/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E5DDC20D529E611C125898E004F7385?openDocument) — 17. 1. 2023, kat. A
+  > „Stát odpovídá za škodu způsobenou nesprávným úředním postupem soudního exekutora (§ 13 odst. 1 a 2 zákona č. 82/1998 Sb. ve znění pozdějších předpisů) v podobě prodlení s výplatou vymoženého plnění oprávněnému (dalšímu oprávněnému či jinému věřiteli) podle § 46 odst. 4 exekučního řádu. Poškozený je oprávněn vůči státu požadovat vedle náhrady škody i zákonný úrok z prodlení"
+- *NS* [31 Cdo 798/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2F516AA6DAB7FEFC125888B002F86F7?openDocument) — 8. 6. 2022, kat. A
+  > „Usnesení, jímž soudní exekutor k návrhu oprávněné podle § 268 odst. 1 písm. c) o. s. ř. pravomocně zastavil exekuci po jejím skončení vymožením, nezakládá překážku věci rozsouzené (res iudicata) pro rozhodování o pozdějším návrhu povinné na zastavení exekuce podle § 268 odst. 1 písm. h) o. s. ř. ani pro možnost takovému návrhu vyhovět"
+- *NS* [29 NSCR 180/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5920914B0DA38B1C125848C001860AC?openDocument) — 29. 7. 2019, kat. A
+  > „Byl-li majetek tvořící předmět zajištění (zástava) v souladu se zákonem zpeněžen v exekučním řízení a byl-li dosažený výtěžek takového zpeněžení postupem podle § 46 odst. 7 exekučního řádu předán do majetkové podstaty dlužníka, kde má být vydán zajištěnému (zástavnímu) věřiteli, jehož zástavní právo v exekučním řízení zaniklo podle § 337h odst. 1 o. s. ř., nenáleží insolvenčnímu správci dlužníka odměna za zpeněžení předmětu zajištění, kterou by si postupem podle § 298 odst. 2 insolvenčního zákona mohl odečíst od výtěžku zpeněžení předmětu zajištění před jeho vydáním zajištěnému věřiteli"
+- *NS* [30 Cdo 2082/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC0D79A1CD65F8D8C1257FE30025E50E?openDocument) — 10. 5. 2016, kat. A
+  > „Neprovede-li soudní exekutor v rozporu s § 46 odst. 4 exekučního řádu výplatu celé vymožené pohledávky oprávněnému, jde o nesprávný úřední postup ve smyslu zákona č. 82/1998 Sb., za který stát odpovídá"
+- *NS* [29 ICdo 5/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_ICdo_5_2014.txt) — 22. 12. 2015, kat. A
+  > „Rozhodnutí, jímž soudní exekutor určuje náklady exekuce (pro účely jejich vymožení některým ze způsobů určených v exekučním příkazu k provedení exekuce ukládající zaplacení peněžité částky) (příkaz k úhradě nákladů exekuce), je ve smyslu ustanovení § 109 odst. 1 písm. c) insolvenčního zákona „prováděním exekuce“ a nikoli jejím „nařízením“"
+- *NS* [31 Cdo 2827/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67BC5DA99B56C7B0C1257E8F0025EF2A?openDocument) — 20. 5. 2015, kat. A
+  > „Nebyla-li vymáhaná povinnost splněna z prostředků získaných postižením členských práv a povinností, členství v družstvu, zaniklé v důsledku exekuce postihující členská práva a povinnosti, se obnoví, zaniknou-li účinky exekučního příkazu, jímž byly členská práva a povinnosti postiženy"
+- *NS* [21 Cdo 2393/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/613BD7C27C1CE1D8C1257CEC004669D3?openDocument) — 22. 5. 2014, kat. A
+  > „Dražebník není povinen upustit od veřejné nedobrovolné dražby proto, že byl soudním exekutorem vydán exekuční příkaz prodejem předmětu dražby, jestliže pohledávka s příslušenstvím, pro jejíž vymožení byla nařízena exekuce, náklady exekuce a náklady oprávněného byly uhrazeny soudnímu exekutorovi před konáním dražby"
 
 ### Výklad
 
@@ -645,6 +744,19 @@ To je **finanční páka** pro motivaci k dobrovolnému plnění — povinný u�
 > (6) Majetek, který je postižen exekučním příkazem, nesmí povinný převést na jiného, zatížit ho nebo s ním jinak nakládat. Právní jednání, kterým povinný porušil tuto povinnost, je neplatné.
 >
 > (7) Provedením exekuce a zastavením exekuce zanikají účinky všech vydaných exekučních příkazů.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2755/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F7D757791051D40C12589C000182B8C?openDocument) — 28. 2. 2023, kat. A
+  > „Omezení v nakládání s nemovitou věcí povinného postiženou exekučním příkazem se po dobu trvání účinků speciálního inhibitoria dle § 47 odst. 6 exekučního řádu vztahuje i na jednání zástavního věřitele směřující k prodeji této nemovité věci na základě předchozího ujednání se zástavcem (§ 1359 odst. 1 o. z.). Návrh na vklad vlastnického práva podle kupní smlouvy o prodeji nemovité věci povinného uzavřené zástavním věřitelem v rozporu s účelem speciálního inhibitoria katastrální úřad zamítne podle § 17 odst. 1 písm. f) katastrálního zákona"
+- *NS* [29 ICdo 47/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E8DE1FC65B2D582C1257F5A003BF4F3?openDocument) — 30. 11. 2015, kat. A
+  > „Jestliže v době, kdy měly nastat obligační účinky kupní smlouvy, kterou povinný a jeho manželka převedli na třetí osobu nemovitosti ve společném jmění manželů, bylo v právní moci usnesení o nařízení exekuce, soudní exekutor ani oprávněný nebyli v žádném ohledu účastníky kupní smlouvy nebo osobami, jež by převod odsouhlasily, a oprávněným vymáhaná pohledávka nebyla uspokojena, je kupní smlouva absolutně neplatná pro porušení speciálního inhibitoria ve smyslu § 47 odst. 4 exekučního řádu"
+- *NS* [31 Cdo 2827/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67BC5DA99B56C7B0C1257E8F0025EF2A?openDocument) — 20. 5. 2015, kat. A
+  > „Nebyla-li vymáhaná povinnost splněna z prostředků získaných postižením členských práv a povinností, členství v družstvu, zaniklé v důsledku exekuce postihující členská práva a povinnosti, se obnoví, zaniknou-li účinky exekučního příkazu, jímž byly členská práva a povinnosti postiženy"
+- *NS* [21 Cdo 2393/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/613BD7C27C1CE1D8C1257CEC004669D3?openDocument) — 22. 5. 2014, kat. A
+  > „Dražebník není povinen upustit od veřejné nedobrovolné dražby proto, že byl soudním exekutorem vydán exekuční příkaz prodejem předmětu dražby, jestliže pohledávka s příslušenstvím, pro jejíž vymožení byla nařízena exekuce, náklady exekuce a náklady oprávněného byly uhrazeny soudnímu exekutorovi před konáním dražby"
+- *NS* [25 Cdo 4802/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2011%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2011&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-25_Cdo_4802_2008.txt) — 30. 11. 2010, kat. A
+  > „Plněním povinného k rukám exekutora uskutečněným v době po vydání exekučního příkazu a před prohlášením konkursu na majetek povinného dluh povinného vůči oprávněnému zaniká za současného předpokladu, že usnesení o nařízení exekuce nabylo právní moci"
 
 ### Výklad
 
@@ -718,6 +830,13 @@ Pověření zaniká:
 - d) změnou exekutora podle § 44b,
 - e) spojením řízení (kromě vedoucího exekutora).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 798/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2F516AA6DAB7FEFC125888B002F86F7?openDocument) — 8. 6. 2022, kat. A
+  > „Usnesení, jímž soudní exekutor k návrhu oprávněné podle § 268 odst. 1 písm. c) o. s. ř. pravomocně zastavil exekuci po jejím skončení vymožením, nezakládá překážku věci rozsouzené (res iudicata) pro rozhodování o pozdějším návrhu povinné na zastavení exekuce podle § 268 odst. 1 písm. h) o. s. ř. ani pro možnost takovému návrhu vyhovět"
+- *NS* [21 Cdo 3266/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4244A8161D2CAC1CC1257CB5003A7765?openDocument) — 25. 3. 2014, kat. A
+  > „Je-li exekučním titulem notářský zápis se svolením k vykonatelnosti a domáhá-li se povinný zastavení exekuce podle ustanovení § 268 odst. 1 písm. h) o. s. ř. z důvodu, že oprávněný nemá na vymáhané (vymožené) plnění podle hmotného práva nárok, rozhodne soud o tomto návrhu povinného i poté, co pohledávka s příslušenstvím a náklady exekuce byly vymoženy"
+
 ---
 
 ## § 52 — Subsidiarita OSŘ + doložka provedení
@@ -729,6 +848,25 @@ Pověření zaniká:
 > b) právní moc rozhodnutí o návrhu na zastavení exekuce, pokud byl podaný ve lhůtě podle písmene a),
 > c) právní moc rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání a
 > d) právní moc exekučního příkazu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
+  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
+- *NS* [29 Cdo 1947/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4C8857DEFCF17A8C1258AA5003C8FCE?openDocument) — 31. 10. 2023, kat. A
+  > „Poté, co nastanou účinky, s nimiž insolvenční zákon spojuje zákaz provádění výkonu rozhodnutí nebo exekuce na majetek dlužníka, a poté, co v souvislosti s prohlášením konkursu na majetek dlužníka lze po splnění podmínek uvedených v § 283 odst. 2 insolvenčního zákona přikročit ke zpeněžení majetkové podstaty dlužníka, nebrání insolvenčnímu správci dlužníka ve zpeněžení majetku náležejícího do majetkové podstaty dlužníka (včetně pohledávek dlužníka za jeho dlužníky) ve vazbě na exekuční řízení ani účinky tzv. generálního inhibitoria (§ 44a odst. 1 exekučního řádu) ani účinky speciálního inhibitoria (§ 47 odst. 6 exekučního řádu). V těch případech, v nichž povinný (dlužník) v době přikázání jiné peněžité pohledávky oprávněnému vede se svým dlužníkem (poddlužníkem) spor o zaplacení pohledávky, nebo na základě již získaného exekučního titulu vymáhá vůči svému dlužníku (poddlužníku)…"
+- *NS* [20 Cdo 1058/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3ABF908B04BEE177C1258A2F00160D72?openDocument) — 21. 6. 2023, kat. A
+  > „Určuje-li v exekučním řízení způsob provedení exekuce pověřený soudní exekutor (§ 58 odst. 3 věta první ex. řádu), jenž je v souladu s ustanovením § 46 ex. řádu povinen vést exekuci v zájmu oprávněného rychle a účelně i bez návrhu, nemůže být jeho postup při nařízení dalšího dražebního jednání ve lhůtě od tří měsíců do jednoho roku po předchozí bezúspěšné dražbě podmíněn podáním návrhu oprávněného ve smyslu § 336m odst. 1 o. s. ř., ledaže by oprávněný vyslovil (dal soudnímu exekutorovi nepochybně najevo), že s další dražbou již nesouhlasí"
+- *NS* [29 Cdo 3391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60102B20CDC2E50EC125885D0017DC4C?openDocument) — 28. 4. 2022, kat. A
+  > „Usnesení, jímž insolvenční soud poté, co určí jedinou celkovou odměnu insolvenčních správců pro celé řízení, ukládá insolvenčnímu správci dlužníka, aby z takto určené odměny do 15 dnů od právní moci usnesení vyplatil konkrétní částku (podíl na odměně) v insolvenčním řízení dříve činnému insolvenčnímu správci dlužníka, je ve smyslu ustanovení § 40a insolvenčního zákona exekučním titulem pro pohledávku za majetkovou podstatou dle § 168 odst. 2 písm. a/ insolvenčního zákona, která má být uspokojena z majetkové podstaty dlužníka a pro kterou proto nelze vést výkon rozhodnutí (exekuci) na majetek insolvenčního správce"
+- *NS* [29 Cdo 3782/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA813B0B9712D3EDC125887E0017DA96?openDocument) — 28. 4. 2022, kat. A
+  > „Dědické právo ve smyslu § 1475 o. z., jež dědici vzniká smrtí zůstavitele (§ 1479 o. z.), není právem na pozůstalost bez dalšího. Dědické právo je jen titulem k nabytí pozůstalosti, neboť zůstavitelovým dědicem se stává a dědictví nabývá jen ten, o němž to stanoví pravomocné rozhodnutí (pozůstalostního) soudu, tj. ten, komu bylo usnesením o dědictví potvrzeno nabytí dědictví. Do potvrzení nabytí dědictví mohou věřitelé ve smyslu 1703 o. z. vymáhat plnění jen vůči tomu, kdo spravuje pozůstalost, a domáhat se uspokojení jen z majetku náležejícího do pozůstalosti pouze a právě proto, že povinnost dědiců uhrazovat zůstavitelovy dluhy nastává až po právní moci usnesení o dědictví. Jestliže usnesení o dědictví (§ 185 z. ř. s.), jímž (pozůstalostní) soud potvrdil (insolvenčnímu) dlužníku nabytí dědictví po zůstaviteli, který zemřel v průběhu insolvenčního řízení vedeného na majetek…"
+- *NS* [31 Cdo 1330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/067E226015ED3E97C12586010023F9FE?openDocument) — 9. 9. 2020, kat. A
+  > „„Soudní exekutor může pojmout silniční motorové vozidlo do soupisu movitých věcí, ačkoliv je mu při soupisu předložen technický průkaz osvědčující vlastnictví třetí osoby, pouze tehdy, má-li důvodné pochybnosti o pravdivosti údajů v technickém průkazu.“"
+- *NS* [23 Cdo 2831/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACD768D680B6C687C1257FF700471A19?openDocument) — 27. 4. 2016, kat. A
+  > „Uplatňuje-li povinný jako žalobce v soudním řízení pohledávku poté, kdy byla postižena exekučním příkazem o přikázání této pohledávky a exekuční příkaz byl doručen dlužníkovi povinného, jde do výše, v jaké byla pohledávka postižena, o zřejmě bezúspěšné uplatňování práva odůvodňující nepřiznání osvobození od soudních poplatků podle § 138 o. s. ř"
+- *NS* [21 Cdo 1428/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6055C892A991BD6C1257E340046042D?openDocument) — 26. 2. 2015, kat. A
+  > „Dá-li věřitel podle ustanovení § 159 obč. zák. do zástavy pohledávku, která mu byla přiznána vykonatelným rozhodnutím nebo jiným titulem pro výkon rozhodnutí (exekučním titulem), přešlo tím ve smyslu ustanovení § 256 odst. 1 o. s. ř. (§ 36 odst. 3 ex. ř.) právo ze zástavního dlužníka na zástavního věřitele a oprávněným k vymáhání pohledávky cestou výkonu rozhodnutí (exekuce) se stal pouze zástavní věřitel"
 
 ### Výklad
 
@@ -787,6 +925,11 @@ Záznam je **součástí spisu**.
 >
 > (12) Nevyhoví-li exekutor návrhu na odklad exekuce do 7 dnů, postoupí jej společně s exekučním spisem v této lhůtě k rozhodnutí exekučnímu soudu, který o něm rozhodne bez zbytečného odkladu, nejpozději do 15 dnů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1465/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DB116282C3071D5C1257D3400350C35?openDocument) — 24. 6. 2014, kat. A
+  > „Zákonným důvodem podle ustanovení § 336k odst. 3 o. s. ř. pro změnu usnesení o příklepu tak, že se příklep neuděluje, není jednání vydražitele po udělení příklepu. Usnesení, jímž exekuční soud podle ustanovení § 44b zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění účinném do 31. 12. 2012, zprostil pověřeného soudního exekutora provedením exekuce a jejím provedením pověřil jiného soudního exekutora, je vykonatelné - není-li v něm výslovně stanoveno jinak - doručením tohoto usnesení účastníkům exekučního řízení a oběma soudním exekutorům (§ 171 odst. 2 o. s. ř.) od tohoto okamžiku (bez zřetele na případně podané odvolání) pokračuje nově pověřený soudní exekutor v provádění exekuce"
+
 ### Výklad
 
 **Odklad exekuce** = dočasné pozastavení provádění. Důležité odlišit od **zastavení** (definitivní).
@@ -821,6 +964,15 @@ Záznam je **součástí spisu**.
 ## § 55 — Zastavení exekuce
 
 Velmi rozsáhlý paragraf — kombinuje **klasické zastavení** (důvody podle § 268 OSŘ) s **zastavením pro nemajetnost po 6 letech** (novela 2021/286 Sb.).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1114/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument) — 16. 7. 2025, kat. A
+  > „Oprávněný může podat nový exekuční návrh a vést exekuci podle exekučního titulu, na jehož základě byla předchozí exekuce vedená týmž oprávněným proti témuž povinnému zastavena pro bezvýslednost ve smyslu § 55 odst. 7 až 13 e. ř. Úspěšnost nového exekučního návrhu nelze podmiňovat uvedením nových skutečností o majetkových poměrech povinného, oprávněný je toliko povinen na žádost soudního exekutora zaplatit přiměřenou zálohu na náklady exekuce ve smyslu § 90 odst. 3 e. ř"
+- *NS* [20 Cdo 5160/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A1F04DEBCBA07B8C1258267003C4281?openDocument) — 23. 1. 2018, kat. A
+  > „Podá-li po 30. 6. 2015 (od účinnosti zákona č. 139/2015 Sb.) manžel povinného návrh na částečné zastavení exekuce prodejem věcí s odůvodněním, že exekucí je postižen majetek ve společném jmění manželů nebo majetek manžela povinného ve větším rozsahu, než připouští zvláštní právní předpis (srov. § 262b odst. 1 o. s. ř. ve znění od 1. 7. 2015), přestože již dříve byl pravomocně zamítnut jeho návrh na vyloučení týchž věcí z exekuce podle § 267 odst. 2 o. s. ř. ve znění do 30. 6. 2015 podaný z téhož důvodu, brání věcnému projednání návrhu na částečné zastavení exekuce překážka věci pravomocně rozhodnuté (§ 159a odst. 4 o. s. ř.)"
+- *NS* [21 Cdo 3439/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72EB38D0BFCA5236C1257C9E004D24AD?openDocument) — 20. 2. 2014, kat. A
+  > „Smysl lhůty uvedené v ustanovení § 55 odst. 1 exekučního řádu spočívá v tom, že vede povinné k tomu, aby podávali návrh na zastavení exekuce "včas" ve lhůtě 15 dnů a exekuci neprodlužovali vyplývají-li však z listin předložených povinným k návrhu na zastavení exekuce skutečnosti, které jsou důvodem pro zastavení exekuce, je soud povinen k nim přihlédnout a i o opožděném návrhu věcně rozhodnout"
 
 ### Klasické zastavení (odst. 1—6)
 

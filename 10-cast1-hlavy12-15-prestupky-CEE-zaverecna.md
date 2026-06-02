@@ -270,6 +270,11 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 
 **Klíčová substituční doložka:** kdekoli jiný předpis mluví o „výkonu rozhodnutí", platí i pro exekuci podle EŘ. Tím se exekuce stala plnohodnotnou náhradou soudního výkonu rozhodnutí ve všech procesních souvislostech.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — 1. 7. 2016, kat. A
+  > „Podléhá-li výkon cizího rozhodnutí úpravě podle ustanovení § 14 až § 16 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, lze jej provést jen soudním výkonem rozhodnutí, přičemž exekuci prostřednictvím zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, lze v takovém případě provést pouze podle cizího rozhodnutí, jež bylo uznáno na základě zvláštního rozhodnutí českého soudu podle ustanovení § 16 odst. 2 zákona č. 91/2012 Sb., tedy rozsudkem, který je třeba odůvodnit"
+
 ## § 131 — Zmocnění k vyhláškám
 
 Detailní seznam zmocnění MS k vydání **prováděcích vyhlášek**:

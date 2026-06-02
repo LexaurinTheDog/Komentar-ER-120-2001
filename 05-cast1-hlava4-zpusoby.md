@@ -44,6 +44,11 @@ Kapitola se opírá o **podrobnou úpravu v OSŘ** (Část šestá, § 251—338
 >
 > (3) Způsob provedení exekuce určí exekutor. Na návrh povinného nebo s jeho souhlasem lze exekuci provést i v jiném pořadí, než stanoví odstavec 2 písm. a) až d).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1058/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3ABF908B04BEE177C1258A2F00160D72?openDocument) — 21. 6. 2023, kat. A
+  > „Určuje-li v exekučním řízení způsob provedení exekuce pověřený soudní exekutor (§ 58 odst. 3 věta první ex. řádu), jenž je v souladu s ustanovením § 46 ex. řádu povinen vést exekuci v zájmu oprávněného rychle a účelně i bez návrhu, nemůže být jeho postup při nařízení dalšího dražebního jednání ve lhůtě od tří měsíců do jednoho roku po předchozí bezúspěšné dražbě podmíněn podáním návrhu oprávněného ve smyslu § 336m odst. 1 o. s. ř., ledaže by oprávněný vyslovil (dal soudnímu exekutorovi nepochybně najevo), že s další dražbou již nesouhlasí"
+
 ### Výklad / smysl ustanovení
 
 **Tři principy** § 58:
@@ -97,6 +102,15 @@ Kapitola se opírá o **podrobnou úpravu v OSŘ** (Část šestá, § 251—338
 > c) **rozdělením společné věci**,
 > d) **provedením prací a výkonů**.
 > (3) Exekuci **prodejem zástavy** lze pro zajištěnou pohledávku provést prodejem zastavených movitých věcí a nemovitých věcí.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 828/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E4F793F41FE0C1DC1257D00003505BC?openDocument) — 29. 5. 2014, kat. A
+  > „Dohoda uzavřená mezi oprávněným jako zástavním věřitelem a osobní dlužnicí, v níž se věřitel zavázal v případě, že osobní dlužnice částečně uhradí pohledávku vymáhanou v jiném exekučním řízení, upustit od vymáhání zbývající části pohledávky vůči ní, a zároveň, že v budoucnu proti ní nezahájí další exekuční řízení pro tutéž pohledávku, a v níž účastníci této dohody konstatovali, že se netýká nároku oprávněného (zástavního věřitele) vůči zástavnímu dlužníku z titulu zástavního práva k zastaveným nemovitostem, není ve vztahu k povinnému jako zástavnímu dlužníkovi jen proto v rozporu s dobrými mravy"
+- *NS* [21 Cdo 3774/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/697F4A8C0E0D87B6C1257CD100411A3D?openDocument) — 10. 4. 2014, kat. A
+  > „Výkon rozhodnutí (exekuci) pro peněžité plnění nelze nařídit a provést přikázáním pohledávky, kterou má zaměstnanec vůči zaměstnavateli z titulu cestovních náhrad, na niž zaměstnanci vznikl nárok podle příslušných ustanovení zákoníku práce, způsobem uvedeným v § 312 a násl. o. s. ř. (§ 59 odst. 1 písm. b/ ex. ř.), i když tato pohledávka není výslovně z výkonu rozhodnutí (exekuce) vyloučena (§ 317 až § 319 o. s. ř.)"
+- *NS* [29 Cdo 699/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC0D54C32DDA84B8C1257A4E006AC9B8?openDocument) — 22. 5. 2008, kat. A
+  > „V konkursním řízení vedeném na majetek dlužníka podle zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007, není správce podniku dlužníka (povinného) oprávněn zastupovat dlužníka na základě ustanovení § 338k odst. 6 o. s. ř. to platí i pro tu část konkursního řízení, která začíná podáním návrhu na prohlášení konkursu na majetek dlužníka a končí rozhodnutím konkursního soudu o tomto návrhu. Návrh na prohlášení konkursu na majetek dlužníka podle ustanovení § 4b zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007 podává správce podniku dlužníka (povinného) svým jménem a nikoliv jménem dlužníka jde o "navrhovatele konkursu", který nedokládá svou pohledávku za dlužníkem ve smyslu ustanovení § 4 odst. 2 uvedeného zákona"
 
 ### Výklad
 
@@ -315,6 +329,11 @@ Tři skupiny **zranitelných povinných** (odst. 1), u kterých **NELZE** prové
 >
 > (7) Byla-li věc zajištěná podle § 66 odst. 4 vyškrtnuta ze soupisu nebo vyloučena z výkonu rozhodnutí, exekutor věc bez zbytečného odkladu předá navrhovateli na místě, kde ji zajistil, nedohodne-li se s navrhovatelem jinak. Neposkytne-li navrhovatel exekutorovi potřebnou součinnost při předávání věci, věc se navrhovateli předá v sídle exekutora.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Co 35/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E34B97216FBA9888C1257B580053475F?openDocument) — 24. 2. 2011, kat. A
+  > „Úspěch žaloby na vyloučení věci z exekuce (§ 267 odst. 1 o. s. ř.) není podmíněn předchozím včasným návrhem na vyskrtnutí věci ze soupisu postupem podle § 68 zákona č. 120/2001 Sb. ve znění pozdějších předpisů"
+
 ### Výklad
 
 **Specifický procesní mechanismus** pro **třetí osobu**, jejíž věc byla nesprávně pojata do soupisu (typicky: rodič povinného, jehož auto stojí u domu povinného, nebo druh/družka spolubydlící s povinným).
@@ -368,6 +387,11 @@ Tři skupiny **zranitelných povinných** (odst. 1), u kterých **NELZE** prové
 > (4) Náklady exekuce se uspokojují jako pohledávky nákladů řízení ve skupině uvedené v § 338ze odst. 1 písm. a) občanského soudního řádu. Na náklady exekuce při správě závodu se § 65a použije obdobně.
 >
 > (5) Při oceňování závodu nebo jeho části se použije obvyklá cena podle zvláštního právního předpisu.18)
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 699/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC0D54C32DDA84B8C1257A4E006AC9B8?openDocument) — 22. 5. 2008, kat. A
+  > „V konkursním řízení vedeném na majetek dlužníka podle zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007, není správce podniku dlužníka (povinného) oprávněn zastupovat dlužníka na základě ustanovení § 338k odst. 6 o. s. ř. to platí i pro tu část konkursního řízení, která začíná podáním návrhu na prohlášení konkursu na majetek dlužníka a končí rozhodnutím konkursního soudu o tomto návrhu. Návrh na prohlášení konkursu na majetek dlužníka podle ustanovení § 4b zákona č. 328/1991 Sb. ve znění účinném do 31. 12. 2007 podává správce podniku dlužníka (povinného) svým jménem a nikoliv jménem dlužníka jde o "navrhovatele konkursu", který nedokládá svou pohledávku za dlužníkem ve smyslu ustanovení § 4 odst. 2 uvedeného zákona"
 
 ### Výklad
 

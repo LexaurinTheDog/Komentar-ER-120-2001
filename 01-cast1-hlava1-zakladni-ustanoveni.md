@@ -10,6 +10,11 @@ Hlava I plní funkci „**ústavní kapitoly**" exekučního řádu — definuje
 > (1) Soudní exekutor (dále jen „exekutor") je fyzická osoba splňující předpoklady podle tohoto zákona, kterou stát pověřil exekutorským úřadem.
 > (2) V rámci pověření exekutorským úřadem exekutor provádí nucený výkon exekučních titulů včetně zřizování exekutorského zástavního práva (dále jen „exekuční činnost") a další činnost podle tohoto zákona.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2082/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC0D79A1CD65F8D8C1257FE30025E50E?openDocument) — 10. 5. 2016, kat. A
+  > „Neprovede-li soudní exekutor v rozporu s § 46 odst. 4 exekučního řádu výplatu celé vymožené pohledávky oprávněnému, jde o nesprávný úřední postup ve smyslu zákona č. 82/1998 Sb., za který stát odpovídá"
+
 ### Výklad / smysl ustanovení
 
 Paragraf 1 obsahuje **definiční jádro** celého zákona ve dvou krocích:
@@ -237,6 +242,11 @@ Exekutorský úřad není „one-man-show" — v praxi typický menší úřad z
 > (5) Komora vykonává dohled nad činností exekutora, nad řízením činnosti exekutorského úřadu a nad dodržováním povinností stanovených exekutorovi zákonem o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu. Pro výkon dohledu platí obdobně odstavce 3 a 4.
 >
 > (6) Státní dohled nad exekuční činností a nad činností podle § 74 odst. 1 písm. c) vykonává rovněž předseda okresního soudu, do jehož obvodu je exekutor jmenován; jde-li o státní dohled v jednotlivé věci, též předseda soudu příslušného podle § 45 (dále jen „exekuční soud“). Pro výkon státního dohledu předsedou okresního soudu se použijí obdobně odstavce 2 až 4. Předseda okresního soudu provádí státní dohled i na základě písemných podnětů právnických nebo fyzických osob. Předseda okresního soudu může pověřit výkonem státního dohledu místopředsedu soudu. Jednotlivými úkony při výkonu státního dohledu může předseda okresního soudu pověřit vyššího soudního úředníka.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2082/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC0D79A1CD65F8D8C1257FE30025E50E?openDocument) — 10. 5. 2016, kat. A
+  > „Neprovede-li soudní exekutor v rozporu s § 46 odst. 4 exekučního řádu výplatu celé vymožené pohledávky oprávněnému, jde o nesprávný úřední postup ve smyslu zákona č. 82/1998 Sb., za který stát odpovídá"
 
 ### Výklad / smysl ustanovení
 

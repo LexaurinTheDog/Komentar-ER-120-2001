@@ -277,6 +277,11 @@ Tři klíčové prvky:
 >
 > (9) Předseda okresního soudu rozvrhne exekuční řízení vedená v úřadu, jehož výkon zanikl nebo který byl zrušen, rovnoměrně mezi soudní exekutory, kteří byli jmenováni do jeho obvodu; není-li do obvodu soudu jmenován žádný exekutor, předseda okresního soudu řízení rozvrhne rovnoměrně mezi soudní exekutory, kteří byli jmenováni do obvodu soudu, který má společnou hranici s tímto obvodem a který patří do obvodu stejného krajského soudu. Na žádost poskytne zástupce předsedovi okresního soudu údaje potřebné pro rozvržení exekučních řízení. O předání exekučních řízení sepíše předseda okresního soudu, zástupce a exekutor, který řízení převzal, protokol. Odstavec 5 se použije přiměřeně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
+  > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
+
 #### Výklad
 
 **Taxativní katalog 8 důvodů zániku úřadu** (odst. 1) + **4 obligatorní důvody odvolání ministrem** (odst. 2):

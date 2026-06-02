@@ -248,6 +248,13 @@ I po skončení pracovního/funkčního poměru.
 > (2) Exekutor se povinnosti podle odstavce 1 zprostí, prokáže-li, že **újmě nemohlo být zabráněno ani při vynaložení veškerého úsilí, které lze na něm požadovat**.
 > (3) Povinnost státu nahradit újmu podle zvláštního právního předpisu tím není dotčena.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [75 Co 19/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47858E56DAF8E5FEC1257A4E0065BCCC?openDocument) — 6. 5. 2011, kat. A
+  > „Vznikne-li činností exekutora při výkonu veřejné moci přenesené na něj zákonem jinému škoda, jejíž náhradu poškozený uplatní vůči exekutorovi podle § 32 zákona č. 120/2001 Sb., je vzhledem k chybějící úpravě promlčení v zákoně č. 120/2001 Sb. takto vzniklý závazkový vztah vždy vztahem občanskoprávním bez ohledu na povahu účastníků závazkového vztahu vzniklého z titulu náhrady škody, a promlčení práva na náhradu škody se proto řídí ustanovením § 106 obč. zák"
+- *NS* [21 Cdo 3841/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E888C316DEE45F40C1257A4E0065D4D6?openDocument) — 8. 12. 2009, kat. A
+  > „V řízení, jehož předmětem je odpovědnost soudního exekutora za škodu podle ustanovení § 32 odst. 1 zákona č. 120/2001 Sb. (ve znění pozdějších předpisů), se písemnosti soudnímu exekutorovi jako účastníkovi řízení doručovaly v době od 1. 1. 2005 do 30. 6. 2009 způsobem předepsaným v ustanovení § 48b občanského soudního řádu v tehdejším znění"
+
 ### Výklad / smysl ustanovení
 
 **Stěžejní hmotněprávní paragraf** pro vymáhání nároků poškozených osob proti exekutorovi.

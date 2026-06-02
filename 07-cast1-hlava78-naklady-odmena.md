@@ -36,6 +36,13 @@ Klíčový **podzákonný předpis**: **Vyhláška Ministerstva spravedlnosti č
 > (4) Náklady exekuce hradí exekutorovi **povinný**.
 > (5) Náklady exekuce a náklady oprávněného **vymůže exekutor na základě příkazu k úhradě nákladů exekuce**, a to některým ze způsobů určených v exekučním příkazu k provedení exekuce ukládající zaplacení peněžité částky.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
+  > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
+- *NS* [29 Cdo 2102/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_2102_2013.txt) — 29. 10. 2015, kat. A
+  > „Částka odpovídající dani z přidané hodnoty, obsažená v nejvyšším podání, za něž byl vydražiteli udělen příklep prodávané nemovitosti patřící do obchodního majetku povinného, který je plátcem daně z přidané hodnoty, zůstává majetkem povinného až do jejího odvedení na osobní daňový účet povinného vedený u místně příslušného správce daně. Je-li před odvedením této částky prohlášen konkurs na majetek povinného podle zákona č. 328/1991 Sb. (ve znění účinném do 31. 12. 2007), soud (při výkonu rozhodnutí) nebo soudní exekutor (při exekuci) ji vydá (je povinen ji vydat) jako součást majetku náležejícího do konkursní podstaty úpadce správci konkursní podstaty úpadce, aniž by se o tom vydávalo zvláštní rozhodnutí"
+
 ### Výklad / smysl ustanovení
 
 **Tři kategorie nákladů**, tři odlišní platitelé:
@@ -253,6 +260,13 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 > a je-li exekutor **plátcem DPH**, rovněž příslušná DPH.
 > (2) **Exekutor a oprávněný mohou uzavřít písemnou smlouvu o vedení exekuce, v níž mohou sjednat smluvní odměnu za vedení exekuce. Smluvní odměna není nákladem exekuce.** Tím není dotčeno právo exekutora na odměnu, náhradu hotových výdajů, náhradu za doručení písemností a náhradu za ztrátu času.
 > (3) Nejde-li o exekuci k vymožení pohledávky oprávněného podle § 55 odst. 9 [výživné, náhrada újmy z TČ, atd.] nebo nesplňuje-li oprávněný podmínky **osvobození od soudních poplatků** podle § 138 OSŘ, **má exekutor právo požadovat od oprávněného přiměřenou zálohu** na náklady exekuce. Je-li exekuce vedena pro pohledávku, při jejímž vymáhání **již byla jednou exekuce zastavena**, nebo k vymožení nákladů řízení z exekuce, která byla zastavena a náklady řízení nebyly zaplaceny, požádá exekutor oprávněného o přiměřenou zálohu na náklady exekuce.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1114/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument) — 16. 7. 2025, kat. A
+  > „Oprávněný může podat nový exekuční návrh a vést exekuci podle exekučního titulu, na jehož základě byla předchozí exekuce vedená týmž oprávněným proti témuž povinnému zastavena pro bezvýslednost ve smyslu § 55 odst. 7 až 13 e. ř. Úspěšnost nového exekučního návrhu nelze podmiňovat uvedením nových skutečností o majetkových poměrech povinného, oprávněný je toliko povinen na žádost soudního exekutora zaplatit přiměřenou zálohu na náklady exekuce ve smyslu § 90 odst. 3 e. ř"
+- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
+  > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
 
 ### Výklad / smysl ustanovení
 
