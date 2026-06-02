@@ -57,12 +57,28 @@ Stručný, ale **fundamentální paragraf**. Stanoví dvě věci:
 ## § 29 — Podjatost exekutora
 
 > (1) Exekutor je vyloučen z exekučního řízení, jestliže se zřetelem na jeho poměr k věci, k účastníkům exekučního řízení nebo k jejich zástupcům je tu důvod pochybovat o jeho nepodjatosti.
+>
 > (2) Důvodem k vyloučení exekutora nejsou okolnosti, které spočívají v postupu exekutora v exekučním řízení o projednávané věci.
+>
 > (3) Jakmile se exekutor dozví o skutečnosti, pro kterou je vyloučen, oznámí ji neprodleně exekučnímu soudu. V řízení může zatím učinit jen takové úkony, které nesnesou odkladu.
+>
 > (4) Účastníci exekučního řízení mají právo vyjádřit se k osobě exekutora; o tom musí být exekutorem poučeni.
-> (5) Účastník je povinen námitku podjatosti exekutora uplatnit nejpozději do **8 dnů ode dne, kdy mu bylo doručeno vyrozumění o zahájení exekuce**; nevěděl-li v této době o důvodu vyloučení nebo vznikl-li tento důvod později, může námitku uplatnit do 8 dnů poté, co se o něm dozvěděl. Později může námitku podjatosti účastník uplatnit také tehdy, jestliže nebyl exekutorem poučen o svém právu vyjádřit se k osobě exekutora.
-> [...]
-> (11) Jestliže bylo rozhodnuto, že exekutor je vyloučen, v exekuci pokračuje ten exekutor, kterého navrhne oprávněný [...]
+>
+> (5) Účastník je povinen námitku podjatosti exekutora uplatnit nejpozději do 8 dnů ode dne, kdy mu bylo doručeno vyrozumění o zahájení exekuce; nevěděl-li v této době o důvodu vyloučení nebo vznikl-li tento důvod později, může námitku uplatnit do 8 dnů poté, co se o něm dozvěděl. Později může námitku podjatosti účastník uplatnit také tehdy, jestliže nebyl exekutorem poučen o svém právu vyjádřit se k osobě exekutora.
+>
+> (6) Námitka podjatosti musí obsahovat označení exekutora a uvedení okolností, které zakládají důvod pochybnosti o jeho nepodjatosti, popřípadě údaj, kdy se o tomto důvodu účastník uplatňující námitku dozvěděl a jakými důkazy mohou být jeho tvrzení prokázána.
+>
+> (7) K rozhodnutí o námitce podjatosti předloží exekutor bez odkladu věc exekučnímu soudu; v řízení může zatím učinit jen takové úkony, které nesnesou odkladu. To neplatí, byla-li námitka uplatněna v den skončení exekučního řízení či jeho zastavení, nebo tehdy, uplatnil-li účastník v námitce stejné okolnosti, o nichž bylo exekučním soudem již rozhodnuto, nebo je-li námitka zjevně opožděná.
+>
+> (8) O vyloučení exekutora rozhoduje exekuční soud.
+>
+> (9) Rozhodnutí o vyloučení exekutora se doručí oprávněnému, povinnému a exekutorovi.
+>
+> (10) Proti rozhodnutí vydaném v řízení o vyloučení exekutora není přípustný opravný prostředek.
+>
+> (11) Jestliže bylo rozhodnuto, že exekutor je vyloučen, v exekuci pokračuje ten exekutor, kterého navrhne oprávněný a který se zapíše do rejstříku zahájených exekucí tak, že provede změnu údaje podle § 35b odst. 1 písm. b) a c); nově zaregistrovaný exekutor rozhodne příkazem k úhradě nákladů exekuce o dosud vzniklých nákladech exekuce.
+>
+> (12) O tom, zda je vyloučen koncipient, kandidát nebo jiný zaměstnanec exekutora, jakož i znalec nebo tlumočník, rozhoduje exekutor; odstavce 1 až 4, 6 a 9 se použijí přiměřeně. Proti jeho usnesení není přípustný opravný prostředek.
 
 ### Výklad / smysl ustanovení
 
@@ -154,14 +170,24 @@ Paragraf 29 přepisuje obecné pravidlo § 14 OSŘ (vyloučení soudce) do prost
 ## § 31 — Mlčenlivost
 
 > (1) Exekutor je povinen zachovávat mlčenlivost o všech skutečnostech, o nichž se dozvěděl při provádění exekuční nebo další činnosti.
+>
 > (2) Povinnosti mlčenlivosti může exekutora zprostit orgán Komory, a to pouze z důvodů zvláštního zřetele hodných, v nezbytné míře a pro jednotlivý případ.
-> (3) Exekutor je povinen zachovávat mlčenlivost o skutečnostech, které se mohou dotýkat oprávněných zájmů účastníků exekučního řízení. Účastník řízení, jehož oprávněného zájmu se skutečnost dotýká, může exekutora povinnosti mlčenlivosti o takové skutečnosti zprostit. [...]
-> (5) Povinností mlčenlivosti není exekutor vázán **v rozsahu nezbytném pro řízení před soudem**. Dále není povinností mlčenlivosti vázán v rozsahu nezbytném pro řízení před jiným orgánem, je-li předmětem řízení spor mezi ním a oprávněným nebo povinným nebo jejich právními nástupci, a **pro výkon státního dohledu**.
-> (6) Povinnosti mlčenlivosti se exekutor nemůže dovolat **v kárném řízení** podle tohoto zákona.
-> (7) Povinností mlčenlivosti není dotčena zákonem uložená povinnost překazit spáchání trestného činu. Porušením povinnosti mlčenlivosti není plnění povinností vůči příslušnému orgánu podle **AML zákona** [...]
-> (8) Povinnost mlčenlivosti podle odstavce 1 trvá i po **zániku výkonu úřadu** exekutora.
-> (9) Povinnost mlčenlivosti [...] se obdobně vztahuje i na **zaměstnance** exekutora, na činnost exekutora v orgánech Komory, [...] a její zaměstnance, jakož i na všechny osoby, které se účastní kárného řízení [...]
-> (10) Porušení povinnosti mlčenlivosti [...] zakládá **kárnou odpovědnost** exekutora a jeho povinnost **nahradit újmu**.
+>
+> (3) Exekutor je povinen zachovávat mlčenlivost o skutečnostech, které se mohou dotýkat oprávněných zájmů účastníků exekučního řízení. Účastník řízení, jehož oprávněného zájmu se skutečnost dotýká, může exekutora povinnosti mlčenlivosti o takové skutečnosti zprostit. Vyslovil-li účastník exekučního řízení písemný souhlas se sdělením údajů, na něž se vztahuje povinnost mlčenlivosti, podle zvláštního právního předpisu30), exekutor tyto údaje na výzvu příslušnému orgánu sdělí.
+>
+> (4) Exekutor nemá povinnost mlčenlivosti ve vztahu ke svému zaměstnanci, kterého pověřuje provedením jednotlivých úkonů podle zákona, pokud je tato osoba povinna sama povinnost mlčenlivosti zachovávat.
+>
+> (5) Povinností mlčenlivosti není exekutor vázán v rozsahu nezbytném pro řízení před soudem. Dále není povinností mlčenlivosti vázán v rozsahu nezbytném pro řízení před jiným orgánem, je-li předmětem řízení spor mezi ním a oprávněným nebo povinným nebo jejich právními nástupci, a pro výkon státního dohledu.
+>
+> (6) Povinnosti mlčenlivosti se exekutor nemůže dovolat v kárném řízení podle tohoto zákona.
+>
+> (7) Povinností mlčenlivosti není dotčena zákonem uložená povinnost překazit spáchání trestného činu.4) Porušením povinnosti mlčenlivosti není plnění povinností vůči příslušnému orgánu podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu a zákona o provádění mezinárodních sankcí. Porušením povinnosti mlčenlivosti není poskytnutí informací správci daně při plnění povinností stanovených daňovým řádem exekutorovi jako povinné osobě podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.
+>
+> (8) Povinnost mlčenlivosti podle odstavce 1 trvá i po zániku výkonu úřadu exekutora.
+>
+> (9) Povinnost mlčenlivosti v rozsahu stanoveném v odstavcích 1 až 8 se obdobně vztahuje i na zaměstnance exekutora, na činnost exekutora v orgánech Komory, rovněž na členy orgánů Komory a její zaměstnance, jakož i na všechny osoby, které se účastní kárného řízení podle tohoto zákona. U těchto osob trvá i po skončení jejich pracovního poměru u exekutora nebo u Komory, popřípadě po skončení jejich funkce v orgánu Komory.
+>
+> (10) Porušení povinnosti mlčenlivosti podle předchozích odstavců zakládá kárnou odpovědnost exekutora a jeho povinnost nahradit újmu, která porušením této povinnosti vznikla.
 
 ### Výklad / smysl ustanovení
 
@@ -264,16 +290,25 @@ Sekce „**Součinnost třetích osob**" je **nejdůležitější instrumentáln
 
 ### § 33 — Generální klauzule součinnosti
 
-> (1) Soudy, orgány státní správy a samosprávy, obce a jejich orgány, notáři a právnické a fyzické osoby, rozhodují-li o právech a povinnostech, jsou povinni sdělit exekutorovi na jeho **písemnou žádost** údaje o majetku povinného, které jim jsou známy z jejich úřední činnosti.
-> (2) Policie České republiky poskytne exekutorovi na jeho žádost ochranu a součinnost [...]
-> (3) Orgány státní správy, orgány samosprávy a právnické osoby, které z úřední moci [...] vedou evidenci osob nebo jejich majetku [...] jsou povinny oznámit exekutorovi na jeho písemnou žádost údaje potřebné k vedení exekuce; tuto povinnost má zejména **orgán pověřený vedením katastru nemovitostí, orgán správy daní, orgán, který vede registr motorových vozidel, [...] orgán správy sociálního zabezpečení, zdravotní pojišťovny, komoditní burzy, organizátor regulovaného trhu, centrální depozitář, jiné osoby oprávněné k vedení evidence investičních nástrojů a Notářská komora ČR ve vztahu k Seznamu listin o manželském majetkovém režimu**. Pracovník správce daně, orgánu sociálního zabezpečení a zdravotní pojišťovny **se nemůže** v odpovědi na písemnou žádost exekutora **dovolat povinnosti mlčenlivosti** podle zvláštního právního předpisu. V exekučním řízení má exekutor pro účely získání dálkového přístupu k počítačovým souborům, v nichž jsou vedeny údaje katastru nemovitostí, **postavení organizační složky státu**.
-> (4) **Banky, pobočky zahraničních bank, spořitelní a úvěrní družstva, instituce elektronických peněz [...], pojišťovny, investiční společnosti a investiční fondy, obchodníci s cennými papíry, poskytovatelé služeb souvisejících s kryptoaktivy, penzijní společnosti** [...] jsou povinni sdělit exekutorovi na jeho písemnou žádost údaje o **číslech účtů povinného nebo jeho jiných jedinečných identifikátorech, jakož i o jejich stavu a změnách a údaje o majetku, věcech, listinách, kryptoaktivech, prostředcích přístupů ke kryptoaktivům či zaknihovaných cenných papírech povinného** jimi spravovaných či u nich pro povinného či povinným uschovaných.
-> (5) **Plátce mzdy** nebo plátce jiného příjmu je povinen sdělit exekutorovi [...] údaje o mzdě nebo jiném příjmu [...] srážkách [...] údaje týkající se pracovněprávního vztahu [...]
-> (6) **Provozovatel poštovních služeb** je povinen oznámit exekutorovi [...] totožnost osob, které si pronajímají poštovní přihrádky [...] údaje o počtu tam došlých zásilek a jejich odesilatelích [...]
-> (7) **Poskytovatelé služeb elektronických komunikací** jsou povinni oznámit exekutorovi [...] telefonní, dálnopisné a telefaxové stanice užívané povinným [...]
-> (8) **Pojišťovny** jsou povinny oznámit exekutorovi [...] výplaty pojistných plnění ve prospěch povinného.
-> (9) **Vydavatelé tisku** jsou povinni oznámit exekutorovi [...] jméno osoby, která podala k uveřejnění inzerát, který se týká nakládání s majetkem povinného a byl uveřejněn pod značkou.
-> (10) **Dopravci a zasilatelé** jsou povinni oznámit exekutorovi [...] odesílatele a adresáta přepravovaného nákladu [...]
+> (1) Soudy, orgány státní správy a samosprávy, obce a jejich orgány, notáři a právnické a fyzické osoby, rozhodují-li o právech a povinnostech, jsou povinni sdělit exekutorovi na jeho písemnou žádost údaje o majetku povinného, které jim jsou známy z jejich úřední činnosti.
+>
+> (2) Policie České republiky poskytne exekutorovi na jeho žádost ochranu a součinnost podle zákona o Policii České republiky.
+>
+> (3) Orgány státní správy, orgány samosprávy a právnické osoby, které z úřední moci jsou zvláštním právním předpisem pověřeny k vedení evidence osob nebo jejich majetku nebo vzhledem k předmětu své činnosti vedou evidenci osob a jejich majetku, jsou povinny oznámit exekutorovi na jeho písemnou žádost údaje potřebné k vedení exekuce; tuto povinnost má zejména orgán pověřený vedením katastru nemovitostí, orgán správy daní, orgán, který vede registr motorových vozidel, orgán pověřený vedením informačního systému veřejné správy, ve kterém jsou vedeny údaje o zbraních, střelivu a provozovaných střelnicích, orgán správy sociálního zabezpečení, zdravotní pojišťovny, komoditní burzy, organizátor regulovaného trhu27), centrální depozitář, jiné osoby oprávněné k vedení evidence investičních nástrojů a Notářská komora České republiky ve vztahu k Seznamu listin o manželském majetkovém režimu. Pracovník správce daně, orgánu sociálního zabezpečení a zdravotní pojišťovny se nemůže v odpovědi na písemnou žádost exekutora dovolat povinnosti mlčenlivosti podle zvláštního právního předpisu. V exekučním řízení má exekutor pro účely získání dálkového přístupu k počítačovým souborům, v nichž jsou vedeny údaje katastru nemovitostí, postavení organizační složky státu7f).
+>
+> (4) Banky, pobočky zahraničních bank, spořitelní a úvěrní družstva, instituce elektronických peněz, pobočky zahraničních institucí elektronických peněz, vydavatelé elektronických peněz malého rozsahu, platební instituce, pobočky zahraničních platebních institucí a poskytovatelé platebních služeb malého rozsahu (dále jen „peněžní ústav“), pojišťovny, investiční společnosti a investiční fondy, obchodníci s cennými papíry, poskytovatelé služeb souvisejících s kryptoaktivy, penzijní společnosti, penzijní fondy podle zvláštního právního předpisu, Garanční systém finančního trhu (dále jen „finanční instituce“), notáři, advokáti, fyzické a právnické osoby jsou povinni sdělit exekutorovi na jeho písemnou žádost údaje o číslech účtů povinného nebo jeho jiných jedinečných identifikátorech7a), jakož i o jejich stavu a změnách a údaje o majetku, věcech, listinách, kryptoaktivech, prostředcích přístupů ke kryptoaktivům či zaknihovaných cenných papírech povinného jimi spravovaných či u nich pro povinného či povinným uschovaných.
+>
+> (5) Plátce mzdy nebo plátce jiného příjmu je povinen sdělit exekutorovi na jeho písemnou žádost údaje o mzdě nebo jiném příjmu jím vypláceném, srážkách prováděných ze mzdy nebo z jiného příjmu nebo údaje týkající se pracovněprávního vztahu povinného, nároku nebo práva povinného, na jejichž základě povinný pobírá mzdu nebo jiný příjem.
+>
+> (6) Provozovatel poštovních služeb je povinen oznámit exekutorovi na jeho písemnou žádost údaje potřebné k vedení exekuce, zejména totožnost osob, které si pronajímají poštovní přihrádky nebo jiná doručovací místa, údaje o počtu tam došlých poštovních zásilek a jejich odesilatelích, úhrn peněžních prostředků docházejících povinnému prostřednictvím provozovatele poštovních služeb nebo do jeho poštovní přihrádky a totožnost příjemce poštovních zásilek uložených u poskytovatele poštovních služeb.
+>
+> (7) Poskytovatelé služeb elektronických komunikací jsou povinni oznámit exekutorovi na jeho písemnou žádost telefonní, dálnopisné a telefaxové stanice užívané povinným a údaje o nich, pokud nejsou uvedeny ve veřejně dostupných seznamech.
+>
+> (8) Pojišťovny jsou povinny oznámit exekutorovi na jeho písemnou žádost výplaty pojistných plnění ve prospěch povinného.
+>
+> (9) Vydavatelé tisku jsou povinni oznámit exekutorovi na jeho písemnou žádost jméno osoby, která podala k uveřejnění inzerát, který se týká nakládání s majetkem povinného a byl uveřejněn pod značkou.
+>
+> (10) Dopravci a zasilatelé jsou povinni oznámit exekutorovi na jeho písemnou žádost odesílatele a adresáta přepravovaného nákladu, stejně jako údaje o přepravovaném zboží, je-li to třeba k vedení exekuce.
 
 ### Výklad / smysl ustanovení
 
@@ -361,12 +396,18 @@ Důležitý zdroj pro lustraci movitého majetku — vozidlo je typicky vysokoho
 
 ## § 34 — Procesní pravidla součinnosti
 
-> (1) Exekutor může pro účely exekučního řízení požádat o součinnost třetí osoby podle § 33 a ty jsou povinny ji **bezplatně poskytnout**. Osoby uvedené v § 33 odst. 4 až 10 a komoditní burzy, organizátor regulovaného trhu, centrální depozitář a jiné osoby oprávněné k vedení evidence investičních nástrojů mají při poskytování údajů **právo na úhradu účelně vynaložených hotových výdajů**.
-> (2) Třetí osoby jsou povinny poskytnout exekutorovi součinnost podle § 33 **bez zbytečného odkladu**, a je-li to technicky možné, **v elektronické podobě**; nesplní-li tuto povinnost, jsou povinny oprávněnému a exekutorovi **nahradit újmu** [...]
-> (3) Exekutor požádá **peněžní ústav nebo finanční instituci o součinnost elektronicky datovým souborem** a peněžní ústav nebo finanční instituce součinnost elektronicky datovým souborem poskytne. Peněžní ústav nebo finanční instituce nejsou povinny poskytnout exekutorovi součinnost, není-li žádost o součinnost podána elektronicky datovým souborem nebo nemá-li stanovené obsahové náležitosti anebo nemá-li datový soubor stanovený formát nebo strukturu. **Ministerstvo stanoví vyhláškou formát a strukturu** tohoto datového souboru a obsahové náležitosti žádosti o součinnost.
-> (4) Exekutor požádá **plátce mzdy na formuláři** [...]. **Kvalifikovaný plátce mzdy** [s obratem nad 100 mil. Kč nebo 50+ zaměstnanci] **údaje [...] elektronicky datovým souborem poskytne**. [...]
-> (5) Za nesplnění povinností uvedených v § 33 může exekutor uložit třetím osobám **pořádkovou pokutu**.
-> (6) Ustanovení § 33 až 33e a odstavců 1 až 3 se **použijí i pro zjišťování údajů o majetku manžela povinného**, postižen účet manžela povinného u peněžního ústavu.
+> (1) Exekutor může pro účely exekučního řízení požádat o součinnost třetí osoby podle § 33 a ty jsou povinny ji bezplatně poskytnout. Osoby uvedené v § 33 odst. 4 až 10 a komoditní burzy, organizátor regulovaného trhu27), centrální depozitář a jiné osoby oprávněné k vedení evidence investičních nástrojů mají při poskytování údajů právo na úhradu účelně vynaložených hotových výdajů.
+>
+> (2) Třetí osoby jsou povinny poskytnout exekutorovi součinnost podle § 33 bez zbytečného odkladu, a je-li to technicky možné, v elektronické podobě; nesplní-li tuto povinnost, jsou povinny oprávněnému a exekutorovi nahradit újmu, která tím oprávněnému nebo exekutorovi vznikne. Způsobil-li újmu nesplněním této povinnosti státní orgán, právnická či fyzická osoba při výkonu veřejné správy, která jim byla svěřena, nebo územní samosprávný celek při výkonu státní správy, který na něj byl přenesen zákonem nebo při výkonu samosprávy, postupuje se podle zvláštního právního předpisu.8)
+>
+> (3) Exekutor požádá peněžní ústav nebo finanční instituci o součinnost elektronicky datovým souborem a peněžní ústav nebo finanční instituce součinnost elektronicky datovým souborem poskytne. Peněžní ústav nebo finanční instituce nejsou povinny poskytnout exekutorovi součinnost, není-li žádost o součinnost podána elektronicky datovým souborem nebo nemá-li stanovené obsahové náležitosti anebo nemá-li datový soubor stanovený formát nebo strukturu. Ministerstvo stanoví vyhláškou formát a strukturu tohoto datového souboru a obsahové náležitosti žádosti o součinnost. Věty první a druhá se nepoužijí, týká-li se součinnost údajů o mzdě nebo jiném příjmu vypláceném peněžním ústavem nebo srážek prováděných z tohoto příjmu.
+>
+> (4) Exekutor požádá plátce mzdy na formuláři, jehož náležitosti a vzor stanoví prováděcí právní předpis, o sdělení údajů podle § 33 odst. 5, případně o sdělení jiných údajů potřebných k vedení exekuce, jejichž potřebnost v žádosti odůvodní. Plátce mzdy poskytne exekutorovi požadované údaje na formuláři, jehož náležitosti a vzor stanoví prováděcí právní předpis a který je součástí formuláře podle věty první. Doručuje-li exekutor žádost prostřednictvím veřejné datové sítě do datové schránky, požádá plátce mzdy o údaje podle § 33 odst. 5 i elektronicky datovým souborem. Plátce mzdy, jehož celkový roční úhrn čistého obratu podle zákona o účetnictví za poslední účetní období předcházející žádosti o součinnost dosáhl alespoň částku 100000000 Kč, nebo zaměstnává-li nejméně 50 zaměstnanců v pracovním poměru (dále jen „kvalifikovaný plátce mzdy“), údaje podle § 33 odst. 5 elektronicky datovým souborem poskytne. Kvalifikovaný plátce mzdy není povinen poskytnout exekutorovi údaje podle § 33 odst. 5, není-li žádost o tyto údaje podána elektronicky datovým souborem na formuláři podle věty první nebo nemá-li datový soubor stanovený formát nebo strukturu. Ministerstvo stanoví vyhláškou formát a strukturu datového souboru.
+>
+> (5) Za nesplnění povinností uvedených v § 33 může exekutor uložit třetím osobám pořádkovou pokutu.9)
+>
+> (6) Ustanovení § 33 až 33e a odstavců 1 až 3 se použijí i pro zjišťování údajů o majetku manžela povinného v souvislosti s prováděním exekuce, jíž je k vydobytí dluhu, který patří do společného jmění manželů nebo pro který lze vést exekuci na majetek ve společném jmění manželů, postižen účet manžela povinného u peněžního ústavu.
+>
 > (7) Nebrání-li to účelu exekuce, použije exekutor v exekučním řízení údaje, které mu byly poskytnuty v rámci součinnosti v jiných exekučních řízeních vedených proti témuž povinnému.
 
 ### Výklad / smysl ustanovení

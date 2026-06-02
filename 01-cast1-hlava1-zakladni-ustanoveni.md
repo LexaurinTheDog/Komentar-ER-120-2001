@@ -208,12 +208,35 @@ Exekutorský úřad není „one-man-show" — v praxi typický menší úřad z
 
 ## § 7 — Státní dohled
 
-> (1) Státní dohled nad exekuční činností, nad činností exekutora podle § 74 odst. 1 písm. c) a § 76a, nad nakládáním se zvláštním účtem podle § 46 odst. 5 a § 75 odst. 2 a nad nakládáním s prostředky na zvláštním účtu vykonává Ministerstvo spravedlnosti (dále jen „ministerstvo"). Ministerstvo provádí státní dohled z vlastního podnětu nebo na základě písemných podnětů právnických nebo fyzických osob.
+> (1) Státní dohled nad exekuční činností, nad činností exekutora podle § 74 odst. 1 písm. c) a § 76a, nad nakládáním se zvláštním účtem podle § 46 odst. 5 a § 75 odst. 2 a nad nakládáním s prostředky na zvláštním účtu vykonává Ministerstvo spravedlnosti (dále jen „ministerstvo“). Ministerstvo provádí státní dohled z vlastního podnětu nebo na základě písemných podnětů právnických nebo fyzických osob.
+>
 > (2) Ministerstvo při výkonu státního dohledu prověřuje zákonnost postupu soudního exekutora, dodržování kancelářského řádu a plynulost a délku exekučního řízení.
-> (3) Ministerstvo je při výkonu státního dohledu oprávněno [a)–f) — pravidelné kontroly úřadů, nahlížet do spisů a evidenčních pomůcek, požadovat písemné vyjádření i ústní vysvětlení, vstupovat do prostor úřadu, nahlížet do listin a IS k zvláštnímu účtu].
-> (4) Exekutor je povinen ministerstvu při výkonu státního dohledu poskytnout součinnost [a)–c)].
-> (5) Komora vykonává dohled nad činností exekutora, nad řízením činnosti exekutorského úřadu a nad dodržováním povinností stanovených exekutorovi zákonem o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu (AML zákon). Pro výkon dohledu platí obdobně odstavce 3 a 4.
-> (6) Státní dohled nad exekuční činností a nad činností podle § 74 odst. 1 písm. c) vykonává rovněž **předseda okresního soudu**, do jehož obvodu je exekutor jmenován; jde-li o státní dohled v jednotlivé věci, též předseda soudu příslušného podle § 45 (dále jen „**exekuční soud**"). [...]
+>
+> (3) Ministerstvo je při výkonu státního dohledu oprávněno
+>
+> - a) provádět pravidelné kontroly exekutorských úřadů,
+>
+> - b) nahlížet do spisů, listin a evidenčních pomůcek exekutora, pořizovat si z nich výpisy a kopie,
+>
+> - c) požadovat ve lhůtě, kterou stanoví, písemné vyjádření exekutora k věci, která je předmětem státního dohledu,
+>
+> - d) požadovat ústní vysvětlení exekutora, popřípadě jeho zaměstnance k věci, která je předmětem státního dohledu, pokud písemné vyjádření podle písmene c) není nutné nebo je nedostatečné,
+>
+> - e) vstupovat do prostor exekutorského úřadu,
+>
+> - f) nahlížet do listin a informačních systémů exekutora, které obsahují údaje o nakládání se zvláštním účtem podle § 46 odst. 5 nebo podle § 75 odst. 2 anebo o nakládání s prostředky na zvláštním účtu, pořizovat si z nich výpisy a kopie.
+>
+> (4) Exekutor je povinen ministerstvu při výkonu státního dohledu poskytnout požadovanou součinnost tím, že
+>
+> - a) zašle ve lhůtě stanovené ministerstvem kopie požadovaných listin, kopii spisu nebo údaje podle odstavce 3 písm. f), případně na dobu nezbytně nutnou spis,
+>
+> - b) poskytne písemné vyjádření podle odstavce 3 písm. c),
+>
+> - c) na předvolání se dostaví k podání ústního vysvětlení podle odstavce 3 písm. d).
+>
+> (5) Komora vykonává dohled nad činností exekutora, nad řízením činnosti exekutorského úřadu a nad dodržováním povinností stanovených exekutorovi zákonem o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu. Pro výkon dohledu platí obdobně odstavce 3 a 4.
+>
+> (6) Státní dohled nad exekuční činností a nad činností podle § 74 odst. 1 písm. c) vykonává rovněž předseda okresního soudu, do jehož obvodu je exekutor jmenován; jde-li o státní dohled v jednotlivé věci, též předseda soudu příslušného podle § 45 (dále jen „exekuční soud“). Pro výkon státního dohledu předsedou okresního soudu se použijí obdobně odstavce 2 až 4. Předseda okresního soudu provádí státní dohled i na základě písemných podnětů právnických nebo fyzických osob. Předseda okresního soudu může pověřit výkonem státního dohledu místopředsedu soudu. Jednotlivými úkony při výkonu státního dohledu může předseda okresního soudu pověřit vyššího soudního úředníka.
 
 ### Výklad / smysl ustanovení
 
@@ -415,10 +438,14 @@ Ad hoc informační povinnost Komory vůči MS — pro ty případy, kdy MS chce
 ## § 8d — Nucená správa Komory
 
 > (1) Poruší-li Komora opakovaně závažným způsobem povinnost stanovenou jí zákonem, může ministr rozhodnout o nucené správě Komory. Proti rozhodnutí o nucené správě nelze podat rozklad. Prvním úkonem v řízení o zavedení nucené správy může být vydání rozhodnutí o nucené správě Komory. Ministr může rozhodnutí o nucené správě Komory změnit.
+>
 > (2) Dnem, kdy rozhodnutí o nucené správě Komory nabude právní moci, se v rozsahu stanoveném v tomto rozhodnutí pozastavuje výkon funkce orgánů Komory, vyjma podání žaloby k soudu proti tomuto rozhodnutí. Rozhodování o věcech náležejících do působnosti orgánů Komory tímto okamžikem přechází v rozsahu, v němž byl výkon jejich funkce pozastaven, na ministerstvo. Ministerstvo v těchto věcech jedná jménem Komory navenek v rozsahu stanoveném v rozhodnutí o nucené správě Komory.
-> (3) Pokud nebyl výkon funkce orgánů Komory pozastaven nebo v rozsahu, v němž nebyl pozastaven, mohou tyto orgány ve věcech náležejících do jejich působnosti rozhodovat pouze se souhlasem ministerstva, jinak je takové rozhodnutí neplatné. [...]
+>
+> (3) Pokud nebyl výkon funkce orgánů Komory pozastaven nebo v rozsahu, v němž nebyl pozastaven, mohou tyto orgány ve věcech náležejících do jejich působnosti rozhodovat pouze se souhlasem ministerstva, jinak je takové rozhodnutí neplatné. Ve věcech, v nichž ministerstvo nejedná jménem Komory navenek, může Komora právně jednat jen se souhlasem ministerstva, jinak jsou taková právní jednání neplatná. Věta první a druhá se nevztahují na podání žaloby k soudu proti rozhodnutí o zavedení nucené správy Komory.
+>
 > (4) Náklady spojené s výkonem nucené správy hradí ministerstvo.
-> (5) Nucená správa končí doručením rozhodnutí ministra o jejím ukončení, nejpozději uplynutím **3 let** od jejího zavedení. [...]
+>
+> (5) Nucená správa končí doručením rozhodnutí ministra o jejím ukončení, nejpozději uplynutím 3 let od jejího zavedení. Na nejbližším jednání sněmu podá ministerstvo zprávu o výkonu nucené správy a o stavu hospodaření a majetku Komory.
 
 ### Výklad / smysl ustanovení
 

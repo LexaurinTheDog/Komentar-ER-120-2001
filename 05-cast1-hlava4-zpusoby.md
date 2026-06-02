@@ -30,13 +30,19 @@ Kapitola se opírá o **podrobnou úpravu v OSŘ** (Část šestá, § 251—338
 
 ## § 58 — Obecná pravidla volby způsobu
 
-> (1) Exekuci lze provést **jen způsoby uvedenými v tomto zákoně**. Zajistit majetek k provedení exekuce lze **nejvýše v rozsahu bezpečně postačujícím** k uhrazení vymáhané pohledávky, jejího příslušenství [...], pravděpodobných nákladů oprávněného a pravděpodobných nákladů exekuce.
-> (2) Nepostačuje-li jeden ze způsobů [...], lze exekuci v jednom exekučním řízení provést více způsoby [...]. Nebrání-li to účelu exekuce, **provede se exekuce ukládající zaplacení peněžité částky postupně**
-> a) **přikázáním pohledávky z účtu** u peněžního ústavu, a nepostačuje-li to, pak přikázáním pohledávky z účtu manžela povinného u peněžního ústavu,
-> b) **přikázáním jiné peněžité pohledávky** s výjimkou penzijního připojištění/DPS, **postižením jiných majetkových práv, srážkami ze mzdy a jiných příjmů, správou nemovité věci nebo pozastavením řidičského oprávnění**, nepostačuje-li způsob podle písmena a),
-> c) **prodejem movitých věcí, prodejem nemovitých věcí, které povinný NEPOUŽÍVÁ k bydlení sebe a své rodiny, postižením závodu nebo přikázáním pohledávky z penzijního připojištění nebo doplňkového penzijního spoření**, nepostačuje-li způsob provedení exekuce podle písmen a) a b), a
-> d) **prodejem nemovitých věcí, které povinný používá k bydlení sebe a své rodiny**, nepostačuje-li způsob provedení exekuce podle písmen a) až c).
-> (3) Způsob provedení exekuce určí exekutor. **Na návrh povinného nebo s jeho souhlasem lze exekuci provést i v jiném pořadí**, než stanoví odstavec 2 písm. a) až d).
+> (1) Exekuci lze provést jen způsoby uvedenými v tomto zákoně. Zajistit majetek k provedení exekuce lze nejvýše v rozsahu bezpečně postačujícím k uhrazení vymáhané pohledávky, jejího příslušenství včetně příslušenství, které se pravděpodobně stane splatným po dobu trvání exekuce, pravděpodobných nákladů oprávněného a pravděpodobných nákladů exekuce.
+>
+> (2) Nepostačuje-li jeden ze způsobů provedení exekuce k uspokojení oprávněného, lze exekuci v jednom exekučním řízení provést více způsoby, popřípadě i všemi zákonem stanovenými způsoby. K provedení exekuce více nebo všemi zákonem stanovenými způsoby lze přistoupit současně nebo postupně. Nebrání-li to účelu exekuce, provede se exekuce ukládající zaplacení peněžité částky postupně
+>
+> - a) přikázáním pohledávky z účtu u peněžního ústavu, a nepostačuje-li to, pak přikázáním pohledávky z účtu manžela povinného u peněžního ústavu,
+>
+> - b) přikázáním jiné peněžité pohledávky s výjimkou pohledávky z penzijního připojištění nebo doplňkového penzijního spoření, postižením jiných majetkových práv, srážkami ze mzdy a jiných příjmů, správou nemovité věci nebo pozastavením řidičského oprávnění, nepostačuje-li způsob provedení exekuce podle písmena a),
+>
+> - c) prodejem movitých věcí, prodejem nemovitých věcí, které povinný nepoužívá k bydlení sebe a své rodiny, postižením závodu nebo přikázáním pohledávky z penzijního připojištění nebo doplňkového penzijního spoření, nepostačuje-li způsob provedení exekuce podle písmen a) a b), a
+>
+> - d) prodejem nemovitých věcí, které povinný používá k bydlení sebe a své rodiny, nepostačuje-li způsob provedení exekuce podle písmen a) až c).
+>
+> (3) Způsob provedení exekuce určí exekutor. Na návrh povinného nebo s jeho souhlasem lze exekuci provést i v jiném pořadí, než stanoví odstavec 2 písm. a) až d).
 
 ### Výklad / smysl ustanovení
 
@@ -143,7 +149,7 @@ Kapitola se opírá o **podrobnou úpravu v OSŘ** (Část šestá, § 251—338
 
 ## § 59a — Finanční zajištění (Financial Collateral)
 
-> Ustanovení této hlavy upravující způsob provádění exekučního řízení **nemají vliv na výkon práv a splnění povinností vyplývajících z ujednání o finančním zajištění** za podmínek stanovených zákonem upravujícím finanční zajištění nebo srovnatelných podmínek zahraničního právního předpisu, **jestliže finanční zajištění bylo sjednáno a vzniklo před podáním exekučního návrhu**. [...]
+> Ustanovení této hlavy upravující způsob provádění exekučního řízení nemají vliv na výkon práv a splnění povinností vyplývajících z ujednání o finančním zajištění za podmínek stanovených zákonem upravujícím finanční zajištění24) nebo srovnatelných podmínek zahraničního právního předpisu, jestliže finanční zajištění bylo sjednáno a vzniklo před podáním exekučního návrhu. To platí i v případě, že finanční zajištění bylo sjednáno nebo vzniklo v den podání exekučního návrhu, avšak až poté, co tato skutečnost nastala, ledaže příjemce finančního kolaterálu o takové skutečnosti věděl nebo vědět měl a mohl.
 
 ### Výklad
 
@@ -207,8 +213,9 @@ Stručná klauzule: náklady exekuce v rámci **správy nemovité věci** (§ 32
 
 #### Klíčový § 66 odst. 1—2 — **„jeden exekutor — jeden soupis movitých"**
 
-> (1) Zjistí-li exekutor, že **ke dni vydání exekučního příkazu k provedení exekuce prodejem movitých věcí** **není proti povinnému, který je fyzickou osobou, vedena exekuce prodejem movitých věcí**, sepíše všechny movité věci, kterých se může týkat exekuce prodejem movitých věcí podle občanského soudního řádu. Zjistí-li exekutor z rejstříku zahájených exekucí, že proti povinnému **JIŽ JE vedena exekuce prodejem movitých věcí**, může povinnému a exekutorovi, který vede tuto exekuci, doručit exekuční příkaz k provedení exekuce prodejem movitých věcí; **§ 325 odst. 1 OSŘ se nepoužije**. [...]
-> (2) **Do skončení exekuce podle odstavce 1 věty první jiný exekutor exekuci prodejem movitých věcí vůči povinnému, který je fyzickou osobou, NEPROVÁDÍ, movité věci nesepisuje ani nezajišťuje.** Po skončení exekuce podle odstavce 1 věty první může být ohledně movitých věcí [...] prováděna proti témuž povinnému, který je fyzickou osobou, **zároveň pouze jedna exekuce prodejem movitých věcí** podle odstavce 1 věty druhé až čtvrté.
+> *(1) Zjistí-li exekutor, že ke dni vydání exekučního příkazu k provedení exekuce prodejem movitých věcí není proti povinnému, který je fyzickou osobou, vedena exekuce prodejem movitých věcí, sepíše všechny movité věci, kterých se může týkat exekuce prodejem movitých věcí podle občanského soudního řádu. Zjistí-li exekutor z rejstříku zahájených exekucí, že proti povinnému již je vedena exekuce prodejem movitých věcí, může povinnému a exekutorovi, který vede tuto exekuci, doručit exekuční příkaz k provedení exekuce prodejem movitých věcí; § 325 odst. 1 občanského soudního řádu se nepoužije. Věta druhá se použije přiměřeně, zjistí-li exekutor, že movité věci povinného již byly sepsány jinak. Na doručení exekučního příkazu k provedení exekuce prodejem movitých věcí v řízení podle věty druhé povinnému se hledí jako na sepsání věci, která byla sepsána v exekučním řízení podle věty první.*
+>
+> *(2) Do skončení exekuce podle odstavce 1 věty první jiný exekutor exekuci prodejem movitých věcí vůči povinnému, který je fyzickou osobou a proti němuž je vedena exekuce podle odstavce 1 věty první, neprovádí, movité věci nesepisuje ani nezajišťuje. Po skončení exekuce podle odstavce 1 věty první může být ohledně movitých věcí, kterých se může týkat exekuce prodejem movitých věcí podle občanského soudního řádu, prováděna proti témuž povinnému, který je fyzickou osobou, zároveň pouze jedna exekuce prodejem movitých věcí podle odstavce 1 věty druhé až čtvrté.*
 
 **Anti-multiplikace mobilních prohlídek** — novela 2021/286 Sb. Logika:
 - pokud již běží exekuce prodejem movitých u **exekutora A**, **exekutor B nesmí** provést druhý soupis u téhož povinného,
@@ -230,13 +237,27 @@ Exekutor může **i bez návrhu** zajistit sepsané movité věci (= odvézt do 
 
 ### § 67 — Ochrana zranitelných povinných před mobilní prohlídkou
 
-> (1) Exekuce prodejem movitých věcí se může týkat **pouze věcí, které jsou ve vlastnictví povinného** nebo ve společném jmění povinného a jeho manžela a **jejichž počet nebo hodnota neodpovídá obvyklým majetkovým poměrům**,
-> a) **má-li povinný nárok na výplatu starobního důchodu ve výši nepřesahující měsíční minimální mzdu** pro stanovenou týdenní pracovní dobu 40 hodin [...],
-> b) je-li povinný **invalidní ve druhém nebo třetím stupni** podle zákona o důchodovém pojištění, nebo
-> c) je-li **v exekuci vymáhána pohledávka vzniklá před dosažením 18 let věku povinného**.
+> (1) Exekuce prodejem movitých věcí se může týkat pouze věcí, které jsou ve vlastnictví povinného nebo ve společném jmění povinného a jeho manžela a jejichž počet nebo hodnota neodpovídá obvyklým majetkovým poměrům,
+>
+> - a) má-li povinný nárok na výplatu starobního důchodu ve výši nepřesahující měsíční minimální mzdu pro stanovenou týdenní pracovní dobu 40 hodin podle právních předpisů upravujících minimální mzdu,
+>
+> - b) je-li povinný invalidní ve druhém nebo třetím stupni podle zákona o důchodovém pojištění, nebo
+>
+> - c) je-li v exekuci vymáhána pohledávka vzniklá před dosažením 18 let věku povinného.
+>
 > (2) Odstavec 1 se nepoužije
-> a) v exekuci, v níž je vymáhána pohledávka na **výživném** [...] **pohledávka náhrady újmy způsobené ublížením na zdraví, pohledávka náhrady újmy způsobené trestným činem** nebo přestupkem nebo pohledávka náhrady újmy způsobené úmyslným protiprávním jednáním,
-> b) jde-li o **soupis podle § 327a OSŘ**, [...]
+>
+> - a) v exekuci, v níž je vymáhána pohledávka na výživném včetně pohledávky výživného, která byla postoupena, úplata za postupovanou pohledávku výživného, pohledávka za náhradní výživné podle jiného zákona, pohledávka náhrady újmy způsobené ublížením na zdraví, pohledávka náhrady újmy způsobené trestným činem nebo přestupkem nebo pohledávka náhrady újmy způsobené úmyslným protiprávním jednáním,
+>
+> - b) jde-li o soupis podle § 327a občanského soudního řádu,
+>
+> - c) jde-li o věci, které má oprávněný u sebe nebo k nimž má oprávněný nebo další věřitel povinného zástavní právo, zajišťovací převod práva nebo zadržovací právo,
+>
+> - d) věci ušlé z dlužníkova majetku neúčinným právním jednáním a věci, které dlužník zatajil nebo zcizil v rozporu s § 44a odst. 1,
+>
+> - e) jde-li o prodej věcí podle § 342 občanského soudního řádu, nebo
+>
+> - f) jde-li o věci, jejichž prodej navrhne povinný.
 
 ### Výklad
 
@@ -280,10 +301,19 @@ Tři skupiny **zranitelných povinných** (odst. 1), u kterých **NELZE** prové
 
 ### § 68 — Vyškrtnutí věci ze soupisu
 
-> (1) Ten, jemuž svědčí právo k věci, které nepřipouští exekuci (dále jen „**navrhovatel**") může podat **návrh na vyškrtnutí věci ze soupisu**. Návrh lze podat **do 30 dnů ode dne, kdy se navrhovatel dozvěděl o soupisu věci**, a to u exekutora, který věc pojal do soupisu. Opožděný návrh exekutor odmítne.
-> (2) O návrhu na vyškrtnutí věci ze soupisu rozhodne exekutor **do 15 dnů** od jeho doručení. Nebyl-li návrh odmítnut pro opožděnost, rozhodne exekutor o návrhu **na základě znaleckých posudků, zpráv a vyjádření orgánů, fyzických a právnických osob, notářských nebo exekutorských zápisů a jiných listin, předložených navrhovatelem** společně s návrhem.
-> (3) Exekutor **vždy vyškrtne věc ze soupisu, souhlasí-li s tím oprávněný**. Exekutor vždy vyškrtne věc ze soupisu, pokud během exekuce vyjde najevo, že **povinnému nepatří či patřit nemůže**.
-> (4) **Žalobu na vyloučení věci podle § 267 OSŘ** může navrhovatel podat u exekučního soudu **do 30 dnů od doručení rozhodnutí exekutora, kterým nevyhověl** [...] jeho včas podanému návrhu. O tom musí být navrhovatel exekutorem poučen. **Od podání návrhu** [...] **a po dobu řízení o žalobě nelze sepsané movité věci prodat**.
+> (1) Ten, jemuž svědčí právo k věci, které nepřipouští exekuci (dále jen „navrhovatel“) může podat návrh na vyškrtnutí věci ze soupisu. Návrh lze podat do 30 dnů ode dne, kdy se navrhovatel dozvěděl o soupisu věci, a to u exekutora, který věc pojal do soupisu. Opožděný návrh exekutor odmítne.
+>
+> (2) O návrhu na vyškrtnutí věci ze soupisu rozhodne exekutor do 15 dnů od jeho doručení. Nebyl-li návrh odmítnut pro opožděnost, rozhodne exekutor o návrhu na základě znaleckých posudků, zpráv a vyjádření orgánů, fyzických a právnických osob, notářských nebo exekutorských zápisů a jiných listin, předložených navrhovatelem společně s návrhem.
+>
+> (3) Exekutor vždy vyškrtne věc ze soupisu, souhlasí-li s tím oprávněný. Exekutor vždy vyškrtne věc ze soupisu, pokud během exekuce vyjde najevo, že povinnému nepatří či patřit nemůže.
+>
+> (4) Žalobu na vyloučení věci podle § 267 občanského soudního řádu může navrhovatel podat u exekučního soudu do 30 dnů od doručení rozhodnutí exekutora, kterým nevyhověl, byť jen zčásti, jeho včas podanému návrhu na vyškrtnutí věci ze soupisu. O tom musí být navrhovatel exekutorem poučen. Od podání návrhu na vyškrtnutí věcí ze soupisu do uplynutí lhůty podle věty první a po dobu řízení o žalobě nelze sepsané movité věci prodat.
+>
+> (5) Shledá-li exekutor pravděpodobným tvrzení osoby přítomné při soupisu, že věc je ve vlastnictví třetí osoby, bezodkladně tuto třetí osobu písemně uvědomí o provedení soupisu a poučí ji o právu podat návrh podle odstavce 1.
+>
+> (6) K žádosti osoby, která tvrdí, že věc pojatá do soupisu je v jejím vlastnictví, exekutor sdělí údaje potřebné k uplatnění práva podle odstavce 1.
+>
+> (7) Byla-li věc zajištěná podle § 66 odst. 4 vyškrtnuta ze soupisu nebo vyloučena z výkonu rozhodnutí, exekutor věc bez zbytečného odkladu předá navrhovateli na místě, kde ji zajistil, nedohodne-li se s navrhovatelem jinak. Neposkytne-li navrhovatel exekutorovi potřebnou součinnost při předávání věci, věc se navrhovateli předá v sídle exekutora.
 
 ### Výklad
 
@@ -330,9 +360,14 @@ Tři skupiny **zranitelných povinných** (odst. 1), u kterých **NELZE** prové
 ## § 70 — Postižení závodu
 
 > (1) K exekuci postižením závodu nebo části závodu povinného může exekutor přistoupit, jen jestliže bude doloženo, že závod nebo část závodu je majetkem povinného.
-> (2) Exekutor **ustanoví v exekučním příkazu správce závodu**.
-> [...]
-> (5) Při oceňování závodu nebo jeho části se použije **obvyklá cena** podle zvláštního právního předpisu.
+>
+> (2) Exekutor ustanoví v exekučním příkazu správce závodu.
+>
+> (3) Ustanovení § 338u odst. 3 občanského soudního řádu se použije obdobně pro exekutory a zaměstnance exekutorských úřadů.
+>
+> (4) Náklady exekuce se uspokojují jako pohledávky nákladů řízení ve skupině uvedené v § 338ze odst. 1 písm. a) občanského soudního řádu. Na náklady exekuce při správě závodu se § 65a použije obdobně.
+>
+> (5) Při oceňování závodu nebo jeho části se použije obvyklá cena podle zvláštního právního předpisu.18)
 
 ### Výklad
 
@@ -351,12 +386,23 @@ Tři skupiny **zranitelných povinných** (odst. 1), u kterých **NELZE** prové
 
 ## § 71a — Pozastavení řidičského oprávnění
 
-> (1) Exekuční příkaz k pozastavení řidičského oprávnění povinného **může exekutor vydat pouze tehdy, jestliže je v exekuci vymáhán nedoplatek výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, [...] nebo vymáhána pohledávka za náhradní výživné podle jiného zákona**.
-> (2) Exekuční příkaz se doručí orgánu, který vede registr řidičů, oprávněnému a povinnému. **Orgánu, který vede registr řidičů, nesmí být exekuční příkaz doručen dříve než povinnému.**
-> (3) **Dnem doručení exekučního příkazu povinnému se povinnému pozastavuje řidičské oprávnění**. Po dobu pozastavení řidičského oprávnění **držitel řidičského oprávnění nesmí řídit motorová vozidla**. Exekuční příkaz se povinnému doručuje do vlastních rukou.
+> (1) Exekuční příkaz k pozastavení řidičského oprávnění povinného může exekutor vydat pouze tehdy, jestliže je v exekuci vymáhán nedoplatek výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, včetně pohledávek výživného, které byly postoupeny, vymáhána úplata za postupovanou pohledávku výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, nebo vymáhána pohledávka za náhradní výživné podle jiného zákona.
+>
+> (2) Exekuční příkaz se doručí orgánu, který vede registr řidičů podle zvláštního právního předpisu32), oprávněnému a povinnému. Orgánu, který vede registr řidičů, nesmí být exekuční příkaz doručen dříve než povinnému.
+>
+> (3) Dnem doručení exekučního příkazu povinnému se povinnému pozastavuje řidičské oprávnění udělené podle zvláštního právního předpisu32). Po dobu pozastavení řidičského oprávnění držitel řidičského oprávnění nesmí řídit motorová vozidla. Exekuční příkaz se povinnému doručuje do vlastních rukou.
+>
 > (4) Exekutor zruší exekuční příkaz pozastavením řidičského oprávnění,
-> a) prokáže-li povinný, že **k uspokojování základních životních potřeb svých a osob, ke kterým má vyživovací povinnost, nezbytně potřebuje své řidičské oprávnění**,
-> b) zaplatí-li povinný nedoplatek výživného [...]
+>
+> - a) prokáže-li povinný, že k uspokojování základních životních potřeb svých a osob, ke kterým má vyživovací povinnost, nezbytně potřebuje své řidičské oprávnění,
+>
+> - b) zaplatí-li povinný nedoplatek výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, včetně pohledávek výživného, které byly postoupeny,
+>
+> - c) zaplatí-li povinný úplatu za postupovanou pohledávku výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, nebo
+>
+> - d) zaplatí-li povinný pohledávku za náhradní výživné podle jiného zákona.
+>
+> Zrušení exekučního příkazu exekutor oznámí orgánu, který vede registr řidičů podle zvláštního právního předpisu32).
 
 ### Výklad
 

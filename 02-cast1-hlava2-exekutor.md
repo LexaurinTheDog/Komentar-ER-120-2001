@@ -60,11 +60,33 @@ Pokud má uchazeč 2 roky in-house právníka + 1 rok advokátního koncipienta,
 
 ### § 10 — Výběrové řízení
 
-> (1) Komora vyhlásí výběrové řízení nejpozději do 1 měsíce od uvolnění exekutorského úřadu [...]
-> (3) Výběrové řízení [...] je ukončeno
-> a) vydáním rozhodnutí prezidia Komory o tom, který uchazeč se ve výběrovém řízení umístil na prvním místě [...]
-> (4) Návrh na jmenování exekutora podává na základě výběrového řízení ministrovi Komora do 1 měsíce od ukončení výběrového řízení [...]
-> (6) Ministr může vyhlásit výběrové řízení a na jeho základě jmenovat exekutora **i bez návrhu Komory** [za splnění podmínek a—c]
+> (1) Komora vyhlásí výběrové řízení nejpozději do 1 měsíce od uvolnění exekutorského úřadu nebo, jde-li o zřízení nového exekutorského úřadu, do 1 měsíce poté, kdy ministerstvo Komoře zřízení exekutorského úřadu oznámí. Komora může vyhlásit výběrové řízení i tehdy, není-li exekutorský úřad obsazen z jiného důvodu.
+>
+> (2) Komora vyhlásí opakované výběrové řízení do 6 měsíců od uvolnění exekutorského úřadu nebo do 6 měsíců poté, co je jí oznámeno zřízení exekutorského úřadu, případně od vyhlášení výběrového řízení podle odstavce 1 věty druhé, nejdříve však poté, co bylo způsobem podle odstavce 3 písm. b) ukončeno výběrové řízení podle odstavce 1.
+>
+> (3) Výběrové řízení podle odstavců 1 a 2 je ukončeno
+>
+> - a) vydáním rozhodnutí prezidia Komory o tom, který uchazeč se ve výběrovém řízení umístil na prvním místě nebo kteří uchazeči uspěli tak, že splňují předpoklady pro své jmenování,
+>
+> - b) vydáním rozhodnutí prezidia Komory o tom, že ve výběrovém řízení neuspěl žádný uchazeč z důvodu, že nesplnil předpoklady pro své jmenování,
+>
+> - c) marným uplynutím lhůty k doručení přihlášky do výběrového řízení nebo
+>
+> - d) vyřazením přihlášek všech přihlášených účastníků z výběrového řízení.
+>
+> (4) Návrh na jmenování exekutora podává na základě výběrového řízení ministrovi Komora do 1 měsíce od ukončení výběrového řízení podle odstavce 3 písm. a). Ministr jmenuje exekutora do exekutorského úřadu na návrh Komory do 1 měsíce od doručení návrhu na jmenování exekutora, a to do obvodu okresního soudu. Rozhodnutí podle odstavce 3 písm. a) nebo b) nebo informaci o skutečnostech podle odstavce 3 písm. c) nebo d) zašle Komora ministerstvu do 1 měsíce od ukončení výběrového řízení.
+>
+> (5) Nepodá-li Komora návrh na jmenování exekutora nebo nezašle-li Komora rozhodnutí podle odstavce 3 písm. a) nebo b) nebo informaci o skutečnostech podle odstavce 3 písm. c) nebo d) ve lhůtách podle odstavce 4, může ministerstvo vyzvat Komoru ke splnění povinnosti podle odstavce 4 a určit jí přiměřenou dodatečnou lhůtu.
+>
+> (6) Ministr může vyhlásit výběrové řízení a na jeho základě jmenovat exekutora i bez návrhu Komory,
+>
+> - a) nevyhlásí-li Komora výběrové řízení nebo opakované výběrové řízení ve stanovené lhůtě,
+>
+> - b) nepodá-li Komora ministrovi návrh na jmenování exekutora v dodatečné lhůtě určené ve výzvě ministerstva, ačkoliv ve výběrovém řízení bylo rozhodnuto podle odstavce 3 písm. a), nebo
+>
+> - c) nezašle-li Komora ministerstvu v dodatečné lhůtě určené ve výzvě ministerstva rozhodnutí podle odstavce 3 písm. a) nebo b) nebo informaci o skutečnostech podle odstavce 3 písm. c) nebo d).
+>
+> (7) Do výběrového řízení se může v lhůtě určené tím, kdo výběrové řízení vyhlásil, přihlásit každý, kdo splňuje podmínky podle § 9.
 
 #### Výklad
 
@@ -103,10 +125,14 @@ ministr může **sám vyhlásit výběrové řízení a sám jmenovat**, bez ná
 ### § 11 — Pojištění odpovědnosti
 
 > (1) Exekutor může vykonávat svou činnost pouze, jestliže
-> a) složil slib do rukou ministra,
-> b) uzavřel smlouvu o pojištění odpovědnosti za újmu [...]
-> (2) Exekutor je povinen [...] prokázat se [pojistnou smlouvou] Komoře do 30 dnů po svém jmenování. [...]
-> (3) Pojištění [...] musí trvat po celou dobu výkonu exekutorského úřadu.
+>
+> - a) složil slib do rukou ministra,
+>
+> - b) uzavřel smlouvu o pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s výkonem exekuční činnosti.
+>
+> (2) Exekutor je povinen uzavřít smlouvu o pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s výkonem exekuční činnosti, a prokázat se stejnopisem nebo ověřenou kopií této smlouvy Komoře do 30 dnů po svém jmenování exekutorem. Jestliže exekutor zaměstnává zaměstnance, je povinen uzavřít smlouvu o pojištění své odpovědnosti i za újmu způsobenou jeho zaměstnanci v souvislosti s činností podle tohoto zákona.
+>
+> (3) Pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s výkonem exekuční činnosti, musí trvat po celou dobu výkonu exekutorského úřadu.
 
 #### Výklad
 
@@ -138,8 +164,9 @@ Dvě **kumulativní podmínky** pro skutečné zahájení činnosti (jmenování
 
 ### § 12 — Slib
 
-> (1) Uchazeč vybraný ke jmenování do exekutorského úřadu skládá do rukou ministra před svým jmenováním tento slib: „Slibuji na svoje svědomí a občanskou čest, že budu zachovávat Ústavu České republiky, ústavní a jiné zákony a právní předpisy a budu je uplatňovat jako soudní exekutor podle svého nejlepšího vědomí a svědomí, při výkonu exekuční činnosti budu postupovat nezávisle a spravedlivě a budu zachovávat povinnost mlčenlivosti o všech skutečnostech, o kterých se dozvím v souvislosti s vykonáváním exekuční nebo další činnosti exekutora."
-> (2) Odmítne-li uchazeč složit slib nebo složí-li slib s výhradou, nemůže být jmenován exekutorem [...]
+> (1) Uchazeč vybraný ke jmenování do exekutorského úřadu skládá do rukou ministra před svým jmenováním tento slib: „Slibuji na svoje svědomí a občanskou čest, že budu zachovávat Ústavu České republiky, ústavní a jiné zákony a právní předpisy a budu je uplatňovat jako soudní exekutor podle svého nejlepšího vědomí a svědomí, při výkonu exekuční činnosti budu postupovat nezávisle a spravedlivě a budu zachovávat povinnost mlčenlivosti o všech skutečnostech, o kterých se dozvím v souvislosti s vykonáváním exekuční nebo další činnosti exekutora.“
+>
+> (2) Odmítne-li uchazeč složit slib nebo složí-li slib s výhradou, nemůže být jmenován exekutorem a ministr jmenuje do exekutorského úřadu uchazeče, který se ve výběrovém řízení umístil na dalším místě pořadí za uchazečem, který odmítl složit slib nebo složil slib s výhradou.
 
 #### Výklad
 
@@ -203,19 +230,52 @@ Tři klíčové prvky:
 ### § 15 — Zánik výkonu úřadu
 
 > (1) Výkon exekutorského úřadu zaniká
-> a) smrtí exekutora,
-> b) prohlášením exekutora za mrtvého,
-> c) odvoláním exekutora,
-> d) pozbytím státního občanství České republiky,
-> e) jestliže byla svéprávnost exekutora omezena,
-> f) dnem právní moci rozhodnutí, kterým bylo uloženo kárné opatření odvolání z exekutorského úřadu,
-> g) dnem právní moci rozhodnutí soudu, kterým byl exekutorovi uložen trest zákazu činnosti soudního exekutora nebo kterým byl exekutor odsouzen k nepodmíněnému trestu odnětí svobody,
-> h) uplynutím 6 kalendářních měsíců následujících po měsíci, v němž byla ministerstvu doručena žádost exekutora o ukončení výkonu exekutorského úřadu [...]
+>
+> - a) smrtí exekutora,
+>
+> - b) prohlášením exekutora za mrtvého,
+>
+> - c) odvoláním exekutora,
+>
+> - d) pozbytím státního občanství České republiky,
+>
+> - e) jestliže byla svéprávnost exekutora omezena,
+>
+> - f) dnem právní moci rozhodnutí, kterým bylo uloženo kárné opatření odvolání z exekutorského úřadu,
+>
+> - g) dnem právní moci rozhodnutí soudu, kterým byl exekutorovi uložen trest zákazu činnosti soudního exekutora nebo kterým byl exekutor odsouzen k nepodmíněnému trestu odnětí svobody,
+>
+> - h) uplynutím 6 kalendářních měsíců následujících po měsíci, v němž byla ministerstvu doručena žádost exekutora o ukončení výkonu exekutorského úřadu; žádost o ukončení výkonu exekutorského úřadu zašle exekutor bez zbytečného odkladu na vědomí Komoře.
+>
 > (2) Ministr exekutora odvolá,
-> a) jestliže byl exekutor pravomocně odsouzen pro úmyslný trestný čin nebo pro trestný čin spáchaný v souvislosti s exekuční činností,
-> b) jestliže exekutor nedoloží [...] pojistnou smlouvu [...] do 30 dnů [...] nebo zanikne-li jeho pojištění a [...] do 30 dnů neobnoví,
-> c) jestliže si exekutor do 3 měsíců po složení slibu bez vážných důvodů neotevře v sídle [...] kancelář [...],
-> d) jestliže soud na návrh ministerstva rozhodl, že exekutor vzhledem ke svému zdravotnímu stavu nemůže řádně nejméně po dobu 1 roku vykonávat exekuční činnost.
+>
+> - a) jestliže byl exekutor pravomocně odsouzen pro úmyslný trestný čin nebo pro trestný čin spáchaný v souvislosti s exekuční činností,
+>
+> - b) jestliže exekutor nedoloží Komoře stejnopis nebo ověřenou kopii smlouvy o pojištění své odpovědnosti za újmu do 30 dnů po svém jmenování exekutorem nebo zanikne-li jeho pojištění odpovědnosti za újmu a exekutor jej do 30 dnů neobnoví,
+>
+> - c) jestliže si exekutor do 3 měsíců po složení slibu bez vážných důvodů neotevře v sídle exekutorského úřadu, do kterého byl jmenován, kancelář a nebude připraven vykonávat exekuční činnost,
+>
+> - d) jestliže soud na návrh ministerstva rozhodl, že exekutor vzhledem ke svému zdravotnímu stavu nemůže řádně nejméně po dobu 1 roku vykonávat exekuční činnost.
+>
+> (3) Výkon exekutorského úřadu se pozastavuje dnem doručení rozhodnutí o jeho odvolání.
+>
+> (4) Dozví-li se Komora o důvodu pro odvolání podle odstavce 2, je povinna jej ministerstvu neprodleně oznámit.
+>
+> (5) Exekutor jmenovaný do exekutorského úřadu, jehož výkon zanikl, převezme spisy tohoto exekutorského úřadu a provádí dále exekuční i další činnost. Účastníky exekučního řízení o tom informuje nejpozději při prvním úkonu exekutora v řízení a oprávněného poučí, že může navrhnout změnu exekutora nebo požádat o změnu exekutora. Exekutor, jemuž zanikl výkon exekutorského úřadu, případně jeho zástupce, zajistí bez zbytečného odkladu předání spisů, plnění vymožených v exekuci, zajištěných věcí, exekutorských úschov a registrů, případně souvisejících dat, technických zařízení nebo nosičů dat nově jmenovanému exekutorovi a předání razítek, průkazů a pečetidel podle § 103 odst. 1; vlastnické právo exekutora, kterému zanikl výkon exekutorského úřadu, k technickým zařízením či nosičům dat tím není dotčeno. Exekutor jmenovaný do exekutorského úřadu, jehož výkon zanikl, není právním nástupcem exekutora, jemuž zanikl výkon exekutorského úřadu.
+>
+> (6) Podíl exekutora, jemuž zanikl výkon exekutorského úřadu, popřípadě jeho dědiců nebo odkazovníků na odměně nově jmenovaného exekutora nebo exekutora, který převzal řízení podle odstavce 7 nebo 9, se určí dohodou. Nebude-li dohoda doručena Komoře do 2 měsíců od jmenování nového exekutora, rozhodne Komora podle zásad spravedlivého uspořádání.
+>
+> (7) Nebyl-li do exekutorského úřadu, jehož výkon zanikl, jmenován exekutor do 1 roku od uvolnění exekutorského úřadu nebo byl-li exekutorský úřad zrušen a je-li zástupce exekutora, jemuž zanikl výkon exekutorského úřadu, exekutorem, vyzve Komora bez zbytečného odkladu poté, co uplynul 1 rok od uvolnění exekutorského úřadu nebo bez zbytečného odkladu poté, co byl exekutorský úřad zrušen, zástupce, aby Komoře do 1 měsíce sdělil, že nesouhlasí s převzetím spisů, plnění vymožených v exekuci, zajištěných věcí, exekutorských úschov a registrů, případně souvisejících dat, technických zařízení nebo nosičů dat exekutora, jemuž zanikl výkon exekutorského úřadu. Nesdělí-li zástupce nejpozději do 1 měsíce od doručení výzvy Komory, že nesouhlasí s převzetím, platí, že převzal věci podle věty první. Odstavec 5 věty první a druhá se použijí přiměřeně.
+>
+> (8) Komora vyrozumí okresní soud, v jehož obvodu je sídlo exekutorského úřadu, jehož výkon zanikl nebo který byl zrušen, o tom, že
+>
+> - a) zástupce vyslovil nesouhlas podle odstavce 7, a to do 1 měsíce od vyslovení nesouhlasu,
+>
+> - b) zástupce je kandidátem a do exekutorského úřadu, jehož výkon zanikl, nebyl jmenován exekutor do 1 roku od uvolnění exekutorského úřadu nebo že exekutorský úřad byl zrušen, a to do 2 měsíců od uplynutí 1 roku od uvolnění exekutorského úřadu nebo do 2 měsíců od zrušení exekutorského úřadu,
+>
+> - c) nebylo možno postupovat podle odstavce 7, a to do 2 měsíců od uplynutí 1 roku od uvolnění exekutorského úřadu nebo do 2 měsíců od zrušení exekutorského úřadu.
+>
+> (9) Předseda okresního soudu rozvrhne exekuční řízení vedená v úřadu, jehož výkon zanikl nebo který byl zrušen, rovnoměrně mezi soudní exekutory, kteří byli jmenováni do jeho obvodu; není-li do obvodu soudu jmenován žádný exekutor, předseda okresního soudu řízení rozvrhne rovnoměrně mezi soudní exekutory, kteří byli jmenováni do obvodu soudu, který má společnou hranici s tímto obvodem a který patří do obvodu stejného krajského soudu. Na žádost poskytne zástupce předsedovi okresního soudu údaje potřebné pro rozvržení exekučních řízení. O předání exekučních řízení sepíše předseda okresního soudu, zástupce a exekutor, který řízení převzal, protokol. Odstavec 5 se použije přiměřeně.
 
 #### Výklad
 
@@ -266,8 +326,19 @@ Tři klíčové prvky:
 
 ### § 16 — Ustanovení zástupce
 
-> (1) Po jmenování exekutora do exekutorského úřadu mu Komora ustanoví **na jeho návrh zástupce** pro případ nemoci, dovolené, pozastavení nebo zániku výkonu exekutorského úřadu, a nebo z jiných vážných důvodů, pro které nemůže vykonávat svůj úřad **po dobu delší než 1 měsíc**. [...]
-> (2) Zástupce je ustanoven z řad **kandidátů exekutora**, nejsou-li, z řad exekutorů jmenovaných v obvodu příslušného okresního soudu nebo jejich kandidátů, a nejsou-li, z řad exekutorů jmenovaných v obvodu příslušného krajského soudu nebo jejich kandidátů. [...]
+> (1) Po jmenování exekutora do exekutorského úřadu mu Komora ustanoví na jeho návrh zástupce pro případ nemoci, dovolené, pozastavení nebo zániku výkonu exekutorského úřadu a nebo z jiných vážných důvodů, pro které nemůže vykonávat svůj úřad po dobu delší než 1 měsíc. Nenavrhne-li exekutor svého zástupce do 1 měsíce od svého jmenování, ustanoví mu zástupce Komora. Zastupovaný exekutor a zástupce si dohodnou podíl zástupce na odměně zastupovaného exekutora. Nebude-li dohoda doručena Komoře do dvou měsíců od ustanovení zástupce, rozhodne Komora podle zásad spravedlivého uspořádání.
+>
+> (2) Zástupce je ustanoven z řad kandidátů exekutora, nejsou-li, z řad exekutorů jmenovaných v obvodu příslušného okresního soudu nebo jejich kandidátů, a nejsou-li, z řad exekutorů jmenovaných v obvodu příslušného krajského soudu nebo jejich kandidátů. Jsou-li pro to důvody zvláštního zřetele hodné, může být zástupce ustanoven z řad exekutorů jmenovaných mimo obvod příslušného krajského soudu nebo jejich kandidátů. Za zástupce exekutora je možné ustanovit kandidáta, jen jestliže splňuje podmínky podle § 11 odst. 1 písm. b).
+>
+> (3) Exekutor je povinen bez zbytečného odkladu oznámit vznik či zánik skutečností podle odstavce 1 písemně Komoře a svému ustanovenému zástupci. Oznámení o vzniku skutečností podle odstavce 1 obsahuje zejména důvod a den, od kterého exekutor nemůže vykonávat svůj úřad. Oznámení o zániku skutečností podle odstavce 1 obsahuje důvod a den, od kterého exekutor může vykonávat svůj úřad. Zastupování začíná dnem, kdy se zástupce dozví o skutečnosti podle odstavce 1, a končí dnem, kdy zástupce obdrží písemné oznámení o zániku skutečnosti podle odstavce 1. Došlo-li k zániku výkonu exekutorského úřadu, končí zastupování dnem, kdy zástupce obdrží písemné oznámení o tom, že nově jmenovaný exekutor otevřel v sídle exekutorského úřadu, do kterého byl jmenován, kancelář, a je připraven vykonávat exekuční činnost. Bez zbytečného odkladu po dni ukončení zastupování se provede vyrovnání mezi zástupcem a zastupovaným exekutorem, popřípadě jeho dědici nebo odkazovníky, a to ke dni ukončení zastupování.
+>
+> (4) Zastupovaný exekutor, případně zástupce zastupovaného exekutora zajistí bez zbytečného odkladu svému zástupci, případně novému zástupci přístup ke spisům, plněním vymoženým v exekuci, zajištěným věcem, exekutorským úschovám a registrům, případně souvisejícím datům, technickým zařízením nebo nosičům dat, a je-li to třeba, i razítkům a pečetidlům. Zástupce exekutora má povinnost nahradit újmu způsobenou porušením povinnosti mlčenlivosti. Za újmu způsobenou zaměstnanci zastupovaného exekutora odpovídá zastupovaný exekutor. Tím nejsou dotčena ustanovení zvláštního právního předpisu.
+>
+> (5) Ustanovení zástupce z řad kandidátů je podmíněno souhlasem exekutora, u něhož je kandidát v pracovním poměru.
+>
+> (6) Ustanovený zástupce může být na svoji žádost nebo na žádost zastupovaného exekutora uvolněn z funkce zástupce pouze z důvodů zvláštního zřetele hodných.
+>
+> (7) Dohody podle odstavce 1 a podle § 15 odst. 6 eviduje Komora.
 
 #### Výklad
 
@@ -333,11 +404,17 @@ Tři klíčové prvky:
 ### § 18 — Nový zástupce
 
 > (1) Komora ustanoví exekutorovi nového zástupce,
-> a) jestliže ustanoveným zástupcem je exekutor a výkon jeho exekutorského úřadu zanikl nebo byl pozastaven,
-> b) jestliže ustanoveným zástupcem je kandidát a Komora ho vyškrtne ze seznamu kandidátů [...] nebo zanikne-li jeho pojištění odpovědnosti za újmu a ani po upozornění Komory ho v určené lhůtě neobnoví, nebo jestliže mu bylo uloženo kárné opatření odvolání ze zastupování,
-> c) jestliže ustanovený zástupce požádá o uvolnění z funkce zástupce,
-> d) jestliže o to požádá zastupovaný exekutor.
+>
+> - a) jestliže ustanoveným zástupcem je exekutor a výkon jeho exekutorského úřadu zanikl nebo byl pozastaven,
+>
+> - b) jestliže ustanoveným zástupcem je kandidát a Komora ho vyškrtne ze seznamu kandidátů a nebo zanikne-li jeho pojištění odpovědnosti za újmu a ani po upozornění Komory ho v určené lhůtě neobnoví a nebo jestliže mu bylo uloženo kárné opatření odvolání ze zastupování,
+>
+> - c) jestliže ustanovený zástupce požádá o uvolnění z funkce zástupce,
+>
+> - d) jestliže o to požádá zastupovaný exekutor.
+>
 > (2) Ustanovení § 16 se přiměřeně použije i na ustanovení nového zástupce.
+>
 > (3) Ustanovením nového zástupce zaniká ustanovení předchozího zástupce.
 
 #### Výklad

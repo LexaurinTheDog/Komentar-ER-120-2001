@@ -34,14 +34,27 @@ Hlava XI je **disciplinárním kodexem exekutorského stavu** — definuje, **co
 
 ### Definice deliktů (odst. 1—5)
 
-> (1) Exekutor, kandidát a koncipient jsou kárně odpovědni za **kárný delikt** nebo **závažný kárný delikt** (dále jen „**kárné provinění**"). [...]
-> (2) **Kárným deliktem** je
-> a) porušení povinností [...] stanovených právním nebo stavovským předpisem anebo usnesením Komory,
-> b) jednání, jímž exekutor narušuje **důstojnost exekutorského povolání** nebo **ohrožuje důvěru** v nezávislý, nestranný, odborný a spravedlivý výkon exekuční činnosti [...],
-> c) jednání, jímž kandidát nebo koncipient narušuje důstojnost exekutorského povolání nebo ohrožuje důvěru v odborný výkon činnosti exekutora.
-> (3) **Závažným kárným deliktem** je závažné [a)—c) — totéž s adjektivem „závažné"]
-> (4) Za kárný delikt exekutora se považuje i [porušení / jednání] **dopustil-li se jich zaměstnanec exekutora**.
-> (5) Za závažný kárný delikt exekutora se považuje i závažné [analogicky pro zaměstnance].
+> *(1) Exekutor, kandidát a koncipient jsou kárně odpovědni za kárný delikt nebo závažný kárný delikt (dále jen „kárné provinění“). Kárnou odpovědností exekutora podle odstavců 4 a 5 není dotčena kárná odpovědnost kandidáta nebo koncipienta a kárnou odpovědností kandidáta nebo koncipienta není dotčena kárná odpovědnost exekutora.*
+>
+> *(2) Kárným deliktem je*
+> *- a) porušení povinností exekutora, kandidáta nebo koncipienta stanovených právním nebo stavovským předpisem anebo usnesením Komory,*
+> *- b) jednání, jímž exekutor narušuje důstojnost exekutorského povolání nebo ohrožuje důvěru v nezávislý, nestranný, odborný a spravedlivý výkon exekuční činnosti, případně odborný výkon další činnosti, nebo*
+> *- c) jednání, jímž kandidát nebo koncipient narušuje důstojnost exekutorského povolání nebo ohrožuje důvěru v odborný výkon činnosti exekutora.*
+>
+> *(3) Závažným kárným deliktem je závažné*
+> *- a) porušení povinností exekutora, kandidáta nebo koncipienta stanovených právním nebo stavovským předpisem anebo usnesením Komory,*
+> *- b) jednání, jímž exekutor narušuje důstojnost exekutorského povolání nebo ohrožuje důvěru v nezávislý, nestranný, odborný a spravedlivý výkon exekuční činnosti, případně odborný výkon další činnosti, nebo*
+> *- c) jednání, jímž kandidát nebo koncipient narušuje důstojnost exekutorského povolání nebo ohrožuje důvěru v odborný výkon činnosti exekutora.*
+>
+> *(4) Za kárný delikt exekutora se považuje i*
+> *- a) porušení povinností stanovených právním nebo stavovským předpisem anebo usnesením Komory, nebo*
+> *- b) jednání, jímž se narušuje důstojnost exekutorského povolání nebo ohrožuje důvěra v nezávislý, nestranný, odborný a spravedlivý výkon exekuční činnosti, případně odborný výkon další činnosti,*
+> *dopustil-li se jich zaměstnanec exekutora.*
+>
+> *(5) Za závažný kárný delikt exekutora se považuje i závažné*
+> *- a) porušení povinností stanovených právním nebo stavovským předpisem anebo usnesením Komory, nebo*
+> *- b) jednání, jímž se narušuje důstojnost exekutorského povolání nebo ohrožuje důvěra v nezávislý, nestranný, odborný a spravedlivý výkon exekuční činnosti, případně odborný výkon další činnosti,*
+> *dopustil-li se jich zaměstnanec exekutora.*
 
 #### Výklad
 
@@ -135,7 +148,7 @@ Důvod: Komora má vlastní zájem na kvalitě dorostu, ne na profitu z pokut za
 
 ### Promlčení (odst. 14—17)
 
-> (14) Odpovědnost [...] **zaniká, nebyl-li do 3 let od jeho spáchání podán návrh na zahájení kárného řízení**.
+> *(14) Odpovědnost exekutora, kandidáta nebo koncipienta za kárné provinění zaniká, nebyl-li do 3 let od jeho spáchání podán návrh na zahájení kárného řízení.*
 
 **Subjektivní lhůta neexistuje** — pouze objektivní **3 roky od spáchání**.
 
@@ -267,10 +280,13 @@ Smysl: anti-duplikace + transparentnost ve sledování kárné agendy.
 
 ## § 121 — Kárné řízení proti exekutorovi
 
-> (1) Nestanoví-li tento zákon jinak, **na kárné řízení proti exekutorovi se použijí obdobně ustanovení zákona o řízení ve věcech soudců, státních zástupců a soudních exekutorů** (= zákon č. 7/2002 Sb.).
+> (1) Nestanoví-li tento zákon jinak, na kárné řízení proti exekutorovi se použijí obdobně ustanovení zákona o řízení ve věcech soudců, státních zástupců a soudních exekutorů.
+>
 > (2) Opatření potřebná k výkonu uloženého kárného opatření provede ministerstvo.
-> (3) Přísedícímu exekutorovi náleží náhrada za ztrátu času [...] a náhrada hotových výdajů [...].
-> (4) Náhrady [...] vyplácí přísedícímu exekutorovi **Komora**.
+>
+> (3) Přísedícímu exekutorovi náleží náhrada za ztrátu času při výkonu funkce člena kárného senátu podle zákona o řízení ve věcech soudců, státních zástupců a soudních exekutorů a náhrada hotových výdajů vynaložených v souvislosti s výkonem této funkce.
+>
+> (4) Náhrady podle odstavce 3 vyplácí přísedícímu exekutorovi Komora.
 
 ### Výklad
 

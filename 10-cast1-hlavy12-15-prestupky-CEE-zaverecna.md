@@ -18,9 +18,11 @@ Klíčovým institutem této závěrečné části je **CEE — Centrální evid
 
 ## § 124
 
-> (1) Pokud občanský soudní řád stanoví, že listina má být **vyvěšena na úřední desce soudu**, platí, že tato povinnost je splněna **vyvěšením na úřední desce exekutora**, nestanoví-li tento zákon výslovně jinak. Povinnost zveřejnit vyhláškou různé údaje stanovená v zákoně je splněna jejich uveřejněním v **Obchodním věstníku**, pokud se zákon neomezuje na zveřejnění údajů na úřední desce soudu.
-> (2) Pokud zákon stanoví, že rozhodnutí nebo listina mají být vyvěšeny na úřední desce soudu nebo na úřední desce exekutora, platí, že **desátým dnem po vyvěšení byly doručeny účastníkům, kteří nejsou exekutorovi známi nebo jejichž pobyt není znám**.
-> (3) **Ohlašovnou** se pro účely tohoto zákona rozumí obecní úřady a v hlavním městě Praze a v územně členěných statutárních městech úřady městských částí nebo městských obvodů [...]
+> (1) Pokud občanský soudní řád stanoví, že listina má být vyvěšena na úřední desce soudu, platí, že tato povinnost je splněna vyvěšením na úřední desce exekutora, nestanoví-li tento zákon výslovně jinak. Povinnost zveřejnit vyhláškou různé údaje stanovená v zákoně je splněna jejich uveřejněním v Obchodním věstníku,23) pokud se zákon neomezuje na zveřejnění údajů na úřední desce soudu.
+>
+> (2) Pokud zákon stanoví, že rozhodnutí nebo listina mají být vyvěšeny na úřední desce soudu nebo na úřední desce exekutora, platí, že desátým dnem po vyvěšení byly doručeny účastníkům, kteří nejsou exekutorovi známi nebo jejichž pobyt není znám.
+>
+> (3) Ohlašovnou se pro účely tohoto zákona rozumí obecní úřady a v hlavním městě Praze a v územně členěných statutárních městech úřady městských částí nebo městských obvodů, pokud tak stanoví statuty těchto měst, které vykonávají státní správu podle zákona o evidenci obyvatel44).
 
 ### Výklad
 
@@ -39,13 +41,24 @@ Klíčovým institutem této závěrečné části je **CEE — Centrální evid
 ## § 124a — Přestupky fyzických osob
 
 > (1) Fyzická osoba se dopustí přestupku tím, že
-> a) v rozporu s § 4 odst. 1 **použije označení „soudní exekutor", „exekutorský úřad"**, [...] přestože neprovádí na základě zákona nucený výkon exekučních titulů,
-> b) v rozporu s § 4 odst. 2 **označuje svoji činnost jako „výkon rozhodnutí", „exekuci" nebo „exekuční činnost"** [...]
-> c) **vykonává exekuční nebo další činnost exekutora** podle tohoto zákona, ačkoli **není osobou, která je podle tohoto nebo jiného právního předpisu oprávněna** tuto činnost vykonávat,
-> d) jako exekutor, kterému zanikl výkon exekutorského úřadu, [...] nezajistí bez zbytečného odkladu předání spisů [...] nebo razítek [...]
-> e) jako exekutor, kterému zanikl výkon exekutorského úřadu, v rozporu s § 15 odst. 9 neposkytne předsedovi soudu údaje potřebné pro rozvržení exekučních řízení.
-> (2) Za přestupek podle odstavce 1 písm. a), b), d) nebo e) lze uložit **pokutu do 200 000 Kč** a za přestupek podle odstavce 1 písm. c) **pokutu do 3 000 000 Kč**.
-> (3) Za přestupek podle odstavce 1 písm. c) lze spolu s pokutou uložit **zákaz činnosti do 1 roku**.
+>
+> - a) v rozporu s § 4 odst. 1 použije označení „soudní exekutor“, „exekutorský úřad“, od nich odvozené tvary slov nebo označení způsobilé vyvolat nebezpečí záměny s uvedenými označeními, přestože neprovádí na základě zákona nucený výkon exekučních titulů,
+>
+> - b) v rozporu s § 4 odst. 2 označuje svoji činnost jako „výkon rozhodnutí“, „exekuci“ nebo „exekuční činnost“ nebo tvary slov od nich odvozenými či jiným označením způsobilým vyvolat nebezpečí záměny, přestože neprovádí nucený výkon exekučních titulů na základě zákona,
+>
+> - c) vykonává exekuční nebo další činnost exekutora podle tohoto zákona, ačkoli není osobou, která je podle tohoto nebo jiného právního předpisu oprávněna tuto činnost vykonávat,
+>
+> - d) jako exekutor, kterému zanikl výkon exekutorského úřadu, v rozporu s § 15 odst. 5 nebo 9 nezajistí bez zbytečného odkladu
+>
+> - 1. předání spisů, plnění vymožených v exekuci, zajištěných věcí, exekutorských úschov a registrů, případně souvisejících dat, technických zařízení nebo nosičů dat nově jmenovanému exekutorovi, nebo
+>
+> - 2. předání razítek, průkazů a pečetidel Komoře,
+>
+> - e) jako exekutor, kterému zanikl výkon exekutorského úřadu, v rozporu s § 15 odst. 9 neposkytne předsedovi soudu údaje potřebné pro rozvržení exekučních řízení.
+>
+> (2) Za přestupek podle odstavce 1 písm. a), b), d) nebo e) lze uložit pokutu do 200 000 Kč a za přestupek podle odstavce 1 písm. c) pokutu do 3 000 000 Kč.
+>
+> (3) Za přestupek podle odstavce 1 písm. c) lze spolu s pokutou uložit zákaz činnosti do 1 roku.
 
 ### Výklad
 
@@ -76,24 +89,42 @@ Klíčovým institutem této závěrečné části je **CEE — Centrální evid
 ## § 124c — Přestupky Komory
 
 > (1) Komora se dopustí přestupku tím, že
-> a) **neprovádí dohled nad činností exekutora** nebo nad řízením činnosti exekutorského úřadu nebo nad dodržováním povinností [...] anebo dohled provádí v rozporu s § 7 odst. 5,
-> b) **nepředloží ministerstvu stavovské předpisy** podle § 8a odst. 1,
-> c) **nevede seznam koncipientů** nebo jej vede v rozporu s § 20 [...]
-> d) **nevyškrtne koncipienta** ze seznamu [...]
-> e) **nevede seznam kandidátů** [...]
-> f) **nevydá exekutorovi průkaz**, razítko nebo pečetidlo,
-> g) **neustanoví exekutorovi zástupce** [...]
-> h) orgán Komory **provede zproštění mlčenlivosti v rozporu** s § 31 odst. 2,
-> i) prezidium **zorganizuje exekutorské zkoušky v rozporu** s § 115 odst. 4 [...]
-> j) **nevede CEE** nebo ji vede v rozporu s § 125,
-> k) poruší rozhodnutí o **nucené správě** Komory,
-> l) poruší povinnosti stanovené v § 8d odst. 3,
-> m) **nenavrhne** na výzvu předsedy kárného soudu 10 exekutorů do seznamu přísedících [...],
-> n) ani ve lhůtě podle § 115b odst. 3 nesplní povinnost stanovenou v § 115b odst. 1.
+>
+> - a) neprovádí dohled nad činností exekutora nebo nad řízením činnosti exekutorského úřadu nebo nad dodržováním povinností stanovených exekutorovi zákonem o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu anebo dohled provádí v rozporu s § 7 odst. 5,
+>
+> - b) nepředloží ministerstvu stavovské předpisy podle § 8a odst. 1,
+>
+> - c) nevede seznam koncipientů nebo jej vede v rozporu s § 20 odst. 1 nebo 2,
+>
+> - d) nevyškrtne koncipienta ze seznamu koncipientů podle § 22 odst. 1 nebo vyškrtnutí ze seznamu koncipientů neoznámí podle § 22 odst. 2,
+>
+> - e) nevede seznam kandidátů nebo jej vede v rozporu s § 24 odst. 1 nebo 4,
+>
+> - f) nevydá exekutorovi průkaz exekutora, razítko nebo pečetidlo,
+>
+> - g) neustanoví exekutorovi zástupce nebo nového zástupce podle § 16 odst. 1 a 2 nebo § 18,
+>
+> - h) orgán Komory provede zproštění mlčenlivosti v rozporu s § 31 odst. 2,
+>
+> - i) prezidium Komory zorganizuje exekutorské zkoušky v rozporu s § 115 odst. 4 nebo nezajistí provedení exekutorské zkoušky v souladu se zkušebním řádem vydaným podle § 115 odst. 5,
+>
+> - j) nevede centrální evidenci exekucí nebo ji vede v rozporu s § 125,
+>
+> - k) poruší rozhodnutí o nucené správě Komory,
+>
+> - l) poruší povinnosti stanovené v § 8d odst. 3,
+>
+> - m) nenavrhne na výzvu předsedy kárného soudu 10 exekutorů do seznamu přísedících kárného soudu podle § 112 odst. 1 písm. e), nebo
+>
+> - n) ani ve lhůtě podle § 115b odst. 3 nesplní povinnost stanovenou v § 115b odst. 1.
+>
 > (2) Za přestupek podle odstavce 1 lze uložit pokutu do
-> a) **10 000 000 Kč**, jde-li o přestupek podle písmene a), i), j), k) nebo l),
-> b) 5 000 000 Kč, jde-li o přestupek podle písmene c), d), e), g), h) nebo m),
-> c) 1 000 000 Kč, jde-li o přestupek podle písmene b), f) nebo n).
+>
+> - a) 10 000 000 Kč, jde-li o přestupek podle písmene a), i), j), k) nebo l),
+>
+> - b) 5 000 000 Kč, jde-li o přestupek podle písmene c), d), e), g), h) nebo m),
+>
+> - c) 1 000 000 Kč, jde-li o přestupek podle písmene b), f) nebo n).
 
 ### Výklad
 

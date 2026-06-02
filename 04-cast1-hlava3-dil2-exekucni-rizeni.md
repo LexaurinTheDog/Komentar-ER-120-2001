@@ -22,11 +22,18 @@ Díl 2 je **vlastním tělem procesního exekučního práva**. Pokrývá celý 
 ## § 35 — Zahájení řízení
 
 > (1) Exekuční řízení se zahajuje na návrh.
+>
 > (2) Exekuční řízení je zahájeno dnem, hodinou a minutou, kdy exekuční návrh došel exekutorovi.
+>
 > (3) Exekutor může začít zjišťovat a zajišťovat majetek povinného nejdříve poté, kdy soud vydal pověření podle § 43a.
+>
 > (4) Podá-li oprávněný více exekučních návrhů v téže věci, vede exekuci ten exekutor, který je v rejstříku zahájených exekucí zapsán jako první.
-> (5) Exekuční řízení nelze přerušit, nestanoví-li tento nebo zvláštní právní předpis jinak. Nelze také prominout zmeškání lhůty a podat návrh na obnovu exekučního řízení.
-> (6) Současně s exekučním návrhem může být podán i návrh na prohlášení vykonatelnosti nebo na uznání. [...]
+>
+> (5) Exekuční řízení nelze přerušit, nestanoví-li tento nebo zvláštní právní předpis10) jinak. Nelze také prominout zmeškání lhůty a podat návrh na obnovu exekučního řízení.
+>
+> (6) Současně s exekučním návrhem může být podán i návrh na prohlášení vykonatelnosti nebo na uznání. Řízení je zahájeno dnem, kdy návrh na prohlášení vykonatelnosti nebo na uznání došel exekutorovi. Nestanoví-li se dále jinak, je k rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání příslušný exekuční soud.
+>
+> Rejstřík zahájených exekucí
 
 ### Výklad / smysl ustanovení
 
@@ -114,16 +121,42 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 ## § 37 — Kdo a kdy může podat exekuční návrh
 
 > (1) Exekuci lze vést jen na návrh oprávněného nebo na návrh toho, kdo prokáže, že na něho přešlo nebo bylo převedeno právo z rozhodnutí podle § 36 odst. 3 a 5.
-> (2) Oprávněný může podat exekuční návrh podle tohoto zákona, **nesplní-li povinný dobrovolně to, co mu ukládá exekuční titul** [...]
-> (3) Oprávněný **nemůže podat exekuční návrh**, je-li exekučním titulem
-> a) **rozhodnutí o péči o nezletilé děti**, není-li v odstavci 4 písm. a) stanoveno jinak,
-> b) **rozhodnutí ve věcech ochrany proti domácímu násilí**,
-> c) rozhodnutí orgánů Evropské unie, nebo
-> d) cizí rozhodnutí nebo cizí rozhodčí nález, není-li v odstavci 4 písm. b) nebo c) stanoveno jinak.
+>
+> (2) Oprávněný může podat exekuční návrh podle tohoto zákona, nesplní-li povinný dobrovolně to, co mu ukládá exekuční titul podle tohoto zákona.
+>
+> (3) Oprávněný nemůže podat exekuční návrh, je-li exekučním titulem
+>
+> - a) rozhodnutí o péči o nezletilé děti, není-li v odstavci 4 písm. a) stanoveno jinak,
+>
+> - b) rozhodnutí ve věcech ochrany proti domácímu násilí,
+>
+> - c) rozhodnutí orgánů Evropské unie, nebo
+>
+> - d) cizí rozhodnutí nebo cizí rozhodčí nález, není-li v odstavci 4 písm. b) nebo c) stanoveno jinak.
+>
 > (4) Oprávněný může podat exekuční návrh, má-li být exekuce vedena podle
-> a) rozhodnutí o **výživném na nezletilé dítě**,
-> b) cizího rozhodnutí, [...] s prohlášením vykonatelnosti nebo přímo vykonatelného podle EU předpisu,
-> c) cizího rozhodnutí nebo cizího rozhodčího nálezu, u nichž bylo rozhodnuto o uznání.
+>
+> - a) rozhodnutí o výživném na nezletilé dítě,
+>
+> - b) cizího rozhodnutí,
+>
+>   - 1. u něhož bylo vydáno prohlášení vykonatelnosti podle přímo použitelného předpisu Evropské unie nebo mezinárodní smlouvy, nebo
+>
+>   - 2. které je podle přímo použitelného předpisu Evropské unie vykonatelné, aniž je požadováno prohlášení vykonatelnosti, nebo
+>
+> - c) cizího rozhodnutí nebo cizího rozhodčího nálezu, u nichž bylo rozhodnuto o uznání.
+>
+> (5) Další řízení zahájené oprávněným proti témuž povinnému u stejného exekutora dříve, než zanikne oprávnění exekutora k vedení předchozí exekuce, se spojuje s předchozí exekucí ke společnému řízení, a to ode dne podání návrhu. V zájmu hospodárnosti řízení může exekutor věc podle věty první vyloučit k samostatnému řízení.
+>
+> (6) Jsou-li exekuční řízení proti témuž povinnému vedena u více exekutorů nebo zahájí-li další oprávněný u téhož exekutora exekuční řízení proti témuž povinnému, exekuční soud tato řízení spojí na návrh povinného ke společnému řízení,
+>
+> - a) je-li oprávněným osoba, jež byla věřitelem povinného v době vzniku vymáhaného dluhu, nebo její právní nástupce, a řízení již nebyla spojena podle odstavce 5,
+>
+> - b) je-li předmětem jednotlivých spojovaných řízení vymožení peněžitého plnění nepřevyšujícího částku podle § 202 odst. 2 občanského soudního řádu a
+>
+> - c) jsou-li proti povinnému vedena alespoň 2 exekuční řízení podle písmene a).
+>
+> (7) V usnesení o spojení exekuční soud určí, který exekutor řízení povede. Exekutorovi, který řízení nepovede, náleží náhrada účelně vynaložených hotových výdajů, o níž soud rozhodne v usnesení o spojení. V zájmu hospodárnosti však exekuční soud řízení nespojí, vyžaduje-li to stav těchto řízení nebo se tato řízení ke spojení zjevně nehodí.
 
 ### Výklad
 
@@ -174,11 +207,17 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 
 ## § 39 — Vady návrhu, odmítnutí, zamítnutí
 
-> (1) Neobsahuje-li exekuční návrh [...] všechny stanovené náležitosti nebo je nesrozumitelný anebo neurčitý, vyzve exekutor oprávněného, aby návrh **opravil nebo doplnil**, určí mu **lhůtu** a poučí ho [...]; exekutor vyzve oprávněného k opravení nebo doplnění návrhu **nejpozději do 15 dnů** ode dne, kdy mu došel [...]
-> (2) Není-li v určené lhůtě návrh řádně opraven nebo doplněn a v řízení nelze pro tento nedostatek pokračovat **nebo není-li přiložen exekuční titul**, exekutor usnesením **exekuční návrh [...] odmítne**.
-> (3) Jestliže nejsou splněny všechny zákonem stanovené předpoklady pro vedení exekuce a exekuční návrh nebude odmítnut, exekutor exekuční návrh usnesením **nejpozději ve lhůtě podle § 43a odst. 1 zamítne**.
-> (4) Jsou-li splněny předpoklady pro zastavení řízení stanovené zákonem, exekutor exekuční řízení usnesením **zastaví**.
+> (1) Neobsahuje-li exekuční návrh nebo návrh na prohlášení vykonatelnosti nebo na uznání všechny stanovené náležitosti nebo je nesrozumitelný anebo neurčitý, vyzve exekutor oprávněného, aby návrh opravil nebo doplnil, určí mu lhůtu a poučí ho o tom, jak je třeba opravu nebo doplnění provést; exekutor vyzve oprávněného k opravení nebo doplnění návrhu nejpozději do 15 dnů ode dne, kdy mu došel exekuční návrh nebo návrh na prohlášení vykonatelnosti nebo na uznání.
+>
+> (2) Není-li v určené lhůtě návrh řádně opraven nebo doplněn a v řízení nelze pro tento nedostatek pokračovat nebo není-li přiložen exekuční titul, exekutor usnesením exekuční návrh, případně i návrh na prohlášení vykonatelnosti nebo na uznání odmítne. O těchto následcích musí být oprávněný poučen.
+>
+> (3) Jestliže nejsou splněny všechny zákonem stanovené předpoklady pro vedení exekuce a exekuční návrh nebude odmítnut, exekutor exekuční návrh usnesením nejpozději ve lhůtě podle § 43a odst. 1 zamítne.
+>
+> (4) Jsou-li splněny předpoklady pro zastavení řízení stanovené zákonem, exekutor exekuční řízení usnesením zastaví.
+>
 > (5) Byl-li současně s exekučním návrhem podán i návrh na prohlášení vykonatelnosti nebo na uznání, exekutor rozhodne o zamítnutí exekučního návrhu nebo o zastavení exekučního řízení pouze na základě pokynu soudu podle § 43a odst. 6.
+>
+> Exekuční titul
 
 ### Výklad
 
@@ -198,15 +237,24 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 ## § 40 — Exekuční titul
 
 > (1) Exekučním titulem je
-> a) **vykonatelné rozhodnutí soudu nebo exekutora**, pokud přiznává právo, zavazuje k povinnosti nebo postihuje majetek,
-> b) vykonatelné rozhodnutí soudu a jiného orgánu činného v **trestním řízení**, pokud přiznává právo nebo postihuje majetek,
-> c) vykonatelný **rozhodčí nález**,
-> d) **notářský zápis se svolením k vykonatelnosti** sepsaný podle zvláštního právního předpisu,
-> e) vykonatelné rozhodnutí a jiný exekuční titul **orgánu veřejné moci**,
-> f) **jiná vykonatelná rozhodnutí a schválené smíry a listiny**, jejichž výkon připouští zákon.
-> (2) Neobsahuje-li exekuční titul určení lhůty ke splnění povinnosti, má se za to, že povinnosti uložené exekučním titulem je třeba splnit **do 3 dnů** a, jde-li o **vyklizení bytu, do 15 dnů od právní moci** rozhodnutí.
-> (3) Má-li podle exekučního titulu uvedeného v odstavci 1 písm. a), b) nebo c) splnit povinnost více povinných a jde-li o dělitelné plnění, platí, že povinnosti [...] jsou zavázáni splnit všichni povinní rovným dílem.
-> (4) Exekuci rozhodnutí soudu o **prodeji zástavy** lze vést tehdy, obsahuje-li označení oprávněné a povinné osoby, zástavy a výši zajištěné pohledávky a jejího příslušenství.
+>
+> - a) vykonatelné rozhodnutí soudu nebo exekutora, pokud přiznává právo, zavazuje k povinnosti nebo postihuje majetek,
+>
+> - b) vykonatelné rozhodnutí soudu a jiného orgánu činného v trestním řízení, pokud přiznává právo nebo postihuje majetek,
+>
+> - c) vykonatelný rozhodčí nález,
+>
+> - d) notářský zápis se svolením k vykonatelnosti sepsaný podle zvláštního právního předpisu13),
+>
+> - e) vykonatelné rozhodnutí a jiný exekuční titul orgánu veřejné moci,
+>
+> - f) jiná vykonatelná rozhodnutí a schválené smíry a listiny,14) jejichž výkon připouští zákon.
+>
+> (2) Neobsahuje-li exekuční titul určení lhůty ke splnění povinnosti, má se za to, že povinnosti uložené exekučním titulem je třeba splnit do 3 dnů a, jde-li o vyklizení bytu, do 15 dnů od právní moci rozhodnutí.
+>
+> (3) Má-li podle exekučního titulu uvedeného v odstavci 1 písm. a), b) nebo c) splnit povinnost více povinných a jde-li o dělitelné plnění, platí, že povinnosti, nestanoví-li exekuční titul jinak, jsou zavázáni splnit všichni povinní rovným dílem.
+>
+> (4) Exekuci rozhodnutí soudu o prodeji zástavy lze vést tehdy, obsahuje-li označení oprávněné a povinné osoby, zástavy a výši zajištěné pohledávky a jejího příslušenství.
 
 ### Výklad
 
@@ -292,11 +340,31 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 
 ## § 43a — Pověření soudem
 
-> (1) Exekutor, kterému došel exekuční návrh, požádá exekuční soud **nejpozději do 15 dnů** ode dne doručení návrhu o pověření a nařízení exekuce (dále jen „pověření"). [...]
-> (3) Soud vydá pověření **do 15 dnů**, jestliže jsou splněny všechny zákonem stanovené předpoklady. [...]
-> (4) Pověření obsahuje [...]
-> (5) **Pověření není soudním rozhodnutím a nedoručuje se účastníkům řízení.**
-> (6) Jestliže nejsou splněny všechny zákonem stanovené předpoklady pro vedení exekuce, **soud udělí exekutorovi pokyn**, aby exekuční návrh částečně nebo úplně **odmítl nebo zamítl nebo aby exekuční řízení zastavil**. Tímto pokynem je exekutor vázán.
+> (1) Exekutor, kterému došel exekuční návrh, požádá exekuční soud nejpozději do 15 dnů ode dne doručení návrhu o pověření a nařízení exekuce (dále jen „pověření“). Neobsahuje-li exekuční návrh, případně návrh na prohlášení vykonatelnosti nebo na uznání všechny náležitosti nebo je nesrozumitelný nebo neurčitý, běží tato lhůta až ode dne doručení opraveného nebo doplněného návrhu, popřípadě exekučního titulu exekutorovi. Doručením žádosti o pověření soudu se do rejstříku zahájených exekucí elektronicky zapíší údaje podle § 35b odst. 1 písm. a), c) a e) až h).
+>
+> (2) V žádosti o pověření musí být označen exekutor, který žádost podle odstavce 1 podal, s uvedením jeho sídla. Žádost musí být datována a musí dále zejména obsahovat jméno, popřípadě jména, příjmení a bydliště účastníků nebo obchodní firmu nebo název, sídlo a identifikační číslo a přesné označení exekučního titulu. Součástí žádosti o pověření jsou i údaje podle § 35b odst. 1 písm. a), c) a e) až h). Společně se žádostí exekutor soudu zašle exekuční návrh, případně návrh na prohlášení vykonatelnosti nebo na uznání a všechny listiny, které k návrhu připojil. Žádost včetně všech listin, které se soudu zasílají společně s ní, musí být podána na elektronickém formuláři prostřednictvím veřejné datové sítě a elektronické aplikace určené k podání takové žádosti; není-li to technicky možné, mohou být žádost i listiny zaslány prostřednictvím veřejné datové sítě do datové schránky, případně v listinné podobě.
+>
+> (3) Soud vydá pověření do 15 dnů, jestliže jsou splněny všechny zákonem stanovené předpoklady. Byl-li soudu s žádostí o pověření zaslán návrh na prohlášení vykonatelnosti nebo na uznání, vydá soud pověření poté, kdy rozhodl o návrhu na prohlášení vykonatelnosti nebo na uznání. O prohlášení vykonatelnosti nebo o uznání rozhodne exekuční soud bez jednání. Usnesení či rozsudek o prohlášení vykonatelnosti nebo o uznání musí být odůvodněný.
+>
+> (4) Pověření obsahuje
+>
+> - a) označení exekučního soudu,
+>
+> - b) označení exekutora,
+>
+> - c) označení exekučního titulu a orgánu, který ho vydal, nebo osoby, která jej vyhotovila,
+>
+> - d) označení oprávněného a povinného,
+>
+> - e) označení povinnosti, která má být exekucí vymožena, včetně povinnosti k úhradě nákladů oprávněného a nákladů exekuce,
+>
+> - f) podpis a datum.
+>
+> (5) Pověření není soudním rozhodnutím a nedoručuje se účastníkům řízení.
+>
+> (6) Jestliže nejsou splněny všechny zákonem stanovené předpoklady pro vedení exekuce, soud udělí exekutorovi pokyn, aby exekuční návrh částečně nebo úplně odmítl nebo zamítl nebo aby exekuční řízení zastavil. Tímto pokynem je exekutor vázán.
+>
+> (7) Spolu s pověřením nebo pokynem podle odstavce 6 doručí exekuční soud exekutorovi rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání. Exekutor doručí rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání účastníkům spolu s vyrozuměním o zahájení exekuce, případně, nebylo-li mu vydáno pověření, s rozhodnutím o odmítnutí nebo zamítnutí exekučního návrhu nebo o zastavení exekučního řízení.
 
 ### Výklad
 
@@ -333,10 +401,37 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 
 ## § 44 — Vyrozumění o zahájení exekuce
 
-> (1) Nejpozději **do 15 dnů ode dne doručení pověření** podle § 43a odst. 3 zašle exekutor oprávněnému **vyrozumění o zahájení exekuce** [...]. Povinnému zašle exekutor vyrozumění **nejpozději s prvním exekučním příkazem**, který mu v exekučním řízení doručuje; spolu s vyrozuměním zašle exekutor povinnému exekuční návrh a kopii exekučního titulu [...].
-> (2) Vyrozumění se doručí povinnému **do vlastních rukou**.
-> (3) Vyrozumění obsahuje [a)—k) — identifikace soudu, exekutora, řízení, titulu, účastníků, povinnosti, výzva ke splnění podle § 46/6, poučení o procesních právech a o online poučení na webu Komory] [...]
-> (4) Je-li vymáhaná povinnost v hrubém nepoměru k majetku povinného, na který by se vztahoval zákaz podle § 44a odst. 1, může exekutor před zasláním vyrozumění oprávněnému rozhodnout, že **se zákaz podle § 44a odst. 1 vztahuje pouze na část majetku přiměřenou vymáhané povinnosti**. [...]
+> (1) Nejpozději do 15 dnů ode dne doručení pověření podle § 43a odst. 3 zašle exekutor oprávněnému vyrozumění o zahájení exekuce, které neobsahuje údaje podle odstavce 3 písm. h). Povinnému zašle exekutor vyrozumění nejpozději s prvním exekučním příkazem, který mu v exekučním řízení doručuje; spolu s vyrozuměním zašle exekutor povinnému exekuční návrh a kopii exekučního titulu, případně kopii rozhodnutí o prohlášení vykonatelnosti, rozhodnutí o uznání nebo osvědčení podle přímo použitelného předpisu Evropské unie, které tvoří přílohu exekučního návrhu. Orgánům pověřeným vedením veřejných rejstříků, do kterých se zapisují právnické osoby, případně dalším orgánům či osobám se vyrozumění zašle, jen je-li to potřebné pro vedení exekuce. Je-li v katastru nemovitostí zapsáno vlastnické právo povinného a nejde-li o povinného uvedeného v § 44a odst. 5 nebo o povinného podle odstavce 4, rozhodl-li exekutor o tom, že se zákaz podle § 44a odst. 1 nevztahuje na nemovitou věc v jeho vlastnictví, vyrozumění se zašle katastrálnímu úřadu, v jehož územním obvodu má sídlo soudní exekutor, který vyrozumění o zahájení exekuce zasílá. Vyrozumění není rozhodnutím.
+>
+> (2) Vyrozumění se doručí povinnému do vlastních rukou.
+>
+> (3) Vyrozumění obsahuje
+>
+> - a) označení exekučního soudu,
+>
+> - b) označení exekutora, který vede exekuční řízení,
+>
+> - c) označení exekučního řízení spisovou značkou, pod kterou je vedeno,
+>
+> - d) označení exekučního titulu a orgánu, který ho vydal, nebo osoby, která jej vyhotovila,
+>
+> - e) označení oprávněného a povinného,
+>
+> - f) označení povinnosti, která má být exekucí vymožena, včetně povinnosti k úhradě nákladů oprávněného a nákladů exekuce,
+>
+> - g) podpis a datum,
+>
+> - h) výzvu podle § 46 odst. 6,
+>
+> - i) zjednodušené poučení o procesních právech a povinnostech a další informace týkající se exekučního řízení a postupu v tomto řízení,
+>
+> - j) odkaz na internetové stránky Komory, na kterých je uvedeno poučení podle § 29 odst. 5, § 37 odst. 5 a 6, § 44a odst. 1, § 54, § 55 odst. 1 a 2 a § 87 odst. 1 a 2 a poučení o podmínkách doručování podle § 56a a § 56b,
+>
+> - k) případně poučení o možnosti podat návrh na zastavení exekuce z důvodu, ze kterého lze odepřít výkon rozhodnutí podle přímo použitelného předpisu Evropské unie.
+>
+> (4) Je-li vymáhaná povinnost v hrubém nepoměru k majetku povinného, na který by se vztahoval zákaz podle § 44a odst. 1, může exekutor před zasláním vyrozumění oprávněnému rozhodnout, že se zákaz podle § 44a odst. 1 vztahuje pouze na část majetku přiměřenou vymáhané povinnosti. Toto rozhodnutí zašle spolu s vyrozuměním oprávněnému a povinnému.
+>
+> (5) Na písemnou žádost zašle exekutor účastníkovi exekučního řízení poučení podle odstavce 3 písm. j) v listinné podobě; účinky doručení vyrozumění o zahájení exekuce tím nejsou dotčeny.
 
 ### Výklad
 
@@ -355,13 +450,15 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 
 ## § 44a — Generální inhibitorium
 
-> (1) Nerozhodl-li exekutor podle § 44 odst. 4 jinak, **nesmí povinný po doručení vyrozumění nakládat se svým majetkem** včetně nemovitostí a majetku patřícího do společného jmění manželů, **vyjma**
-> - **běžné obchodní a provozní činnosti**,
-> - **uspokojování základních životních potřeb** svých a osob, ke kterým má vyživovací povinnost,
-> - **udržování a správy majetku**.
-> **Právní jednání**, kterým povinný porušil tuto povinnost, **je neplatné**. Právní jednání se však považuje za platné, pokud **námitku neplatnosti nevznese** exekutor, oprávněný, nebo přihlášený věřitel [...]
-> (2) **Složí-li povinný u exekutora částku ve výši vymáhané pohledávky**, nákladů exekuce a nákladů oprávněného, exekutor na návrh povinného **zruší rozhodnutím zákaz** podle odstavce 1 [...]
-> (5) Odstavec 1 se **nepoužije, je-li povinným stát nebo územní samosprávný celek**.
+> (1) Nerozhodl-li exekutor podle § 44 odst. 4 jinak, nesmí povinný po doručení vyrozumění nakládat se svým majetkem včetně nemovitostí a majetku patřícího do společného jmění manželů, vyjma běžné obchodní a provozní činnosti, uspokojování základních životních potřeb svých a osob, ke kterým má vyživovací povinnost, a udržování a správy majetku. Právní jednání, kterým povinný porušil tuto povinnost, je neplatné. Právní jednání se však považuje za platné, pokud námitku neplatnosti nevznese exekutor, oprávněný, nebo přihlášený věřitel, aby zajistili uspokojení vymáhané pohledávky. Právní účinky vznesení námitky neplatnosti nastávají od účinnosti právního jednání, dojde-li exekuční příkaz nebo jiný projev vůle exekutora, oprávněného, nebo přihlášeného věřitele všem účastníkům právního jednání, k němuž exekutor, oprávněný nebo přihlášený věřitel vznesl námitku neplatnosti.
+>
+> (2) Složí-li povinný u exekutora částku ve výši vymáhané pohledávky, nákladů exekuce a nákladů oprávněného, exekutor na návrh povinného zruší rozhodnutím zákaz podle odstavce 1 a podle § 47 odst. 6. Exekutor vydá rozhodnutí podle věty první do 7 dnů ode dne, v němž mu byl doručen návrh povinného, a neprodleně ho zašle účastníkům řízení a dalším osobám, jimž byly v rámci exekuce doručeny exekuční příkazy podle § 49 odst. 9. Proti tomuto rozhodnutí není opravný prostředek přípustný.
+>
+> (3) Na návrh povinného může exekutor rozhodnout o tom, že se zákaz podle odstavce 1 a podle § 47 odst. 6 nevztahuje na majetek, který povinný uvedl v návrhu, jestliže povinný zároveň doloží, že jeho zbývající majetek zjevně a nepochybně postačuje k uhrazení vymáhané pohledávky včetně nákladů oprávněného a nákladů exekuce.
+>
+> (4) S písemným souhlasem exekutora, oprávněného a všech přihlášených věřitelů může povinný k úhradě vymáhané pohledávky, jejího příslušenství, nákladů exekuce či nákladů oprávněného zpeněžit majetek nebo jednotlivé součásti majetku, nejsou-li postiženy jinou exekucí16a), nejméně však za obvyklou cenu zjištěnou na základě znaleckého posudku splatnou při podpisu smlouvy k rukám exekutora.
+>
+> (5) Odstavec 1 se nepoužije, je-li povinným stát nebo územní samosprávný celek.
 
 ### Výklad
 
@@ -403,11 +500,15 @@ Pokud žádný z nich neplatnost nevznese, jednání je platné. Logika: chrán�
 
 ## § 44b — Změna exekutora
 
-> (1) **Na návrh oprávněného** a souhlasí-li s tím exekutor, který vede exekuci, a exekutor, kterého oprávněný označí v návrhu, **převezme exekuci exekutor, kterého oprávněný označil v návrhu**. [...]
-> (2) Nedojde-li ke změně exekutora podle odstavce 1 a požádá-li oprávněný exekuční soud o změnu exekutora, exekuční soud po vyjádření exekutora, **je-li to důvodné**, rozhodne, že exekuci bude vést jiný exekutor [...]
+> (1) Na návrh oprávněného a souhlasí-li s tím exekutor, který vede exekuci, a exekutor, kterého oprávněný označí v návrhu, převezme exekuci exekutor, kterého oprávněný označil v návrhu. Navrhne-li změnu exekutora oprávněný podle § 15 odst. 5, není souhlasu exekutora, který vede exekuci, třeba. Převzetí exekuce není rozhodnutím.
+>
+> (2) Nedojde-li ke změně exekutora podle odstavce 1 a požádá-li oprávněný exekuční soud o změnu exekutora, exekuční soud po vyjádření exekutora, je-li to důvodné, rozhodne, že exekuci bude vést jiný exekutor, kterého navrhne oprávněný, a exekutor, který exekuci dosud vedl, mu věc postoupí. Nedojde-li ke změně exekutora podle odstavce 1 a požádá-li oprávněný exekuční soud o změnu exekutora podle § 15 odst. 5, exekuční soud rozhodne, že exekuci bude vést jiný exekutor, kterého navrhne oprávněný, a exekutor, který exekuci dosud vedl, mu věc postoupí.
+>
 > (3) Účinky původního exekučního návrhu oprávněného zůstávají zachovány.
-> (4) Nový exekutor provede změnu údaje [...] v rejstříku zahájených exekucí a rozhodne příkazem k úhradě nákladů exekuce o dosud vzniklých nákladech exekuce. **Odměna exekutora, který exekuci dosud vedl, se vypočítá tak, jako by došlo k zastavení exekuce.**
-> (5) Náklady exekuce vzniklé v souvislosti se změnou exekutora [...] **nese oprávněný**.
+>
+> (4) Nový exekutor provede změnu údaje podle § 35b odst. 1 písm. b) a c) v rejstříku zahájených exekucí a rozhodne příkazem k úhradě nákladů exekuce o dosud vzniklých nákladech exekuce. Odměna exekutora, který exekuci dosud vedl, se vypočítá tak, jako by došlo k zastavení exekuce.
+>
+> (5) Náklady exekuce vzniklé v souvislosti se změnou exekutora podle odstavce 1, nejde-li o změnu exekutora podle § 15 odst. 5, nese oprávněný.
 
 ### Výklad
 
@@ -442,8 +543,11 @@ Užitečný pro ekonomické rozhodování velkých věřitelů: pokud po několi
 
 ## § 45 — Věcná a místní příslušnost
 
-> (1) Věcně příslušným exekučním soudem je **okresní soud**.
-> (2) Místně příslušným exekučním soudem je soud, **v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu** [...]. Je-li povinný **právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo**. Nemá-li povinný [...] místo pobytu nebo sídlo v České republice, je místně příslušným **soud, v jehož obvodu má povinný majetek**.
+> (1) Věcně příslušným exekučním soudem je okresní soud.
+>
+> (2) Místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu7b), popřípadě místo pobytu na území České republiky podle druhu pobytu cizince7d),7e). Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+>
+> (3) Je-li podle odstavce 2 místně příslušných několik soudů, je místně příslušným ten soud, jehož název je první v abecedním, případně číselném pořadí.
 
 ### Výklad
 
@@ -463,12 +567,29 @@ Tato pravidla určují **exekuční soud** podle § 45 — soud, který:
 
 ## § 46 — Postup exekutora
 
-> (1) Exekutor postupuje v exekuci **rychle a účelně**; při tom dbá ochrany práv účastníků řízení i třetích osob dotčených jeho postupem.
-> (2) Exekutor činí **i bez návrhu úkony směřující k vedení exekuce**. Exekutor vede exekuci až do vymožení pohledávky [...]
-> (3) Exekutor je povinen vést exekuce **v pořadí, v jakém mu byly doručeny exekuční návrhy**.
-> (4) Peněžitá plnění na vymáhanou povinnost se hradí exekutorovi nebo oprávněnému. [...] exekutor po uplynutí lhůty podle odstavce 6 zajistí **po odpočtu nákladů exekuce výplatu celé vymožené pohledávky oprávněnému do 30 dnů** od doby, kdy peněžité plnění obdržel.
-> (5) Exekutor je povinen vymožené peněžité plnění, zálohy [...] vést odděleně od vlastních prostředků na **zvláštním účtu** [...]
-> (6) Exekutor ve **výzvě ke splnění vymáhané povinnosti**, která je součástí vyrozumění o zahájení exekuce, vyčíslí vymáhaný nárok a **zálohu na snížené náklady exekuce** a náklady oprávněného. Zároveň povinného poučí, že splní-li ve lhůtě **30 dnů** od doručení vyrozumění o zahájení exekuce vymáhaný nárok a uhradí zálohu, **vydá exekutor neprodleně příkaz k úhradě nákladů exekuce. Právní mocí příkazu k úhradě nákladů exekuce bude exekuce provedena. Splněním vymáhaného nároku a uhrazením zálohy zaniká zákaz podle § 44a odst. 1 a podle § 47 odst. 6.** Jinak exekutor provede exekuci.
+> (1) Exekutor postupuje v exekuci rychle a účelně; při tom dbá ochrany práv účastníků řízení i třetích osob dotčených jeho postupem.
+>
+> (2) Exekutor činí i bez návrhu úkony směřující k vedení exekuce. Exekutor vede exekuci až do vymožení pohledávky a jejího příslušenství nebo vynucení jiné vymáhané povinnosti, nákladů exekuce a nákladů oprávněného; tím bude exekuce provedena. Úkony a rozhodnutí exekutora a exekučního soudu jsou evidovány v exekučním spise, který vede exekutor v listinné nebo v elektronické podobě.
+>
+> (3) Exekutor je povinen vést exekuce v pořadí, v jakém mu byly doručeny exekuční návrhy.
+>
+> (4) Peněžitá plnění na vymáhanou povinnost se hradí exekutorovi nebo oprávněnému. Nedohodnou-li se exekutor a oprávněný jinak, exekutor po uplynutí lhůty podle odstavce 6 zajistí po odpočtu nákladů exekuce výplatu celé vymožené pohledávky oprávněnému do 30 dnů od doby, kdy peněžité plnění obdržel. Vymožené částečné plnění exekutor vyplatí po odpočtu nákladů exekuce oprávněnému, nedohodl-li se s ním na jiné lhůtě či jiné částce, ve stejné lhůtě v případě, kdy toto nevyplacené částečné plnění převyšuje částku 1 000 Kč. Ze zvláštního účtu podle odstavce 5 vyplatí exekutor peněžní prostředky z vymoženého plnění s úrokem, pokud přirostl, za dobu ode dne připsání vymožených peněžních prostředků na zvláštní účet podle odstavce 5 do dne předcházejícího dni jejich odepsání ze zvláštního účtu. Za vymožené plnění se považuje plnění
+>
+> - a) získané prováděním exekuce způsobem podle § 59 odst. 1,
+>
+> - b) získané provedením exekuce podle odstavce 6, nebo
+>
+> - c) hrazené na vymáhanou povinnost od doručení vyrozumění o zahájení exekuce povinnému do skončení exekuce, nebylo-li získáno podle písmene a) nebo b).
+>
+> (5) Exekutor je povinen vymožené peněžité plnění, zálohy na náklady exekuce, zálohy podle § 55 odst. 8 a zaplacené jistoty vést odděleně od vlastních prostředků na zvláštním účtu31) u banky, pobočky zahraniční banky nebo spořitelního a úvěrního družstva v České republice. Exekutor oznámí bez zbytečného odkladu ministerstvu a Komoře číslo tohoto účtu a peněžní ústav, u kterého je veden. Jde-li o bezhotovostní převod, peněžitá plnění na vymáhanou povinnost, zálohy na náklady exekuce, zálohy podle § 55 odst. 8 a jistoty se exekutorovi hradí na zvláštní účet.
+>
+> (6) Exekutor ve výzvě ke splnění vymáhané povinnosti, která je součástí vyrozumění o zahájení exekuce, vyčíslí vymáhaný nárok a zálohu na snížené náklady exekuce16b) a náklady oprávněného. Zároveň povinného poučí, že splní-li ve lhůtě 30 dnů od doručení vyrozumění o zahájení exekuce vymáhaný nárok a uhradí zálohu, vydá exekutor neprodleně příkaz k úhradě nákladů exekuce. Právní mocí příkazu k úhradě nákladů exekuce bude exekuce provedena. Splněním vymáhaného nároku a uhrazením zálohy zaniká zákaz podle § 44a odst. 1 a podle § 47 odst. 6. Jinak exekutor provede exekuci.
+>
+> (7) Je-li exekuční řízení podle zvláštního právního předpisu přerušeno16c) nebo zvláštní právní předpis stanoví, že exekuci nelze provést16d), exekutor nečiní žádné úkony, jimiž se provádí exekuce, pokud zákon nestanoví jinak. Insolvenčnímu správci nebo v rámci likvidace pozůstalosti do likvidační podstaty exekutor vydá vymožené plnění bezodkladně po právní moci usnesení, kterým rozhodne po odpočtu nákladů exekuce o vydání vymoženého plnění insolvenčnímu správci nebo do likvidační podstaty; toto usnesení exekutor vydá bez zbytečného odkladu po rozhodnutí o úpadku nebo po nabytí právní moci rozhodnutí o nařízení likvidace pozůstalosti.
+>
+> (8) Po skončení exekuce podle odstavců 2 a 6 a § 55 zašle exekutor oznámení o skončení exekuce všem orgánům a osobám, které ve svých evidencích (seznamech) vedou poznámku o probíhající exekuci anebo kterým byla v exekuci uložena nějaká povinnost; oznámení není rozhodnutím. V oznámení označí také exekuční příkazy, jejichž účinky skončením exekuce podle § 47 odst. 7 zanikly. Na žádost zašle toto oznámení neprodleně rovněž účastníkům řízení. Na žádost zašle exekutor oprávněnému, který je orgánem sociálního zabezpečení, neprodleně oznámení o dni, ve kterém zanikla vymáhaná povinnost.
+>
+> Exekuční příkaz
 
 ### Výklad
 
@@ -501,18 +622,29 @@ To je **finanční páka** pro motivaci k dobrovolnému plnění — povinný u�
 
 ## § 47 — Exekuční příkaz
 
-> (1) Exekutor poté, kdy soud vydal pověření [...], posoudí, jakým způsobem bude exekuce provedena, a vydá nebo zruší exekuční příkaz ohledně majetku, který má být exekucí postižen. Exekučním příkazem se rozumí příkaz k provedení exekuce některým ze způsobů uvedených v tomto zákoně. **Exekutor je povinen v exekučním příkazu zvolit takový způsob exekuce, který není zřejmě nevhodný, zejména vzhledem k nepoměru výše dluhů povinného a ceny předmětu, z něhož má být splnění dluhů povinného dosaženo.**
-> (2) Exekuční příkaz má **účinky nařízení výkonu rozhodnutí podle občanského soudního řádu**. Podle exekučního příkazu nelze exekuci provést před
-> a) uplynutím lhůty podle § 46 odst. 6,
-> b) právní mocí rozhodnutí o návrhu na zastavení exekuce, pokud byl podán ve lhůtě podle písmene a),
-> c) právní mocí rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání,
-> d) **zápisem doložky provedení exekuce do rejstříku zahájených exekucí** podle § 35b odst. 1 písm. i),
-> e) právní mocí exekučního příkazu.
-> (3) [...]
-> (4) Exekuci na majetek povinného, na který se vztahuje rozhodnutí o **zajištění vydané v trestním řízení**, lze provést jen po předchozím souhlasu příslušného orgánu činného v trestním řízení.
-> (5) **Proti exekučnímu příkazu není přípustný opravný prostředek.**
-> (6) Majetek, který je postižen exekučním příkazem, **nesmí povinný převést na jiného, zatížit ho nebo s ním jinak nakládat**. Právní jednání, kterým povinný porušil tuto povinnost, je neplatné.
-> (7) **Provedením exekuce a zastavením exekuce zanikají účinky všech vydaných exekučních příkazů.**
+> (1) Exekutor poté, kdy soud vydal pověření podle § 43a, posoudí, jakým způsobem bude exekuce provedena, a vydá nebo zruší exekuční příkaz ohledně majetku, který má být exekucí postižen. Exekučním příkazem se rozumí příkaz k provedení exekuce některým ze způsobů uvedených v tomto zákoně. Exekutor je povinen v exekučním příkazu zvolit takový způsob exekuce, který není zřejmě nevhodný, zejména vzhledem k nepoměru výše dluhů povinného a ceny předmětu, z něhož má být splnění dluhů povinného dosaženo.
+>
+> (2) Exekuční příkaz má účinky nařízení výkonu rozhodnutí podle občanského soudního řádu. Podle exekučního příkazu nelze exekuci provést před
+>
+> - a) uplynutím lhůty podle § 46 odst. 6,
+>
+> - b) právní mocí rozhodnutí o návrhu na zastavení exekuce, pokud byl podán ve lhůtě podle písmene a),
+>
+> - c) právní mocí rozhodnutí o návrhu na prohlášení vykonatelnosti nebo na uznání,
+>
+> - d) zápisem doložky provedení exekuce do rejstříku zahájených exekucí podle § 35b odst. 1 písm. i),
+>
+> - e) právní mocí exekučního příkazu.
+>
+> (3) Pro účely odstavce 2 písm. e) není provedením exekuce úkon učiněný k zajištění majetku povinného pro účely jeho postižení takovou exekucí.
+>
+> (4) Exekuci na majetek povinného, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení, lze provést jen po předchozím souhlasu příslušného orgánu činného v trestním řízení.
+>
+> (5) Proti exekučnímu příkazu není přípustný opravný prostředek.
+>
+> (6) Majetek, který je postižen exekučním příkazem, nesmí povinný převést na jiného, zatížit ho nebo s ním jinak nakládat. Právní jednání, kterým povinný porušil tuto povinnost, je neplatné.
+>
+> (7) Provedením exekuce a zastavením exekuce zanikají účinky všech vydaných exekučních příkazů.
 
 ### Výklad
 
@@ -610,7 +742,7 @@ Pověření zaniká:
 
 ## § 53 — Záznam telefonních hovorů
 
-> Exekutor je povinen **zaznamenat ve formě zvukového záznamu všechna volání** uskutečněná prostřednictvím veřejně dostupné telefonní služby a telefonního čísla exekutorského úřadu, které je určeno pro komunikaci s účastníky řízení, třetími osobami nebo veřejností, týkají-li se jím vedeného exekučního řízení [...]
+> Exekutor je povinen zaznamenat ve formě zvukového záznamu všechna volání uskutečněná prostřednictvím veřejně dostupné telefonní služby a telefonního čísla exekutorského úřadu, které je určeno pro komunikaci s účastníky řízení, třetími osobami nebo veřejností, týkají-li se jím vedeného exekučního řízení, a evidovat v exekučním spisu údaje o těchto záznamech. Povinnost podle věty první se týká telefonních čísel používaných soudním exekutorem i zaměstnanci soudního exekutora. Záznam se uchovává na trvalém nosiči dat, který je součástí exekučního spisu.
 
 **Anti-zneužívací pravidlo** od novely 2017/258 Sb. — exekutor MUSÍ zaznamenávat hovory s účastníky. Cílem je:
 - ověření tvrzení účastníků v případě stížnosti,
@@ -623,16 +755,37 @@ Záznam je **součástí spisu**.
 
 ## § 54 — Odklad exekuce
 
-> (1) Návrh na odklad exekuce se podává u exekutora, který vede exekuci. Návrh [...] který neobsahuje všechny náležitosti nebo který je nesrozumitelný anebo neurčitý nebo ke kterému nejsou přiloženy listiny [...], **exekutor do 7 dnů odmítne**, jestliže pro tyto nedostatky nelze o návrhu věcně rozhodnout. Ustanovení § 43 OSŘ se nepoužije.
+> (1) Návrh na odklad exekuce se podává u exekutora, který vede exekuci. Návrh na odklad exekuce, který neobsahuje všechny náležitosti nebo který je nesrozumitelný anebo neurčitý nebo ke kterému nejsou přiloženy listiny k prokázání tvrzení obsažených v návrhu, exekutor do 7 dnů odmítne, jestliže pro tyto nedostatky nelze o návrhu věcně rozhodnout. Ustanovení § 43 občanského soudního řádu se nepoužije.
+>
 > (2) Do vydání rozhodnutí o návrhu na odklad exekuce exekutor
-> a) **nezajišťuje majetek povinného ani exekuci neprovede**, je-li u něj složena jistota a podal-li povinný návrh na zastavení exekuce podle odstavce 6,
-> b) **exekuci neprovede**, jde-li o návrh na odklad exekuce podle odstavce 5 nebo 7 anebo podle § 266 občanského soudního řádu.
-> (3) Odstavec 2 písm. b) se nepoužije, jde-li o návrh, který je **svévolným nebo zřejmě bezúspěšným uplatňováním nebo bráněním práva** [...]
-> [...]
-> (6) Je-li u exekutora **složena jistota ve výši vymáhané pohledávky**, nákladů oprávněného a nákladů exekuce, exekutor nebo exekuční soud na návrh povinného odloží provedení exekuce **do právní moci rozhodnutí o návrhu na zastavení exekuce** [...] a rozhodne o tom, že povinný **není vázán zákazem** uvedeným v § 44a odst. 1 a v § 47 odst. 6 ode dne vydání rozhodnutí o odkladu. [...]
-> (7) Není-li dále stanoveno jinak, exekutor **odloží i bez návrhu** provedení exekuce k vymožení peněžité povinnosti **prodejem movitých věcí**
-> a) vedené proti povinnému neuvedenému v § 67 odst. 1 [...], proti kterému je zároveň vedena **exekuce srážkami ze mzdy** [...]
-> b) vedené proti povinnému, který je fyzickou osobou, neuvedenému v písmeni a) a § 67 odst. 1, **sdělí-li mu povinný písemně bez zbytečného odkladu poté, co se dozvěděl o provedení soupisu, že bude zasílat každý kalendářní měsíc na zvláštní účet podle § 46 odst. 5 [...] peněžní prostředky nejméně ve výši 1 500 Kč**.
+>
+> - a) nezajišťuje majetek povinného ani exekuci neprovede, je-li u něj složena jistota a podal-li povinný návrh na zastavení exekuce podle odstavce 6,
+>
+> - b) exekuci neprovede, jde-li o návrh na odklad exekuce podle odstavce 5 nebo 7 anebo podle § 266 občanského soudního řádu.
+>
+> (3) Odstavec 2 písm. b) se nepoužije, jde-li o návrh, který je svévolným nebo zřejmě bezúspěšným uplatňováním nebo bráněním práva nebo uplatní-li účastník v návrhu na odklad stejné okolnosti, o nichž již bylo rozhodnuto. Exekutor o těchto skutečnostech bez zbytečného odkladu povinného vyrozumí.
+>
+> (4) Odloží-li exekutor nebo exekuční soud exekuci na návrh povinného podle § 266 odst. 1 občanského soudního řádu, potom exekutor nebo exekuční soud uvede dobu, na kterou exekuci odkládá. Je-li exekuce odložena podle odstavce 6, exekutor nezjišťuje ani nezajišťuje majetek povinného ani exekuci neprovede. Po dobu odkladu exekuce podle odstavce 5 a 7 nebo podle § 266 občanského soudního řádu exekutor exekuci neprovede; § 289 odst. 1 občanského soudního řádu tím není dotčen. Po dobu odkladu exekuce nelze zajistit sepsané movité věci. Po uplynutí doby odkladu exekutor i bez návrhu pokračuje v provedení exekuce.
+>
+> (5) Je-li odložena vykonatelnost exekučního titulu, exekutor nebo exekuční soud odloží provedení exekuce do doby pravomocného skončení řízení, ve kterém soud rozhoduje o odložení vykonatelnosti exekučního titulu.
+>
+> (6) Je-li u exekutora složena jistota ve výši vymáhané pohledávky, nákladů oprávněného a nákladů exekuce, exekutor nebo exekuční soud na návrh povinného odloží provedení exekuce do právní moci rozhodnutí o návrhu na zastavení exekuce podaném povinným a rozhodne o tom, že povinný není vázán zákazem uvedeným v § 44a odst. 1 a v § 47 odst. 6 ode dne vydání rozhodnutí o odkladu. Nedojde-li k zastavení exekuce, použije se jistota na úhradu vymáhané pohledávky, nákladů oprávněného a nákladů exekuce; jinak se vrátí složiteli jistoty.
+>
+> (7) Není-li dále stanoveno jinak, exekutor odloží i bez návrhu provedení exekuce k vymožení peněžité povinnosti prodejem movitých věcí
+>
+> - a) vedené proti povinnému neuvedenému v § 67 odst. 1, proti kterému je zároveň vedena exekuce srážkami ze mzdy a jiných příjmů pro jiné pohledávky než podle § 279 odst. 2 občanského soudního řádu a v této exekuci jsou prováděny srážky, sdělí-li mu povinný písemně bez zbytečného odkladu poté, co se dozvěděl o provedení soupisu, že bude zasílat na zvláštní účet podle § 46 odst. 5 k uspokojení pohledávky vymáhané v exekuci prodejem movitých věcí každý kalendářní měsíc peněžní prostředky ve výši druhé třetiny zbytku čisté mzdy z exekuce srážkami ze mzdy a jiných příjmů ve výši vypočtené v kalendářním měsíci předcházejícím kalendářnímu měsíci, v němž byl exekuční příkaz k provedení exekuce srážkami ze mzdy a jiných příjmů doručen plátci mzdy nebo jiných příjmů, nejméně však ve výši 1 500 Kč,
+>
+> - b) vedené proti povinnému, který je fyzickou osobou, neuvedenému v písmeni a) a § 67 odst. 1, sdělí-li mu povinný písemně bez zbytečného odkladu poté, co se dozvěděl o provedení soupisu, že bude zasílat každý kalendářní měsíc na zvláštní účet podle § 46 odst. 5 k uspokojení pohledávky vymáhané v exekuci prodejem movitých věcí peněžní prostředky nejméně ve výši 1 500 Kč.
+>
+> (8) Exekutor vyzve povinného k zasílání peněžních prostředků ve výši podle odstavce 7 na zvláštní účet bez zbytečného odkladu poté, co byla exekuce odložena. Povinný zašle peněžní prostředky ve výši podle odstavce 7 do 10 dnů od doručení výzvy podle věty první, v následujících kalendářních měsících povinný na zvláštní účet převádí peněžní prostředky ve výši podle odstavce 7 do konce příslušného kalendářního měsíce.
+>
+> (9) Na nesplnění povinnosti podle odstavce 8 věty druhé exekutor povinného upozorní a určí mu přiměřenou dodatečnou lhůtu pro její splnění. Uplynutím lhůty podle věty první odklad exekuce skončí.
+>
+> (10) Exekutor exekuci podle odstavce 7 neodloží, návrh na odklad exekuce podle odstavce 7 zamítne, případně vydá usnesení o tom, že se v exekuci odložené podle odstavce 7 pokračuje, přesáhne-li zjištěná cena všech movitých věcí povinného pojatých do soupisu zjevně třicetišestinásobek částky zasílané povinným exekutorovi podle odstavce 7 písm. a) nebo b). Při výpočtu zjištěné ceny dle věty předchozí se nepřihlíží k věcem, jejichž hodnota není zjevně vyšší než 1 000 Kč, a k souboru věcí určených ke společnému zpeněžení, jehož hodnota není zjevně vyšší než 2 000 Kč. V téže exekuci prodejem movitých věcí se odstavce 7 až 9 použijí nejvýše jednou. Odstavce 7 až 9 se nepoužijí v exekuci vedené na věci vymezené v § 67 odst. 1 úvodní části ustanovení. Odstavce 7 až 9 se nepoužijí v exekuci podle § 67 odst. 2.
+>
+> (11) I bez návrhu může exekuční soud nebo exekutor odložit provedení exekuce, lze-li očekávat, že exekuce bude zastavena.
+>
+> (12) Nevyhoví-li exekutor návrhu na odklad exekuce do 7 dnů, postoupí jej společně s exekučním spisem v této lhůtě k rozhodnutí exekučnímu soudu, který o něm rozhodne bez zbytečného odkladu, nejpozději do 15 dnů.
 
 ### Výklad
 
@@ -671,10 +824,13 @@ Velmi rozsáhlý paragraf — kombinuje **klasické zastavení** (důvody podle 
 
 ### Klasické zastavení (odst. 1—6)
 
-> (1) Návrh na zastavení exekuce může povinný podat **do 15 dnů** ode dne, kdy se dozvěděl o důvodu zastavení exekuce. Návrh [...] se podává u exekutora [...]
-> (3) Podá-li účastník návrh na zastavení exekuce, exekutor do 15 dnů od doručení návrhu **vyzve další účastníky exekuce, aby se vyjádřili**, zda s návrhem souhlasí [...]. **Jestliže všichni účastníci se zastavením exekuce souhlasí, exekutor vyhoví návrhu na zastavení exekuce do 30 dnů**. Nevyhoví-li exekutor návrhu na zastavení exekuce, postoupí jej společně s exekučním spisem v uvedené lhůtě k rozhodnutí exekučnímu soudu.
-> (4) O zastavení exekuce **rozhodne exekutor i bez návrhu**, souhlasí-li se zastavením oprávněný. Nesouhlasí-li oprávněný, požádá exekutor o zastavení exekuční soud [...]
-> (6) Nesloží-li oprávněný přiměřenou zálohu na náklady exekuce, exekutor exekuci zastaví.
+> *(1) Návrh na zastavení exekuce může povinný podat do 15 dnů ode dne, kdy se dozvěděl o důvodu zastavení exekuce. Návrh na zastavení exekuce se podává u exekutora, který vede exekuci. Podá-li manžel povinného návrh na zastavení exekuce podle § 262b občanského soudního řádu, rozhodne o tomto návrhu exekutor na základě písemných dokladů i bez souhlasu oprávněného do 15 dnů ode dne doručení návrhu. Nevyhoví-li exekutor návrhu, postoupí jej společně s exekučním spisem v uvedené lhůtě k rozhodnutí exekučnímu soudu, který o návrhu rozhodne. Ustanovení odstavce 3 se nepoužije.*
+>
+> *(3) Podá-li účastník návrh na zastavení exekuce, exekutor do 15 dnů od doručení návrhu vyzve další účastníky exekuce, aby se vyjádřili, zda s návrhem souhlasí, a aby se v případě, kdy nesouhlasí s tvrzeními obsaženými v návrhu na zastavení, vyjádřili k návrhu a předložili listiny k prokázání svých tvrzení. Jestliže všichni účastníci se zastavením exekuce souhlasí, exekutor vyhoví návrhu na zastavení exekuce do 30 dnů od marného uplynutí lhůty k vyjádření nebo od doručení souhlasného vyjádření, nastalo-li dříve. Nevyhoví-li exekutor návrhu na zastavení exekuce, postoupí jej společně s exekučním spisem v uvedené lhůtě k rozhodnutí exekučnímu soudu.*
+>
+> *(4) O zastavení exekuce rozhodne exekutor i bez návrhu, souhlasí-li se zastavením oprávněný. Nesouhlasí-li oprávněný, požádá exekutor o zastavení exekuční soud, který při rozhodování postupuje podle odstavce 5.*
+>
+> *(6) Nesloží-li oprávněný přiměřenou zálohu na náklady exekuce, exekutor exekuci zastaví.*
 
 **Důvody zastavení** — primárně **§ 268 OSŘ aplikovaný přes § 52 odst. 1 EŘ**:
 - exekuční titul **není vykonatelný** (byl zrušen, ztratil účinky, je vadný),
@@ -735,14 +891,25 @@ Exekutor rozhoduje **obdobně podle OSŘ**, činí úkony, které přísluší s
 
 ## § 55c — Odvolání proti rozhodnutí exekutora
 
-> (1) Proti rozhodnutí exekutora **může účastník řízení podat odvolání**.
-> (2) O odvolání proti rozhodnutí exekutora **rozhoduje krajský soud**, v jehož obvodu působí exekuční soud.
-> (3) Odvolání **není přípustné proti**
-> a) rozhodnutí exekutora o návrhu na vyškrtnutí věci ze soupisu (§ 68 odst. 2 a 3),
-> b) **exekučnímu příkazu**,
-> c) usnesení o změně nebo zrušení exekučního příkazu, nebo
-> d) **příkazu k úhradě nákladů exekuce**.
-> (4) Odvolání lze podat **do 15 dnů** od doručení písemného vyhotovení rozhodnutí u exekutora [...]
+> (1) Proti rozhodnutí exekutora může účastník řízení podat odvolání.
+>
+> (2) O odvolání proti rozhodnutí exekutora rozhoduje krajský soud, v jehož obvodu působí exekuční soud.
+>
+> (3) Odvolání není přípustné proti
+>
+> - a) rozhodnutí exekutora o návrhu na vyškrtnutí věci ze soupisu (§ 68 odst. 2 a 3),
+>
+> - b) exekučnímu příkazu,
+>
+> - c) usnesení o změně nebo zrušení exekučního příkazu, nebo
+>
+> - d) příkazu k úhradě nákladů exekuce.
+>
+> (4) Odvolání lze podat do 15 dnů od doručení písemného vyhotovení rozhodnutí u exekutora, proti jehož rozhodnutí odvolání směřuje. Bylo-li vydáno opravné usnesení týkající se výroku rozhodnutí, běží tato lhůta znovu od právní moci opravného usnesení.
+>
+> (5) Ustanovení § 201 až 226 občanského soudního řádu se použijí přiměřeně.
+>
+> (6) Úkony podle § 208 až 210a občanského soudního řádu činí exekutor, který poté odvolání předloží společně s exekučním spisem odvolacímu soudu.
 
 ### Výklad
 

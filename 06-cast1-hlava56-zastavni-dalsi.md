@@ -32,15 +32,28 @@ Tato kapitola pokrývá dva systematicky odlišné, ale **doplňkové** institut
 
 ### § 73a — Detailní úprava
 
-> (1) Exekuční řízení ke zřízení exekutorského zástavního práva na nemovitých věcech povinného k zajištění pohledávky oprávněného se zahajuje na návrh.
-> (2) Týká-li se návrh na zřízení exekutorského zástavního práva nemovité věci, která je předmětem evidence v katastru nemovitostí, exekutor o jeho podání vyrozumí příslušný katastrální úřad. **Exekuční příkaz ke zřízení exekutorského zástavního práva má účinky i proti osobám, které nabyly nemovitou věc po zápisu poznámky** informující o podání návrhu na zřízení exekutorského zástavního práva.
-> [...]
-> (6) **Pro pořadí exekutorského zástavního práva k nemovité věci je rozhodující den, v němž exekutorovi došel exekuční návrh** na zřízení exekutorského zástavního práva; došlo-li ve stejný den exekutorovi více exekučních návrhů, mají zástavní práva stejné pořadí. Bylo-li však pro vymáhanou pohledávku již dříve zřízeno zákonné nebo smluvní zástavní právo, řídí se pořadí exekutorského zástavního práva pořadím tohoto zástavního práva. Jde-li o pohledávku náhrady škody nebo nemajetkové újmy způsobené trestným činem [...], byla-li nemovitá věc zajištěna v trestním řízení o tomto trestném činu [...], je pro pořadí exekutorského zástavního práva **rozhodující den právní moci rozhodnutí o zajištění nemovité věci podle trestního řádu**.
-> [...]
-> (8) **Oprávněný nemá právo na náhradu nákladů. Náklady exekuce hradí exekutorovi oprávněný.** Exekutor nevydá exekuční příkaz [...] a exekuci zastaví, neuhradí-li oprávněný náklady [...].
-> (9) Pověření k vedení exekuce exekutorovi **zaniká provedením exekuce ke zřízení exekutorského zástavního práva**.
-> (10) Exekuce ke zřízení exekutorského zástavního práva **je provedena právní mocí exekučního příkazu**. **Provedením exekuce exekutorské zástavní právo nezaniká.**
-> (11) Po provedení exekuce může být podán **návrh na zastavení pouze k soudu**.
+> (1) Exekuční řízení ke zřízení exekutorského zástavního práva na nemovitých věcech povinného k zajištění pohledávky oprávněného se zahajuje na návrh. Exekuční návrh na zřízení exekutorského zástavního práva podává exekutorovi oprávněný.
+>
+> (2) Týká-li se návrh na zřízení exekutorského zástavního práva nemovité věci, která je předmětem evidence v katastru nemovitostí, exekutor o jeho podání vyrozumí příslušný katastrální úřad. Exekuční příkaz ke zřízení exekutorského zástavního práva má účinky i proti osobám, které nabyly nemovitou věc po zápisu poznámky informující o podání návrhu na zřízení exekutorského zástavního práva.
+>
+> (3) Součástí vyrozumění o zahájení exekuce ke zřízení exekutorského zástavního práva není výzva podle § 46 odst. 6. Internetové stránky, na které je odkazováno ve vyrozumění, obsahují namísto poučení podle § 37 odst. 5 a 6, § 44a odst. 1, § 54, § 87 odst. 2 poučení podle odstavců 10 a 11. Ustanovení § 35 odst. 6, § 35b odst. 1 písm. i) až m), § 37 odst. 5 až 7, § 43a odst. 3 věty druhé až čtvrté, § 44 odst. 1 věty čtvrté, § 44a, § 44c, § 47 odst. 6, § 50, § 54, § 55 odst. 6 až 12, § 58 až 72 se nepoužijí.
+>
+> (4) Třetí osoby v rámci součinnosti sdělí exekutorovi údaje potřebné k vedení exekuce ke zřízení exekutorského zástavního práva. Návrh na odklad nelze podat.
+>
+> (5) Výrok exekučního příkazu ke zřízení exekutorského zástavního práva musí rovněž obsahovat označení nemovité věci, k níž má být zřízeno exekutorské zástavní právo, případně spoluvlastnického podílu na ní, označení zástavního věřitele údaji, které se zapisují do katastru nemovitostí, označení zajištěné pohledávky a údaj o dni, který je rozhodný pro pořadí exekutorského zástavního práva.
+>
+> (6) Pro pořadí exekutorského zástavního práva k nemovité věci je rozhodující den, v němž exekutorovi došel exekuční návrh na zřízení exekutorského zástavního práva; došlo-li ve stejný den exekutorovi více exekučních návrhů, mají zástavní práva stejné pořadí. Bylo-li však pro vymáhanou pohledávku již dříve zřízeno zákonné nebo smluvní zástavní právo, řídí se pořadí exekutorského zástavního práva pořadím tohoto zástavního práva. Jde-li o pohledávku náhrady škody nebo nemajetkové újmy způsobené trestným činem nebo pohledávku z bezdůvodného obohacení získaného trestným činem, byla-li nemovitá věc zajištěna v trestním řízení o tomto trestném činu a byl-li exekuční návrh ke zřízení exekutorského zástavního práva podán v době, kdy zajištění podle trestního řádu trvá, je pro pořadí exekutorského zástavního práva rozhodující den právní moci rozhodnutí o zajištění nemovité věci podle trestního řádu.
+>
+> (7) Nestanoví-li tento zákon jinak, použijí se na exekuci ke zřízení exekutorského zástavního práva na nemovitých věcech přiměřeně ustanovení občanského soudního řádu upravující výkon rozhodnutí zřízením soudcovského zástavního práva na nemovitých věcech.
+>
+> (8) Oprávněný nemá právo na náhradu nákladů. Náklady exekuce hradí exekutorovi oprávněný. Exekutor nevydá exekuční příkaz ke zřízení exekutorského zástavního práva a exekuci zastaví, neuhradí-li oprávněný náklady exekuce podle příkazu k úhradě nákladů exekuce, který se doručuje pouze oprávněnému.
+>
+> (9) Pověření k vedení exekuce exekutorovi zaniká provedením exekuce ke zřízení exekutorského zástavního práva.
+>
+> (10) Exekuce ke zřízení exekutorského zástavního práva je provedena právní mocí exekučního příkazu. Provedením exekuce exekutorské zástavní právo nezaniká.
+>
+> (11) Po provedení exekuce může být podán návrh na zastavení pouze k soudu.
+>
 > (12) Exekutorské zástavní právo k nemovité věci, která je předmětem evidence v katastru nemovitostí, se do katastru nemovitostí zapíše na návrh oprávněného na základě exekučního příkazu, kterým bylo exekutorské zástavní právo zřízeno.
 
 ### Klíčové procesní rysy
@@ -158,8 +171,9 @@ EZP se do KN **NEZAPISUJE automaticky**. Oprávněný musí podat **návrh na vk
 
 ### § 75 — Úschovy
 
-> (1) Exekutor v souvislosti s exekučním, soudním nebo jiným řízením přijímá do úschovy **peníze, listiny a jiné movité věci**, jejichž povaha to umožňuje.
-> (2) O přijetí do úschovy vydá exekutor tomu, kdo hodnoty skládá, **písemné potvrzení**. Jsou-li předmětem úschovy peněžní prostředky, je exekutor povinen je vést **odděleně od vlastních peněžních prostředků na zvláštním účtu** u banky [...].
+> (1) Exekutor v souvislosti s exekučním, soudním nebo jiným řízením přijímá do úschovy peníze, listiny a jiné movité věci, jejichž povaha to umožňuje.
+>
+> (2) O přijetí do úschovy vydá exekutor tomu, kdo hodnoty skládá, písemné potvrzení. Jsou-li předmětem úschovy peněžní prostředky, je exekutor povinen je vést odděleně od vlastních peněžních prostředků na zvláštním účtu31) u banky, pobočky zahraniční banky nebo spořitelního a úvěrního družstva v České republice; § 46 odst. 5 věty druhá a třetí se použijí obdobně.
 
 ### Výklad
 

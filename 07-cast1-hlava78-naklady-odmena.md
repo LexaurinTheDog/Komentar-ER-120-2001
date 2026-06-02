@@ -119,18 +119,29 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 
 ## § 88 — Příkaz k úhradě nákladů exekuce + námitky
 
-> (1) Náklady exekuce a náklady oprávněného určuje exekutor v **příkazu k úhradě nákladů exekuce** (dále „**PKÚN**"), který doručí oprávněnému a povinnému.
+> (1) Náklady exekuce a náklady oprávněného určuje exekutor v příkazu k úhradě nákladů exekuce, který doručí oprávněnému a povinnému.
+>
 > (2) Příkaz k úhradě nákladů exekuce obsahuje
-> a) označení exekučního soudu,
-> b) označení exekutora, který vede exekuční řízení,
-> c) označení exekučního titulu [...],
-> d) označení oprávněného a povinného včetně rodného čísla povinného, lze-li ho zjistit,
-> e) označení vymáhané povinnosti,
-> f) stanovení povinnosti k náhradě nákladů exekuce a nákladů oprávněného, **včetně jejich vyčíslení a odůvodnění**,
-> g) výši zaplacené zálohy, případně její vyúčtování a odůvodnění vyúčtování,
-> h) datum a podpis exekutora, **poučení o námitkách** a další informace týkající se postupu v exekučním řízení.
-> (3) Účastník řízení může podat u exekutora proti příkazu **námitky do 8 dnů od doručení**. Pokud exekutor v plném rozsahu námitkám nevyhoví, **postoupí je bez zbytečného odkladu soudu, který o námitkách rozhodne do 15 dnů**. Případné vyjádření k námitkám adresované soudu exekutor doručí také tomu, kdo námitky podal.
-> (4) Rozhodnutí soudu o námitkách se doručí oprávněnému, povinnému a exekutorovi. **Proti rozhodnutí soudu o námitkách není přípustný opravný prostředek.**
+>
+> - a) označení exekučního soudu,
+>
+> - b) označení exekutora, který vede exekuční řízení,
+>
+> - c) označení exekučního titulu a orgánu, který ho vydal, nebo osoby, která jej vyhotovila,
+>
+> - d) označení oprávněného a povinného včetně rodného čísla povinného, lze-li ho zjistit,
+>
+> - e) označení vymáhané povinnosti,
+>
+> - f) stanovení povinnosti k náhradě nákladů exekuce a nákladů oprávněného, včetně jejich vyčíslení a odůvodnění,
+>
+> - g) výši zaplacené zálohy, případně její vyúčtování a odůvodnění vyúčtování,
+>
+> - h) datum a podpis exekutora, poučení o námitkách a další informace týkající se postupu v exekučním řízení.
+>
+> (3) Účastník řízení může podat u exekutora proti příkazu námitky do 8 dnů od doručení. Pokud exekutor v plném rozsahu námitkám nevyhoví, postoupí je bez zbytečného odkladu soudu (§ 45), který o námitkách rozhodne do 15 dnů. Případné vyjádření k námitkám adresované soudu exekutor doručí také tomu, kdo námitky podal.
+>
+> (4) Rozhodnutí soudu o námitkách se doručí oprávněnému, povinnému a exekutorovi. Proti rozhodnutí soudu o námitkách není přípustný opravný prostředek.
 
 ### Výklad / smysl ustanovení
 
@@ -289,9 +300,9 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 
 ## § 91 a § 91a — Odměna za další činnost
 
-> § 91: Za výkon další činnosti podle § 74 odst. 1 písm. a) **náleží exekutorovi mimosmluvní odměna, nedohodne-li se s žadatelem jinak**.
-> § 91a: (1) Za výkon činnosti podle § 76a [správa zajištěného majetku v TR] **náleží exekutorovi mimosmluvní odměna**.
-> (2) O výši odměny [...] a nároku na náhradu dalších nákladů exekuce podle § 87 odst. 1 **rozhoduje a přiznané náklady exekuce vyplácí soud nebo státní zástupce**, který výkonem činnosti podle § 76a exekutora pověřil.
+> (1) Za výkon činnosti podle § 76a náleží exekutorovi mimosmluvní odměna.
+>
+> (2) O výši odměny podle odstavce 1 a nároku na náhradu dalších nákladů exekuce podle § 87 odst. 1 rozhoduje a přiznané náklady exekuce vyplácí soud nebo státní zástupce, který výkonem činnosti podle § 76a exekutora pověřil.
 
 ### Výklad
 

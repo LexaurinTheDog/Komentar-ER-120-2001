@@ -42,12 +42,17 @@ V praxi dnes většina úřadů vede spisy **smíšeně** — elektronicky s ohl
 
 ### § 94 — Nahlížení do spisů
 
-> (1) Oprávněné orgány a osoby mohou nahlížet do spisů a pořizovat si z nich výpisy; **oprávněné osoby tak mohou činit výlučně v kanceláři exekutora pod jeho dohledem nebo pod dohledem jím pověřeného zaměstnance**. O nahlédnutí do spisu se ve spisu provede záznam.
+> (1) Oprávněné orgány a osoby mohou nahlížet do spisů a pořizovat si z nich výpisy; oprávněné osoby tak mohou činit výlučně v kanceláři exekutora pod jeho dohledem nebo pod dohledem jím pověřeného zaměstnance. O nahlédnutí do spisu se ve spisu provede záznam.
+>
 > (2) Na odůvodněnou žádost oprávněných orgánů a osob je možno spis zaslat jinému exekutorovi, v jehož kanceláři je možno do něho nahlédnout.
-> (3) Na základě písemné žádosti oprávněných osob zpřístupní exekutor **elektronicky kopii celého spisu** vedeného v elektronické podobě nebo ji zašle na datovém nosiči oprávněné osobě. [...] **Za opakovanou žádost o zaslání kopie spisu může exekutor požadovat úhradu nákladů.**
-> [...]
-> (5) **Do spisů týkajících se další činnosti exekutora může nahlížet pouze žadatel; jiné osoby jen s jeho souhlasem.** Ministerstvo může v souvislosti s výkonem státního dohledu nahlížet do spisů týkajících se činností exekutora podle § 74 odst. 1 písm. b) bez souhlasu žadatele.
-> (6) Exekutor zašle **jednou za kalendářní rok**, nedohodne-li se s účastníkem řízení jinak, účastníku řízení **na jeho žádost informaci o celkové výši vymoženého plnění**, o výši vymožené jistiny, úroků, úroků z prodlení, nákladů exekuce a nákladů oprávněného, o datu, kdy k vymožení došlo, a o výši jistiny [...] které dosud nebyly vymoženy [...]. **Informace podle věty první se zašle elektronicky**, nevysloví-li s tím účastník řízení v žádosti nesouhlas.
+>
+> (3) Na základě písemné žádosti oprávněných osob zpřístupní exekutor elektronicky kopii celého spisu vedeného v elektronické podobě nebo ji zašle na datovém nosiči oprávněné osobě. Požádá-li o to oprávněná osoba, zašle ji k jinému exekutorovi určenému v písemné žádosti, u nějž si oprávněná osoba může tuto kopii vyzvednout, nebo na adresu určenou oprávněnou osobou v této žádosti. Za opakovanou žádost o zaslání kopie spisu může exekutor požadovat úhradu nákladů.
+>
+> (4) Spis, nezpřístupňuje-li se elektronicky, se doručuje do vlastních rukou. Vhození zásilky se spisem do schránky se vylučuje. Je-li zásilka se spisem vrácena doručujícím orgánem zpět exekutorovi, sdělení na úřední desce exekutora se nevyvěšuje. Postup podle § 56a a § 56b se nepoužije.
+>
+> (5) Do spisů týkajících se další činnosti exekutora může nahlížet pouze žadatel; jiné osoby jen s jeho souhlasem. Ministerstvo může v souvislosti s výkonem státního dohledu nahlížet do spisů týkajících se činností exekutora podle § 74 odst. 1 písm. b) bez souhlasu žadatele.
+>
+> (6) Exekutor zašle jednou za kalendářní rok, nedohodne-li se s účastníkem řízení jinak, účastníku řízení na jeho žádost informaci o celkové výši vymoženého plnění, o výši vymožené jistiny, úroků, úroků z prodlení, nákladů exekuce a nákladů oprávněného, o datu, kdy k vymožení došlo, a o výši jistiny, úroků, úroků z prodlení, nákladů exekuce a nákladů oprávněného, které dosud nebyly vymoženy, podle stavu ke dni vydání informace. Informace podle věty první se zašle elektronicky, nevysloví-li s tím účastník řízení v žádosti nesouhlas.
 
 ### Výklad
 
@@ -108,7 +113,7 @@ To umožňuje **dlužníkovi** přehled o postupu (a o tom, kolik už zaplatil z
 
 ### § 96, § 96a — Půjčování spisů
 
-> § 96: Exekutor předá kopie požadovaných listin z exekučního spisu, případně kopii celého spisu na základě **písemné žádosti** orgánům činným v trestním řízení, soudům, finančním úřadům, katastrálním úřadům a znalcům. **Nepostačí-li poskytnutí kopií listin nebo kopie celého spisu, umožní exekutor osobám pověřeným těmito orgány nahlížení do spisu; jen je-li to zcela nezbytné, spis jim zapůjčí.** Na půjčování spisů ministerstvu se vztahuje § 7 odst. 4 písm. a) [...]
+> Exekutor předá kopie požadovaných listin z exekučního spisu, případně kopii celého spisu na základě písemné žádosti orgánům činným v trestním řízení, soudům, finančním úřadům, katastrálním úřadům a znalcům. Nepostačí-li poskytnutí kopií listin nebo kopie celého spisu, umožní exekutor osobám pověřeným těmito orgány nahlížení do spisu; jen je-li to zcela nezbytné, spis jim zapůjčí. Na půjčování spisů ministerstvu se vztahuje § 7 odst. 4 písm. a); obdobně se postupuje při předkládání věci soudu v souvislosti s rozhodováním soudu v exekučním řízení.
 
 ### Výklad
 
@@ -158,10 +163,13 @@ V praxi velmi vzácné — moderní úřady mají dvojité zálohy v cloudu. His
 
 ### § 102 — Archivace ukončených spisů
 
-> (1) Ukončené spisy exekutora a ukončené spisy, které exekutor převzal podle § 15 odst. 5 (dále jen „**ukončené spisy**"), **se ukládají a uschovávají v kanceláři exekutora**. Po uložení spisů se na jejich evidenci **vztahují právní předpisy platné pro uložení soudních spisů**.
-> (2) Ukončené spisy zůstávají **po celou dobu výkonu exekutorského úřadu uložené v kanceláři exekutora**.
-> (3) Podrobnější úpravu manipulace se spisy, jejich úschovu, vedení registrů a dalších evidenčních pomůcek **upraví kancelářský řád vydaný Komorou**.
-> (4) Výpisy, opisy a potvrzení z ukončených spisů vydává na písemnou žádost oprávněných orgánů a osob exekutor. [...]
+> (1) Ukončené spisy exekutora a ukončené spisy, které exekutor převzal podle § 15 odst. 5 (dále jen „ukončené spisy“), se ukládají a uschovávají v kanceláři exekutora. Po uložení spisů se na jejich evidenci vztahují právní předpisy platné pro uložení soudních spisů.
+>
+> (2) Ukončené spisy zůstávají po celou dobu výkonu exekutorského úřadu uložené v kanceláři exekutora.
+>
+> (3) Podrobnější úpravu manipulace se spisy, jejich úschovu, vedení registrů a dalších evidenčních pomůcek upraví kancelářský řád vydaný Komorou.
+>
+> (4) Výpisy, opisy a potvrzení z ukončených spisů vydává na písemnou žádost oprávněných orgánů a osob exekutor. O nahlížení do spisů a půjčování těchto spisů platí přiměřeně ustanovení hlavy deváté dílu prvního této části zákona.
 
 ### Výklad
 
@@ -447,9 +455,11 @@ Klasická úprava analogická notářskému řádu (§ 92 a násl. NotŘ):
 
 ## § 115b — Informační povinnost Komory a exekutorů
 
-> (1) Komora **bezplatně poskytne ministerstvu** na jeho žádost v přiměřené lhůtě určené ministerstvem **údaje v podobě statistických informací** týkající se činnosti exekutorů nebo údaje týkající se činnosti Komory, lze-li je zjistit bez nepřiměřených obtíží.
-> (2) Exekutor je povinen **bezplatně poskytnout Komoře** na její žádost v přiměřené lhůtě určené Komorou **anonymizované údaje** týkající se jeho činnosti [...]
-> (3) Jestliže Komora neposkytne ministerstvu údaje [...], upozorní ji ministerstvo na porušení této povinnosti a určí jí lhůtu k nápravě.
+> (1) Komora bezplatně poskytne ministerstvu na jeho žádost v přiměřené lhůtě určené ministerstvem údaje v podobě statistických informací týkající se činnosti exekutorů nebo údaje týkající se činnosti Komory, lze-li je zjistit bez nepřiměřených obtíží.
+>
+> (2) Exekutor je povinen bezplatně poskytnout Komoře na její žádost v přiměřené lhůtě určené Komorou anonymizované údaje týkající se jeho činnosti, lze-li je zjistit bez nepřiměřených obtíží.
+>
+> (3) Jestliže Komora neposkytne ministerstvu údaje, které je povinna poskytnout podle odstavce 1, v přiměřené lhůtě určené ministerstvem, upozorní ji ministerstvo na porušení této povinnosti a určí jí lhůtu k nápravě.
 
 **Bezplatná datová povinnost:** Komora → MS (statistiky o profesi) + exekutor → Komora (anonymizované údaje). Slouží k:
 - transparentnosti profese,
