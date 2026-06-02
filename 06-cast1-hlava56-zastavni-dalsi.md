@@ -133,7 +133,7 @@ EZP se do KN **NEZAPISUJE automaticky**. Oprávněný musí podat **návrh na vk
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_559_2014.txt) — 4. 12. 2014, kat. A
+- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C05E229DB5912E0BC1257DD2005607EC?openDocument) — 4. 12. 2014, kat. A
   > „Účastníkem dražby prováděné při likvidaci dědictví soudním exekutorem podle ustanovení § 76 odst. 2 ex. ř. je notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, a na jehož návrh se provádí zpeněžení zůstavitelova majetku v dražbě prováděné soudním exekutorem v dražbě má postavení oprávněného. Povinný v této dražbě nevystupuje. Udělil-li soudní exekutor v dražbě nemovitosti prováděné při likvidaci dědictví podle ustanovení § 76 odst. 2 ex. ř. příklep, mohou proti usnesení o příklepu podat odvolání pouze notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, vydražitel a dražitelé, kteří po udělení příklepu vznesli námitky, popřípadě též osoby, které mají na dražené nemovitosti předkupní právo, věcné právo (s výjimkou práv zajišťujících pohledávky) nebo nájemní právo, kterým nebyla doručena dražební vyhláška,…"
 
 ### Výklad
@@ -182,7 +182,7 @@ EZP se do KN **NEZAPISUJE automaticky**. Oprávněný musí podat **návrh na vk
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 2102/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_2102_2013.txt) — 29. 10. 2015, kat. A
+- *NS* [29 Cdo 2102/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCF24F8C638E9356C1257F3300366230?openDocument) — 29. 10. 2015, kat. A
   > „Částka odpovídající dani z přidané hodnoty, obsažená v nejvyšším podání, za něž byl vydražiteli udělen příklep prodávané nemovitosti patřící do obchodního majetku povinného, který je plátcem daně z přidané hodnoty, zůstává majetkem povinného až do jejího odvedení na osobní daňový účet povinného vedený u místně příslušného správce daně. Je-li před odvedením této částky prohlášen konkurs na majetek povinného podle zákona č. 328/1991 Sb. (ve znění účinném do 31. 12. 2007), soud (při výkonu rozhodnutí) nebo soudní exekutor (při exekuci) ji vydá (je povinen ji vydat) jako součást majetku náležejícího do konkursní podstaty úpadce správci konkursní podstaty úpadce, aniž by se o tom vydávalo zvláštní rozhodnutí"
 
 ### Výklad
@@ -225,7 +225,7 @@ EZP se do KN **NEZAPISUJE automaticky**. Oprávněný musí podat **návrh na vk
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_559_2014.txt) — 4. 12. 2014, kat. A
+- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C05E229DB5912E0BC1257DD2005607EC?openDocument) — 4. 12. 2014, kat. A
   > „Účastníkem dražby prováděné při likvidaci dědictví soudním exekutorem podle ustanovení § 76 odst. 2 ex. ř. je notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, a na jehož návrh se provádí zpeněžení zůstavitelova majetku v dražbě prováděné soudním exekutorem v dražbě má postavení oprávněného. Povinný v této dražbě nevystupuje. Udělil-li soudní exekutor v dražbě nemovitosti prováděné při likvidaci dědictví podle ustanovení § 76 odst. 2 ex. ř. příklep, mohou proti usnesení o příklepu podat odvolání pouze notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, vydražitel a dražitelé, kteří po udělení příklepu vznesli námitky, popřípadě též osoby, které mají na dražené nemovitosti předkupní právo, věcné právo (s výjimkou práv zajišťujících pohledávky) nebo nájemní právo, kterým nebyla doručena dražební vyhláška,…"
 
 ### Výklad

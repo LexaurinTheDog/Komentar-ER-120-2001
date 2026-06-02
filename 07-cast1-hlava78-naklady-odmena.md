@@ -40,7 +40,7 @@ Klíčový **podzákonný předpis**: **Vyhláška Ministerstva spravedlnosti č
 
 - *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
   > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
-- *NS* [29 Cdo 2102/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_2102_2013.txt) — 29. 10. 2015, kat. A
+- *NS* [29 Cdo 2102/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCF24F8C638E9356C1257F3300366230?openDocument) — 29. 10. 2015, kat. A
   > „Částka odpovídající dani z přidané hodnoty, obsažená v nejvyšším podání, za něž byl vydražiteli udělen příklep prodávané nemovitosti patřící do obchodního majetku povinného, který je plátcem daně z přidané hodnoty, zůstává majetkem povinného až do jejího odvedení na osobní daňový účet povinného vedený u místně příslušného správce daně. Je-li před odvedením této částky prohlášen konkurs na majetek povinného podle zákona č. 328/1991 Sb. (ve znění účinném do 31. 12. 2007), soud (při výkonu rozhodnutí) nebo soudní exekutor (při exekuci) ji vydá (je povinen ji vydat) jako součást majetku náležejícího do konkursní podstaty úpadce správci konkursní podstaty úpadce, aniž by se o tom vydávalo zvláštní rozhodnutí"
 
 ### Výklad / smysl ustanovení
