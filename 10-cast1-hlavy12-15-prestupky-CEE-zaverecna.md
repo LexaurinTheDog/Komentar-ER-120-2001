@@ -262,6 +262,13 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 
 **Souběh starého a nového výkonu** — exekuční řízení podle EŘ může „převzít" pohledávku, která neuspokojila ve starém soudním výkonu rozhodnutí.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1275/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1275-09_1) — nález, 8. 4. 2010
+  > „Podle § 129 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, se výkon rozhodnutí uskutečňovaný na základě usnesení soudu o nařízení výkonu rozhodnutí vydaného před účinností tohoto zákona uskuteční podle dosud platných právních předpisů. Pokud tedy nyní vychází z přístupu obdobného tomu, jejž Ústavní soud aplikoval ve věci sp. zn. Pl. ÚS 38/06 , a shledává … jako správnou úvahu, podle níž není dán rozumný důvod pro odlišení účelů sledovaných zákonem č. 120/2001 Sb. a jeho novelou …, nutno pro posouzení intertemporality založené předmětnou novelou analogicky vycházet z maximy vyjádřené v ustanovení § 129 exekučního řádu …"
+- *ÚS* [IV.ÚS 314/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-314-09_1) — nález, 5. 5. 2009
+  > „Dle § 129 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, se výkon rozhodnutí uskutečňovaný na základě usnesení soudu o nařízení výkonu rozhodnutí vydaného před účinností tohoto zákona uskuteční podle dosud platných právních předpisů. … vycházeje dále z úvahy, dle níž není dán rozumný důvod pro odlišení účelů sledovaných exekučním řádem a jeho novelou …, nutno pro posouzení intertemporality založené předmětnou novelou analogicky vycházet z maximy vyjádřené v ustanovení § 129 exekučního řádu a výkon rozhodnutí uskutečňovaný na základě usnesení soudu o nařízení výkonu rozhodnutí vydaného před účinností zákona č. 347/2007 Sb. posoudit dle exekučního řádu ve znění platném a účinném do 31. prosince 2007"
+
 ## § 130 — Souběžnost s OSŘ
 
 > (1) Tam, kde se ve zvláštních právních předpisech hovoří o **soudním výkonu rozhodnutí** nebo výkonu rozhodnutí, **rozumí se tím také exekuce** podle tohoto zákona. Tam, kde se ve zvláštních právních předpisech hovoří o nařízení výkonu rozhodnutí, **rozumí se tím také vedení exekuce** podle tohoto zákona.
@@ -272,7 +279,7 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — 1. 7. 2016, kat. A
+- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — kat. A, 1. 7. 2016
   > „Podléhá-li výkon cizího rozhodnutí úpravě podle ustanovení § 14 až § 16 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, lze jej provést jen soudním výkonem rozhodnutí, přičemž exekuci prostřednictvím zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, lze v takovém případě provést pouze podle cizího rozhodnutí, jež bylo uznáno na základě zvláštního rozhodnutí českého soudu podle ustanovení § 16 odst. 2 zákona č. 91/2012 Sb., tedy rozsudkem, který je třeba odůvodnit"
 
 ## § 131 — Zmocnění k vyhláškám

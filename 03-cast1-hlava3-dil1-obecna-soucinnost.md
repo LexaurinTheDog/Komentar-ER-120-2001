@@ -80,6 +80,11 @@ Stručný, ale **fundamentální paragraf**. Stanoví dvě věci:
 >
 > (12) O tom, zda je vyloučen koncipient, kandidát nebo jiný zaměstnanec exekutora, jakož i znalec nebo tlumočník, rozhoduje exekutor; odstavce 1 až 4, 6 a 9 se použijí přiměřeně. Proti jeho usnesení není přípustný opravný prostředek.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2928/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2928-09_1) — nález, 9. 3. 2010
+  > „Na exekuční řízení, resp. na každou z jeho dílčích fází, plně dopadají principy spravedlivého procesu, vyplývající zejména z hlavy páté Listiny. Oprávněný i povinný mají tedy i v tomto řízení přiměřeně obdobná práva jako účastníci jakéhokoliv jiného soudního řízení. Nesmí tedy dojít k tomu, aby měla jedna ze stran podstatnou výhodu vůči protistraně. … Ustanovení § 29 odst. 1 exekučního řádu stanoví, že exekutor je vyloučen z provedení exekuce, jestliže se zřetelem na jeho poměr k věci, k účastníkům řízení nebo jejich zástupcům je tu důvod pochybovat o jeho nepodjatosti"
+
 ### Výklad / smysl ustanovení
 
 Paragraf 29 přepisuje obecné pravidlo § 14 OSŘ (vyloučení soudce) do prostředí exekučního řízení. Klíčové rysy:
@@ -250,10 +255,8 @@ I po skončení pracovního/funkčního poměru.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [75 Co 19/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47858E56DAF8E5FEC1257A4E0065BCCC?openDocument) — 6. 5. 2011, kat. A
+- *NS* [75 Co 19/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47858E56DAF8E5FEC1257A4E0065BCCC?openDocument) — kat. A, 6. 5. 2011
   > „Vznikne-li činností exekutora při výkonu veřejné moci přenesené na něj zákonem jinému škoda, jejíž náhradu poškozený uplatní vůči exekutorovi podle § 32 zákona č. 120/2001 Sb., je vzhledem k chybějící úpravě promlčení v zákoně č. 120/2001 Sb. takto vzniklý závazkový vztah vždy vztahem občanskoprávním bez ohledu na povahu účastníků závazkového vztahu vzniklého z titulu náhrady škody, a promlčení práva na náhradu škody se proto řídí ustanovením § 106 obč. zák"
-- *NS* [21 Cdo 3841/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E888C316DEE45F40C1257A4E0065D4D6?openDocument) — 8. 12. 2009, kat. A
-  > „V řízení, jehož předmětem je odpovědnost soudního exekutora za škodu podle ustanovení § 32 odst. 1 zákona č. 120/2001 Sb. (ve znění pozdějších předpisů), se písemnosti soudnímu exekutorovi jako účastníkovi řízení doručovaly v době od 1. 1. 2005 do 30. 6. 2009 způsobem předepsaným v ustanovení § 48b občanského soudního řádu v tehdejším znění"
 
 ### Výklad / smysl ustanovení
 
@@ -416,6 +419,11 @@ Důležitý zdroj pro lustraci movitého majetku — vozidlo je typicky vysokoho
 > (6) Ustanovení § 33 až 33e a odstavců 1 až 3 se použijí i pro zjišťování údajů o majetku manžela povinného v souvislosti s prováděním exekuce, jíž je k vydobytí dluhu, který patří do společného jmění manželů nebo pro který lze vést exekuci na majetek ve společném jmění manželů, postižen účet manžela povinného u peněžního ústavu.
 >
 > (7) Nebrání-li to účelu exekuce, použije exekutor v exekučním řízení údaje, které mu byly poskytnuty v rámci součinnosti v jiných exekučních řízeních vedených proti témuž povinnému.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 543/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-543-11_1) — nález, 11. 5. 2011
+  > „Exekutorovi, vázanému při výkonu své činnosti zákony a ústavním pořádkem České republiky (§ 2 EŘ), [je dáno] nejen oprávnění, ale má i povinnosti. Exekutor v rámci svých oprávnění rozhoduje o tom, které osoby vyzve k poskytnutí součinnosti tak, aby mohlo být rychle a efektivně dosaženo účelu exekučního řízení, při splnění požadavku na jeho hospodárnost a šetření práv jeho účastníků"
 
 ### Výklad / smysl ustanovení
 

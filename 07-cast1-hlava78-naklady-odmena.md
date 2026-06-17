@@ -38,10 +38,10 @@ Klíčový **podzákonný předpis**: **Vyhláška Ministerstva spravedlnosti č
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
+- *ÚS* [I.ÚS 3571/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3571-12_1) — nález, 28. 7. 2014
+  > „Jestliže oprávněnému nic nebránilo v podání jednoho návrhu na nařízení exekuce ohledně všech exekučních titulů, jež mu přiznávaly právo na plnění vůči stěžovateli, účelně vynaložené náklady oprávněného k vymáhání nároku [srov. § 87 odst. 2 zákona č. 120/2001 Sb.] jsou pouze náklady, které by oprávněný vynaložil při podání jednoho společného návrhu. … Ústavní soud svou judikaturou nezpochybnil právo na náhradu nákladů exekuce jak na straně soudního exekutora, tak i na straně oprávněného, zdůraznil však, že mezi výší vymáhané pohledávky a výší nákladů řízení (exekučních) musí existovat jistý poměr"
+- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — kat. A, 23. 2. 2023
   > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
-- *NS* [29 Cdo 2102/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCF24F8C638E9356C1257F3300366230?openDocument) — 29. 10. 2015, kat. A
-  > „Částka odpovídající dani z přidané hodnoty, obsažená v nejvyšším podání, za něž byl vydražiteli udělen příklep prodávané nemovitosti patřící do obchodního majetku povinného, který je plátcem daně z přidané hodnoty, zůstává majetkem povinného až do jejího odvedení na osobní daňový účet povinného vedený u místně příslušného správce daně. Je-li před odvedením této částky prohlášen konkurs na majetek povinného podle zákona č. 328/1991 Sb. (ve znění účinném do 31. 12. 2007), soud (při výkonu rozhodnutí) nebo soudní exekutor (při exekuci) ji vydá (je povinen ji vydat) jako součást majetku náležejícího do konkursní podstaty úpadce správci konkursní podstaty úpadce, aniž by se o tom vydávalo zvláštní rozhodnutí"
 
 ### Výklad / smysl ustanovení
 
@@ -150,6 +150,11 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 >
 > (4) Rozhodnutí soudu o námitkách se doručí oprávněnému, povinnému a exekutorovi. Proti rozhodnutí soudu o námitkách není přípustný opravný prostředek.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [14 Kse 1/2013 - 119](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/630282) — 13. 1. 2014
+  > „Přitom i pro příkaz k úhradě nákladů exekuce (jako specifickou formu rozhodnutí exekutora) platí, že zákon upravuje opravný prostředek, který umožňuje odstranit nesprávnost či jiné vady takového rozhodnutí – jde o námitky podle ustanovení § 88 odst. 3 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti, o nichž může rozhodnout i sám exekutor. Pokud tedy měla být zpochybněna věcná správnost předmětného příkazu k úhradě nákladů exekuce z důvodu tvrzených nedostatků v jeho odůvodnění, měl povinný k dispozici opravný prostředek, o možnosti jeho podání byl v rozhodnutí řádně poučen a mohl jej využít"
+
 ### Výklad / smysl ustanovení
 
 **PKÚN je klíčový závěrečný akt exekuce** — vyúčtování všech položek.
@@ -197,6 +202,11 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 ## § 89 — Anti-fraud při zastavení exekuce
 
 > Dojde-li k zastavení exekuce, hradí **náklady exekuce a náklady účastníků, případně paušálně stanovenou náhradu nákladů plátce mzdy ten, který zastavení zavinil**. V případě **zastavení exekuce pro nemajetnost povinného hradí paušálně určené či účelně vynaložené výdaje exekutorovi oprávněný**. Pro případ zastavení exekuce pro nemajetnost povinného si může oprávněný s exekutorem **předem sjednat výši účelně vynaložených výdajů**.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1413/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1413-10_1) — nález, 16. 12. 2010
+  > „Dle názoru Ústavního soudu je to exekutor, který má z úspěšného provedení exekuce zisk (odměnu), ale současně nese i riziko spočívající v tom, že majetek povinného nebude dostačovat k uspokojení oprávněného, ale i nákladů exekuce, přičemž toto riziko nelze bezdůvodně přenášet na osobu oprávněnou. … jen v situaci, kdy k objektivní skutkové okolnosti zastavení exekuce z důvodů nedostatku majetku přistoupí i konkretizované okolnosti subjektivní povahy (procesní zavinění oprávněného), může být uložena povinnost náhrady nákladů řízení oprávněnému. Procesní zavinění oprávněného nelze bez dalšího založit pouze na jeho dispozičním úkonu - návrhu na nařízení exekuce"
 
 ### Výklad
 
@@ -263,10 +273,10 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 1114/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument) — 16. 7. 2025, kat. A
+- *NSS* [14 Kse 1/2012 - 117](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/625801) — 27. 9. 2012
+  > „Právo soudního exekutora požadovat od oprávněného složení zálohy na náklady exekuce proto musí být limitováno také smyslem a účelem zálohy na náklady exekuce, kterým je zajištění prostředků pro další postup v exekučním řízení směřující k jeho úspěšnému ukončení, tj. ke skutečnému vymožení plnění (povinnosti), jež je předmětem exekuce. … Podstatou institutu zálohy na náklady exekuce je pak zajištění prostředků pro následné vedení exekuce resp. úkony exekutora, vedoucí k jejímu úspěšnému ukončení"
+- *NS* [20 Cdo 1114/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2EDF2634E81BC7EC1258CD6004D24A9?openDocument) — kat. A, 16. 7. 2025
   > „Oprávněný může podat nový exekuční návrh a vést exekuci podle exekučního titulu, na jehož základě byla předchozí exekuce vedená týmž oprávněným proti témuž povinnému zastavena pro bezvýslednost ve smyslu § 55 odst. 7 až 13 e. ř. Úspěšnost nového exekučního návrhu nelze podmiňovat uvedením nových skutečností o majetkových poměrech povinného, oprávněný je toliko povinen na žádost soudního exekutora zaplatit přiměřenou zálohu na náklady exekuce ve smyslu § 90 odst. 3 e. ř"
-- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
-  > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
 
 ### Výklad / smysl ustanovení
 

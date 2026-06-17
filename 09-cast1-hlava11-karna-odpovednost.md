@@ -32,6 +32,11 @@ Hlava XI je **disciplinárním kodexem exekutorského stavu** — definuje, **co
 
 ## § 116 — Kárná odpovědnost a sankce
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [14 Kse 7/2012 - 70](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/626006) — 30. 10. 2012
+  > „stát exekučním řádem přenesl stát část výkonu své moci – specificky moci soudní, jíž je třeba rozumět soudní řízení počínaje nalézacím až po řízení vykonávací – na soudní exekutory. Jimi sice jsou fyzické osoby, avšak tato skutečnost má význam toliko právně technický, či organizačně institucionální. Z hlediska funkcionálního vykonávají soudní exekutoři státní moc. Tento fakt pak také zdůvodňuje významné ingerence státu do výkonu jejich činnosti formou dohledu, návrhovým oprávněním státu v kárných řízeních … V tomto směru se postavení exekutorů z hlediska jejich kárné odpovědnosti blíží postavení soudců … Při hodnocení závažnosti porušení povinnosti exekutorem je ovšem třeba vycházet ze všech okolností konkrétního případu"
+
 ### Definice deliktů (odst. 1—5)
 
 > *(1) Exekutor, kandidát a koncipient jsou kárně odpovědni za kárný delikt nebo závažný kárný delikt (dále jen „kárné provinění“). Kárnou odpovědností exekutora podle odstavců 4 a 5 není dotčena kárná odpovědnost kandidáta nebo koncipienta a kárnou odpovědností kandidáta nebo koncipienta není dotčena kárná odpovědnost exekutora.*
@@ -288,6 +293,11 @@ Smysl: anti-duplikace + transparentnost ve sledování kárné agendy.
 >
 > (4) Náhrady podle odstavce 3 vyplácí přísedícímu exekutorovi Komora.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 38/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-38-09_1) — nález, 3. 8. 2011
+  > „veřejný zájem na důsledném a nestranném rozhodování o kárných návrzích proti exekutorům je zajištěn tím, že v kárných řízeních s exekutory rozhoduje zvláštní senát Nejvyššího správního soudu, tedy vrcholná soudní instance, garantující nezávislost a nestrannost celého procesu. K tomu lze dodat, že pokud je stejná právní úprava kárného procesu vhodná pro soudce a státní zástupce, nemůže být nevhodná i pro exekutory"
+
 ### Výklad
 
 **KLÍČOVÁ ODLIŠNOST** — kárné řízení proti **exekutorovi** se vede podle **zákona č. 7/2002 Sb.** o řízení ve věcech soudců, státních zástupců a soudních exekutorů.
@@ -331,6 +341,11 @@ Smysl: anti-duplikace + transparentnost ve sledování kárné agendy.
 > (2) **Exekutorovi je pozastaven výkon exekutorského úřadu od zveřejnění rozhodnutí o jeho úpadku v insolvenčním rejstříku do skončení insolvenčního řízení.**
 > (3) Po dobu pozastavení výkonu exekutorského úřadu **nesmí exekutor vykonávat exekuční ani další činnost** podle tohoto zákona.
 > (4) Proti rozhodnutí ministra o pozastavení výkonu exekutorského úřadu lze podat **žalobu u soudu**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 37/2017 - 123](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/426906) — 8. 1. 2020
+  > „Ustanovení § 122 odst. 1 zákona č. 120/2001 Sb., exekučního řádu, sice stanoví pouze jednu podmínku pro vydání rozhodnutí o pozastavení výkonu exekutorského úřadu, nicméně skýtá právě toliko možnost, nikoliv povinnost takové rozhodnutí přijmout. Dává tedy ministru spravedlnosti diskreční oprávnění, při jehož využití musí ministr nutně přihlédnout i k jiným okolnostem případu. Chybí-li v odůvodnění rozhodnutí úvaha o tom, proč v daném případě ministr spravedlnosti využil tu či onu ze dvou v úvahu připadajících alternativ, jedná se o rozhodnutí nepřezkoumatelné pro nesrozumitelnost"
 
 ### Výklad
 

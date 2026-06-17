@@ -133,8 +133,8 @@ EZP se do KN **NEZAPISUJE automaticky**. Oprávněný musí podat **návrh na vk
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C05E229DB5912E0BC1257DD2005607EC?openDocument) — 4. 12. 2014, kat. A
-  > „Účastníkem dražby prováděné při likvidaci dědictví soudním exekutorem podle ustanovení § 76 odst. 2 ex. ř. je notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, a na jehož návrh se provádí zpeněžení zůstavitelova majetku v dražbě prováděné soudním exekutorem v dražbě má postavení oprávněného. Povinný v této dražbě nevystupuje. Udělil-li soudní exekutor v dražbě nemovitosti prováděné při likvidaci dědictví podle ustanovení § 76 odst. 2 ex. ř. příklep, mohou proti usnesení o příklepu podat odvolání pouze notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, vydražitel a dražitelé, kteří po udělení příklepu vznesli námitky, popřípadě též osoby, které mají na dražené nemovitosti předkupní právo, věcné právo (s výjimkou práv zajišťujících pohledávky) nebo nájemní právo, kterým nebyla doručena dražební vyhláška,…"
+- *ÚS* [II.ÚS 1331/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1331-07_1) — nález, 27. 11. 2007
+  > „Ustanovení § 74 exekučního řádu rozšiřuje prostor pro působení soudního exekutora, především mu umožňuje poskytovat právní pomoc všem oprávněným osobám při vymáhání jejich judikátních pohledávek a pohledávek vyplývajících z jiných titulů [§ 74 odst. 1 písm. a) exekučního řádu]. Kromě této další činnosti exekutora související s vymáháním vykonatelných pohledávek stanoví exekuční řád i jinou další činnost exekutora, kde jde zejména o sepisování listin [§ 74 odst. 1 písm. b) exekučního řádu]"
 
 ### Výklad
 
@@ -225,7 +225,7 @@ EZP se do KN **NEZAPISUJE automaticky**. Oprávněný musí podat **návrh na vk
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C05E229DB5912E0BC1257DD2005607EC?openDocument) — 4. 12. 2014, kat. A
+- *NS* [21 Cdo 559/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C05E229DB5912E0BC1257DD2005607EC?openDocument) — kat. A, 4. 12. 2014
   > „Účastníkem dražby prováděné při likvidaci dědictví soudním exekutorem podle ustanovení § 76 odst. 2 ex. ř. je notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, a na jehož návrh se provádí zpeněžení zůstavitelova majetku v dražbě prováděné soudním exekutorem v dražbě má postavení oprávněného. Povinný v této dražbě nevystupuje. Udělil-li soudní exekutor v dražbě nemovitosti prováděné při likvidaci dědictví podle ustanovení § 76 odst. 2 ex. ř. příklep, mohou proti usnesení o příklepu podat odvolání pouze notář, jenž byl soudem pověřen, aby jako soudní komisař provedl úkony v řízení o dědictví, vydražitel a dražitelé, kteří po udělení příklepu vznesli námitky, popřípadě též osoby, které mají na dražené nemovitosti předkupní právo, věcné právo (s výjimkou práv zajišťujících pohledávky) nebo nájemní právo, kterým nebyla doručena dražební vyhláška,…"
 
 ### Výklad
@@ -337,6 +337,13 @@ Standardní identifikační pravidlo pro úkony podle § 76d — průkaz totožn
 
 > Exekutor na žádost sepíše exekutorský zápis o **osvědčení skutkového děje nebo stavu věci**, například splnění dluhu, stavu nemovitých věcí, bytů a nebytových prostor, jestliže jimi mohou být prokázány nároky v řízení před soudem nebo jiným státním orgánem a jestliže se **skutkový děj udál v přítomnosti exekutora** nebo jestliže se **exekutor přesvědčil o stavu věci**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 43/2021 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/710124) — 22. 2. 2023
+  > „…pokud je exekutor do skutkového děje zapojen natolik, že tento děj vyvolá, je tohoto děje účasten a neoznačuje se jako exekutor, když vystupuje pod jinou identitou, nelze usuzovat na zákonnost pořízení exekutorského zápisu ve smyslu § 77 exekučního řádu a k takovému zápisu nelze přistupovat jako k osvědčení určité skutečnosti či děje. V takovém případě osoba, nevystupující jako exekutor, byť exekutorem je, neosvědčuje děj exekutorským zápisem, a pokud není ani osobou pověřenou k výkonu kontroly dopravním úřadem, pak je pouze obvyklým cestujícím, jehož písemný záznam nebo sdělení, nemůže mít povahu veřejné listiny"
+- *NSS* [8 A 38/2021 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/709778) — 1. 2. 2023
+  > „Exekutorský koncipient při osvědčování skutkového děje podle § 77 exekučního řádu není nadán pravomocí činit jakékoliv úkony v postavení agenta provokatéra nebo agenta kontrolora vystupujícího pod smyšlenou identitou"
+
 ### Výklad
 
 **Aktuální zbytek pravomoci** exekutora po novele 2012/396 Sb. — sepisování **OSVĚDČUJÍCÍCH zápisů** (analogie § 78 odst. 1 písm. e) NotŘ):
@@ -362,6 +369,13 @@ Standardní identifikační pravidlo pro úkony podle § 76d — průkaz totožn
 ### § 79 — Náležitosti zápisu
 
 Klasické náležitosti: místo + datum, jméno + sídlo exekutora, **místo a doba děje / zjištění stavu**, **popis děje / stavu**, otisk razítka, podpis. **Veřejná listina** (odst. 2) — má **prima facie důkazní sílu** podle § 134 OSŘ.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 3271/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3271-12_1) — nález, 4. 4. 2013
+  > „…i když je exekutorský zápis se svolením k vykonatelnosti titulem pro nařízení exekuce, není rozhodnutím a nemá ani účinky, které zákon s rozhodnutím spojuje. Má povahu veřejné listiny [srov. § 79 odst. 7 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění účinném do 31. 12. 2012] a není vybaven účinky právní moci ani závaznosti pro účastníky a pro všechny orgány, jaké mají například rozhodnutí soudu vydaná v občanském soudním řízení (srov. § 159 o. s. ř.)"
+- *ÚS* [II.ÚS 924/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-924-13_1) — nález, 21. 11. 2013
+  > „…exekutorský zápis se svolením k vykonatelnosti je exekučním titulem jen tehdy, má-li veškeré formální i materiální náležitosti, a pokud některá chybí, vlastnost přímé vykonatelnosti s ním nelze spojovat a takový zápis není ani veřejnou listinou"
 
 ### § 86 — Úschova zápisů
 

@@ -50,6 +50,13 @@ Odstavec 2 vymezuje **obsah exekuční činnosti** — dvojí jádro:
 > (1) Exekutor vykonává exekuční činnost nezávisle. Při výkonu exekuční činnosti je vázaný jen Ústavou České republiky, zákony, jinými právními předpisy a rozhodnutími soudu vydanými v řízení o výkonu rozhodnutí a exekučním řízení.
 > (2) Exekutor je povinen vykonávat svědomitě své povolání a při jeho výkonu a v občanském životě se zdržet všeho, co by mohlo narušit důstojnost exekutorského povolání nebo ohrozit důvěru v nezávislý, nestranný a spravedlivý výcvik exekuční činnosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 290/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-290-05) — nález, 23. 2. 2006
+  > „Stát přenesl zákonem č. 120/2001 Sb. na exekutory část svých mocenských pravomocí. Současně stanovil, že exekutor vykonává tuto činnost nezávisle a nestranně (§ 2 citovaného zákona). Nezávislost exekutora je zabezpečena v rámci zákona č. 120/2001 Sb. různými způsoby, mimo jiné též úpravou obsaženou v ustanovení § 3 … Nezávislost exekutora (i ekonomická) na státu je základním předpokladem jeho nestrannosti při výkonu exekuční činnosti"
+- *NSS* [8 As 136/2022 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/719987) — 27. 3. 2024
+  > „… u soudců, státních zástupců i soudních exekutorů je úprava skutečně jasná v tom smyslu, že se omezení vztahují i na soukromá jednání příslušníků daných profesí. … Pokud jiné předpisy výslovně stanoví, že jsou osoby působící v daných profesích povinny se i v občanských (politických) projevech zdržet všeho, co by narušilo důstojnost jejich profese …"
+
 ### Výklad / smysl ustanovení
 
 Paragraf 2 obsahuje **dva základní principy povolání exekutora**, které se v zákoně promítají v desítkách dalších paragrafů:
@@ -87,6 +94,11 @@ Slovo „**svědomitě**" je důležité — zakládá **objektivní standard p�
 
 > (1) Exekutor vykonává exekuční a další činnost za úplatu.
 > (2) Činnost exekutora je neslučitelná s jinou výdělečnou činností s výjimkou správy vlastního majetku. Exekutor však může vykonávat i za úplatu činnost vědeckou, publikační, pedagogickou, tlumočnickou, znaleckou, uměleckou a činnost v poradních orgánech vlády, ministerstev, jiných ústředních orgánů státní správy a v orgánech samosprávy.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 290/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-290-05) — nález, 23. 2. 2006
+  > „Jestliže na jedné straně zákonodárce vyjádřil zcela zjevně svůj úmysl, aby exekutor vykonával svou činnost za úplatu, přičemž toto ustanovení chrání jeho nezávislost, nelze další ustanovení téhož právního předpisu aplikovat a interpretovat zcela opačně … Jestliže tedy obecný soud při svém rozhodování zcela pominul kogentní ustanovení § 3 zákona č. 120/2001 Sb. a nárok na úplatu stěžovateli odepřel, vymyká se jeho rozhodnutí zcela zjevně nosnému principu, na němž je zákon č. 120/2001 Sb. vybudován, a ohrožuje i pro futuro nezávislost exekutora"
 
 ### Výklad / smysl ustanovení
 
@@ -291,6 +303,11 @@ Paragraf 7 zakládá **tříúrovňový systém dohledu** nad exekutory, jaký u
 
 > (1) Drobné nedostatky v exekuční a další činnosti exekutora, drobné nedostatky v činnosti exekutorského kandidáta nebo exekutorského koncipienta nebo drobné poklesky v chování ministerstvo, Komora nebo předseda okresního soudu exekutorovi, kandidátovi nebo koncipientovi písemně vytkne.
 > (2) Neprokáže-li se, že exekutor provedl veškerá opatření, která lze po něm spravedlivě požadovat při řízení exekutorského úřadu podle § 13 odst. 1, vytkne ministerstvo, Komora nebo předseda okresního soudu exekutorovi i drobné nedostatky v činnosti nebo drobné poklesky v chování jeho zaměstnanců.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 17/2023 - 65](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738118) — 10. 12. 2024
+  > „[N]a ukládání výtky dle § 7a zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti, ve znění pozdějších předpisů … se nevztahují lhůty uvedené v § 117 odst. 3 téhož zákona a v § 9 odst. 1 zákona č. 7/2002 Sb. To však neznamená, že by výtku bylo možné uložit bez jakéhokoliv časového omezení. Orgán ukládající výtku je i v tomto ohledu limitován základními zásadami činnosti správních orgánů (mj. zásadou minimalizace zásahů do právní sféry dotčeného subjektu a zásadou rychlosti a hospodárnosti postupu správního orgánu)"
 
 ### Výklad / smysl ustanovení
 

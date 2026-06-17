@@ -279,7 +279,7 @@ Tři klíčové prvky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — 23. 2. 2023, kat. A
+- *NS* [20 Cdo 3578/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F1B1B0D9C8B3B3C12589B700181563?openDocument) — kat. A, 23. 2. 2023
   > „Podílem na odměně ve smyslu ustanovení § 15 odst. 6 exekučního řádu se rozumí i podíl na náhradě hotových výdajů, jakož i na dalších náhradách podle § 90 odst. 1 exekučního řádu"
 
 #### Výklad
@@ -598,6 +598,11 @@ Stejné důvody jako § 22 (vyjma písm. g — kandidát už nemá kam postupova
 > d) je v pracovním poměru u exekutora po dobu nejméně **6 měsíců**,
 > e) složil **kvalifikační zkoušku vykonavatele exekutora**.
 > (4) Rozsah a způsob kvalifikační zkoušky vykonavatele exekutora určí Komora podle § 110 odst. 7 písm. c) a § 110 odst. 8.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1195/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1195-10_1) — usnesení, 17. 5. 2012
+  > „Nelze vznést žádné ústavněprávní námitky proti závěru obecných soudů, že exekuční sepsání a zajištění věcí patří mezi tzv. jednoduché úkony, jejichž provedením může soudní exekutor pověřit svého zaměstnance, jak to umožňuje ustanovení § 27 odst. 2 exekučního řádu"
 
 #### Výklad
 

@@ -94,6 +94,11 @@ To umožňuje **dlužníkovi** přehled o postupu (a o tom, kolik už zaplatil z
 > (2) **Oprávněnými osobami** jsou **účastníci exekučního řízení, jejich právní nástupci, zástupci těchto osob a znalec**, pokud ho příslušný orgán uvedený v odstavci 1 za znalce ustanovil a uložil mu povinnost nahlédnout do spisu.
 > (3) **Každému, kdo na tom má právní zájem nebo kdo pro to má vážné důvody**, exekutor na žádost povolí, aby nahlédl do exekučního spisu a aby si z něho učinil výpisy nebo opisy, ledaže jde o spis, o němž právní předpisy stanoví, že jeho obsah musí zůstat utajen.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Kse 28/2009 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/624808) — 6. 6. 2012
+  > „Mezi orgány oprávněnými nahlížet do spisů a vyžadovat jejich zapůjčení jsou i soudy (§ 95 odst. 1 exekučního řádu). Předseda okresního soudu mohl tedy jménem soudu vznést vůči kárně obviněnému písemnou a odůvodněnou žádost o nahlédnutí do spisu, o jeho zapůjčení nebo předání kopií určitých listin ze spisu. Tomuto oprávnění koresponduje povinnost kárně obviněného exekutora žádosti vyhovět"
+
 ### Výklad
 
 **Trojí stupně přístupu:**
@@ -114,6 +119,11 @@ To umožňuje **dlužníkovi** přehled o postupu (a o tom, kolik už zaplatil z
 ### § 96, § 96a — Půjčování spisů
 
 > Exekutor předá kopie požadovaných listin z exekučního spisu, případně kopii celého spisu na základě písemné žádosti orgánům činným v trestním řízení, soudům, finančním úřadům, katastrálním úřadům a znalcům. Nepostačí-li poskytnutí kopií listin nebo kopie celého spisu, umožní exekutor osobám pověřeným těmito orgány nahlížení do spisu; jen je-li to zcela nezbytné, spis jim zapůjčí. Na půjčování spisů ministerstvu se vztahuje § 7 odst. 4 písm. a); obdobně se postupuje při předkládání věci soudu v souvislosti s rozhodováním soudu v exekučním řízení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Kse 28/2009 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/624808) — 6. 6. 2012
+  > „Ustanovení § 96 exekučního řádu upravuje pravidla pro půjčování spisů vedených exekutorem, je zde stanovena jeho povinnost předat kopie požadovaných listin, případně na nezbytně nutnou dobu celé spisy, na základě odůvodněné písemné žádosti mimo jiné soudům. … Tomuto oprávnění koresponduje povinnost kárně obviněného exekutora žádosti vyhovět. … Musí se jednat výslovně o žádosti o příslušný úkon, tj. zde zapůjčení spisu, žádost musí být obligatorně odůvodněná"
 
 ### Výklad
 
