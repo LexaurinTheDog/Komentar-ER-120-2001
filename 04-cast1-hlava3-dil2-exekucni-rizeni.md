@@ -67,6 +67,42 @@ Díl 2 je **vlastním tělem procesního exekučního práva**. Pokrývá celý 
 - **§ 648 OZ** — stavení promlčení.
 - **§ 109 IZ** — přerušení exekuce zahájením insolvenčního řízení.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Věřitel V (banka) má vůči dlužníku D vykonatelný platební rozkaz na 80 000 Kč. Dne 3. 3. v 9:14 podá exekuční návrh u exekutora E1. Téhož dne v 11:02 z opatrnosti (chybou interního systému) podá totožný návrh i u exekutora E2. Mezitím se D dozví o hrozící exekuci a 4. 3. převede vozidlo na bratra. Důkazy: exekuční návrhy s časovými razítky (přesnost na minutu), výpisy z RZE, kupní smlouva o vozidle, datum zápisu žádostí o pověření.
+
+**2. Právní otázka.** Který z exekutorů povede exekuci a od kterého okamžiku nastávají účinky zahájení vůči promlčení a pořadí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 — řízení návrhové (odst. 1), zahájeno dnem, hodinou a minutou doručení návrhu exekutorovi (odst. 2), priorita prvního zápisu v RZE (odst. 4), zákaz zjišťování/zajišťování majetku do pověření (odst. 3).
+- *Související ustanovení téhož zákona:* § 35b (RZE jako evidence pořadí), § 43a (pověření, max. 15+15 dnů), § 44a (generální inhibitorium až po vyrozumění).
+- *Související předpisy:* § 648 OZ (stavení promlčení uplatněním práva u orgánu veřejné moci), § 109 IZ (přerušení exekuce insolvencí), § 58 OSŘ a § 228 OSŘ (vyloučené prominutí zmeškání a obnova — odst. 5).
+- *Judikatura:* nosně NS k povaze zahájení a pořadí exekucí — řízení je zahájeno již doručením návrhu exekutorovi, nikoli pověřením soudu; tato skutečnost staví promlčení.
+
+**4. Subsumpce.** Návrh u E1 došel dříve (9:14 < 11:02), proto je v RZE zapsán jako první — exekuci vede E1 (odst. 4); řízení u E2 se zastaví jako duplicitní. Účinky zahájení (stavení promlčení podle § 648 OZ) nastaly 3. 3. v 9:14. Převod vozidla 4. 3. však spadá do mezidobí před pověřením a před vyrozuměním — generální inhibitorium ještě neběží (§ 44a se váže na doručení vyrozumění), takže dispozice není postižena režimem § 44a, nýbrž případně odporovatelností (§ 589 OZ).
+
+**5. Řešení.** Vede E1; V vezme návrh u E2 zpět nebo bude zastaven. Promlčení je staveno od 3. 3. Vozidlo nelze postihnout cestou neplatnosti podle § 44a (inhibitorium dosud nevzniklo) — V musí zvolit relativní neúčinnost (odporovatelnost) podle § 589 a násl. OZ. Procesně: ověřit pořadí v RZE, zkontrolovat časová razítka.
+
+**6. Varianty.** (a) Kdyby D převedl vozidlo až po doručení vyrozumění, šlo by o porušení § 44a (relativní neplatnost). (b) Kdyby V podal nejdřív návrh u E2 (11:02 jako jediný), vedl by E2 — pořadí by se posunulo.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozhodující je pověření soudu, ne doručení návrhu." Neutralizace: odst. 2 výslovně váže zahájení na doručení návrhu exekutorovi s přesností na minutu; pověření (§ 43a) je samostatný pozdější akt.
+- *Protiargument:* „D mohl s majetkem nakládat, dokud nebyl pověřen exekutor." Částečně platné — do vyrozumění neběží inhibitorium; věřitel je odkázán na odporovatelnost, což je důkazně náročnější (úmysl zkrátit věřitele).
+- *Slabé místo:* spoléhání na časová razítka — při technickém výpadku systému exekutora může být minuta sporná; podklad je třeba zajistit z RZE.
+
+### H. Praktický závěr
+
+Zahájení exekuce je návrhové a fixované na minutu doručení návrhu exekutorovi; tento okamžik staví promlčení a určuje pořadí přes RZE, nikoli pozdější pověření soudu.
+
+**Checklist (advokát / soud / exekutor / oprávněný):**
+- [ ] Ověřit přesné časové razítko doručení návrhu (den, hodina, minuta).
+- [ ] Zkontrolovat, zda nebyl podán souběžný návrh (RZE) — riziko zastavení duplicit.
+- [ ] Respektovat zákaz zjišťování/zajišťování majetku do vydání pověření (odst. 3).
+- [ ] Posoudit dispozice povinného před vyrozuměním cestou odporovatelnosti, nikoli § 44a.
+
+**Typicky rozhodné důkazy / podklady:** exekuční návrh s časovým razítkem, výpis z RZE, žádost o pověření, datum doručení pověření a vyrozumění.
+
 ---
 
 ## § 35a, § 35b — Rejstřík zahájených exekucí (RZE)
@@ -84,6 +120,42 @@ Díl 2 je **vlastním tělem procesního exekučního práva**. Pokrývá celý 
 - nástroj proti **multiplikaci** exekucí (§ 37 odst. 5—7 — spojení exekucí),
 - vstup do **změny exekutora** (§ 44b — zápis nového exekutora),
 - informační podklad pro **náklady exekuce** a jejich kontrolu.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O zahájil u exekutora E2 exekuci proti povinnému P. Vyjde najevo, že O omylem podal dříve obdobný návrh i u exekutora E1 ve stejné věci. Současně soud při rozhodování o pověření zjišťuje z RZE, zda už proti P neběží jiná řízení vhodná ke spojení. Důkazy: výpisy z RZE u obou exekutorů, data a časy zápisu žádostí o pověření, údaje o doložce provedení exekuce.
+
+**2. Právní otázka.** Slouží RZE jako závazný podklad pro určení pořadí a koordinaci exekucí, a kdo do něj má přístup?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35a (provozovatel — ministerstvo, neveřejnost), § 35b (14 evidovaných údajů, doba uchování 25 let, omezený přístup exekutora ke svým řízením + položkám l, m).
+- *Související ustanovení téhož zákona:* § 35 odst. 4 (priorita prvního zápisu), § 43a (zápis údajů při žádosti o pověření), § 44b (zápis nového exekutora), § 37 odst. 5—7 (spojení exekucí), § 125 (veřejná CEE — odlišný rejstřík).
+- *Související předpisy:* zákon o ochraně osobních údajů / GDPR (neveřejnost a omezený přístup k údajům povinného).
+- *Judikatura:* RZE je interní evidence; její údaje slouží soudu a Komoře, nikoli jako veřejný informační zdroj (na rozdíl od CEE podle § 125).
+
+**4. Subsumpce.** RZE eviduje obě řízení O proti P; zápis u E1 předchází zápisu u E2, proto E1 má prioritu (§ 35 odst. 4). Soud z RZE čerpá podklad pro pověření i pro případné spojení podle § 37. Přístup E2 je omezen na jeho vlastní řízení a na položky l, m o prodeji movitých u jiných exekutorů (anti-duplikace).
+
+**5. Řešení.** Soud/exekutor podle RZE určí vedoucí řízení (E1), duplicitní řízení u E2 se zastaví. Praktické kroky: lustrace RZE před vydáním pověření, kontrola data doložky provedení exekuce (§ 52 odst. 3) pro pořadí uspokojení.
+
+**6. Varianty.** (a) Kdyby šlo o různé tituly (různé pohledávky), nejde o „tutéž věc" a obě exekuce mohou běžet samostatně (případně spojení podle § 37 odst. 5—7). (b) Kdyby jeden z exekutorů zanikl (§ 15 odst. 5), v RZE se zapíše nový exekutor podle § 44b.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Údaje z RZE jsou veřejně ověřitelné jako v CEE." Neutralizace: RZE je neveřejný, slouží jen soudům, Komoře a exekutorovi pro vlastní řízení — veřejný je až CEE (§ 125).
+- *Protiargument:* „Pořadí lze měnit dohodou." Neutralizace: pořadí je dáno objektivně časem zápisu, nikoli vůlí účastníků.
+- *Slabé místo:* technické chyby zápisu nebo prodlení mohou zkreslit pořadí; nutno doložit zdrojovými časovými údaji.
+
+### H. Praktický závěr
+
+RZE je neveřejná páteřní evidence exekucí sloužící k určení pořadí, koordinaci a zápisu klíčových procesních okamžiků; pro veřejné ověření existence exekuce slouží CEE.
+
+**Checklist (soud / exekutor / Komora):**
+- [ ] Před pověřením lustrovat RZE (priorita, duplicity, spojení).
+- [ ] Zapsat údaje § 35b odst. 1 písm. a), c), e)—h) při žádosti o pověření.
+- [ ] Hlídat zápis doložky provedení exekuce (pořadí uspokojení).
+- [ ] Respektovat omezený rozsah přístupu exekutora k cizím řízením.
+
+**Typicky rozhodné důkazy / podklady:** výpis z RZE, žádost o pověření, záznam o doložce provedení exekuce, evidence prodeje movitých (písm. l, m).
 
 ---
 
@@ -124,6 +196,42 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 **Bez listiny vydané/ověřené státním orgánem nebo notářem nelze přechod prokázat** — vyloučení neformálních dokladů. Výjimka: pokud přechod vyplývá **přímo ze zákona** (typicky univerzální sukcese při fúzi obchodních společností — § 178 zákona o přeměnách).
 
 **Odst. 5 — procesní nástupnictví:** pokud k přechodu/převodu práva dojde **po zahájení řízení**, právní nástupce vstupuje do řízení **automaticky** a **přijímá stav řízení** v okamžiku vstupu (analogie § 107a OSŘ).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Věřitel V získal vykonatelný rozsudek proti dlužníku D na 200 000 Kč. V postoupil pohledávku faktoringové společnosti F smlouvou o postoupení s úředně ověřenými podpisy. F chce vést exekuci. Současně je D ženatý a exekutor zvažuje postih majetku v SJM, takže do řízení vstupuje i manželka M. Důkazy: exekuční titul, smlouva o postoupení s ověřenými podpisy, oddací list / údaj o SJM.
+
+**2. Právní otázka.** Může F vést exekuci, ač není uveden v titulu, a jaké procesní postavení má manželka M?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 — účastníci oprávněný a povinný (odst. 1), manžel povinného jako účastník u SJM (odst. 2), exekuce pro/proti jinému jen při prokázaném přechodu (odst. 3), důkaz jen listinou vydanou/ověřenou státním orgánem nebo notářem (odst. 4).
+- *Související ustanovení téhož zákona:* § 37 (kdo může podat návrh), § 42 (SJM, Seznam listin), § 44a (inhibitorium i na SJM).
+- *Související předpisy:* § 1879 a násl. OZ (postoupení pohledávky), § 107a a § 256 OSŘ (procesní nástupnictví, přechod práva), § 262b a § 267 OSŘ (obrana manžela), § 178 zák. o přeměnách (univerzální sukcese ze zákona).
+- *Judikatura:* NS — přechod práva z titulu se prokazuje kvalifikovanou listinou (např. usnesení o zastavení dřívějšího řízení, dědické usnesení); zastavení dřívější exekuce dlužníka může být listinou o přechodu práva.
+
+**4. Subsumpce.** F prokazuje přechod práva smlouvou o postoupení s úředně ověřenými podpisy — to je listina ve smyslu odst. 4 (ověřená notářem/úřadem). F se tak stává oprávněným (odst. 3). M se stává účastníkem automaticky, jakmile je postihován majetek v SJM (odst. 2), s plnými procesními právy (§ 262b, § 267 OSŘ).
+
+**5. Řešení.** F je legitimován vést exekuci. Exekutor zapíše M jako účastníka při postihu SJM. Neformální doklad (prostá e-mailová dohoda) by nestačil — bez kvalifikované listiny by exekutor přechod neuznal. Procesně: doložit ověřenou smlouvu, ověřit rozsah SJM.
+
+**6. Varianty.** (a) Kdyby přechod plynul přímo ze zákona (fúze společností), listina by nebyla třeba (odst. 4 in fine). (b) Kdyby byl postižen jen výlučný majetek D, M by účastníkem nebyla.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Postoupení stačí doložit prostou smlouvou." Neutralizace: odst. 4 vyžaduje listinu vydanou/ověřenou státním orgánem nebo notářem; jinak přechod neprokázán.
+- *Protiargument:* „Manžel není účastníkem, dokud se sám nepřihlásí." Neutralizace: odst. 2 zakládá účastenství ex lege při postihu SJM/majetku manžela.
+- *Slabé místo:* sporné okamžiky vzniku závazku ve vztahu k SJM (řeší § 42); riziko záměny mezi přechodem práva (§ 36) a procesním nástupnictvím (§ 107a OSŘ).
+
+### H. Praktický závěr
+
+Účastníky jsou oprávněný, povinný a — u postihu SJM — manžel povinného; změnu osoby na straně oprávněného/povinného lze prokázat jen kvalifikovanou listinou nebo přímo ze zákona.
+
+**Checklist (advokát / exekutor / soud):**
+- [ ] Ověřit, zda navrhovatel je oprávněný z titulu, nebo doložit přechod kvalifikovanou listinou.
+- [ ] Při postihu SJM zařadit manžela jako účastníka a doručovat mu.
+- [ ] Posoudit, zda přechod plyne přímo ze zákona (pak bez listiny).
+- [ ] Poučit manžela o obraně podle § 262b a § 267 OSŘ.
+
+**Typicky rozhodné důkazy / podklady:** exekuční titul, ověřená smlouva o postoupení / dědické usnesení / doklad o sukcesi, doklad o existenci a rozsahu SJM.
 
 ---
 
@@ -197,6 +305,42 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 
 **Logika spojování**: ochrana **bagatelního povinného** před koncentrovaným útokem věřitelů — namísto 5 paralelních exekucí jedna společná. Vedoucí exekutor = ten, kterého určí soud (typicky ten s nejstarší věcí).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Proti povinnému P (fyzická osoba, bagatelní dlužník) vede 4 různých exekutorů 4 exekuce, vždy pro pohledávky pod 50 000 Kč, z nichž 3 mají oprávněné, kteří byli původními věřiteli P. P podá návrh na spojení exekucí. Souběžně jiný věřitel chce vést exekuci podle titulu „péče o nezletilé" (úprava styku). Důkazy: 4 exekuční tituly, výpis z RZE, doklad o výši jednotlivých pohledávek, doklady o totožnosti původních věřitelů.
+
+**2. Právní otázka.** Lze 4 bagatelní exekuce proti témuž povinnému spojit ke společnému řízení a lze podle EŘ vést exekuci o úpravě styku s nezletilým?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 — vyloučené tituly (odst. 3: péče o nezletilé, ochrana před domácím násilím, rozhodnutí orgánů EU, cizí rozhodnutí bez exequatur), výjimky (odst. 4: výživné na nezletilé, cizí rozhodnutí s prohlášením vykonatelnosti/uznáním), spojení exekucí (odst. 5—7).
+- *Související ustanovení téhož zákona:* § 36 (legitimace), § 35 odst. 4 a § 35b (RZE), § 45 (příslušný soud rozhodující o spojení).
+- *Související předpisy:* § 202 odst. 2 OSŘ (hranice bagatelu — 50 000 Kč), § 502 a násl. ZŘS (výkon rozhodnutí o péči o nezletilé soudem), § 76b OSŘ (ochrana před domácím násilím).
+- *Judikatura:* NS — při ztrátě výhody splátek lze žádat celý dluh, i když dlužník opožděně uhradil zmeškanou splátku; dohoda o neuplatnění pohledávky vůči zástavnímu dlužníkovi není sama o sobě v rozporu s dobrými mravy.
+
+**4. Subsumpce.** Tituly jsou peněžité, pod 50 000 Kč (§ 202/2 OSŘ), oprávnění jsou původní věřitelé P, řízení jsou alespoň 2 — splněny podmínky § 37 odst. 6. Exekuční soud na návrh P řízení spojí a určí vedoucího exekutora (odst. 7). Naproti tomu úprava styku s nezletilým spadá pod odst. 3 písm. a) — vyloučeno z EŘ (výkon vede soud podle ZŘS), s výjimkou výživného na nezletilé (odst. 4 písm. a).
+
+**5. Řešení.** Soud exekuce spojí (ledaže stav řízení brání — odst. 7 in fine), určí vedoucího exekutora a přizná ostatním náhradu účelných hotových výdajů. Exekuci o styku s nezletilým exekutor nevede; oprávněný se musí obrátit na soud (ZŘS). Procesní kroky: návrh P na spojení, vyjádření exekutorů, usnesení o spojení.
+
+**6. Varianty.** (a) Kdyby jeden z oprávněných nebyl původním věřitelem ani jeho nástupcem, podmínka písm. a) by chyběla a spojení by nemuselo nastat. (b) Šlo-li by o výživné na nezletilé, exekuce podle EŘ by byla přípustná (odst. 4 písm. a).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spojení je automatické na návrh povinného vždy." Neutralizace: musí být kumulativně splněny podmínky odst. 6 (původní věřitel, bagatel, ≥2 řízení) a soud nespojí, nehodí-li se řízení ke spojení (odst. 7).
+- *Protiargument:* „Výživné je péče o nezletilé, tedy vyloučeno." Neutralizace: odst. 4 písm. a) výslovně připouští exekuci výživného na nezletilé.
+- *Slabé místo:* prokázání, že oprávněný byl věřitelem v době vzniku dluhu (postupníci); riziko zdržení při kolizi stavů jednotlivých řízení.
+
+### H. Praktický závěr
+
+EŘ pokrývá vykonatelné soudní i jiné tituly včetně výživného na nezletilé, vylučuje však péči o nezletilé, ochranu před domácím násilím a cizí/EU tituly bez exequatur; bagatelní exekuce proti témuž povinnému lze na jeho návrh spojit.
+
+**Checklist (advokát / soud / exekutor):**
+- [ ] Ověřit, zda titul vůbec patří do EŘ (odst. 3 vs. odst. 4).
+- [ ] U cizích titulů zajistit prohlášení vykonatelnosti / uznání.
+- [ ] Při více bagatelních exekucích zvážit návrh na spojení (odst. 6).
+- [ ] V usnesení o spojení určit vedoucího exekutora a náhradu výdajů ostatním.
+
+**Typicky rozhodné důkazy / podklady:** exekuční tituly, výpis z RZE, doklady o výši pohledávek a o osobě původního věřitele, doklad o exequatur u cizích titulů.
+
 ---
 
 ## § 38 — Náležitosti návrhu
@@ -223,6 +367,42 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 - u cizích rozhodnutí — **prohlášení vykonatelnosti / rozhodnutí o uznání / osvědčení EU**.
 
 **Doložka vykonatelnosti** — viz § 41 — vyznačuje ji **orgán, který titul vydal** (soud, který rozhodl; správní úřad, který vydal exekuční výměr; rozhodčí senát; orgán schvalující smír). Bez doložky nelze exekuci vést — § 39 odst. 2 in fine: bez titulu se návrh **odmítne**.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O podá exekuční návrh, k němuž přiloží titul z blokového řízení (pokuta na místě nezaplacená). K návrhu připojí jen prostou fotokopii části pokutového bloku bez doložky vykonatelnosti a neuvede, kolik povinný P již dobrovolně uhradil. Důkazy: exekuční návrh, pokutový blok (díl A), doložka vykonatelnosti, doklady o případném dílčím plnění.
+
+**2. Právní otázka.** Jsou splněny náležitosti návrhu a povinné přílohy, zejména řádné doložení vykonatelného exekučního titulu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 odst. 1 (povinné údaje: exekutor, navrhovatel, účastníci, titul, vymáhaná povinnost, rozsah dosud splněného, důkazy), odst. 2 (originál/úředně ověřená kopie titulu s doložkou vykonatelnosti, příp. exequatur/uznání/EU osvědčení).
+- *Související ustanovení téhož zákona:* § 39 (následky vad — výzva, odmítnutí), § 40 (typy titulů), § 41 (doložka vykonatelnosti), § 43a (žádost o pověření a zasílané listiny).
+- *Související předpisy:* zákon o odpovědnosti za přestupky a předpisy o blokovém řízení; § 274 OSŘ.
+- *Judikatura:* NS (20 Cdo 912/2005) — u blokové pokuty oprávněný splní přílohovou povinnost předložením té části bloku s podepsaným prohlášením povinného a doložením typu pokutového bloku.
+
+**4. Subsumpce.** Návrh postrádá údaj o rozsahu dobrovolného splnění (§ 38 odst. 1) a chybí doložka vykonatelnosti na titulu (§ 38 odst. 2). U blokové pokuty však podle judikatury postačí předložit příslušnou část bloku s podepsaným prohlášením a doložením typu bloku — to je v dané situaci ekvivalent řádného doložení titulu. Prostá fotokopie bez tohoto obsahu nestačí.
+
+**5. Řešení.** Exekutor vyzve O k doplnění (§ 39 odst. 1, do 15 dnů). Doloží-li O řádně část bloku s prohlášením a typ bloku a údaj o splněném, návrh je úplný. Nedoloží-li titul, hrozí odmítnutí (§ 39 odst. 2). Procesní kroky: výzva k doplnění s poučením, doplnění příloh.
+
+**6. Varianty.** (a) Kdyby šlo o soudní rozsudek bez doložky vykonatelnosti, O by ji musel nechat vyznačit soudem, který rozhodl (§ 41). (b) U cizího rozhodnutí by bylo třeba přiložit prohlášení vykonatelnosti / osvědčení EU.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Fotokopie titulu stačí." Neutralizace: odst. 2 vyžaduje originál nebo úředně ověřenou kopii s doložkou vykonatelnosti (u blokové pokuty specifický režim dle judikatury).
+- *Protiargument:* „Údaj o dosud splněném není podstatný." Neutralizace: odst. 1 jej výslovně vyžaduje; jeho absence je vadou odstranitelnou výzvou.
+- *Slabé místo:* riziko, že O nedoplní ve lhůtě → odmítnutí; u atypických titulů (bloky) nejistota o formě doložení.
+
+### H. Praktický závěr
+
+Návrh musí přesně identifikovat účastníky, titul a vymáhanou povinnost včetně dosud splněného a být doložen originálem/ověřenou kopií titulu s doložkou vykonatelnosti; jinak následuje výzva k doplnění a případně odmítnutí.
+
+**Checklist (advokát / oprávněný / exekutor):**
+- [ ] Uvést všechny identifikační údaje účastníků a přesné označení titulu.
+- [ ] Uvést rozsah dosud splněné povinnosti.
+- [ ] Přiložit originál/ověřenou kopii titulu s doložkou vykonatelnosti.
+- [ ] U specifických titulů (bloková pokuta) doložit podle požadavků judikatury.
+
+**Typicky rozhodné důkazy / podklady:** exekuční návrh, exekuční titul s doložkou vykonatelnosti, doklad o dosud splněném plnění, případně exequatur/uznání.
 
 ---
 
@@ -252,6 +432,42 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 | **Zastavení** (odst. 4) | důvody zastavení (např. zaplaceno) | usnesení |
 
 **Specifický režim u cizích rozhodnutí (odst. 5)**: pokud byl podán návrh na prohlášení vykonatelnosti/uznání, exekutor **musí čekat na pokyn soudu** — soud nejprve rozhodne o exequatur a teprve pak vydá pověření nebo pokyn k odmítnutí/zamítnutí (§ 43a odst. 6).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O podá exekuční návrh, k němuž nepřiloží žádný exekuční titul (titul je „v archivu, dodá později"). V jiné věci O podá návrh, kde titul existuje, ale z dokladů přiložených k návrhu plyne, že pohledávka již zanikla zaplacením. Důkazy: exekuční návrh, (chybějící) titul, doklady o zaplacení.
+
+**2. Právní otázka.** Jakým procesním úkonem exekutor reaguje na (a) chybějící titul a na (b) zjevně zaniklou pohledávku před vydáním pověření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 — výzva k opravě/doplnění do 15 dnů (odst. 1), odmítnutí při neodstraněných vadách nebo chybějícím titulu (odst. 2), zamítnutí při nesplnění věcných předpokladů ve lhůtě podle § 43a odst. 1 (odst. 3), zastavení (odst. 4), zvláštní režim u exequatur (odst. 5).
+- *Související ustanovení téhož zákona:* § 38 (náležitosti a přílohy), § 43a (lhůty, pokyn soudu), § 55 a § 268 OSŘ (zastavení), § 55c (odvolání proti usnesení).
+- *Související předpisy:* § 43 OSŘ (jehož aplikace je u návrhu na odklad vyloučena — srv. § 54; zde se naopak výzva podle § 39 použije), § 268 OSŘ (důvody zastavení).
+- *Judikatura:* obecně — chybějící či nevykonatelný titul vede k odmítnutí/zamítnutí návrhu; soud udílí exekutorovi pokyn (§ 43a odst. 6).
+
+**4. Subsumpce.** (a) Chybějící titul je výslovným důvodem odmítnutí (odst. 2) — vada je sice „doplnitelná" výzvou (odst. 1), ale není-li titul doložen, exekutor návrh odmítne. (b) Zjevně zaniklá pohledávka je nesplněním věcného předpokladu — exekutor zamítne (odst. 3) nejpozději ve lhůtě podle § 43a odst. 1, případně zastaví (odst. 4), je-li zaplaceno až po podání.
+
+**5. Řešení.** (a) Výzva k doplnění titulu (15 dnů); nedoplní-li O, odmítnutí usnesením s poučením. (b) Zamítnutí (zaniklý nárok plynoucí z dokladů) nebo zastavení. Proti usnesení je přípustné odvolání (§ 55c). Procesní kroky: výzva, usnesení, poučení o následcích.
+
+**6. Varianty.** (a) Byl-li současně podán návrh na exequatur, exekutor rozhoduje o zamítnutí/zastavení jen na pokyn soudu (odst. 5, § 43a odst. 6). (b) Šlo-li jen o nesrozumitelnost návrhu (ne chybějící titul), postačí výzva k opravě a po opravě pokračování.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Chybějící titul lze vždy doplnit, nelze rovnou odmítnout." Neutralizace: odst. 2 výslovně spojuje absenci titulu s odmítnutím; výzva je namístě, ale neúspěch vede k odmítnutí.
+- *Protiargument:* „O zaplacení rozhodne až soud při zastavení." Neutralizace: plyne-li zánik z dokladů u návrhu, exekutor zamítne již v rámci § 39 odst. 3.
+- *Slabé místo:* hranice mezi odmítnutím (procesní vada/chybějící titul) a zamítnutím (věcný předpoklad) může být sporná; u exequatur je exekutor vázán pokynem soudu.
+
+### H. Praktický závěr
+
+Vady návrhu se řeší výzvou k opravě (15 dnů), chybějící titul či neodstraněné vady vedou k odmítnutí, nesplnění věcných předpokladů k zamítnutí a důvody podle § 268 OSŘ k zastavení; u cizích titulů jedná exekutor jen na pokyn soudu.
+
+**Checklist (exekutor / soud / oprávněný):**
+- [ ] Posoudit, zda jde o odstranitelnou vadu (výzva) nebo chybějící titul (odmítnutí).
+- [ ] Při zjevném zániku nároku z dokladů zvážit zamítnutí/zastavení.
+- [ ] U exequatur vyčkat pokynu soudu (§ 43a odst. 6).
+- [ ] Poučit o opravném prostředku (§ 55c).
+
+**Typicky rozhodné důkazy / podklady:** exekuční návrh, exekuční titul a doložka vykonatelnosti, doklady o zániku/splnění pohledávky, případně rozhodnutí o exequatur.
 
 ---
 
@@ -309,6 +525,42 @@ To je důležité — manžel nemůže být „němým svědkem" exekuce vůči 
 
 **Prodej zástavy (odst. 4)**: pro exekuci podle titulu o prodeji zástavy musí titul obsahovat **identifikaci 4 prvků**: oprávněný, povinný, zástava, výše zajištěné pohledávky vč. příslušenství.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O předloží jako titul rozhodčí nález vydaný rozhodcem určeným podle rozhodčí doložky, která neobsahuje přímé určení rozhodce ad hoc a odkazuje jen na seznam rozhodců a rozhodčí řád vydaný soukromou osobou. Povinný P namítá, že nález není způsobilým titulem. Důkazy: rozhodčí nález, znění rozhodčí doložky, rozhodčí řád.
+
+**2. Právní otázka.** Je rozhodčí nález vydaný na základě takto formulované doložky způsobilým exekučním titulem podle § 40 odst. 1 písm. c)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 — taxativní výčet titulů (odst. 1 písm. a—f), lhůta plnění při absenci určení (odst. 2: 3 dny, 15 dnů u vyklizení bytu), dělitelné plnění více povinných rovným dílem (odst. 3), prodej zástavy (odst. 4).
+- *Související ustanovení téhož zákona:* § 41 (doložka vykonatelnosti), § 38 (přílohy), § 39/§ 43a (odmítnutí/zamítnutí nezpůsobilého titulu).
+- *Související předpisy:* zákon č. 216/1994 Sb. o rozhodčím řízení; § 39 obč. zák. / § 580 OZ (neplatnost); § 71b notářského řádu (notářský zápis se svolením k vykonatelnosti).
+- *Judikatura:* NS (21 Cdo 174/2014) — doložka odkazující jen na seznam rozhodců a rozhodčí řád soukromé osoby je neplatná; nález vydaný takovým rozhodcem není způsobilým titulem (rozhodce neměl pravomoc). NS (31 Cdo 225/2024) — notářský zápis se svolením k vykonatelnosti k vyklizení nemovitosti je způsobilým titulem.
+
+**4. Subsumpce.** Rozhodčí doložka bez přímého určení rozhodce a s odkazem na soukromý seznam/řád je neplatná; rozhodce neměl pravomoc, proto nález není titulem podle § 40 odst. 1 písm. c). Návrh opřený o takový nález je věcně nezpůsobilý.
+
+**5. Řešení.** Exekutor (resp. soud pokynem podle § 43a odst. 6) návrh zamítne / odmítne pro nezpůsobilý titul; běží-li již exekuce, P se brání návrhem na zastavení (§ 268 odst. 1 písm. h) OSŘ). Procesní kroky: posouzení platnosti doložky, doložení znění rozhodčího řádu.
+
+**6. Varianty.** (a) Kdyby doložka určovala rozhodce transparentně (stálý rozhodčí soud), nález by byl způsobilým titulem. (b) U titulu neuvádějícího lhůtu by platila domněnka 3 dnů (15 dnů u vyklizení bytu — odst. 2).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pravomocný rozhodčí nález nelze v exekuci přezkoumávat." Neutralizace: exekuční soud/exekutor zkoumá způsobilost titulu (pravomoc rozhodce) — neplatná doložka činí nález nezpůsobilým.
+- *Protiargument:* „Více povinných ručí solidárně." Neutralizace: dle odst. 3 platí rovný díl, není-li solidarita v titulu výslovně uvedena.
+- *Slabé místo:* posouzení (ne)platnosti rozhodčí doložky je právně náročné; hrozí rozdílná praxe u hraničních formulací.
+
+### H. Praktický závěr
+
+Exekučním titulem je jen některý z taxativně vyjmenovaných aktů; způsobilost titulu (zejm. pravomoc rozhodce, řádné určení lhůty a způsob zavázání více povinných) je třeba ověřit před vedením exekuce.
+
+**Checklist (advokát / exekutor / soud):**
+- [ ] Zařadit titul pod některé z písm. a)—f) § 40 odst. 1.
+- [ ] U rozhodčího nálezu prověřit platnost doložky a pravomoc rozhodce.
+- [ ] Ověřit lhůtu k plnění (jinak 3 dny / 15 dnů u vyklizení).
+- [ ] U více povinných posoudit dělitelnost a (ne)existenci solidarity.
+
+**Typicky rozhodné důkazy / podklady:** exekuční titul, rozhodčí doložka a rozhodčí řád, doložka vykonatelnosti, u zástavy identifikace 4 prvků (oprávněný, povinný, zástava, výše pohledávky).
+
 ---
 
 ## § 41 — Doložka vykonatelnosti
@@ -323,6 +575,41 @@ Krátký, ale praktický paragraf. Doložku vyznačuje:
 - **Soud, který smír schválil** — u smírů.
 
 Notářský zápis (písm. d) doložku **nemá** — vykonatelnost je dána přímo zákonem (§ 274 odst. 1 písm. e OSŘ); stejnopis notářského zápisu zastupuje doložku.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O má vykonatelný rozsudek proti P. K návrhu připojí prostou kopii rozsudku, na níž soud prvního stupně vyznačil doložku vykonatelnosti razítkem a podpisem. V jiné věci jde o notářský zápis se svolením k vykonatelnosti, k němuž O doložku nehledá. Důkazy: rozsudek s doložkou, stejnopis notářského zápisu.
+
+**2. Právní otázka.** Který orgán vyznačuje doložku vykonatelnosti a vyžaduje ji i notářský zápis?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 — potvrzením o vykonatelnosti opatří titul podle § 40 odst. 1 písm. a)—c), e), f) orgán, který jej vydal; u smírů/dohod orgán, který je schválil.
+- *Související ustanovení téhož zákona:* § 40 (typy titulů), § 38 odst. 2 (přílohy návrhu), § 43 (doložení podmínek u podmíněných titulů).
+- *Související předpisy:* § 274 odst. 1 písm. e) OSŘ (vykonatelnost notářského zápisu přímo ze zákona), § 71b notářského řádu.
+- *Judikatura:* obecně — bez řádné doložky vykonatelnosti nelze vést exekuci; u notářského zápisu nahrazuje doložku jeho stejnopis.
+
+**4. Subsumpce.** Soudní rozsudek (§ 40 odst. 1 písm. a) opatřuje doložkou soud, který jej vydal — splněno. Notářský zápis (písm. d) v § 41 vyjmenován není; jeho vykonatelnost plyne přímo ze zákona (§ 274 OSŘ) a doložku nahrazuje stejnopis sepsaný notářem.
+
+**5. Řešení.** U rozsudku je doložka soudu dostatečná. U notářského zápisu O přiloží stejnopis — samostatnou doložku nepotřebuje. Procesní kroky: ověřit, že doložku vyznačil správný orgán; u notářského zápisu předložit stejnopis.
+
+**6. Varianty.** (a) U správního titulu (písm. e) opatří doložku správní úřad, který jej vydal. (b) U soudem schváleného smíru opatří doložku soud, který smír schválil.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Notářský zápis potřebuje doložku jako rozsudek." Neutralizace: § 41 jej nezahrnuje; vykonatelnost plyne ze zákona, nahrazuje ji stejnopis.
+- *Protiargument:* „Doložku může vyznačit i exekutor." Neutralizace: doložku vyznačuje výlučně orgán, který titul vydal/schválil.
+- *Slabé místo:* u méně obvyklých titulů (písm. f) je třeba ověřit, který orgán je k doložce příslušný podle zvláštního předpisu.
+
+### H. Praktický závěr
+
+Doložku vykonatelnosti vyznačuje orgán, který titul vydal nebo schválil; notářský zápis se svolením k vykonatelnosti doložku nemá — nahrazuje ji jeho stejnopis.
+
+**Checklist (advokát / oprávněný / exekutor):**
+- [ ] Ověřit, zda doložku vyznačil orgán, který titul vydal/schválil.
+- [ ] U notářského zápisu předložit stejnopis (bez samostatné doložky).
+- [ ] U správních a smírčích titulů identifikovat příslušný orgán.
+
+**Typicky rozhodné důkazy / podklady:** titul s doložkou vykonatelnosti, stejnopis notářského zápisu, doklad o orgánu, který titul vydal/schválil.
 
 ---
 
@@ -362,6 +649,42 @@ Klíčový paragraf pro **složitou agendu SJM v exekuci**.
 
 **Účet manžela povinného (odst. 4):** významná novelita 2017/258 Sb. — exekutor smí postihnout účet (peněžní prostředky) manžela povinného k vymáhání dluhu SJM, ale **jen jednou v rámci jednoho řízení**. Ochrana před opakovaným šikanózním obstavováním účtu nezúčastněného manžela.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Manželé P a M v r. 2024 smlouvou zúžili SJM tak, že rodinný dům přešel do výlučného vlastnictví M; smlouva byla téhož roku zapsána do Seznamu listin o manželském majetkovém režimu. V r. 2025 oprávněný O vymáhá vůči P dluh z půjčky vzniklé v r. 2022 (před zápisem). Exekutor zvažuje postih domu i přikázání pohledávky z účtu M. Důkazy: smlouva o zúžení SJM, výpis ze Seznamu listin (datum zápisu), exekuční titul, doklad o datu vzniku závazku.
+
+**2. Právní otázka.** Lze postihnout dům (formálně výlučný majetek M) a obstavit účet M, jde-li o dluh P vzniklý před zápisem listiny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 — zjištění obsahu Seznamu listin před EP (odst. 1), rozhodnost zápisu vůči věřiteli a domněnka vzniku závazku před zápisem (odst. 2), postih jen u skutečně změněného režimu (odst. 3), přikázání pohledávky z účtu manžela nejvýše jednou (odst. 4).
+- *Související ustanovení téhož zákona:* § 36 odst. 2 (manžel jako účastník), § 44a (inhibitorium i na SJM), § 47 (EP).
+- *Související předpisy:* § 716 a násl. OZ (smluvený režim SJM), § 35a a násl. notářského řádu (Seznam listin), § 262b a § 267 OSŘ (obrana manžela).
+- *Judikatura:* NS (20 Cdo 2610/2009) — k závazku vzniklému za trvání manželství jen povinnému lze nařídit exekuci i na nevypořádané zaniklé SJM. NS (31 Cdo 4087/2013) — významná je nejen vědomost věřitele o zúžení SJM, ale i vědomost manžela o budoucím závazku.
+
+**4. Subsumpce.** Závazek vznikl v r. 2022, tj. před zápisem listiny do Seznamu (2024); změna SJM je proto vůči O neúčinná (odst. 2), exekutor postihne dům jako součást SJM v původní podobě. Nelze-li určit, že závazek vznikl po zápisu, platí domněnka vzniku před zápisem (odst. 2 in fine). Účet M lze přikázat, ale jen jednou v rámci řízení (odst. 4).
+
+**5. Řešení.** Exekutor postihne dům a může jednou přikázat pohledávku z účtu M. M se může bránit částečným zastavením (§ 262b OSŘ), prokáže-li, že závazek vznikl až po zápisu nebo že majetek do SJM nepatří. Procesní kroky: lustrace Seznamu listin, určení data vzniku závazku.
+
+**6. Varianty.** (a) Kdyby závazek vznikl po zápisu (2025), dům by se exekuce netýkal (odst. 2). (b) Kdyby exekutor chtěl obstavit účet M podruhé, bylo by to nepřípustné (odst. 4).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dům je výlučný majetek M, nelze jej postihnout." Neutralizace: vůči věřiteli s dřívější pohledávkou je zúžení neúčinné (publicita zápisu), dům se postihne jako SJM.
+- *Protiargument:* „Účet manžela nelze v exekuci za dluh druhého obstavit." Neutralizace: odst. 4 to u dluhu SJM umožňuje, byť jen jednou.
+- *Slabé místo:* prokázání data vzniku závazku; při neurčitosti hraje proti manželovi domněnka odst. 2; riziko sporu o rozsah SJM.
+
+### H. Praktický závěr
+
+Změna SJM je vůči věřiteli účinná až zápisem do Seznamu listin; u dluhů vzniklých před zápisem (nebo při pochybnostech) se postihne SJM v původní podobě a účet manžela lze přikázat nejvýše jednou.
+
+**Checklist (exekutor / advokát / manžel povinného):**
+- [ ] Před EP lustrovat Seznam listin o manželském majetkovém režimu.
+- [ ] Určit datum vzniku závazku ve vztahu k datu zápisu listiny.
+- [ ] Při pochybnostech aplikovat domněnku vzniku před zápisem (odst. 2).
+- [ ] Přikázání účtu manžela použít nejvýše jednou (odst. 4); poučit o § 262b OSŘ.
+
+**Typicky rozhodné důkazy / podklady:** výpis ze Seznamu listin, smlouva/rozhodnutí o úpravě SJM, exekuční titul, doklad o datu vzniku závazku, případně znalecký posudek/ocenění.
+
 ---
 
 ## § 43 — Podmíněné a doložené tituly
@@ -383,6 +706,42 @@ Standardní paralela § 263 OSŘ — pro exekuci podmíněného plnění (např.
 - notářem (notářský zápis, ověřená listina).
 
 Soukromá listina s podpisy účastníků **NEstačí**.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Titul ukládá povinnému P zaplatit 150 000 Kč „proti vydání stroje" oprávněnému O (synallagmatický vztah). O podá exekuční návrh a k němu připojí jen své čestné prohlášení, že je připraven stroj vydat. V jiné variantě jde o notářský zápis, kde se dlužník zavázal plnit pohledávku ze smlouvy o budoucí smlouvě o půjčce (plnění poskytnuto až po sepisu zápisu). Důkazy: exekuční titul, doklad o splnění/připravenosti splnit vzájemnou povinnost, notářský zápis.
+
+**2. Právní otázka.** Čím musí oprávněný prokázat splnění podmínky / vzájemné povinnosti / doloženého času, aby bylo možné vydat pověření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 — prokázání splnění podmínky / vzájemné povinnosti / doloženého času (odst. 1), a to listinou vydanou nebo ověřenou státním orgánem nebo notářem (odst. 2).
+- *Související ustanovení téhož zákona:* § 43a (vydání pověření jen při splnění předpokladů), § 40 (titul), § 41 (doložka vykonatelnosti).
+- *Související předpisy:* § 263 OSŘ (paralela u výkonu rozhodnutí), § 71b notářského řádu, § 548 OZ (podmínky).
+- *Judikatura:* NS (31 Cdo 2184/2013) — plnil-li věřitel až po sepisu notářského zápisu na základě smlouvy o budoucí smlouvě, jde o podmínku, jejíž splnění je třeba prokázat způsobem dle § 43 odst. 2. NS (20 Cdo 1785/2013) — u titulu nahrazujícího dohodu vlastníků lze exekuci nařídit jen prokáže-li oprávněný splnění vzájemné povinnosti.
+
+**4. Subsumpce.** Čestné prohlášení O je soukromou listinou — nesplňuje požadavek odst. 2 (listina vydaná/ověřená státním orgánem nebo notářem). U notářského zápisu, kde plnění proběhlo po sepisu, jde o podmínku, jejíž splnění musí O prokázat kvalifikovanou listinou. Bez ní nelze vydat pověření (§ 43a).
+
+**5. Řešení.** O musí předložit kvalifikovanou listinu (např. notářsky ověřené potvrzení o předání stroje, úřední doklad o splnění podmínky). Nepředloží-li, exekutor (resp. soud pokynem) návrh zamítne. Procesní kroky: doplnit kvalifikovaný doklad o splnění/připravenosti plnit.
+
+**6. Varianty.** (a) Doloží-li O notářský zápis o převzetí stroje povinným, podmínka je prokázána a pověření lze vydat. (b) Šlo-li by o nepodmíněný titul, § 43 by se neuplatnil.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Připravenost plnit lze doložit prohlášením oprávněného." Neutralizace: odst. 2 vyžaduje listinu vydanou/ověřenou státním orgánem nebo notářem; soukromé prohlášení nestačí.
+- *Protiargument:* „Podmínka v notářském zápisu se nezkoumá." Neutralizace: dle judikatury jde o podmínku prokazovanou postupem § 43 odst. 2.
+- *Slabé místo:* obstarání kvalifikované listiny o splnění vzájemné povinnosti může být náročné (součinnost povinného); riziko zamítnutí návrhu.
+
+### H. Praktický závěr
+
+Je-li plnění v titulu vázáno na podmínku, vzájemnou povinnost oprávněného nebo doložený čas, musí oprávněný jejich splnění prokázat listinou vydanou nebo ověřenou státním orgánem či notářem; jinak pověření nelze vydat.
+
+**Checklist (advokát / oprávněný / exekutor):**
+- [ ] Zjistit, zda je titul podmíněný / synallagmatický / s doloženým časem.
+- [ ] Obstarat kvalifikovanou listinu o splnění podmínky/vzájemné povinnosti.
+- [ ] Připojit ji k potvrzení o vykonatelnosti (§ 43 odst. 2).
+- [ ] Soukromé doklady nahradit úředním/notářským ověřením.
+
+**Typicky rozhodné důkazy / podklady:** exekuční titul, kvalifikovaná listina o splnění podmínky / vzájemné povinnosti / doloženého času, notářský zápis.
 
 ---
 
@@ -452,6 +811,42 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 - **Skutečné tempo:** v praxi soudy často nedodržují 15denní lhůtu — typicky 30—60 dnů.
 - **Automatizace:** žádost se podává **elektronickým formulářem** (§ 43a odst. 2), což drasticky zrychluje masové vymáhání u velkých věřitelů (banky, mobilní operátoři).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O vymáhá pohledávku přiznanou cizím rozhodnutím (členský stát EU), které podléhá uznání podle § 14—16 ZMPS. Současně s exekučním návrhem podá návrh na uznání. Exekutor podá soudu žádost o pověření a připojí všechny listiny elektronickým formulářem. Soud zjistí, že zatím nebylo rozhodnuto o uznání. Důkazy: exekuční návrh, cizí rozhodnutí, žádost o pověření, návrh na uznání.
+
+**2. Právní otázka.** Smí soud vydat pověření dříve, než rozhodne o uznání cizího rozhodnutí, a jakou povahu pověření má?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43a — lhůta exekutora 15 dnů na žádost (odst. 1), náležitosti žádosti a elektronická forma (odst. 2), pověření do 15 dnů až po rozhodnutí o uznání/exequatur (odst. 3), obsah pověření (odst. 4), pověření není soudním rozhodnutím a nedoručuje se účastníkům (odst. 5), pokyn k odmítnutí/zamítnutí/zastavení (odst. 6).
+- *Související ustanovení téhož zákona:* § 35 odst. 3 (zákaz zjišťování do pověření), § 37 odst. 3—4 (cizí tituly), § 44 (vyrozumění po pověření), § 55c (odvolání proti usnesení dle pokynu).
+- *Související předpisy:* § 14—16 ZMPS (uznání cizích rozhodnutí), nařízení Brusel I bis (exequatur/přímá vykonatelnost).
+- *Judikatura:* NS (20 Cdo 1349/2016) — podléhá-li výkon cizího rozhodnutí § 14—16 ZMPS, lze exekuci podle EŘ provést jen po uznání zvláštním rozhodnutím soudu (rozsudkem, který je třeba odůvodnit).
+
+**4. Subsumpce.** Soud vydá pověření až poté, co rozhodl o uznání (odst. 3). Dokud uznání není, pověření vydat nelze. Pověření samo není soudním rozhodnutím (odst. 5), je proti němu vyloučen opravný prostředek; konstitutivně však zakládá oprávnění exekutora zjišťovat a zajišťovat majetek.
+
+**5. Řešení.** Soud nejprve rozhodne o uznání (odůvodněným rozhodnutím), pak vydá pověření. Nejsou-li splněny předpoklady, udělí exekutorovi pokyn k odmítnutí/zamítnutí/zastavení (odst. 6), jímž je exekutor vázán. Procesní kroky: kompletní elektronická žádost, vyčkání rozhodnutí o uznání.
+
+**6. Varianty.** (a) U přímo vykonatelného rozhodnutí EU (bez exequatur) soud vydá pověření bez samostatného uznání. (b) Nejsou-li předpoklady splněny, místo pověření přijde pokyn k zamítnutí.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Proti pověření se lze odvolat." Neutralizace: pověření není soudním rozhodnutím (odst. 5), opravný prostředek je vyloučen; bránit se lze proti následnému usnesení (§ 55c).
+- *Protiargument:* „Soud může pověřit i bez rozhodnutí o uznání." Neutralizace: odst. 3 to výslovně podmiňuje předchozím rozhodnutím o uznání/exequatur.
+- *Slabé místo:* lhůty 15+15 dnů jsou v praxi často překračovány; u cizích titulů přibývá fáze uznání, což řízení prodlužuje.
+
+### H. Praktický závěr
+
+Pověření je konstitutivní akt (nikoli soudní rozhodnutí), který soud vydá do 15 dnů po splnění předpokladů, u cizích titulů až po rozhodnutí o uznání/exequatur; nejsou-li předpoklady splněny, soud udělí závazný pokyn k odmítnutí/zamítnutí/zastavení.
+
+**Checklist (exekutor / soud / oprávněný):**
+- [ ] Podat žádost o pověření do 15 dnů (elektronický formulář, všechny listiny).
+- [ ] U cizího titulu nejprve zajistit rozhodnutí o uznání/exequatur.
+- [ ] Ověřit obsah pověření (odst. 4) — titul, účastníci, vymáhaná povinnost, náklady.
+- [ ] Respektovat, že pověření se nedoručuje účastníkům a je nenapadnutelné.
+
+**Typicky rozhodné důkazy / podklady:** exekuční návrh, exekuční titul, žádost o pověření, rozhodnutí o uznání/prohlášení vykonatelnosti, případně osvědčení podle předpisu EU.
+
 ---
 
 ## § 44 — Vyrozumění o zahájení exekuce
@@ -506,6 +901,42 @@ Soukromá listina s podpisy účastníků **NEstačí**.
 
 **Anti-šikana — odst. 4 (novela 2021/286 Sb.):** pokud je vymáhaná povinnost v **hrubém nepoměru** k majetku, který by jinak spadl pod generální inhibitorium, **exekutor může omezit zákaz dispozic jen na poměrnou část**. Typický scénář: pohledávka 5 000 Kč, povinný má dům za 5 mil. Kč — bez tohoto pravidla by celý dům spadl pod inhibitorium a manipulace s ním (např. hypotéka, prodej) by byla zablokována.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor po pověření zašle povinnému P vyrozumění o zahájení exekuce spolu s prvním exekučním příkazem. Vymáhaná pohledávka činí 6 000 Kč; P vlastní nemovitost v hodnotě 4 mil. Kč. Po doručení vyrozumění P prodá automobil sousedovi. Důkazy: doklad o doručení vyrozumění do vlastních rukou, datum prvního EP, kupní smlouva o vozidle, ocenění nemovitosti.
+
+**2. Právní otázka.** Od kdy nastupují účinky generálního inhibitoria a lze omezit jeho dosah při hrubém nepoměru pohledávky a majetku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44 — vyrozumění oprávněnému do 15 dnů od pověření, povinnému s prvním EP (odst. 1), doručení povinnému do vlastních rukou (odst. 2), obsah vyrozumění vč. výzvy podle § 46 odst. 6 (odst. 3), možnost omezit inhibitorium při hrubém nepoměru (odst. 4).
+- *Související ustanovení téhož zákona:* § 44a (generální inhibitorium), § 46 odst. 6 (30denní lhůta), § 29 odst. 5 (15denní lhůta na námitku podjatosti), § 47 odst. 6 (speciální inhibitorium).
+- *Související předpisy:* § 580 OZ (neplatnost), § 196—198 KZ / § 222 TZ (poškození věřitele) — ochrana před vyvedením majetku.
+- *Judikatura:* NS (31 Cdo 4545/2008) — je-li exekuce zastavena, aniž byl postižen majetek, s nímž povinný nakládal v rozporu s inhibitoriem, považují se tyto úkony za platné.
+
+**4. Subsumpce.** Inhibitorium nastupuje doručením vyrozumění povinnému (odst. 2 — do vlastních rukou). Prodej vozidla po doručení spadá pod zákaz dispozic (§ 44a). Vzhledem k hrubému nepoměru pohledávky (6 000 Kč) a majetku (4 mil. Kč) může exekutor podle § 44 odst. 4 omezit zákaz jen na poměrnou část majetku.
+
+**5. Řešení.** Exekutor může rozhodnout o omezení inhibitoria na přiměřenou část majetku a toto rozhodnutí zašle oprávněnému i povinnému. Prodej vozidla po doručení vyrozumění je stižen relativní neplatností (§ 44a). Procesní kroky: doložit datum doručení do vlastních rukou, posoudit poměr pohledávky a majetku.
+
+**6. Varianty.** (a) Kdyby exekutor omezil inhibitorium dříve a vozidlo z něj vyňal, prodej by byl platný. (b) Kdyby k prodeji došlo před doručením vyrozumění, inhibitorium by se neuplatnilo (lze jen odporovatelnost).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Inhibitorium platí už od pověření." Neutralizace: vůči povinnému běží až od doručení vyrozumění do vlastních rukou (odst. 2 ve spojení s § 44a).
+- *Protiargument:* „Při bagatelní pohledávce nelze omezit zákaz." Neutralizace: odst. 4 výslovně umožňuje omezení při hrubém nepoměru.
+- *Slabé místo:* prokázání okamžiku doručení (fikce doručení); riziko, že omezení inhibitoria nebude včas vydáno a zatíží celý majetek.
+
+### H. Praktický závěr
+
+Vyrozumění plní informativní, procesní i konstitutivní funkci — doručením povinnému do vlastních rukou se spouští 30denní lhůta a generální inhibitorium; při hrubém nepoměru pohledávky a majetku lze zákaz dispozic omezit na poměrnou část.
+
+**Checklist (exekutor / advokát / povinný):**
+- [ ] Doručit vyrozumění povinnému do vlastních rukou (a oprávněnému do 15 dnů).
+- [ ] Posoudit hrubý nepoměr pohledávky a majetku (možnost omezení dle odst. 4).
+- [ ] Poučit povinného o 30denní lhůtě (§ 46/6) a dopadech inhibitoria.
+- [ ] Doložit datum doručení pro počítání lhůt a účinků zákazu.
+
+**Typicky rozhodné důkazy / podklady:** doklad o doručení vyrozumění do vlastních rukou, první exekuční příkaz, ocenění majetku, doklady o dispozicích povinného.
+
 ---
 
 ## § 44a — Generální inhibitorium
@@ -556,6 +987,42 @@ Pokud žádný z nich neplatnost nevznese, jednání je platné. Logika: chrán�
 - **§ 222—224 TZ** — trestní odpovědnost za vyvedení majetku.
 - **§ 235 a násl. IZ** — neúčinnost zkracujících úkonů (analogie pro insolvenci).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Po doručení vyrozumění povinný P (podnikatel) převede obchodní podíl ve své s.r.o. na třetí osobu T a uzavře zástavní smlouvu k nemovitosti ve prospěch nového věřitele. Oprávněný O i exekutor o tom zjistí. P zároveň namítá, že prodával zboží ze skladu (běžná činnost). Důkazy: smlouva o převodu podílu, zástavní smlouva, datum doručení vyrozumění, doklady o běžné obchodní činnosti.
+
+**2. Právní otázka.** Která jednání povinného porušují generální inhibitorium, jaký je následek a jak jej uplatnit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44a — zákaz nakládat s majetkem vč. SJM (odst. 1), výjimky (běžná obchodní/provozní činnost, základní životní potřeby, správa majetku), relativní neplatnost vznášená exekutorem/oprávněným/přihlášeným věřitelem, zánik složením jistoty (odst. 2), zúžení na návrh (odst. 3), dobrovolné zpeněžení se souhlasem (odst. 4), výjimka pro stát a ÚSC (odst. 5).
+- *Související ustanovení téhož zákona:* § 44 (vznik účinků), § 47 odst. 6 (speciální inhibitorium), § 46 odst. 6 (zánik při splnění).
+- *Související předpisy:* § 580, § 586 OZ (relativní neplatnost), § 222 TZ (poškození věřitele), § 235 a násl. IZ (analogie neúčinnosti).
+- *Judikatura:* NS (29 Cdo 1947/2021) — generální ani speciální inhibitorium nebrání zpeněžení majetku insolvenčním správcem po splnění podmínek IZ; vymezuje vztah inhibitoria a insolvence.
+
+**4. Subsumpce.** Převod obchodního podílu a zatížení nemovitosti zástavou jsou zakázané dispozice (odst. 1) — nejde o běžnou obchodní činnost. Prodej zboží ze skladu je naopak povolenou výjimkou (běžná obchodní/provozní činnost). Zakázaná jednání jsou relativně neplatná — neplatnost musí vznést exekutor, oprávněný nebo přihlášený věřitel.
+
+**5. Řešení.** Exekutor/oprávněný vznese námitku relativní neplatnosti vůči převodu podílu a zástavě (účinky od účinnosti jednání, dojde-li projev vůle všem účastníkům jednání). Prodej zboží zůstává platný. P může inhibitorium zrušit složením jistoty (odst. 2) nebo navrhnout jeho zúžení (odst. 3). Procesní kroky: identifikovat zakázané dispozice, doručit námitku neplatnosti účastníkům jednání.
+
+**6. Varianty.** (a) Kdyby povinným byl stát/ÚSC, inhibitorium by se nepoužilo (odst. 5). (b) Kdyby žádný z oprávněných subjektů neplatnost nevznesl, jednání by bylo platné (ochrana nabyvatele).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Porušující jednání je absolutně neplatné." Neutralizace: jde o relativní neplatnost (odst. 1 věta třetí) — musí ji vznést exekutor/oprávněný/přihlášený věřitel.
+- *Protiargument:* „Podnikatel nesmí během exekuce nic prodat." Neutralizace: běžná obchodní a provozní činnost je z inhibitoria vyňata.
+- *Slabé místo:* hranice „běžné činnosti" je neostrá; riziko, že nabyvatel bude v dobré víře a neplatnost nebude včas vznesena.
+
+### H. Praktický závěr
+
+Generální inhibitorium zakazuje povinnému dispozice s majetkem (mimo běžnou činnost, životní potřeby a správu); porušení vede k relativní neplatnosti, kterou musí aktivně vznést exekutor, oprávněný nebo přihlášený věřitel. Povinný se může osvobodit složením jistoty nebo zúžením.
+
+**Checklist (exekutor / oprávněný / povinný):**
+- [ ] Rozlišit zakázané dispozice od povolených výjimek (běžná činnost, správa).
+- [ ] Včas vznést námitku relativní neplatnosti a doručit ji účastníkům jednání.
+- [ ] Zvážit složení jistoty / návrh na zúžení inhibitoria (odst. 2, 3).
+- [ ] U státu/ÚSC inhibitorium neuplatňovat (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** datum doručení vyrozumění, smlouvy o dispozicích, doklady o povaze činnosti, návrh na zrušení/zúžení, doklad o složení jistoty.
+
 ---
 
 ## § 44b — Změna exekutora
@@ -591,6 +1058,42 @@ Procesní mechanismus pro **změnu exekutora v rámci běžícího řízení**:
 
 **Speciální případ § 15 odst. 5** (zánik úřadu): při zániku není třeba souhlas původního exekutora (logicky — už neexistuje).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný O je nespokojen s tempem exekutora E1 a navrhne změnu na exekutora E2. E1 se změnou nesouhlasí (chce řízení dokončit, již provedl rozsáhlou lustraci). O proto požádá exekuční soud o změnu. Mezitím byl v řízení vydán a doručen exekuční příkaz. Důkazy: návrh oprávněného na změnu, (ne)souhlas E1 a E2, vyjádření E1, dosavadní úkony.
+
+**2. Právní otázka.** Za jakých podmínek lze změnit exekutora bez jeho souhlasu, jak je to s účinky původního návrhu a kdo nese náklady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44b — konsensuální převzetí (odst. 1), soudní změna na žádost oprávněného při důvodnosti (odst. 2), zachování účinků původního návrhu (odst. 3), výpočet odměny dosavadního exekutora jako při zastavení a zápis nového exekutora do RZE (odst. 4), náklady změny nese oprávněný (odst. 5).
+- *Související ustanovení téhož zákona:* § 15 odst. 5 (zánik úřadu — bez souhlasu), § 35b (zápis do RZE), § 51 (zánik pověření), § 45 (exekuční soud).
+- *Související předpisy:* vyhl. č. 330/2001 Sb., § 11 (odměna při zastavení); § 171 OSŘ (vykonatelnost usnesení).
+- *Judikatura:* NS (21 Cdo 1465/2014) — usnesení, jímž exekuční soud zprostil exekutora a pověřil jiného, je vykonatelné doručením účastníkům a oběma exekutorům; od tohoto okamžiku pokračuje nový exekutor (bez ohledu na odvolání).
+
+**4. Subsumpce.** E1 nesouhlasí, proto konsensuální cesta (odst. 1) odpadá; O žádá soud (odst. 2). Soud po vyjádření E1 rozhodne, je-li změna důvodná. Účinky původního návrhu (datum zahájení, stavení promlčení, EP) zůstávají (odst. 3). Odměna E1 se vypočte jako při zastavení; náklady změny nese O (odst. 5).
+
+**5. Řešení.** Soud změnu povolí, je-li důvodná; nové usnesení je vykonatelné doručením a nový exekutor pokračuje. E1 vydá příkaz k úhradě dosavadních nákladů (odst. 4). Procesní kroky: doložit důvodnost, zajistit postoupení spisu.
+
+**6. Varianty.** (a) Při zániku úřadu E1 (§ 15 odst. 5) není souhlas E1 třeba a náklady změny nenese oprávněný. (b) Při konsensu všech tří se soud nezapojuje (odst. 1).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Změnou exekutora padají dosavadní účinky (promlčení, EP)." Neutralizace: odst. 3 výslovně zachovává účinky původního návrhu.
+- *Protiargument:* „Náklady přechodu nese povinný." Neutralizace: dle odst. 5 je nese oprávněný (nejde-li o § 15 odst. 5).
+- *Slabé místo:* prokázání „důvodnosti" změny při nesouhlasu exekutora; riziko dvojích nákladů (odměna dosavadního + nového exekutora).
+
+### H. Praktický závěr
+
+Exekutora lze změnit konsensuálně, nebo (při nesouhlasu) soudně, je-li to důvodné; účinky původního návrhu se zachovávají, dosavadní exekutor dostane odměnu jako při zastavení a náklady změny nese oprávněný (mimo zánik úřadu).
+
+**Checklist (oprávněný / soud / exekutor):**
+- [ ] Zvážit konsensuální cestu (souhlas obou exekutorů) před soudní.
+- [ ] Při soudní změně doložit důvodnost návrhu.
+- [ ] Zajistit zápis nového exekutora do RZE a postoupení spisu.
+- [ ] Vyúčtovat odměnu dosavadního exekutora jako při zastavení; náklady přiřknout oprávněnému.
+
+**Typicky rozhodné důkazy / podklady:** návrh na změnu, souhlasy/nesouhlasy exekutorů, vyjádření dosavadního exekutora, usnesení soudu, příkaz k úhradě nákladů.
+
 ---
 
 ## § 44c — Zastavení pro neperspektivu
@@ -603,6 +1106,42 @@ Procesní mechanismus pro **změnu exekutora v rámci běžícího řízení**:
 **Pre-emptivní zastavení** — věřitel si přes exekutora ověří, zda exekuce má smysl. Pokud ne, vydá souhlas k zastavení **avant la lettre**, exekutor zastaví bez čekání na lhůty § 55.
 
 Užitečný pro ekonomické rozhodování velkých věřitelů: pokud po několika měsících je jasné, že povinný je insolventní, nemá smysl utrácet další náklady.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Po několika měsících exekuce je zřejmé, že povinný P je nemajetný a vymožené plnění ani postižitelný majetek nepokryjí ani náklady exekuce. Oprávněný O (velký věřitel) si přes exekutora ověří perspektivu a v žádosti vyjádří souhlas se zastavením pro tento případ. Důkazy: žádost O o vyrozumění o perspektivě, lustrace majetku P, vyúčtování složené zálohy na náklady exekuce.
+
+**2. Právní otázka.** Lze exekuci zastavit ještě před uplynutím lhůt podle § 55, vyjde-li najevo nemajetnost povinného, a kdo nese náklady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44c — vyrozumění oprávněného o perspektivě na jeho žádost; nepostačuje-li plnění/majetek ani ke krytí nákladů a obsahuje-li žádost souhlas se zastavením, exekutor zastaví (odst. 1); náklady do výše zálohy hradí oprávněný (odst. 2).
+- *Související ustanovení téhož zákona:* § 55 (zastavení vč. po 6 letech), § 90 (zálohy na náklady), § 46 odst. 5 (zvláštní účet), § 89 (náklady při zaviněném zastavení).
+- *Související předpisy:* § 268 OSŘ (důvody zastavení); vyhl. č. 330/2001 Sb. (minimální odměna).
+- *Judikatura:* obecně k bezvýslednosti exekuce a nákladovým důsledkům zastavení nemajetné exekuce.
+
+**4. Subsumpce.** O požádal o vyrozumění; lustrace prokázala, že majetek P nepostačuje ani ke krytí nákladů, a žádost obsahuje souhlas se zastavením. Tím jsou splněny podmínky § 44c odst. 1 — exekutor zastaví bez čekání na lhůty § 55. Náklady do výše složené zálohy hradí O (odst. 2).
+
+**5. Řešení.** Exekutor exekuci zastaví; náklady kryje záloha oprávněného. To je ekonomicky racionální postup pro hromadné věřitele. Procesní kroky: žádost se souhlasem, vyrozumění o perspektivě, usnesení o zastavení, vyúčtování ze zálohy.
+
+**6. Varianty.** (a) Kdyby majetek postačoval alespoň ke krytí nákladů, podmínka pro zastavení dle § 44c by nebyla splněna. (b) Bez souhlasu O v žádosti by se postupovalo cestou § 55.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zastavit lze jen postupem podle § 55." Neutralizace: § 44c umožňuje pre-emptivní zastavení se souhlasem oprávněného, mimo lhůty § 55.
+- *Protiargument:* „Náklady nemajetné exekuce nese povinný." Neutralizace: odst. 2 přiřazuje náklady do výše zálohy oprávněnému.
+- *Slabé místo:* posouzení, zda majetek „nepostačuje ani ke krytí nákladů", je odhadem; riziko předčasného zastavení při skrytém majetku.
+
+### H. Praktický závěr
+
+§ 44c umožňuje hospodárné, pre-emptivní zastavení nemajetné exekuce na základě souhlasu oprávněného v žádosti; náklady do výše složené zálohy nese oprávněný.
+
+**Checklist (oprávněný / exekutor):**
+- [ ] Vyžádat vyrozumění o perspektivě (postačitelnosti plnění/majetku).
+- [ ] Do žádosti vložit souhlas se zastavením pro případ nepostačitelnosti.
+- [ ] Vyúčtovat náklady do výše zálohy na vrub oprávněného.
+- [ ] Posoudit, zda nejde raději o postup podle § 55.
+
+**Typicky rozhodné důkazy / podklady:** žádost oprávněného se souhlasem, výsledky lustrace majetku, doklad o složené záloze, usnesení o zastavení.
 
 ---
 
@@ -632,6 +1171,42 @@ Tato pravidla určují **exekuční soud** podle § 45 — soud, který:
 - rozhoduje o **podjatosti exekutora** (§ 29),
 - rozhoduje o **návrhu na zastavení** (§ 55),
 - rozhoduje o **odvolání proti rozhodnutí exekutora** (krajský soud nad ním, § 55c).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Povinný P, cizí státní příslušník bez trvalého pobytu v ČR, má v ČR pouze nemovitost. Oprávněný O zvažuje, který soud je exekučním soudem. V jiné variantě připadá v úvahu několik soudů, protože P má majetek ve více obvodech. Důkazy: doklad o (ne)existenci trvalého pobytu/sídla, údaje o umístění majetku, návrh na určení místně příslušného soudu.
+
+**2. Právní otázka.** Který soud je věcně a místně příslušným exekučním soudem u zahraničního povinného a jak se řeší kolize více příslušných soudů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 — věcně okresní soud (odst. 1), místně soud podle trvalého pobytu/sídla povinného, u zahraničního povinného podle umístění majetku (odst. 2), při kolizi soud první v abecedním/číselném pořadí (odst. 3).
+- *Související ustanovení téhož zákona:* § 43a (pověření), § 29 (podjatost), § 55 (zastavení), § 55c (odvolání ke krajskému soudu).
+- *Související předpisy:* § 11 odst. 3 OSŘ (určení místně příslušného soudu Nejvyšším soudem), § 252 OSŘ.
+- *Judikatura:* NS (31 Nd 200/2012) — existence postižitelného majetku vyjde najevo až činností exekutora; soud před pověřením majetek nezjišťuje a místně příslušný soud určí podle zásady hospodárnosti (§ 11 odst. 3 OSŘ).
+
+**4. Subsumpce.** P nemá trvalý pobyt/sídlo v ČR, proto je místně příslušný soud, v jehož obvodu má majetek (odst. 2 věta třetí). Protože soud existenci majetku před pověřením nezjišťuje (judikatura), v praxi určí místně příslušný soud Nejvyšší soud podle § 11 odst. 3 OSŘ podle zásady hospodárnosti. Při více soudech rozhoduje abecední/číselné pořadí (odst. 3).
+
+**5. Řešení.** Exekuční soud = okresní soud podle umístění majetku, případně určený Nejvyšším soudem. Procesní kroky: doložit absenci trvalého pobytu/sídla, případně podat podnět k určení příslušnosti podle § 11 odst. 3 OSŘ.
+
+**6. Varianty.** (a) Kdyby P měl v ČR trvalý pobyt, příslušný by byl soud podle pobytu (odst. 2 věta první). (b) Kdyby přicházelo v úvahu více soudů podle bydliště, rozhoduje abecední pořadí (odst. 3).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „U vysokých pohledávek je příslušný krajský soud." Neutralizace: věcně je vždy okresní soud (odst. 1), bez ohledu na výši.
+- *Protiargument:* „Soud musí před pověřením ověřit existenci majetku v ČR." Neutralizace: dle judikatury soud majetek nezjišťuje; činí tak až exekutor, příslušnost se určí podle hospodárnosti.
+- *Slabé místo:* u zahraničního povinného může být místní příslušnost nejistá a vyžadovat určení Nejvyšším soudem (zdržení).
+
+### H. Praktický závěr
+
+Věcně příslušným exekučním soudem je vždy okresní soud, místně soud podle trvalého pobytu/sídla povinného, u zahraničního povinného podle umístění majetku; soud majetek před pověřením nezjišťuje a kolizi řeší abecední pořadí, případně určení Nejvyšším soudem.
+
+**Checklist (oprávněný / soud):**
+- [ ] Zjistit trvalý pobyt/sídlo povinného; u zahraničního povinného umístění majetku.
+- [ ] Při více soudech aplikovat abecední/číselné pořadí (odst. 3).
+- [ ] U nejasné příslušnosti zvážit určení soudu podle § 11 odst. 3 OSŘ.
+- [ ] Respektovat věcnou příslušnost okresního soudu bez ohledu na výši pohledávky.
+
+**Typicky rozhodné důkazy / podklady:** doklad o pobytu/sídle povinného, údaje o umístění majetku, návrh/rozhodnutí o určení místní příslušnosti.
 
 ---
 
@@ -699,6 +1274,42 @@ To je **finanční páka** pro motivaci k dobrovolnému plnění — povinný u�
 
 **8. Oznámení o skončení (odst. 8)** — exekutor po skončení informuje **všechny orgány**, které vedly „poznámku o exekuci" (KN, registr vozidel, banky, plátci mzdy).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor vymohl od plátce mzdy povinného P srážkami 120 000 Kč, které byly připsány na zvláštní účet exekutora. Oprávněnému O však exekutor vyplatil celou částku až po 70 dnech. O požaduje náhradu škody a úrok z prodlení. Důkazy: výpis ze zvláštního účtu (datum připsání a výplaty), doklad o nákladech exekuce, vyčíslení úroku.
+
+**2. Právní otázka.** Jaké jsou důsledky prodlení exekutora s výplatou vymoženého plnění oprávněnému podle § 46 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 — rychlost a účelnost (odst. 1), officialita (odst. 2), FIFO (odst. 3), výplata oprávněnému do 30 dnů po odpočtu nákladů (odst. 4), zvláštní účet (odst. 5), 30denní lhůta na dobrovolné splnění s nižšími náklady (odst. 6), insolvence (odst. 7), oznámení o skončení (odst. 8).
+- *Související ustanovení téhož zákona:* § 44a / § 47 odst. 6 (zánik inhibitoria při splnění), § 11 vyhl. 330/2001 Sb. (snížené náklady), § 87—88 (náklady exekuce).
+- *Související předpisy:* zákon č. 82/1998 Sb. (odpovědnost státu za nesprávný úřední postup), § 1970 OZ (úrok z prodlení), § 109 IZ.
+- *Judikatura:* NS (30 Cdo 3359/2022, 30 Cdo 2082/2015) — prodlení s výplatou vymoženého plnění oprávněnému je nesprávným úředním postupem soudního exekutora, za který stát odpovídá; poškozený může požadovat náhradu škody i zákonný úrok z prodlení.
+
+**4. Subsumpce.** Exekutor měl vyplatit do 30 dnů od přijetí plnění (odst. 4). Výplata po 70 dnech je porušením této lhůty — jde o nesprávný úřední postup. O má vůči státu nárok na náhradu škody a úrok z prodlení.
+
+**5. Řešení.** O uplatní nárok podle zák. č. 82/1998 Sb. (předběžné projednání u ministerstva, poté žaloba). Exekutor odpovídá kárně. Procesní kroky: doložit datum připsání na zvláštní účet a datum výplaty, vyčíslit úrok z prodlení.
+
+**6. Varianty.** (a) Šlo-li o částečné plnění do 1 000 Kč, lhůta výplaty nemusela nastat (odst. 4). (b) Byla-li exekuce přerušena insolvencí, plnění se vydává do podstaty (odst. 7), nikoli oprávněnému.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Za prodlení exekutora stát neodpovídá." Neutralizace: judikatura výslovně kvalifikuje prodlení s výplatou jako nesprávný úřední postup podle zák. 82/1998 Sb.
+- *Protiargument:* „Lhůta běží od pravomocného skončení exekuce, ne od přijetí plnění." Neutralizace: odst. 4 váže lhůtu na okamžik, kdy exekutor plnění obdržel.
+- *Slabé místo:* prokázání výše škody (vedle úroku) a příčinné souvislosti; nutnost doložit pohyby na zvláštním účtu.
+
+### H. Praktický závěr
+
+Exekutor postupuje rychle, v pořadí FIFO, vede zvláštní účet a vyplácí oprávněnému do 30 dnů od přijetí plnění; prodlení je nesprávným úředním postupem zakládajícím odpovědnost státu (náhrada škody + úrok). Klíčová je 30denní lhůta na dobrovolné splnění se sníženými náklady (odst. 6).
+
+**Checklist (exekutor / oprávněný / advokát):**
+- [ ] Vést vymožené plnění na zvláštním účtu odděleně od vlastních prostředků.
+- [ ] Vyplatit oprávněnému do 30 dnů od přijetí plnění (po odpočtu nákladů).
+- [ ] Poučit povinného o 30denní lhůtě se sníženými náklady (odst. 6).
+- [ ] Při prodlení zvážit nárok podle zák. č. 82/1998 Sb. (škoda + úrok).
+
+**Typicky rozhodné důkazy / podklady:** výpis ze zvláštního účtu (data připsání/výplaty), vyúčtování nákladů exekuce, vyčíslení úroku z prodlení, oznámení o skončení exekuce.
+
 ---
 
 ## § 47 — Exekuční příkaz
@@ -763,11 +1374,83 @@ To je **finanční páka** pro motivaci k dobrovolnému plnění — povinný u�
 
 7. **Zánik účinků (odst. 7)** — provedením i zastavením zanikají účinky všech EP. To znamená, že např. po skončení **se odblokují všechny obstavené účty automaticky** (nikoli na žádost).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor vydal exekuční příkaz postihující nemovitost povinného P. Zástavní věřitel Z, který měl s P dřívější ujednání o prodeji nemovitosti, uzavře kupní smlouvu a podá návrh na vklad vlastnického práva ve prospěch kupujícího. Pohledávka oprávněného O zůstává neuspokojena. Důkazy: exekuční příkaz a doklad o jeho doručení/účincích, kupní smlouva, návrh na vklad, výpis z katastru.
+
+**2. Právní otázka.** Brání speciální inhibitorium podle § 47 odst. 6 i prodeji nemovitosti zástavním věřitelem na základě dřívějšího ujednání s povinným?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 — volba způsobu a proporcionalita (odst. 1), účinky nařízení výkonu a odložené provedení (odst. 2), zajištění není provedením (odst. 3), trestní zajištění (odst. 4), vyloučení opravného prostředku (odst. 5), speciální inhibitorium (odst. 6), zánik účinků EP provedením/zastavením (odst. 7).
+- *Související ustanovení téhož zákona:* § 44a (generální inhibitorium), § 52 odst. 3 (doložka provedení), § 55 (zastavení), § 46 odst. 6 (30denní lhůta).
+- *Související předpisy:* § 580 OZ (neplatnost), § 1359 odst. 1 OZ (prodej zástavy), § 17 odst. 1 písm. f) katastrálního zákona (zamítnutí vkladu).
+- *Judikatura:* NS (24 Cdo 2755/2022) — omezení nakládání s nemovitostí postiženou EP se vztahuje i na jednání zástavního věřitele směřující k prodeji na základě ujednání se zástavcem; návrh na vklad katastr zamítne. NS (29 ICdo 47/2013) — převod SJM v rozporu se speciálním inhibitoriem je neplatný.
+
+**4. Subsumpce.** Nemovitost je postižena EP, běží speciální inhibitorium (odst. 6). Prodej zástavním věřitelem na základě dřívějšího ujednání s povinným spadá pod zákaz dispozic — je v rozporu s účelem inhibitoria; katastrální úřad návrh na vklad zamítne podle § 17 odst. 1 písm. f) KZ.
+
+**5. Řešení.** Vklad nebude povolen, kupní smlouva je stižena neplatností pro porušení speciálního inhibitoria. O se domáhá uspokojení z exekuce; Z je odkázán na uspokojení v rámci rozvrhu. Procesní kroky: doložit účinky EP a jeho doručení, upozornit katastr.
+
+**6. Varianty.** (a) Kdyby šlo jen o zajišťovací úkon (nikoli provedení), nešlo by o porušení (odst. 3). (b) Po skončení/zastavení exekuce účinky EP zaniknou (odst. 7) a dispozice se uvolní.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Proti exekučnímu příkazu se lze odvolat." Neutralizace: odst. 5 odvolání vylučuje; bránit se lze návrhem na zastavení (§ 55) nebo vylučovací žalobou (§ 267 OSŘ).
+- *Protiargument:* „Zástavní věřitel může prodat zástavu nezávisle na exekuci." Neutralizace: dle judikatury i toto jednání spadá pod speciální inhibitorium; vklad bude zamítnut.
+- *Slabé místo:* posouzení proporcionality zvoleného způsobu (odst. 1) je zdrojem sporů; riziko volby „zřejmě nevhodného" způsobu.
+
+### H. Praktický závěr
+
+Exekuční příkaz volí způsob provedení (proporcionálně), má účinky nařízení výkonu a zakládá speciální inhibitorium k postiženému majetku — včetně omezení prodeje zástavním věřitelem; opravný prostředek proti EP je vyloučen, obrana vede přes zastavení nebo vylučovací žalobu.
+
+**Checklist (exekutor / oprávněný / třetí osoby):**
+- [ ] Zvolit způsob, který není zřejmě nevhodný (proporcionalita).
+- [ ] Respektovat odložené provedení (odst. 2 písm. a—e).
+- [ ] U trestně zajištěného majetku vyžádat souhlas orgánu činného v trestním řízení.
+- [ ] Proti EP nepodávat odvolání — využít návrh na zastavení / vylučovací žalobu.
+
+**Typicky rozhodné důkazy / podklady:** exekuční příkaz a doklad o jeho doručení/účincích, výpis z katastru, smlouvy o dispozici s postiženým majetkem, doklad o doložce provedení exekuce.
+
 ---
 
 ## § 48 — Náležitosti exekučního příkazu
 
 Standardní obsah usnesení: exekuční soud, exekutor, titul, účastníci, povinnost, **způsob provedení**, číslo účtu, osoby k doručení, výrok, **poučení o odvolání** (i když EP nelze napadnout odvoláním — informativní), datum, podpis. Plus „informace o postupu" (odst. 2).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor vydá exekuční příkaz, v němž ve výroku chybí přesné označení způsobu provedení a chybí informace o postupu. Povinný P namítá nesrozumitelnost a chce se „odvolat". Důkazy: text exekučního příkazu, doklad o doručení.
+
+**2. Právní otázka.** Jaké náležitosti musí exekuční příkaz obsahovat a jak se projeví jejich absence, je-li proti EP vyloučeno odvolání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 — obsah EP (exekuční soud, exekutor, titul, účastníci, povinnost, způsob provedení, číslo účtu, osoby k doručení, výrok, poučení o odvolání, datum, podpis) a informace o postupu (odst. 2).
+- *Související ustanovení téhož zákona:* § 47 (povaha a účinky EP, vyloučení opravného prostředku), § 49 (specifika dle způsobu), § 55c odst. 3 písm. b) (odvolání proti EP nepřípustné).
+- *Související předpisy:* § 169 OSŘ (náležitosti usnesení) přiměřeně (§ 52 odst. 1).
+- *Judikatura:* obecně — vadné/nesrozumitelné rozhodnutí lze opravit; obrana proti EP vede přes návrh na zastavení, nikoli odvolání.
+
+**4. Subsumpce.** EP musí jednoznačně označit způsob provedení a obsahovat informaci o postupu (§ 48). Jejich absence činí výrok neurčitým. Protože odvolání proti EP je vyloučeno (§ 47 odst. 5, § 55c odst. 3), P se brání jinak — návrhem na zastavení nebo upozorněním exekutora na potřebu opravy (§ 164 OSŘ přiměřeně).
+
+**5. Řešení.** Exekutor vadu odstraní opravným usnesením / vydáním řádného EP. P využije návrh na zastavení (§ 55), směřuje-li proti samotné přípustnosti exekuce. Procesní kroky: identifikovat chybějící náležitosti, navrhnout opravu.
+
+**6. Varianty.** (a) Je-li EP jen formálně neúplný (chybí poučení), nemá to vliv na účinky, jen se doplní. (b) Chybí-li způsob provedení vůbec, výrok je neurčitý a EP je třeba vydat znovu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vadný EP lze napadnout odvoláním." Neutralizace: odvolání proti EP je vyloučeno (§ 47 odst. 5, § 55c odst. 3); řešením je oprava nebo návrh na zastavení.
+- *Protiargument:* „Poučení o odvolání v EP znamená, že odvolání je přípustné." Neutralizace: poučení je informativní; přípustnost určuje zákon.
+- *Slabé místo:* rozlišení mezi odstranitelnou formální vadou a neurčitostí výroku; riziko zpochybnění účinků EP.
+
+### H. Praktický závěr
+
+Exekuční příkaz musí mít jasný výrok včetně způsobu provedení a informace o postupu; formální vady se opravují, proti EP se nelze odvolat — obrana vede přes návrh na zastavení.
+
+**Checklist (exekutor / povinný):**
+- [ ] Ve výroku EP přesně označit způsob provedení.
+- [ ] Doplnit informaci o postupu (odst. 2) a ostatní náležitosti.
+- [ ] Formální vady řešit opravným usnesením, ne odvoláním.
+- [ ] Věcnou obranu vést návrhem na zastavení (§ 55).
+
+**Typicky rozhodné důkazy / podklady:** text exekučního příkazu, doklad o doručení, případné opravné usnesení.
 
 ---
 
@@ -788,6 +1471,42 @@ Detailně specifikuje, **co musí být ve výroku EP** podle zvoleného způsobu
 
 **Elektronická příloha — datový soubor** (odst. 2—5): EP směrované plátci mzdy / bance / finanční instituci se doplňuje **datovým souborem** (formát stanoví vyhláška) — usnadnění automatizovaného zpracování velkými adresáty.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor zvolí způsob „přikázání pohledávky z účtu" a vydá EP směřovaný bance. Ve výroku však neoznačí pořadí účtů a neuvede číslo účtu; navíc bance nezašle datový soubor pro automatizované zpracování. Banka EP nedokáže jednoznačně zpracovat. Důkazy: exekuční příkaz, komunikace s bankou, vyhláškou stanovený formát datového souboru.
+
+**2. Právní otázka.** Jaké specifické označení musí výrok EP obsahovat podle zvoleného způsobu a jakou roli hraje elektronická datová příloha?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 — specifické označení ve výroku EP podle způsobu (plátce mzdy; banka, číslo účtu, pořadí; dlužník povinného; určení práva; movité věci; nemovitost; závod; ŘP) a datový soubor pro plátce mzdy/banku/finanční instituci (odst. 2—5).
+- *Související ustanovení téhož zákona:* § 47 (EP), § 48 (obecné náležitosti), § 58 a násl. (způsoby provedení — Hlava IV).
+- *Související předpisy:* § 303 a násl. OSŘ (přikázání pohledávky z účtu); prováděcí vyhláška k formátu datového souboru.
+- *Judikatura:* obecně — nejednoznačné označení postiženého majetku/účtu činí EP neproveditelným; datová příloha usnadňuje hromadné zpracování.
+
+**4. Subsumpce.** U přikázání pohledávky z účtu musí výrok označit banku, číslo účtu a pořadí účtů (§ 49). Absence těchto údajů a chybějící datový soubor (odst. 2—5) brání bance v jednoznačném provedení. EP je v této podobě vadný.
+
+**5. Řešení.** Exekutor doplní/opraví výrok (číslo účtu, pořadí) a zašle datový soubor ve stanoveném formátu. Procesní kroky: identifikovat povinné označení dle způsobu, zajistit elektronickou přílohu.
+
+**6. Varianty.** (a) U srážek ze mzdy musí výrok označit plátce mzdy a datový soubor mu být zaslán. (b) U postižení podílu v s.r.o. musí výrok určit konkrétní majetkové právo.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí obecné označení postiženého majetku." Neutralizace: § 49 vyžaduje specifické označení dle zvoleného způsobu (účet, pořadí, plátce apod.).
+- *Protiargument:* „Datový soubor je nepovinný." Neutralizace: u plátce mzdy/banky/finanční instituce je datová příloha vyžadována (odst. 2—5) pro automatizované zpracování.
+- *Slabé místo:* technické nedostatky datového souboru mohou vést k chybnému zpracování; riziko sporu o pořadí účtů.
+
+### H. Praktický závěr
+
+Výrok EP musí podle zvoleného způsobu obsahovat specifické označení (účet a jeho pořadí, plátce mzdy, dlužník povinného, konkrétní majetkové právo apod.) a u plátce mzdy/banky/finanční instituce být doplněn datovým souborem ve stanoveném formátu.
+
+**Checklist (exekutor):**
+- [ ] Podle zvoleného způsobu doplnit specifické označení do výroku EP.
+- [ ] U účtu uvést číslo účtu a pořadí účtů.
+- [ ] Plátci mzdy/bance/finanční instituci zaslat datový soubor (odst. 2—5).
+- [ ] Ověřit jednoznačnost a proveditelnost EP adresátem.
+
+**Typicky rozhodné důkazy / podklady:** exekuční příkaz, datový soubor ve stanoveném formátu, komunikace s adresátem (banka/plátce mzdy), výpisy/označení postiženého majetku.
+
 ---
 
 ## § 50 — Součinnost účastníků
@@ -798,6 +1517,42 @@ Exekutor může:
 - **nahlédnout do soudního spisu** o prohlášení o majetku (§ 260a a násl. OSŘ).
 
 Účelem je **získat informace** o nejvhodnějším způsobu.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor neví, jaký majetek povinný P má. Vyzve oprávněného O, aby navrhl způsob provedení a označil plátce mzdy či účet P. O nereaguje. Exekutor proto předvolá P k dobrovolnému splnění a nahlédne do soudního spisu o prohlášení o majetku. Důkazy: výzva oprávněnému, předvolání povinného, protokol o prohlášení o majetku.
+
+**2. Právní otázka.** Jaké nástroje součinnosti má exekutor k dispozici pro zjištění vhodného způsobu provedení exekuce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 — výzva oprávněnému k návrhu způsobu a označení plátce mzdy/dlužníka/účtu, předvolání povinného k dobrovolnému splnění, nahlížení do soudního spisu o prohlášení o majetku.
+- *Související ustanovení téhož zákona:* § 46 (officialita, postup i bez návrhu), § 47 (volba způsobu), § 49 (specifikace EP).
+- *Související předpisy:* § 260a a násl. OSŘ (prohlášení o majetku), § 33 a násl. EŘ (součinnost třetích osob — banky, registry).
+- *Judikatura:* obecně k povinnosti exekutora postupovat i bez návrhu a aktivně zjišťovat majetek povinného.
+
+**4. Subsumpce.** Exekutor je oprávněn vyzvat O k součinnosti (§ 50), avšak protože postupuje i bez návrhu (§ 46 odst. 2), nečinnost O ho nezbavuje povinnosti aktivně zjišťovat majetek. Předvolání P a nahlédnutí do spisu o prohlášení o majetku jsou legitimní nástroje zjištění vhodného způsobu.
+
+**5. Řešení.** Exekutor zjistí majetek vlastní činností (lustrace registrů, prohlášení o majetku) a zvolí proporcionální způsob (§ 47 odst. 1). Nečinnost O nebrání postupu. Procesní kroky: výzva O, předvolání P, nahlédnutí do spisu.
+
+**6. Varianty.** (a) Odmítne-li P součinnost při prohlášení o majetku, nastupují sankce podle § 260a a násl. OSŘ. (b) Označí-li O účet/plátce mzdy, exekutor zvolí odpovídající způsob přímo.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez návrhu oprávněného exekutor nemůže způsob zvolit." Neutralizace: exekutor postupuje i bez návrhu (§ 46 odst. 2); součinnost O je podpůrná.
+- *Protiargument:* „Exekutor nesmí nahlížet do spisu o prohlášení o majetku." Neutralizace: § 50 mu to výslovně umožňuje.
+- *Slabé místo:* účinnost zjišťování závisí na součinnosti třetích osob a registrů; riziko prodlení při pasivitě povinného i oprávněného.
+
+### H. Praktický závěr
+
+§ 50 dává exekutorovi nástroje součinnosti — výzvu oprávněnému, předvolání povinného a nahlížení do spisu o prohlášení o majetku — k volbě vhodného způsobu provedení; exekutor však postupuje i bez návrhu.
+
+**Checklist (exekutor / oprávněný / povinný):**
+- [ ] Vyzvat oprávněného k označení způsobu/plátce mzdy/účtu.
+- [ ] Předvolat povinného k dobrovolnému splnění.
+- [ ] Nahlédnout do spisu o prohlášení o majetku (§ 260a a násl. OSŘ).
+- [ ] I při pasivitě účastníků pokračovat ve zjišťování majetku.
+
+**Typicky rozhodné důkazy / podklady:** výzva oprávněnému, předvolání povinného, protokol o prohlášení o majetku, výsledky lustrace registrů.
 
 ---
 
@@ -814,6 +1569,42 @@ Pověření zaniká:
 
 - *NS* [31 Cdo 798/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2F516AA6DAB7FEFC125888B002F86F7?openDocument) — kat. A, 8. 6. 2022
   > „Usnesení, jímž soudní exekutor k návrhu oprávněné podle § 268 odst. 1 písm. c) o. s. ř. pravomocně zastavil exekuci po jejím skončení vymožením, nezakládá překážku věci rozsouzené (res iudicata) pro rozhodování o pozdějším návrhu povinné na zastavení exekuce podle § 268 odst. 1 písm. h) o. s. ř. ani pro možnost takovému návrhu vyhovět"
+
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněná O podala návrh na zastavení exekuce podle § 268 odst. 1 písm. c) OSŘ poté, co byla exekuce fakticky skončena vymožením; exekutor exekuci pravomocně zastavil. Později povinná P podá vlastní návrh na zastavení podle § 268 odst. 1 písm. h) OSŘ s tvrzením, že oprávněná na vymožené plnění neměla podle hmotného práva nárok. Důkazy: usnesení o zastavení pro vymožení, návrh P, doklady o (ne)existenci hmotněprávního nároku.
+
+**2. Právní otázka.** Zaniká pověření vymožením a brání předchozí zastavení pro vymožení pozdějšímu věcnému přezkumu nároku na návrh povinného?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 — zánik pověření (vyloučení exekutora, zastavení, vymožení, změna exekutora, spojení řízení).
+- *Související ustanovení téhož zákona:* § 46 odst. 2 (provedení exekuce vymožením), § 55 (zastavení), § 44b (změna exekutora), § 37 odst. 5—7 (spojení).
+- *Související předpisy:* § 268 odst. 1 písm. c) a h) OSŘ (důvody zastavení), § 159a OSŘ (překážka věci rozsouzené).
+- *Judikatura:* NS (31 Cdo 798/2022) — usnesení o zastavení exekuce po jejím skončení vymožením podle § 268 odst. 1 písm. c) OSŘ nezakládá překážku res iudicata pro pozdější návrh povinného na zastavení podle § 268 odst. 1 písm. h) OSŘ.
+
+**4. Subsumpce.** Vymožením pohledávky a nákladů pověření zaniká (§ 51 písm. c) a exekuce je provedena (§ 46 odst. 2). Zastavení pro vymožení podle písm. c) má jiný předmět než pozdější návrh P podle písm. h) (věcný hmotněprávní nárok), proto nebrání jeho projednání (není res iudicata).
+
+**5. Řešení.** Soud/exekutor návrh P podle písm. h) věcně projedná, ač pověření již zaniklo a exekuce byla zastavena pro vymožení. Procesní kroky: doložit důvody dle písm. h), odlišit od dříve řešeného důvodu.
+
+**6. Varianty.** (a) Kdyby pověření zaniklo změnou exekutora (§ 51 písm. d), pokračoval by nový exekutor (§ 44b). (b) Při spojení řízení zaniká pověření všech kromě vedoucího exekutora (písm. e).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po vymožení a zastavení už nelze nárok přezkoumat." Neutralizace: dle judikatury zastavení pro vymožení nezakládá res iudicata pro návrh podle § 268 odst. 1 písm. h) OSŘ.
+- *Protiargument:* „Zánikem pověření končí veškerá rozhodovací činnost." Neutralizace: o návrzích souvisejících s vymoženým plněním lze rozhodovat i poté.
+- *Slabé místo:* odlišení předmětu dřívějšího a pozdějšího návrhu; riziko nesprávného uplatnění překážky věci rozsouzené.
+
+### H. Praktický závěr
+
+Pověření zaniká mj. vymožením pohledávky a nákladů; zastavení exekuce pro vymožení však nebrání pozdějšímu věcnému přezkumu hmotněprávního nároku na návrh povinného podle § 268 odst. 1 písm. h) OSŘ.
+
+**Checklist (exekutor / soud / povinný):**
+- [ ] Identifikovat důvod zániku pověření (§ 51 písm. a—e).
+- [ ] Po vymožení posoudit, zda jde o provedení exekuce (§ 46 odst. 2).
+- [ ] U opakovaných návrhů odlišit jejich předmět (písm. c vs. h § 268 OSŘ).
+- [ ] Nezaměňovat zastavení pro vymožení s překážkou res iudicata.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o zastavení/vymožení, doklady o hmotněprávním nároku, vyúčtování vymoženého plnění, výpis z RZE.
 
 ---
 
@@ -842,6 +1633,42 @@ Pověření zaniká:
 - **Exekutor zastupuje všechny soudní funkcionáře** — soudce, vykonavatele, zaměstnance,
 - **Doložka provedení exekuce** = okamžik, od kdy lze provádět; rovnice **uplynutí 30 dnů + neexistence návrhu na zastavení + (případně) exequatur + právní moc EP**. Tato „virtuální právní moc" nahrazuje standardní právní moc usnesení podle OSŘ.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Po bezúspěšné dražbě nemovitosti exekutor nařídí další dražební jednání ve lhůtě od tří měsíců do jednoho roku, aniž by oprávněný podal návrh podle § 336m odst. 1 OSŘ. Povinný namítá, že bez návrhu oprávněného nelze pokračovat. Důkazy: protokol o předchozí dražbě, usnesení o nařízení další dražby, (ne)existence projevu oprávněného o nesouhlasu.
+
+**2. Právní otázka.** Lze ustanovení OSŘ (§ 336m odst. 1) o návrhu oprávněného aplikovat v exekuci, kde exekutor postupuje i bez návrhu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 — přiměřené použití OSŘ (odst. 1), exekutor vykonává úkony svěřené jinak soudci/vykonavateli (odst. 2), definice „právní moci usnesení o nařízení výkonu" v exekuci (odst. 3: uplynutí lhůty § 46/6 + vyřízení návrhu na zastavení + exequatur + právní moc EP).
+- *Související ustanovení téhož zákona:* § 46 (rychle a účelně, i bez návrhu), § 47 odst. 2 (odložené provedení), § 58 odst. 3 (volba způsobu exekutorem).
+- *Související předpisy:* § 336m OSŘ (opětovná dražba), § 251 a násl. OSŘ (výkon rozhodnutí).
+- *Judikatura:* NS (20 Cdo 1058/2023) — určuje-li způsob provedení pověřený exekutor (povinný vést exekuci i bez návrhu), nemůže být nařízení další dražby podmíněno návrhem oprávněného dle § 336m odst. 1 OSŘ, ledaže oprávněný dal najevo nesouhlas s další dražbou.
+
+**4. Subsumpce.** OSŘ se v exekuci použije jen přiměřeně (§ 52 odst. 1). Vzhledem k officialitě exekutora (§ 46) a jeho povinnosti vést exekuci i bez návrhu se § 336m odst. 1 OSŘ neaplikuje doslova — exekutor může nařídit další dražbu bez návrhu oprávněného, neprojevil-li oprávněný nesouhlas.
+
+**5. Řešení.** Další dražba je nařízena oprávněně; námitka povinného neobstojí. Procesní kroky: doložit absenci projevu nesouhlasu oprávněného, postupovat dle § 46.
+
+**6. Varianty.** (a) Kdyby oprávněný dal nepochybně najevo nesouhlas s další dražbou, exekutor by ji nenařizoval. (b) Tam, kde EŘ stanoví jinak, se přiměřené použití OSŘ neuplatní (§ 52 odst. 1).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „OSŘ se použije doslovně." Neutralizace: § 52 odst. 1 stanoví přiměřené použití — exekutor musí posoudit slučitelnost s officialitou EŘ.
+- *Protiargument:* „Bez návrhu oprávněného nelze opakovat dražbu." Neutralizace: dle judikatury postačí absence nesouhlasu oprávněného, exekutor jedná z úřední povinnosti.
+- *Slabé místo:* posouzení slučitelnosti konkrétního ustanovení OSŘ s EŘ je výkladově náročné; riziko procesních chyb při nesprávné aplikaci.
+
+### H. Praktický závěr
+
+OSŘ se v exekuci použije jen přiměřeně; vzhledem k officialitě exekutora se ustanovení vyžadující návrh oprávněného (např. § 336m odst. 1 OSŘ) neaplikují doslova, neprojeví-li oprávněný nesouhlas. Doložka provedení exekuce nahrazuje právní moc usnesení o nařízení výkonu.
+
+**Checklist (exekutor / soud):**
+- [ ] U každého ustanovení OSŘ posoudit slučitelnost s EŘ (přiměřenost).
+- [ ] Respektovat officialitu — exekutor jedná i bez návrhu.
+- [ ] Zjistit, zda oprávněný neprojevil nesouhlas s dalším úkonem.
+- [ ] Hlídat naplnění „doložky provedení exekuce" (§ 52 odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** protokoly o dražbě, usnesení o nařízení dalšího úkonu, projevy vůle oprávněného, doklad o doložce provedení exekuce.
+
 ---
 
 ## § 53 — Záznam telefonních hovorů
@@ -854,6 +1681,42 @@ Pověření zaniká:
 - důkazní podklad v kárném řízení.
 
 Záznam je **součástí spisu**.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Povinný P telefonicky kontaktuje exekutorský úřad na čísle určeném pro komunikaci s účastníky a stěžuje si, že zaměstnanec exekutora mu vyhrožoval mobilní prohlídkou, pokud okamžitě nezaplatí. P následně podá stížnost a v kárném řízení žádá o vydání záznamu hovoru. Důkazy: zvukový záznam hovoru, evidence záznamů v exekučním spise, údaje o telefonním čísle.
+
+**2. Právní otázka.** Je exekutor povinen zaznamenat tento hovor a uchovat jej jako součást spisu pro účely stížnosti / kárného řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 — povinnost zaznamenat všechna volání na čísle úřadu určeném ke komunikaci s účastníky/třetími osobami/veřejností, týkají-li se vedeného řízení, evidovat údaje o záznamech a uchovat je na trvalém nosiči jako součást spisu (vč. čísel užívaných zaměstnanci).
+- *Související ustanovení téhož zákona:* § 46 odst. 1 (ochrana práv účastníků), § 7 (dohled MS a Komory), kárná ustanovení EŘ.
+- *Související předpisy:* předpisy o ochraně osobních údajů (zpracování záznamů), § 116 a násl. zákona o soudech a soudcích přiměřeně (dohled).
+- *Judikatura:* obecně k použití záznamů jako důkazu v kárném řízení a k ochraně účastníků před nátlakovým vymáháním.
+
+**4. Subsumpce.** Hovor proběhl na čísle úřadu určeném ke komunikaci s účastníky a týkal se vedeného řízení — exekutor jej musel zaznamenat (§ 53) a uchovat na trvalém nosiči jako součást spisu. Záznam slouží jako důkaz tvrzení P v kárném řízení.
+
+**5. Řešení.** Záznam je součástí spisu a lze jej použít k prověření stížnosti / v kárném řízení. Procesní kroky: ověřit evidenci záznamů, vyžádat trvalý nosič, posoudit obsah hovoru.
+
+**6. Varianty.** (a) Kdyby šlo o hovor na soukromém čísle nesouvisejícím s řízením, povinnost záznamu by nedopadala. (b) Pokud by záznam chyběl, šlo by o porušení § 53 s kárnými důsledky.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nahrávání hovorů je nepřípustný zásah do soukromí." Neutralizace: jde o zákonnou povinnost (§ 53) sloužící ochraně účastníků a dohledu; zpracování má zákonný základ.
+- *Protiargument:* „Záznam se týká jen exekutora, ne jeho zaměstnanců." Neutralizace: povinnost se vztahuje i na čísla užívaná zaměstnanci.
+- *Slabé místo:* technické uchování na trvalém nosiči a dohledatelnost konkrétního hovoru; riziko ztráty/nepořízení záznamu.
+
+### H. Praktický závěr
+
+Exekutor musí zaznamenávat a uchovávat všechna volání na úředním čísle určeném ke komunikaci, týkají-li se vedeného řízení; záznam je součástí spisu a slouží jako důkaz při stížnostech a v kárném řízení.
+
+**Checklist (exekutor / účastník / dohledový orgán):**
+- [ ] Zaznamenávat hovory na čísle určeném ke komunikaci (vč. čísel zaměstnanců).
+- [ ] Evidovat údaje o záznamech v exekučním spise.
+- [ ] Uchovat záznam na trvalém nosiči jako součást spisu.
+- [ ] Při stížnosti vyžádat a vyhodnotit záznam.
+
+**Typicky rozhodné důkazy / podklady:** zvukový záznam hovoru, evidence záznamů ve spise, identifikace telefonního čísla, stížnost / kárný návrh.
 
 ---
 
@@ -925,6 +1788,42 @@ Záznam je **součástí spisu**.
 - exekutor rozhodne do **7 dnů** (odst. 12), nelze-li → postoupí soudu (15 dnů).
 - vady návrhu — odmítnutí do 7 dnů (vyloučeno použití § 43 OSŘ o výzvě k odstranění vad).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Proti povinnému P (fyzická osoba, nikoli podle § 67 odst. 1) běží exekuce srážkami ze mzdy a současně exekuce prodejem movitých věcí; byl proveden soupis. P bez zbytečného odkladu po soupisu písemně sdělí, že bude na zvláštní účet měsíčně zasílat druhou třetinu zbytku čisté mzdy z exekuce srážkami (min. 1 500 Kč). Zjištěná cena movitých věcí v soupisu činí 40 000 Kč. Důkazy: protokol o soupisu, výpočet srážky, sdělení povinného, ocenění věcí.
+
+**2. Právní otázka.** Musí exekutor odložit prodej movitých věcí, splní-li povinný podmínky § 54 odst. 7, a jaký je limit ceny soupisu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 — odklad i bez návrhu při paralelních srážkách (odst. 7), výzva a lhůty plateb (odst. 8), důsledky nesplnění (odst. 9), limit 36násobku a výjimky (odst. 10), odklad lze-li očekávat zastavení (odst. 11), lhůty rozhodnutí 7/15 dnů (odst. 12), odmítnutí vadného návrhu do 7 dnů a vyloučení § 43 OSŘ (odst. 1).
+- *Související ustanovení téhož zákona:* § 46 odst. 5 (zvláštní účet), § 67 (nepostižitelné věci), § 55 (zastavení), § 44a/§ 47 odst. 6 (inhibitorium při složení jistoty — odst. 6).
+- *Související předpisy:* § 266, § 289 odst. 1 OSŘ; § 279 odst. 2 OSŘ (přednostní pohledávky).
+- *Judikatura:* NS (21 Cdo 3439/2013) — k povaze a lhůtám návrhů v exekuci; vyplývají-li z předložených listin důvody, soud k nim přihlédne i u opožděného návrhu.
+
+**4. Subsumpce.** P nepatří do § 67 odst. 1, je proti němu vedena exekuce srážkami ze mzdy (jiná než § 279 odst. 2 OSŘ) a oznámil zasílání druhé třetiny (min. 1 500 Kč) bez zbytečného odkladu po soupisu — podmínky § 54 odst. 7 písm. a) jsou splněny. Cena soupisu 40 000 Kč nepřesahuje 36násobek zasílané částky (36 × min. 1 500 Kč = 54 000 Kč), proto se neuplatní výjimka odst. 10.
+
+**5. Řešení.** Exekutor prodej movitých věcí odloží a vyzve P k zasílání (odst. 8). Při nesplnění platby určí dodatečnou lhůtu; jejím marným uplynutím odklad skončí (odst. 9). Pravidlo lze v téže exekuci použít nejvýše jednou. Procesní kroky: ověřit podmínky odst. 7, vypočítat limit dle odst. 10.
+
+**6. Varianty.** (a) Kdyby cena soupisu přesáhla 36násobek (např. 80 000 Kč), exekutor by neodložil / pokračoval (odst. 10). (b) U povinného bez probíhajících srážek (důchodce, OSVČ) postačí závazek zasílat min. 1 500 Kč/měsíc (odst. 7 písm. b).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odklad prodeje movitých je věcí uvážení exekutora." Neutralizace: při splnění podmínek odst. 7 exekutor odloží i bez návrhu (kogentní povinnost), s výjimkou limitu odst. 10.
+- *Protiargument:* „Vadný návrh na odklad lze doplnit jako u § 43 OSŘ." Neutralizace: § 43 OSŘ se nepoužije (odst. 1); vadný návrh exekutor do 7 dnů odmítne.
+- *Slabé místo:* výpočet druhé třetiny zbytku čisté mzdy a limitu 36násobku; riziko sporu o cenu věcí v soupisu (vyloučení věcí do 1 000/2 000 Kč).
+
+### H. Praktický závěr
+
+Při souběhu srážek ze mzdy a prodeje movitých věcí exekutor na základě včasného sdělení povinného a měsíčních plateb (min. 1 500 Kč) odloží prodej movitých věcí; neplatí to, přesáhne-li cena soupisu 36násobek zasílané částky, a pravidlo lze užít jen jednou.
+
+**Checklist (povinný / exekutor / soud):**
+- [ ] Ověřit, zda povinný nespadá do § 67 odst. 1 a zda běží srážky ze mzdy.
+- [ ] Zkontrolovat včasné písemné sdělení po soupisu a výši plateb (min. 1 500 Kč).
+- [ ] Spočítat limit 36násobku ceny soupisu (odst. 10).
+- [ ] Hlídat dodatečnou lhůtu a jednorázovost institutu; nepoužít § 43 OSŘ.
+
+**Typicky rozhodné důkazy / podklady:** protokol o soupisu a ocenění věcí, výpočet srážek ze mzdy, sdělení a platby povinného na zvláštní účet, případně složená jistota.
+
 ---
 
 ## § 55 — Zastavení exekuce
@@ -991,6 +1890,42 @@ Velmi rozsáhlý paragraf — kombinuje **klasické zastavení** (důvody podle 
 - **§ 89** — anti-fraud: oprávněný hradí náklady při zaviněné zastavení.
 - **§ 56a EŘ** + **§ 268 odst. 1 písm. h) OSŘ** — bagatel.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekuce proti povinnému P byla zahájena před více než 6 lety; od vyznačení doložky provedení exekuce nedošlo ani k částečnému uspokojení a není postižena žádná nemovitost. Exekutor vyzve oprávněného O, aby do 30 dnů sdělil souhlas/nesouhlas se zastavením. O nereaguje. V jiné variantě jde o vymáhané výživné nezletilého. Důkazy: doklad o doložce provedení a o nulovém plnění za 6 let, lustrace nemovitostí, výzva oprávněnému, povaha vymáhané pohledávky.
+
+**2. Právní otázka.** Lze exekuci po 6 letech bezvýslednosti zastavit a jaké výjimky a navazující postupy (záloha, prodloužení, nový návrh) se uplatní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 — klasické zastavení (odst. 1—6, lhůta 15 dnů, výzva ostatním účastníkům, záloha), zastavení po 6 letech bezvýslednosti (odst. 7—13: výzva oprávněnému, možnost zálohy na pokračování, výjimky bez zálohy, max. 12 let, stavení lhůty, náklady).
+- *Související ustanovení téhož zákona:* § 52 odst. 3 (doložka provedení — počátek 6 let), § 90 odst. 3 (záloha), § 89 (náklady při zaviněném zastavení), § 44c (pre-emptivní zastavení).
+- *Související předpisy:* § 268 OSŘ (důvody zastavení), § 262b OSŘ (návrh manžela).
+- *Judikatura:* NS (20 Cdo 1114/2025) — oprávněný může podat nový exekuční návrh podle téhož titulu i po zastavení pro bezvýslednost (§ 55 odst. 7—13); úspěšnost nelze podmiňovat novými skutečnostmi o majetku, jen zaplacením přiměřené zálohy (§ 90 odst. 3). NS (21 Cdo 3439/2013) — k lhůtě návrhu na zastavení.
+
+**4. Subsumpce.** Uplynulo 6 let od doložky provedení bez jakéhokoli plnění a bez postižené nemovitosti — podmínky odst. 7 jsou splněny. O nereagoval na výzvu ve lhůtě 30 dnů, proto exekutor exekuci zastaví. U výživného nezletilého (odst. 9) se však pokračování nepodmiňuje zálohou — výjimka.
+
+**5. Řešení.** Při marném uplynutí lhůty (nebo souhlasu O) exekutor zastaví; náklady zastavení (minimální odměna + paušál) hradí oprávněný ze zálohy. O může později podat nový návrh podle téhož titulu (s přiměřenou zálohou). U výživného nezletilého se zastavení pro bezvýslednost neuplatní bez dalšího. Procesní kroky: výzva, vyčíslení nákladů, případně nový návrh.
+
+**6. Varianty.** (a) Složí-li O zálohu na další vedení (odst. 8), exekuce pokračuje další roky (max. celkem 12 let — odst. 11). (b) Je-li postižena nemovitost nebo došlo k částečnému plnění, podmínky odst. 7 nejsou splněny a nezastavuje se.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zastavením pro bezvýslednost dluh definitivně zaniká." Neutralizace: dle judikatury lze podat nový exekuční návrh podle téhož titulu (po zaplacení zálohy).
+- *Protiargument:* „Opožděný návrh na zastavení nelze projednat." Neutralizace: plynou-li z předložených listin důvody zastavení, soud k nim přihlédne i u opožděného návrhu.
+- *Slabé místo:* počítání 6/12 let a stavení lhůt (odst. 12); riziko sporu o splnění podmínek (částečné plnění, postižená nemovitost).
+
+### H. Praktický závěr
+
+Exekuci lze zastavit klasicky (§ 268 OSŘ, lhůta 15 dnů) nebo pro bezvýslednost po 6 letech (bez plnění a bez postižené nemovitosti), s možností prodloužení za zálohu (max. 12 let) a s výjimkami (výživné nezletilého aj.); zastavení nebrání novému návrhu podle téhož titulu.
+
+**Checklist (oprávněný / exekutor / povinný):**
+- [ ] Ověřit počátek 6 let od doložky provedení exekuce (§ 52 odst. 3).
+- [ ] Zkontrolovat absenci jakéhokoli plnění a postižené nemovitosti.
+- [ ] Vyzvat oprávněného a vyhodnotit jeho reakci/zálohu (odst. 7—8).
+- [ ] Posoudit výjimky bez zálohy (odst. 9) a limit 12 let (odst. 11).
+
+**Typicky rozhodné důkazy / podklady:** záznam o doložce provedení exekuce, přehled (ne)plnění za 6 let, lustrace nemovitostí, výzva oprávněnému, doklad o složené záloze, povaha vymáhané pohledávky.
+
 ---
 
 ## § 55a — Náklady při zastavení na návrh
@@ -999,11 +1934,82 @@ Velmi rozsáhlý paragraf — kombinuje **klasické zastavení** (důvody podle 
 
 Anti-úniková klauzule — povinný se nemůže vyhnout nákladům tím, že na poslední chvíli navrhne zastavení a doufá v ekonomické zaniknutí dluhu. Soud nepřistoupí na zastavení, dokud nejsou náklady exekuce uhrazeny.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Povinný P na poslední chvíli navrhne zastavení exekuce na základě dohody s oprávněným O, oba se na zastavení shodnou, avšak náklady exekuce (odměna exekutora) nejsou uhrazeny. P spoléhá, že zastavením se nákladům vyhne. Důkazy: souhlasný návrh na zastavení, vyúčtování nákladů exekuce, doklad o (ne)úhradě.
+
+**2. Právní otázka.** Může soud zastavit exekuci na návrh účastníků, nejsou-li zaplaceny náklady exekuce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55a — soud exekuci na návrh účastníků nezastaví, nejsou-li zaplaceny náklady exekuce.
+- *Související ustanovení téhož zákona:* § 55 (zastavení), § 87—88 (náklady exekuce a námitky), § 89 (náklady při zaviněném zastavení), § 90 (zálohy).
+- *Související předpisy:* § 268 OSŘ (důvody zastavení); vyhl. č. 330/2001 Sb. (odměna).
+- *Judikatura:* obecně k zajištění nákladů exekuce jako podmínce zastavení na návrh účastníků.
+
+**4. Subsumpce.** Návrh na zastavení podávají účastníci (P i O); náklady exekuce nejsou uhrazeny. Podle § 55a soud za této situace exekuci nezastaví — úhrada nákladů je podmínkou vyhovění návrhu. Pokus P vyhnout se nákladům dohodou neobstojí.
+
+**5. Řešení.** Soud zastavení podmíní úhradou nákladů exekuce; po jejich zaplacení (typicky ze zálohy nebo dohodou určenou stranou) lze exekuci zastavit. Procesní kroky: vyčíslit náklady, zajistit jejich úhradu, poté rozhodnout o zastavení.
+
+**6. Varianty.** (a) Zastavuje-li soud exekuci bez návrhu z jiných důvodů (§ 268 OSŘ), § 55a se neuplatní. (b) Jsou-li náklady uhrazeny ze složené zálohy, podmínka § 55a je splněna.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dohodou účastníků lze exekuci zastavit i bez úhrady nákladů." Neutralizace: § 55a to vylučuje — náklady exekuce musí být zaplaceny.
+- *Protiargument:* „Náklady lze doúčtovat po zastavení." Neutralizace: zákon je staví jako předpoklad zastavení na návrh, nikoli jako následný nárok.
+- *Slabé místo:* určení, kdo náklady nese (oprávněný/povinný) podle § 89; riziko sporu o jejich výši (námitky dle § 88).
+
+### H. Praktický závěr
+
+Soud nezastaví exekuci na návrh účastníků, dokud nejsou zaplaceny náklady exekuce; tím se brání obcházení nákladové povinnosti účelovým návrhem na zastavení.
+
+**Checklist (účastníci / exekutor / soud):**
+- [ ] Před návrhem na zastavení vyčíslit a zajistit úhradu nákladů exekuce.
+- [ ] Určit, kdo náklady nese (§ 89), a využít případnou zálohu.
+- [ ] Až po úhradě nákladů rozhodnout o zastavení na návrh.
+
+**Typicky rozhodné důkazy / podklady:** souhlasný návrh na zastavení, vyúčtování nákladů exekuce, doklad o úhradě / složené záloze.
+
 ---
 
 ## § 55b — Rozhodování exekutora
 
 Exekutor rozhoduje **obdobně podle OSŘ**, činí úkony, které přísluší soudu prvního stupně. Forma — **usnesení**. **Bez jednání**, nestanoví-li OSŘ jinak.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor rozhoduje usnesením o návrhu povinného na zastavení exekuce. Povinný požaduje nařízení jednání a odůvodnění srovnatelné s rozsudkem. Exekutor rozhodne bez jednání usnesením s odůvodněním. Důkazy: návrh povinného, usnesení exekutora, exekuční spis.
+
+**2. Právní otázka.** V jaké formě a jakým postupem exekutor rozhoduje a kdy lze rozhodovat bez jednání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55b — exekutor rozhoduje obdobně podle OSŘ, činí úkony příslušející soudu prvního stupně, ve formě usnesení a bez jednání, nestanoví-li OSŘ jinak.
+- *Související ustanovení téhož zákona:* § 52 (subsidiarita OSŘ), § 55 (zastavení), § 55c (odvolání), § 46 (postup exekutora).
+- *Související předpisy:* § 167—169 OSŘ (usnesení), § 115 OSŘ (jednání).
+- *Judikatura:* obecně — exekutor v postavení soudu prvního stupně rozhoduje usnesením, zpravidla bez jednání.
+
+**4. Subsumpce.** Exekutor je v postavení soudu prvního stupně (§ 55b); rozhoduje usnesením a bez jednání, ledaže OSŘ jednání vyžaduje. Pro rozhodnutí o návrhu na zastavení postačí písemné podklady; nařízení jednání není nutné.
+
+**5. Řešení.** Exekutor rozhodne usnesením bez jednání; proti rozhodnutí je zpravidla přípustné odvolání (§ 55c), nejde-li o vyloučené případy. Procesní kroky: vydat odůvodněné usnesení, poučit o odvolání.
+
+**6. Varianty.** (a) Vyžaduje-li OSŘ pro daný úkon jednání, exekutor je nařídí. (b) Jde-li o úkon, který OSŘ svěřuje výlučně soudu, postoupí věc exekučnímu soudu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Exekutor musí vždy nařídit jednání." Neutralizace: § 55b umožňuje rozhodovat bez jednání, nestanoví-li OSŘ jinak.
+- *Protiargument:* „Rozhodnutí exekutora má formu rozsudku." Neutralizace: forma je usnesení (§ 55b).
+- *Slabé místo:* hranice, kdy OSŘ jednání přesto vyžaduje; riziko procesní vady při jeho nenařízení.
+
+### H. Praktický závěr
+
+Exekutor rozhoduje v postavení soudu prvního stupně usnesením a zpravidla bez jednání; jednání nařizuje jen tam, kde to OSŘ vyžaduje.
+
+**Checklist (exekutor):**
+- [ ] Rozhodovat ve formě usnesení (§ 55b).
+- [ ] Posoudit, zda OSŘ pro daný úkon vyžaduje jednání.
+- [ ] Usnesení odůvodnit a poučit o opravném prostředku.
+- [ ] Úkony svěřené výlučně soudu postoupit exekučnímu soudu.
+
+**Typicky rozhodné důkazy / podklady:** návrh účastníka, exekuční spis, usnesení exekutora, doklad o doručení.
 
 ---
 
@@ -1043,6 +2049,42 @@ Exekutor rozhoduje **obdobně podle OSŘ**, činí úkony, které přísluší s
 - proti **příkazu k úhradě nákladů exekuce** (jediná cesta = námitky podle § 87—88),
 - proti odmítnutí vyloučení věci ze soupisu (jediná cesta = vylučovací žaloba § 267 OSŘ).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor vydá příkaz k úhradě nákladů exekuce (PÚNE) a doručí jej povinnému P. P chce podat odvolání ke krajskému soudu. V jiné variantě P podává odvolání proti exekučnímu příkazu na přikázání pohledávky z účtu. Důkazy: PÚNE / exekuční příkaz, doklad o doručení, odvolání.
+
+**2. Právní otázka.** Je proti příkazu k úhradě nákladů exekuce a proti exekučnímu příkazu přípustné odvolání ke krajskému soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55c — odvolání proti rozhodnutí exekutora (odst. 1), rozhoduje krajský soud v obvodu exekučního soudu (odst. 2), vyloučení odvolání proti vyškrtnutí věci ze soupisu, exekučnímu příkazu, změně/zrušení EP a příkazu k úhradě nákladů exekuce (odst. 3), lhůta 15 dnů u exekutora (odst. 4), přiměřené použití § 201—226 OSŘ (odst. 5—6).
+- *Související ustanovení téhož zákona:* § 47 odst. 5 (EP bez opravného prostředku), § 87—88 (námitky proti nákladům), § 68 (vyškrtnutí věci ze soupisu), § 55 (zastavení).
+- *Související předpisy:* § 201—226 OSŘ (odvolání), § 267 OSŘ (vylučovací žaloba).
+- *Judikatura:* obecně k vyloučeným kategoriím odvolání a k alternativním procesním cestám (námitky, vylučovací žaloba, návrh na zastavení).
+
+**4. Subsumpce.** Proti PÚNE je odvolání vyloučeno (§ 55c odst. 3 písm. d) — obrana vede přes námitky podle § 87—88. Proti exekučnímu příkazu je odvolání rovněž vyloučeno (písm. b) — obrana přes návrh na zastavení (§ 55) nebo vylučovací žalobu (§ 267 OSŘ). Odvolání by bylo nepřípustné.
+
+**5. Řešení.** P proti PÚNE podá námitky (§ 88), proti EP návrh na zastavení; odvolání ke krajskému soudu by bylo odmítnuto jako nepřípustné. U rozhodnutí, kde odvolání přípustné je, se podává u exekutora do 15 dnů a rozhoduje krajský soud. Procesní kroky: zvolit správný opravný prostředek podle druhu rozhodnutí.
+
+**6. Varianty.** (a) Proti usnesení o zastavení exekuce je odvolání přípustné (nejde o vyloučenou kategorii). (b) Proti rozhodnutí o vyškrtnutí věci ze soupisu je odvolání vyloučeno — řešením je vylučovací žaloba (§ 267 OSŘ).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Proti každému rozhodnutí exekutora lze podat odvolání." Neutralizace: odst. 3 taxativně vylučuje EP, změnu/zrušení EP, PÚNE a vyškrtnutí věci ze soupisu.
+- *Protiargument:* „Náklady exekuce se napadají odvoláním." Neutralizace: cestou jsou námitky podle § 87—88, nikoli odvolání.
+- *Slabé místo:* záměna opravných prostředků vede ke zmeškání lhůt; nutná přesná identifikace druhu rozhodnutí.
+
+### H. Praktický závěr
+
+Odvolání proti rozhodnutí exekutora se podává u exekutora do 15 dnů a rozhoduje o něm krajský soud; je však vyloučeno proti exekučnímu příkazu, jeho změně/zrušení, příkazu k úhradě nákladů exekuce a vyškrtnutí věci ze soupisu — pro ně slouží námitky, návrh na zastavení nebo vylučovací žaloba.
+
+**Checklist (advokát / povinný / exekutor):**
+- [ ] Určit, zda rozhodnutí spadá do vyloučených kategorií (odst. 3).
+- [ ] Proti EP volit návrh na zastavení / vylučovací žalobu, ne odvolání.
+- [ ] Proti PÚNE podat námitky (§ 87—88).
+- [ ] Odvolání podat u exekutora do 15 dnů (rozhoduje krajský soud).
+
+**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí exekutora, doklad o doručení, odvolání/námitky, exekuční spis.
+
 ---
 
 ## § 56 — Doručování (obecně)
@@ -1052,6 +2094,42 @@ Exekutor doručuje:
 - prostřednictvím zaměstnance,
 - datovou schránkou,
 - poštou / přepravou.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor potřebuje doručit povinnému P exekuční příkaz. P má datovou schránku, kterou aktivně používá. Exekutor zvolí doručení datovou schránkou; v jiné variantě doručuje prostřednictvím svého zaměstnance při soupisu movitých věcí v bytě P. Důkazy: doklad o doručení datovou schránkou, protokol o doručení zaměstnancem, doručenka.
+
+**2. Právní otázka.** Jakými způsoby exekutor doručuje písemnosti a jaké je jejich pořadí/účinky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 — exekutor doručuje osobně, prostřednictvím zaměstnance, datovou schránkou, poštou/přepravou.
+- *Související ustanovení téhož zákona:* § 44 odst. 2 (vyrozumění do vlastních rukou), § 56a (ohlašovna), § 56b (zvláštní případy), § 52 odst. 1 (subsidiarita OSŘ).
+- *Související předpisy:* § 45 a násl. OSŘ (doručování), zákon č. 300/2008 Sb. o elektronických úkonech a datových schránkách.
+- *Judikatura:* obecně k přednosti doručování do datové schránky a k fikci doručení.
+
+**4. Subsumpce.** Má-li P zpřístupněnou datovou schránku, doručuje se přednostně do ní (zák. 300/2008 Sb. ve spojení s § 56). Doručení zaměstnancem exekutora při soupisu je rovněž přípustný způsob. Oba způsoby vedou k řádnému doručení s navazujícími účinky (běh lhůt).
+
+**5. Řešení.** Exekutor doručí EP do datové schránky P (případně zaměstnancem na místě); od doručení běží příslušné lhůty. Procesní kroky: ověřit existenci datové schránky, zajistit doručenku/protokol.
+
+**6. Varianty.** (a) Nemá-li P datovou schránku, doručuje se osobně/poštou. (b) Selže-li doručení (chybí schránka, nelze zanechat výzvu), nastupuje zvláštní režim § 56b.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Exekutor musí vždy doručovat poštou." Neutralizace: § 56 připouští více způsobů; u zřízené datové schránky má přednost elektronické doručení.
+- *Protiargument:* „Doručení zaměstnancem není platné." Neutralizace: § 56 výslovně doručení prostřednictvím zaměstnance umožňuje.
+- *Slabé místo:* prokázání okamžiku doručení (fikce); riziko zpochybení při souběhu více způsobů.
+
+### H. Praktický závěr
+
+Exekutor doručuje osobně, zaměstnancem, datovou schránkou nebo poštou; u zřízené datové schránky má přednost elektronické doručení, od něhož se odvíjejí procesní lhůty.
+
+**Checklist (exekutor):**
+- [ ] Zjistit, zda má adresát zpřístupněnou datovou schránku.
+- [ ] Zvolit odpovídající způsob doručení (vlastní ruce u vyrozumění — § 44/2).
+- [ ] Zajistit doručenku/protokol pro počítání lhůt.
+- [ ] Při selhání doručení přejít na režim § 56a/§ 56b.
+
+**Typicky rozhodné důkazy / podklady:** doručenka, doklad o doručení do datové schránky, protokol o doručení zaměstnancem.
 
 ---
 
@@ -1068,11 +2146,83 @@ Exekutor doručuje:
 
 **Smysl:** modernizace doručování, ochrana před zneužitím adres ohlašoven.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Povinný P má trvalý pobyt evidovaný na adrese ohlašovny (obecní úřad), kde fakticky nebydlí a nemá schránku. Exekutor potřebuje doručit běžnou písemnost (nikoli vyrozumění o zahájení). Důkazy: údaj o trvalém pobytu na ohlašovně, doklad o uložení písemnosti u exekutora, zveřejnění výzvy na centrální úřední desce, evidence úložní doby.
+
+**2. Právní otázka.** Jak se doručuje osobě s pobytem na ohlašovně a kdy nastává fikce doručení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56a — u osob s pobytem na ohlašovně exekutor nedoručuje poštou, písemnost uloží u sebe a zveřejní výzvu na centrální úřední desce (§ 125a), adresát má 10 dnů na vyzvednutí/žádost o doslání, poté nastává fikce doručení; výjimky (odst. 4: vyrozumění o zahájení, písemnosti s vyloučenou fikcí, EP dlužníku povinného aj.).
+- *Související ustanovení téhož zákona:* § 56 (obecné doručování), § 56b (zvláštní případy), § 125a (centrální úřední deska), § 44 odst. 2 (vyrozumění do vlastních rukou).
+- *Související předpisy:* § 49—50 OSŘ (fikce doručení) přiměřeně, zákon č. 133/2000 Sb. o evidenci obyvatel (pobyt na ohlašovně).
+- *Judikatura:* obecně k fikci doručení a ochraně před zneužitím adres ohlašoven.
+
+**4. Subsumpce.** P má pobyt na ohlašovně a jde o běžnou písemnost (nespadá pod výjimky odst. 4). Exekutor proto nedoručuje poštou, uloží písemnost u sebe a zveřejní výzvu na centrální úřední desce; po 10 dnech bez vyzvednutí nastává fikce doručení.
+
+**5. Řešení.** Doručení nastane fikcí po 10 dnech; od ní běží lhůty. Vyrozumění o zahájení by se však doručovalo standardně (výjimka odst. 4). Procesní kroky: uložení u exekutora, zveřejnění výzvy, evidence úložní doby.
+
+**6. Varianty.** (a) Šlo-li by o vyrozumění o zahájení exekuce, doručuje se standardně do vlastních rukou (odst. 4). (b) Požádá-li P včas o doslání, písemnost se mu zašle.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „I osobě na ohlašovně se musí doručovat poštou." Neutralizace: § 56a poštovní doručování vylučuje a nahrazuje uložením + zveřejněním + fikcí.
+- *Protiargument:* „Fikce nastává hned." Neutralizace: nastává až po marném uplynutí 10denní úložní lhůty.
+- *Slabé místo:* dodržení postupu zveřejnění na centrální úřední desce a evidence lhůt; výjimky odst. 4 nutno hlídat.
+
+### H. Praktický závěr
+
+Osobám s pobytem na ohlašovně exekutor nedoručuje poštou — písemnost uloží u sebe, zveřejní výzvu na centrální úřední desce a po 10 dnech nastává fikce doručení; vyrozumění o zahájení a další výjimky (odst. 4) se doručují standardně.
+
+**Checklist (exekutor):**
+- [ ] Zjistit, zda má adresát pobyt na ohlašovně.
+- [ ] Uložit písemnost u exekutora a zveřejnit výzvu na centrální úřední desce.
+- [ ] Hlídat 10denní úložní lhůtu a fikci doručení.
+- [ ] Aplikovat výjimky odst. 4 (vyrozumění o zahájení, EP dlužníku povinného aj.).
+
+**Typicky rozhodné důkazy / podklady:** údaj o pobytu na ohlašovně, doklad o uložení a o zveřejnění výzvy, evidence úložní doby.
+
 ---
 
 ## § 56b — Doručování ve zvláštních případech
 
 Pokud byla písemnost vrácena (chybí schránka nebo nelze zanechat výzvu), **další písemnosti se ukládají u exekutora + zveřejnění na centrální úřední desce** (analogie § 56a).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor opakovaně neúspěšně doručuje povinnému P písemnost — zásilka je vrácena, protože P nemá schránku a nelze zanechat výzvu. Exekutor proto další písemnosti ukládá u sebe a zveřejňuje výzvu na centrální úřední desce. Důkazy: doklad o vrácení zásilky, doklad o uložení a zveřejnění, evidence úložní doby.
+
+**2. Právní otázka.** Jak postupovat při doručování, byla-li předchozí písemnost vrácena pro nemožnost doručení (chybí schránka, nelze zanechat výzvu)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56b — byla-li písemnost vrácena (chybí schránka nebo nelze zanechat výzvu), další písemnosti se ukládají u exekutora a zveřejňují na centrální úřední desce (analogie § 56a).
+- *Související ustanovení téhož zákona:* § 56 (obecné doručování), § 56a (ohlašovna), § 125a (centrální úřední deska).
+- *Související předpisy:* § 49—50 OSŘ (doručování, fikce) přiměřeně.
+- *Judikatura:* obecně k náhradnímu doručování a fikci při nemožnosti doručit.
+
+**4. Subsumpce.** Předchozí písemnost byla vrácena pro chybějící schránku / nemožnost zanechat výzvu — naplněna hypotéza § 56b. Další písemnosti se proto ukládají u exekutora a zveřejňují na centrální úřední desce, obdobně jako u § 56a, s navazující fikcí doručení.
+
+**5. Řešení.** Exekutor přejde na režim ukládání + zveřejnění; doručení nastává fikcí. Procesní kroky: doložit vrácení zásilky, zajistit zveřejnění a evidenci lhůt.
+
+**6. Varianty.** (a) Obnoví-li P schránku / stane-li se doručení možným, vrátí se exekutor ke standardnímu doručování. (b) U písemností s vyloučenou fikcí se postupuje individuálně.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nelze-li doručit, řízení se zastaví." Neutralizace: § 56b zavádí náhradní doručování ukládáním a zveřejněním s fikcí — řízení pokračuje.
+- *Protiargument:* „Zveřejnění na úřední desce nestačí k doručení." Neutralizace: ve spojení s uložením a uplynutím lhůty zakládá fikci doručení.
+- *Slabé místo:* prokázání předchozí nemožnosti doručit; dodržení formálního postupu zveřejnění a evidence.
+
+### H. Praktický závěr
+
+Byla-li písemnost vrácena pro chybějící schránku či nemožnost zanechat výzvu, exekutor další písemnosti ukládá u sebe a zveřejňuje na centrální úřední desce (obdobně § 56a) s navazující fikcí doručení.
+
+**Checklist (exekutor):**
+- [ ] Doložit vrácení předchozí zásilky a důvod (chybí schránka / nelze zanechat výzvu).
+- [ ] Další písemnosti ukládat u exekutora a zveřejnit na centrální úřední desce.
+- [ ] Evidovat úložní lhůty a fikci doručení.
+- [ ] Při obnovení možnosti doručit přejít zpět na standardní režim.
+
+**Typicky rozhodné důkazy / podklady:** doklad o vrácení zásilky, doklad o uložení a zveřejnění výzvy, evidence úložní doby.
 
 ---
 
@@ -1081,6 +2231,42 @@ Pokud byla písemnost vrácena (chybí schránka nebo nelze zanechat výzvu), **
 > Uvedení v předešlý stav je v exekučním řízení **vyloučeno**.
 
 Klasická klauzule — analogie § 269 OSŘ. **Restitutio in integrum** (vrácení do stavu před exekucí) **NELZE** v exekučním řízení. Po skončení exekuce je třeba jiných právních cest — žaloba na vydání bezdůvodného obohacení, náhrada škody, atd.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V exekuci byla vydražena a převedena movitá věc povinného P; usnesení o příklepu nabylo právní moci, kupní cena byla zaplacena a věc předána vydražiteli. Exekuce následně skončila. P se domáhá „uvedení v předešlý stav" — vrácení věci a obnovení stavu před exekucí, neboť exekuční titul byl později zrušen. Důkazy: usnesení o příklepu, doklad o převodu věci, rozhodnutí o zrušení titulu.
+
+**2. Právní otázka.** Lze v exekučním řízení dosáhnout uvedení v předešlý stav (restitutio in integrum) po provedení exekuce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 — uvedení v předešlý stav je v exekučním řízení vyloučeno.
+- *Související ustanovení téhož zákona:* § 47 odst. 7 (zánik účinků EP provedením/zastavením), § 55 (zastavení), § 52 odst. 1 (subsidiarita OSŘ).
+- *Související předpisy:* § 269 OSŘ (analogická úprava u výkonu rozhodnutí), § 2991 a násl. OZ (bezdůvodné obohacení), § 2910 OZ (náhrada škody), zák. č. 82/1998 Sb. (odpovědnost státu).
+- *Judikatura:* obecně — po skončení exekuce nelze obnovit předešlý stav v exekučním řízení; nápravu lze hledat hmotněprávními žalobami.
+
+**4. Subsumpce.** Provedením exekuce (dražba, převod věci, zánik účinků EP — § 47 odst. 7) je stav uzavřen; § 57 výslovně vylučuje uvedení v předešlý stav. P se proto nemůže domáhat vrácení věci v exekučním řízení, i když byl titul později zrušen.
+
+**5. Řešení.** P musí zvolit jinou právní cestu — žalobu na vydání bezdůvodného obohacení proti oprávněnému (který přijal plnění bez právního důvodu), náhradu škody, případně nárok vůči státu (zák. 82/1998 Sb.). Procesní kroky: identifikovat pasivně legitimovaný subjekt a uplatnit hmotněprávní nárok.
+
+**6. Varianty.** (a) Kdyby exekuce ještě nebyla provedena, P by se bránil návrhem na zastavení (§ 55), nikoli restitucí. (b) U zrušeného titulu lze vymožené plnění žádat zpět jako bezdůvodné obohacení.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po zrušení titulu se exekuce automaticky zvrátí a věc vrátí." Neutralizace: § 57 uvedení v předešlý stav vylučuje; náprava jen hmotněprávní cestou.
+- *Protiargument:* „Restituci lze opřít o § 269 OSŘ." Neutralizace: § 269 OSŘ je analogickou klauzulí téhož vyloučení, nikoli základem restituce.
+- *Slabé místo:* určení pasivně legitimovaného subjektu (oprávněný vs. stát vs. vydražitel) a prokázání rozsahu obohacení/škody.
+
+### H. Praktický závěr
+
+Uvedení v předešlý stav je v exekučním řízení vyloučeno; po provedení exekuce (i při pozdějším zrušení titulu) lze nápravu hledat jen hmotněprávními žalobami — bezdůvodné obohacení, náhrada škody, případně odpovědnost státu.
+
+**Checklist (advokát / povinný):**
+- [ ] Ověřit, zda byla exekuce již provedena (pak restituce vyloučena).
+- [ ] Před provedením využít návrh na zastavení (§ 55), nikoli restituci.
+- [ ] Po provedení uplatnit bezdůvodné obohacení / náhradu škody.
+- [ ] Posoudit nárok vůči státu podle zák. č. 82/1998 Sb.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o příklepu / o převodu, rozhodnutí o zrušení titulu, doklady o zaplaceném/vymoženém plnění, podklady k bezdůvodnému obohacení nebo škodě.
 
 ---
 

@@ -34,6 +34,42 @@ Klíčovým institutem této závěrečné části je **CEE — Centrální evid
 
 **Odst. 3 — definice ohlašovny:** Klíčová pro § 56a (doručování na ohlašovnu) — definuje pojem „ohlašovna" jako obecní úřady / úřady městských částí v Praze a statutárních městech.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor vydá v exekuci proti povinnému (slovenskému státnímu příslušníkovi s neznámým pobytem) dražební vyhlášku na nemovitost. Pobyt povinného není znám, povinný nemá v ČR registrovanou adresu ani datovou schránku. Exekutor vyvěsí vyhlášku na své úřední desce a po 10 dnech provede dražbu. Povinný se posléze objeví a tvrdí, že mu vyhláška nebyla řádně doručena, neboť měla být vyvěšena na úřední desce soudu, nikoli exekutora. K obstarání důkazů: protokol o vyvěšení s datem, výpis z evidence obyvatel o neznámém pobytu, doklad o sejmutí vyhlášky.
+
+**2. Právní otázka.** Postačuje vyvěšení dražební vyhlášky na úřední desce exekutora (namísto soudu) k tomu, aby vůči účastníku neznámého pobytu nastala fikce doručení desátým dnem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124 odst. 1 (substituce úřední desky soudu deskou exekutora), odst. 2 (fikce doručení desátým dnem účastníkům neznámého pobytu).
+- *Související ustanovení téhož zákona:* § 56a a § 56b (doručování na ohlašovnu, centrální úřední deska), § 125a (centrální úřední deska Komory), § 52 (subsidiarita OSŘ v exekuci).
+- *Související předpisy:* OSŘ — § 50l (fikce doručení vyvěšením), § 336b (dražební vyhláška); zákon č. 133/2000 Sb. o evidenci obyvatel (odst. 3 — definice ohlašovny).
+- *Judikatura:* obecně platí, že fikce doručení vyvěšením je ústavně konformní pouze tehdy, byly-li vyčerpány reálné možnosti doručit účastníku osobně; ÚS opakovaně zdůraznil, že fikce nesmí být zneužita tam, kde je pobyt fakticky zjistitelný.
+
+**4. Subsumpce.** Znak „povinnost vyvěsit na úřední desce soudu" — splněn substitučně vyvěšením na desce exekutora (odst. 1). Znak „účastník, jehož pobyt není znám" — splněn, je-li doloženo, že pobyt skutečně nelze zjistit. Sporné: zda exekutor vyčerpal lustraci (evidence obyvatel, cizinecká evidence) před aplikací fikce — pokud ne, fikce neplatí.
+
+**5. Řešení.** Vyvěšení na desce exekutora je plnohodnotnou náhradou desky soudu (odst. 1), fikce desátým dnem je tedy aplikovatelná (odst. 2). Podmínkou je řádné předchozí zjišťování pobytu; jinak hrozí zrušení dražby pro vadu doručení. Procesně: doložit protokol o vyvěšení, datum sejmutí a lustraci pobytu.
+
+**6. Varianty.** (a) Pokud měl povinný zřízenou datovou schránku, fikce po 10 dnech neplatí — doručuje se přednostně do datové schránky. (b) Pokud zákon výslovně vyžaduje vyvěšení právě na desce soudu („nestanoví-li tento zákon výslovně jinak"), substituce deskou exekutora je vyloučena.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* fikce doručení odpírá účastníku právo na slyšení. Neutralizace — fikce je ústavně přípustná jen jako ultima ratio po vyčerpání reálných možností doručit; exekutor musí lustraci doložit.
+- *Protiargument:* deska exekutora je méně přístupná než deska soudu, čímž se zhoršuje postavení adresáta. Neutralizace — od novely 2021/286 doplňuje § 125a centrální úřední desku Komory s dálkovým přístupem, čímž je transparentnost zachována.
+- *Slabé místo:* spornost data vyvěšení/sejmutí — bez pečlivého protokolu nelze prokázat počátek běhu desetidenní lhůty.
+
+### H. Praktický závěr
+
+Ustanovení modifikuje doručovací režim OSŘ pro exekuci: deska exekutora nahrazuje desku soudu a u účastníků neznámého pobytu nastává fikce doručení po 10 dnech. Vždy je nutné dbát o doložitelnost vyvěšení a o předchozí lustraci pobytu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda zákon nevyžaduje výslovně desku soudu (vylučuje substituci).
+- [ ] Doložit protokol o vyvěšení s přesným datem (počátek běhu 10denní lhůty).
+- [ ] Ověřit, že pobyt účastníka skutečně není znám (lustrace evidencí).
+- [ ] Zvážit přednostní doručení do datové schránky, je-li zřízena.
+
+**Typicky rozhodné důkazy / podklady:** protokol o vyvěšení a sejmutí listiny, výpis z evidence obyvatel / cizinecké evidence o neznámém pobytu, doklad o (ne)existenci datové schránky.
+
 ---
 
 # HLAVA XIII — Přestupky
@@ -79,12 +115,86 @@ Klíčovým institutem této závěrečné části je **CEE — Centrální evid
 
 **Pokuta 3 mil. Kč + zákaz činnosti** = paralelní úprava trestnímu právu (TZ § 252 — Neoprávněné podnikání může být i trestným činem při větším rozsahu).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Inkasní agentura (fyzická osoba podnikající, pan N.) navštíví dlužníka, představí se jako „exekutor", předloží „vykonatelný příkaz" na hlavičkovém papíře s nápisem „Exekutorský úřad" a sepíše seznam movitých věcí dlužníka, který si fotograficky zdokumentuje. Pan N. nikdy nebyl jmenován soudním exekutorem. Dlužník podá podnět na ministerstvo spravedlnosti. K obstarání důkazů: hlavičkový papír / vizitka, fotodokumentace „soupisu", svědectví dlužníka, výpis ze seznamu exekutorů (potvrzující, že N. exekutorem není).
+
+**2. Právní otázka.** Naplnil pan N. skutkovou podstatu podle § 124a odst. 1 písm. c) (neoprávněný výkon exekuční činnosti), nebo „pouze" písm. a)/b) (neoprávněné označení)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124a odst. 1 písm. a)–c) (označení vs. faktický výkon činnosti), odst. 2–3 (sazby pokut, zákaz činnosti).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 a 2 (ochrana označení), § 1 a § 28 (výkon exekuční činnosti je vyhrazen jen pověřenému exekutorovi), § 124d (příslušnost ministerstva).
+- *Související předpisy:* zákon č. 250/2016 Sb. o odpovědnosti za přestupky; trestní zákoník — § 252 (neoprávněné podnikání) při větším rozsahu — souběh / přednost trestního postihu.
+- *Judikatura:* obecná zásada zákazu dvojího postihu (ne bis in idem) — týž skutek nelze postihnout jako přestupek i trestný čin; přednost má trestní řízení.
+
+**4. Subsumpce.** Označení „exekutor" / „exekutorský úřad" naplňuje písm. a). Skutečné sepsání soupisu věcí (úkon vyhrazený exekutorovi) jde nad rámec pouhého označení a naplňuje písm. c) — „vykonává exekuční činnost, ačkoli k tomu není oprávněn". Sporné: zda intenzita jednání nedosahuje „většího rozsahu" zakládajícího trestný čin neoprávněného podnikání.
+
+**5. Řešení.** Jde o přestupek podle písm. c) — nejtvrději postižený (pokuta do 3 mil. Kč + zákaz činnosti do 1 roku). Pokud rozsah a opakovanost dosahují trestněprávní intenzity, věc se odevzdá orgánům činným v trestním řízení a přestupkové řízení se přeruší (ne bis in idem). Procesně: ministerstvo zahájí řízení podle z. 250/2016 Sb.
+
+**6. Varianty.** (a) Kdyby N. pouze rozvěšoval letáky „Exekutorský úřad N." bez jakéhokoli faktického úkonu, šlo by jen o písm. a) — pokuta do 200 tis. Kč. (b) Kdyby byl N. bývalým exekutorem, který po zániku úřadu nepředal spisy, jednalo by se o písm. d), nikoli c).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* dlužník souhlasil se sepsáním seznamu „dobrovolně", nešlo tedy o nucený výkon. Neutralizace — písm. c) postihuje výkon exekuční/další činnosti exekutora obecně, nejen nucený; klíčové je předstírání postavení exekutora.
+- *Protiargument:* jde o trestný čin, přestupek je proto vyloučen. Neutralizace — to není polehčení; přednost trestního postihu znamená přísnější sankci, nikoli beztrestnost.
+- *Slabé místo:* dokazování „faktického výkonu" — bez fotodokumentace či svědků hrozí překvalifikace na pouhé označení (mírnější sazba).
+
+### H. Praktický závěr
+
+Pět skutkových podstat FO se odstupňuje podle závažnosti: pouhé klamavé označení (a, b) vs. skutečný neoprávněný výkon činnosti (c — pokuta až 3 mil. Kč a zákaz činnosti) vs. selhání bývalého exekutora (d, e). Rozhodující je odlišit „označení" od „výkonu".
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit, zda jednání zůstalo u označení (a, b), nebo dosáhlo faktického výkonu činnosti (c).
+- [ ] Ověřit oprávnění osoby výpisem ze seznamu exekutorů.
+- [ ] Posoudit, zda rozsah nedosahuje trestného činu (§ 252 TZ) — pak přednost trestního řízení.
+- [ ] U bývalého exekutora prověřit splnění povinností podle § 15 odst. 5/9 (písm. d, e).
+
+**Typicky rozhodné důkazy / podklady:** hlavičkové papíry / vizitky s označením, fotodokumentace či listiny dokládající faktický úkon, výpis ze seznamu exekutorů, svědecké výpovědi poškozených.
+
+---
+
 ## § 124b — Přestupky právnických a podnikajících fyzických osob
 
 **Paralelní katalog pro PO** s totožnými skutkovými podstatami a sankcemi jako § 124a písm. a)—c). Typicky postihuje:
 - pohledávkové společnosti, které se mediálně prezentují jako „exekuční centra",
 - subjekty nabízející dražby majetku bez oprávnění,
 - údajné „kanceláře exekutora" provozované neexekutorskými subjekty.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Společnost „EXE-Centrum vymáhání s.r.o." se v reklamě a na webu prezentuje jako „exekuční centrum" a nabízí „dražby majetku dlužníků". Společnost není exekutorským úřadem ani s žádným exekutorem nespolupracuje; ve skutečnosti pouze odkupuje pohledávky. Konkurenční věřitel i klamaní dlužníci podají podnět ministerstvu. K obstarání důkazů: snímky webu a reklamních materiálů, výpis z obchodního rejstříku (předmět podnikání), doklady o uspořádaných „dražbách".
+
+**2. Právní otázka.** Lze právnickou osobu postihnout za neoprávněné označování činnosti jako „exekuční" a za neoprávněné pořádání dražeb, ačkoli pachatelem je obchodní společnost, nikoli fyzická osoba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124b (paralelní katalog skutkových podstat pro PO a podnikající FO, totožný s § 124a písm. a)–c)).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 a 2 (ochrana označení), § 76 a násl. (dražby v rámci další činnosti vyhrazené exekutorovi), § 124d (příslušnost).
+- *Související předpisy:* zákon č. 250/2016 Sb. (odpovědnost PO za přestupek, liberace dle § 21), zákon č. 26/2000 Sb. o veřejných dražbách (odlišení od dobrovolných dražeb).
+- *Judikatura:* obecná zásada — PO se odpovědnosti zprostí jen prokáže-li, že vynaložila veškeré úsilí, které bylo možno požadovat, aby přestupku zabránila.
+
+**4. Subsumpce.** Označení „exekuční centrum" naplňuje skutkovou podstatu odpovídající § 124a písm. b) (označení činnosti jako „exekuce"). Pořádání „dražeb majetku dlužníků" bez oprávnění naplňuje podstatu odpovídající písm. c) (výkon činnosti vyhrazené exekutorovi). Sporné: zda šlo o dražby ve smyslu vyhrazené exekuční činnosti, nebo o dobrovolné dražby dle z. 26/2000 Sb.
+
+**5. Řešení.** PO odpovídá podle § 124b se sankcemi shodnými s § 124a — za neoprávněný výkon činnosti pokuta až do 3 mil. Kč. Liberace je možná jen při prokázání náležité péče. Procesně: ministerstvo zahájí řízení, posoudí povahu „dražeb" a předmět podnikání dle OR.
+
+**6. Varianty.** (a) Pokud by společnost pořádala výhradně dobrovolné dražby podle z. 26/2000 Sb. a označovala se jako dražebník (nikoli exekutor), o přestupek by nešlo. (b) Pokud by jednatel jednal mimo rámec společnosti jako fyzická osoba, postihovala by se FO podle § 124a.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „exekuční centrum" je jen marketingový slogan, nikoli předstírání postavení exekutora. Neutralizace — postačuje označení „způsobilé vyvolat nebezpečí záměny"; rozhodující je dojem průměrného adresáta.
+- *Protiargument:* společnost prokázala náležitou péči (interní směrnice), a má být liberována. Neutralizace — liberace vyžaduje skutečně vynaložené úsilí zabránit přestupku, nikoli formální dokument.
+- *Slabé místo:* odlišení vyhrazené exekuční dražby od dobrovolné dražby dle z. 26/2000 Sb. — bez prověření povahy dražeb hrozí nesprávná kvalifikace.
+
+### H. Praktický závěr
+
+§ 124b zrcadlí § 124a pro právnické a podnikající fyzické osoby; typicky postihuje pohledávkové společnosti vydávající se za „exekuční centra" či pořádající neoprávněné dražby. Sankce jsou shodné, včetně horní hranice 3 mil. Kč za faktický výkon činnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda označení je způsobilé vyvolat záměnu s exekutorem (test průměrného adresáta).
+- [ ] Odlišit dobrovolnou dražbu (z. 26/2000 Sb.) od vyhrazené exekuční činnosti.
+- [ ] U PO prověřit možnost liberace (§ 21 z. 250/2016 Sb.).
+- [ ] Ověřit předmět podnikání v obchodním rejstříku.
+
+**Typicky rozhodné důkazy / podklady:** snímky webu a reklamních materiálů, výpis z obchodního rejstříku, doklady o uspořádaných dražbách, případné interní směrnice (k liberaci).
 
 ## § 124c — Přestupky Komory
 
@@ -140,11 +250,83 @@ Klíčovým institutem této závěrečné části je **CEE — Centrální evid
 
 **Smysl:** Komora má **veřejnoprávní** funkce s celostátním dopadem — selhání dohledu nebo CEE zasahuje **statisíce občanů**. Vysoké pokuty odrážejí míru veřejného zájmu.
 
+### F. Kazuistika
+
+**1. Modelová situace.** V důsledku technické chyby na straně Komory přestane po dobu tří týdnů fungovat zápis vyrozumění o zahájení exekuce do CEE (§ 125); registr během této doby zobrazuje neaktuální údaje a banky na jeho základě poskytnou úvěry osobám, jež jsou ve skutečnosti v exekuci. Ministerstvo spravedlnosti zahájí s Komorou přestupkové řízení. K obstarání důkazů: technické logy provozu CEE, korespondence o nahlášení a řešení výpadku, vnitřní předpisy Komory o správě registru.
+
+**2. Právní otázka.** Naplnila Komora skutkovou podstatu podle § 124c odst. 1 písm. j) (nevede CEE nebo ji vede v rozporu s § 125), a do kterého pásma pokut věc spadá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124c odst. 1 písm. j) a odst. 2 písm. a) (pásmo do 10 mil. Kč za vadné vedení CEE).
+- *Související ustanovení téhož zákona:* § 125 (povinnosti při vedení CEE), § 7 odst. 5 (dohled Komory), § 8a a násl. (stavovské předpisy), § 109 a násl. (orgány Komory).
+- *Související předpisy:* zákon č. 250/2016 Sb. (odpovědnost, liberace); vyhláška č. 329/2008 Sb. (zápisy, výmazy, provoz CEE); správní řád č. 500/2004 Sb.
+- *Judikatura:* obecná zásada — i u objektivní odpovědnosti za přestupek je možná liberace prokázáním vynaložení veškerého úsilí, jež bylo možno požadovat.
+
+**4. Subsumpce.** Znak „nevede CEE nebo ji vede v rozporu s § 125" — naplněn, neboť registr po dobu výpadku neodrážel aktuální zápisy. Pásmo: písm. j) spadá do nejzávažnějšího pásma (do 10 mil. Kč) dle odst. 2 písm. a). Sporné: zavinění / možnost liberace — zda Komora vynaložila náležitou péči o provoz a obnovu registru.
+
+**5. Řešení.** Jde o přestupek podle písm. j) v nejvyšším pásmu (do 10 mil. Kč). Výše pokuty se odvíjí od závažnosti následku (poškození třetích osob, délka výpadku) a od toho, zda Komora reagovala bez zbytečného odkladu. Procesně: ministerstvo vede řízení dle z. 250/2016 Sb. a správního řádu.
+
+**6. Varianty.** (a) Pokud by Komora pouze nepředložila ministerstvu stavovské předpisy (písm. b), spadla by věc do mírnějšího pásma (do 1 mil. Kč). (b) Pokud by selhal dohled nad exekutorem dle § 7 odst. 5 (písm. a), šlo by rovněž o nejvyšší pásmo (do 10 mil. Kč).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* Komora je samosprávná veřejnoprávní korporace, sankcionovat ji pokutou je nesystémové. Neutralizace — zákon výslovně konstruuje Komoru jako pachatele (§ 124c) a svěřuje postih ministerstvu (§ 124d); jde o nástroj vynucení veřejnoprávních funkcí.
+- *Protiargument:* výpadek byl způsoben vyšší mocí (kybernetický útok), Komora má být liberována. Neutralizace — liberace je přípustná jen při prokázání náležité péče o zabezpečení a obnovu; nedostatečné zálohování ji vylučuje.
+- *Slabé místo:* prokázání příčinné souvislosti mezi výpadkem a škodou bank — bez technických logů a doložení rozhodnutí bank obtížné.
+
+### H. Praktický závěr
+
+§ 124c postihuje selhání Komory v jejích veřejnoprávních funkcích (dohled, seznamy, zkoušky, CEE, nucená správa). Pokuty jsou odstupňovány do tří pásem (10 / 5 / 1 mil. Kč) podle závažnosti; nejvyšší dopadá na selhání dohledu, zkoušek, CEE a nucené správy. Příslušné je ministerstvo (§ 124d).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat konkrétní písmeno odst. 1 a zařadit do správného pásma pokut (odst. 2).
+- [ ] Posoudit závažnost následku a délku trvání protiprávního stavu.
+- [ ] Prověřit možnost liberace (náležitá péče o zabezpečení/obnovu, reakce bez odkladu).
+- [ ] Vést řízení u ministerstva dle z. 250/2016 Sb. a správního řádu.
+
+**Typicky rozhodné důkazy / podklady:** technické logy a dokumentace provozu CEE, korespondence o výpadku, vnitřní předpisy Komory, doklady o vzniklé škodě třetích osob.
+
 ## § 124d — Příslušnost
 
 > Přestupky podle tohoto zákona projednává **ministerstvo**.
 
 **MS** je tedy správním orgánem pro **všechny** přestupky podle EŘ (FO, PO, Komory). Procesně se uplatňuje **zákon č. 250/2016 Sb. o odpovědnosti za přestupky** + **zákon č. 500/2004 Sb. správní řád**.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Krajský živnostenský úřad obdrží podnět, že obchodní společnost provozuje „exekuční centrum" (skutková podstata § 124b), a sám zahájí přestupkové řízení v domnění, že jde o porušení živnostenského zákona. Společnost namítá nepříslušnost úřadu. K obstarání důkazů: podnět, oznámení o zahájení řízení živnostenským úřadem, identifikace skutkové podstaty.
+
+**2. Právní otázka.** Který správní orgán je věcně příslušný k projednání přestupku podle exekučního řádu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124d (přestupky podle EŘ projednává ministerstvo).
+- *Související ustanovení téhož zákona:* § 124a–124c (skutkové podstaty), § 8a a násl. (postavení ministerstva v dohledu).
+- *Související předpisy:* zákon č. 250/2016 Sb. (§ 60 a násl. — příslušnost, postoupení věci), správní řád č. 500/2004 Sb. (§ 12 — postoupení pro nepříslušnost).
+- *Judikatura:* obecná zásada — k rozhodnutí nepříslušného správního orgánu se přihlíží jako k vadě řízení; věc musí být postoupena příslušnému orgánu.
+
+**4. Subsumpce.** Jde o přestupek podle EŘ (§ 124b). Podle § 124d je k jeho projednání příslušné výlučně ministerstvo spravedlnosti, nikoli živnostenský úřad. Znak věcné příslušnosti živnostenského úřadu — nesplněn.
+
+**5. Řešení.** Živnostenský úřad je nepříslušný a musí věc bez zbytečného odkladu postoupit ministerstvu (§ 12 spr. ř.). Rozhodnutí vydané nepříslušným orgánem by bylo zatíženo vadou. Procesně: postoupení podnětu, vyrozumění oznamovatele.
+
+**6. Varianty.** (a) Pokud by jednání bylo zároveň porušením živnostenského zákona jiným skutkem, mohl by každý orgán projednat svou část. (b) Pokud by šlo o kárné provinění exekutora (nikoli přestupek), nešlo by o § 124d, ale o kárné řízení před kárným senátem NSS (§ 116 a násl.).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* koncentrace u ministerstva je nehospodárná, místně bližší úřad by rozhodl rychleji. Neutralizace — jednotnost a odbornost rozhodování o specifické agendě exekučního práva odůvodňuje výlučnou příslušnost ministerstva.
+- *Protiargument:* ministerstvo zároveň vykonává dohled, hrozí podjatost. Neutralizace — dohledová a sankční role jsou zákonem oddělené; námitku podjatosti lze uplatnit dle spr. ř.
+- *Slabé místo:* odlišení přestupku podle EŘ od přestupku podle jiného předpisu (živnostenský zákon) — chybná kvalifikace vede k nepříslušnosti.
+
+### H. Praktický závěr
+
+Veškeré přestupky podle exekučního řádu (FO, PO i Komory) projednává výlučně ministerstvo spravedlnosti. Podněty směřující jiným orgánům je nutné postoupit; procesně se postupuje podle z. 250/2016 Sb. a správního řádu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o přestupek podle EŘ (§ 124a–124c), nikoli podle jiného předpisu.
+- [ ] Směřovat podnět / oznámení ministerstvu spravedlnosti.
+- [ ] Při doručení nepříslušnému orgánu zajistit postoupení (§ 12 spr. ř.).
+- [ ] Odlišit přestupek od kárného provinění exekutora (kárný senát NSS).
+
+**Typicky rozhodné důkazy / podklady:** podnět / oznámení, identifikace skutkové podstaty dle EŘ, doklad o postoupení věci příslušnému orgánu.
 
 ---
 
@@ -222,6 +404,42 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 - **Geografie**: nejvyšší koncentrace v Karlovarském a Ústeckém kraji (>10 % obyvatel),
 - **Věková skupina**: největší zastoupení 30—45 let.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Banka před schválením hypotéky lustruje žadatele v CEE a zjistí, že proti němu byla v minulém měsíci zahájena exekuce (zapsáno vyrozumění o zahájení podle § 44). Žadatel namítá, že jistinu uhradil ve 30denní lhůtě a do CEE neměl být vůbec zapsán. Banka úvěr zamítne, žadatel požaduje výmaz a omluvu. K obstarání důkazů: výpis z CEE, doklad o úhradě jistiny a datum, datum zápisu do CEE vůči konci 30denní lhůty podle § 46 odst. 6.
+
+**2. Právní otázka.** Byl zápis vyrozumění o zahájení exekuce do veřejné CEE proveden v souladu se zákonem, byla-li jistina uhrazena ve 30denní lhůtě k dobrovolnému plnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125 odst. 1 (zápis až po uplynutí lhůty podle § 46 odst. 6), odst. 2–4 (zapisované údaje, veřejnost / neveřejnost), odst. 10 (výpis a potvrzení jako veřejné listiny).
+- *Související ustanovení téhož zákona:* § 44 (vyrozumění o zahájení), § 46 odst. 6 (30denní lhůta a nižší náklady), § 55 (zastavení exekuce → výmaz).
+- *Související předpisy:* vyhláška č. 329/2008 Sb. (provoz CEE, ceny výpisů); GDPR a zákon č. 110/2019 Sb. (ochrana osobních údajů — neveřejnost RČ a údaje o oprávněném).
+- *Judikatura:* obecná zásada — neoprávněný zápis do veřejného registru zasahující do dobré pověsti zakládá nárok na výmaz a případně na ochranu osobnosti / náhradu nemajetkové újmy.
+
+**4. Subsumpce.** Znak „zápis až po uplynutí 30denní lhůty" — klíčový. Uhradil-li povinný jistinu během lhůty podle § 46 odst. 6, k zápisu do veřejné CEE vůbec nemělo dojít. Je-li zápis přesto proveden, jde o vadný zápis. Sporné: přesné datum úhrady vůči okamžiku zápisu a vůči běhu lhůty.
+
+**5. Řešení.** Pokud byla jistina prokazatelně uhrazena ve 30denní lhůtě, zápis byl předčasný a nezákonný; povinný se domáhá výmazu a může uplatnit ochranu osobnosti. Provede-li se zápis až po marném uplynutí lhůty, je v pořádku. Procesně: žádost o výmaz u Komory, případně žaloba; doložení data úhrady.
+
+**6. Varianty.** (a) Pokud povinný uhradil až po uplynutí 30 dnů, zápis je zákonný a banka jej právem zohlednila. (b) Pokud banka vycházela z neveřejné části CEE (vymazané údaje), k nimž nemá přístup, šlo by o protiprávní získání údajů.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* CEE je veřejný registr a zápis sám o sobě není protiprávní. Neutralizace — zákonnost zápisu je vázána na uplynutí 30denní lhůty (§ 125 odst. 1 ve spojení s § 46 odst. 6); předčasný zápis je vadný.
+- *Protiargument:* za obsah CEE odpovídá exekutor zapisující údaj, nikoli Komora jako správce. Neutralizace — nárok na výmaz směřuje vůči správci registru; odpovědnost za vadný zápis nese exekutor, jenž jej inicioval.
+- *Slabé místo:* prokázání přesného okamžiku úhrady a běhu lhůty — bez bankovních dokladů a sdělení exekutora obtížné.
+
+### H. Praktický závěr
+
+CEE je veřejný registr sloužící k due diligence; klíčovým ochranným mechanismem je odklad zápisu až po uplynutí 30denní lhůty k dobrovolnému plnění (§ 46 odst. 6). Údaje o oprávněném a RČ povinného jsou neveřejné; výpis a potvrzení o nezápisu mají povahu veřejné listiny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda zápis nebyl proveden před uplynutím 30denní lhůty (§ 46 odst. 6).
+- [ ] Při dobrovolné úhradě jistiny ve lhůtě doložit datum a žádat o výmaz.
+- [ ] Pro due diligence použít výpis z veřejné části (veřejná listina).
+- [ ] Respektovat neveřejnost údaje o oprávněném a RČ povinného (GDPR).
+
+**Typicky rozhodné důkazy / podklady:** výpis / potvrzení z CEE, doklad o úhradě jistiny s datem, sdělení exekutora o datu zápisu, vyrozumění o zahájení exekuce (§ 44).
+
 ---
 
 ## § 125a — Centrální úřední deska (novela 2021/286 Sb.)
@@ -246,6 +464,42 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 
 **Smysl:** Modernizace doručování — místo desítek úředních desek u různých exekutorů jediný portál; jasnější přístup adresátů, transparentnost.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor nemůže povinnému doručit usnesení o nařízení exekuce (povinný se na adrese trvalého pobytu nezdržuje, datovou schránku nemá). Uloží písemnost u sebe a vyvěsí výzvu na centrální úřední desku Komory (datum vyvěšení, iniciály a rok narození adresáta, místo úložiště). Po 12 dnech považuje písemnost za doručenou. Povinný se po měsíci dostaví a tvrdí, že fikce nenastala, neboť výzva měla obsahovat jeho plné jméno. K obstarání důkazů: snímek výzvy na centrální úřední desce, datum vyvěšení, doklad o uložení písemnosti.
+
+**2. Právní otázka.** Nastala fikce doručení podle § 56a vyvěšením výzvy na centrální úřední desce (§ 125a), obsahovala-li výzva pouze iniciály a rok narození adresáta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125a odst. 1 (centrální úřední deska pro výzvy podle § 56a a § 56b), odst. 3 (obsah údajů: datum vyvěšení, iniciály + rok narození, místo úložiště, předpokládané svěšení).
+- *Související ustanovení téhož zákona:* § 56a (doručování na ohlašovnu, fikce po 10 dnech), § 56b (doručování ve zvláštních případech), § 124 odst. 3 (definice ohlašovny).
+- *Související předpisy:* OSŘ — obecná úprava náhradního doručení; zákon č. 110/2019 Sb. / GDPR (důvod uvádění jen iniciál místo plného jména).
+- *Judikatura:* obecná zásada — fikce doručení je ústavně přípustná jen při dodržení zákonem stanoveného postupu zveřejnění.
+
+**4. Subsumpce.** Znak „výzva vyvěšená na centrální úřední desce s předepsaným obsahem" — splněn, obsahuje-li výzva právě údaje podle odst. 3 (iniciály a rok narození, nikoli plné jméno — to je záměr na ochranu soukromí). Znak „uplynutí 10 dnů" (§ 56a) — splněn po 12 dnech. Fikce tedy nastala.
+
+**5. Řešení.** Výzva s iniciálami a rokem narození je v souladu s odst. 3; uvádění plného jména by naopak bylo vadou (zásah do soukromí). Fikce doručení podle § 56a nastala desátým dnem od vyvěšení. Procesně: doložit snímek výzvy a datum vyvěšení.
+
+**6. Varianty.** (a) Pokud by exekutor neuvedl místo úložiště nebo datum vyvěšení (odst. 3), výzva by byla vadná a fikce by nemusela nastat. (b) Pokud by povinný měl datovou schránku, doručovalo by se přednostně do ní a centrální úřední deska by se neuplatnila.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* uvedení pouze iniciál znemožňuje adresátu výzvu identifikovat. Neutralizace — kombinace iniciál, roku narození a místa úložiště je dostatečná k identifikaci a zároveň chrání soukromí; plné jméno zákon záměrně nevyžaduje.
+- *Protiargument:* fikce po 10 dnech je nepřiměřená. Neutralizace — centrální deska s dálkovým přístupem reálně zvyšuje dostupnost informace oproti dřívějším roztříštěným deskám exekutorů.
+- *Slabé místo:* prokázání data vyvěšení a obsahu výzvy — bez archivovaného snímku desky obtížné.
+
+### H. Praktický závěr
+
+Centrální úřední deska Komory je jednotný portál pro výzvy podle § 56a a § 56b; nahrazuje roztříštěné desky jednotlivých exekutorů. Fikce doručení nastává 10 dnů od vyvěšení; výzva obsahuje jen iniciály a rok narození adresáta (ochrana soukromí), datum vyvěšení, místo úložiště a předpokládané svěšení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že výzva obsahuje všechny údaje podle § 125a odst. 3.
+- [ ] Doložit datum vyvěšení (počátek běhu 10denní lhůty dle § 56a).
+- [ ] Přednostně doručovat do datové schránky, je-li zřízena.
+- [ ] Adresát: sledovat centrální úřední desku a včas požádat o vyzvednutí / doslání.
+
+**Typicky rozhodné důkazy / podklady:** archivovaný snímek výzvy na centrální úřední desce, datum vyvěšení a předpokládaného svěšení, doklad o uložení písemnosti u exekutora.
+
 ---
 
 # HLAVA XV — Přechodná a závěrečná ustanovení (§ 126 — § 132)
@@ -255,6 +509,41 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 - **§ 126** — Do zahájení Komory vykonává její funkci MS; svolá ustavující konferenci do 6 měsíců. (Historický paragraf — zákon nabyl účinnosti 1. 5. 2001, Komora se ustavila do konce r. 2001.)
 - **§ 127** — MS schvaluje řády Komory (kárný, kancelářský, zkušební + výběrové řízení).
 - **§ 128** — Vysokoškolské vzdělání získané na PF v Československu (ČSFR) **se považuje za českou Mgr.** podle § 9 odst. 1 písm. b). Slouží jako úprava pro absolventy z r. 1992 a starší (Univerzita Komenského Bratislava, atd.).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Uchazeč o jmenování exekutorem v r. 2001 absolvoval Právnickou fakultu Univerzity Komenského v Bratislavě v roce 1990, tedy v době existence ČSFR. Komora (resp. v náběhovém období ministerstvo, § 126) zkoumá, zda splňuje podmínku magisterského vzdělání podle § 9 odst. 1 písm. b). K obstarání důkazů: vysokoškolský diplom, doklad o datu a místě absolvování.
+
+**2. Právní otázka.** Považuje se vzdělání získané na právnické fakultě v bývalém Československu za magisterské vzdělání podle § 9 odst. 1 písm. b) pro účely jmenování exekutorem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 126–128 — historická náběhová ustanovení; § 128 (uznání československého právnického vzdělání za českou Mgr.), § 126 (přechodný výkon funkce Komory ministerstvem), § 127 (schvalování řádů Komory ministerstvem).
+- *Související ustanovení téhož zákona:* § 9 odst. 1 písm. b) (podmínka magisterského vzdělání pro jmenování exekutorem), § 110 a násl. (orgány Komory, jejichž funkci dočasně plnilo ministerstvo).
+- *Související předpisy:* tehdejší zákon o vysokých školách; smlouvy o uznávání vzdělání mezi ČR a SR.
+- *Judikatura:* neuvádí se specifická judikatura; jde o jednoznačné přechodné ustanovení bez výkladových sporů.
+
+**4. Subsumpce.** Diplom z PF Univerzity Komenského z r. 1990 (ČSFR) — § 128 jej výslovně staví naroveň české Mgr. Podmínka vzdělání podle § 9 odst. 1 písm. b) je tedy splněna. Žádný znak není sporný.
+
+**5. Řešení.** Vzdělání se uznává; uchazeč podmínku vzdělání splňuje. Procesně: doložit diplom; v náběhovém období o věci rozhodovalo ministerstvo plnící funkci Komory (§ 126).
+
+**6. Varianty.** (a) Diplom z právnické fakulty v zahraničí mimo ČSFR by vyžadoval nostrifikaci podle obecných předpisů, § 128 by se neuplatnil. (b) Vzdělání získané po rozdělení ČSFR (po 1. 1. 1993 v SR) se posuzuje podle pravidel o uznávání zahraničního vzdělání, nikoli podle § 128.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* tato ustanovení jsou dnes obsolentní a nemají praktický význam. Neutralizace — § 128 má trvalý dosah pro stále aktivní generaci absolventů z období ČSFR; § 126–127 jsou již vyčerpané.
+- *Protiargument:* automatické uznání bez přezkumu obsahu studia je příliš paušální. Neutralizace — jednotnost československého vysokoškolského systému před rozdělením uznání odůvodňuje.
+- *Slabé místo:* odlišení vzdělání získaného „v Československu" od vzdělání získaného v samostatné SR po r. 1993.
+
+### H. Praktický závěr
+
+Jde o náběhová a přechodná ustanovení: § 126–127 řešila start Komory (ministerstvo dočasně plnilo její funkce a schvalovalo řády) a jsou již vyčerpaná; § 128 trvale staví právnické vzdělání získané v ČSFR naroveň české magisterské kvalifikaci podle § 9 odst. 1 písm. b).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byl diplom získán v období existence Československa (ČSFR).
+- [ ] Odlišit vzdělání z ČSFR od vzdělání ze samostatné SR po 1. 1. 1993.
+- [ ] U vzdělání mimo ČSFR posoudit nostrifikaci podle obecných předpisů.
+
+**Typicky rozhodné důkazy / podklady:** vysokoškolský diplom s uvedením fakulty, data a místa absolvování; případně doklad o uznání zahraničního vzdělání.
 
 ## § 129 — Přechod ze starého výkonu rozhodnutí
 
@@ -269,6 +558,42 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 - *ÚS* [IV.ÚS 314/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-314-09_1) — nález, 5. 5. 2009
   > „Dle § 129 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, se výkon rozhodnutí uskutečňovaný na základě usnesení soudu o nařízení výkonu rozhodnutí vydaného před účinností tohoto zákona uskuteční podle dosud platných právních předpisů. … vycházeje dále z úvahy, dle níž není dán rozumný důvod pro odlišení účelů sledovaných exekučním řádem a jeho novelou …, nutno pro posouzení intertemporality založené předmětnou novelou analogicky vycházet z maximy vyjádřené v ustanovení § 129 exekučního řádu a výkon rozhodnutí uskutečňovaný na základě usnesení soudu o nařízení výkonu rozhodnutí vydaného před účinností zákona č. 347/2007 Sb. posoudit dle exekučního řádu ve znění platném a účinném do 31. prosince 2007"
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný věřitel zahájil před účinností exekučního řádu (před 1. 9. 2001) soudní výkon rozhodnutí na základě usnesení o nařízení výkonu rozhodnutí. Výkon byl proveden jen zčásti (vymoženo 40 % pohledávky), zbytek zůstal neuspokojen. Po nabytí účinnosti EŘ chce oprávněný zbylou část vymáhat efektivněji prostřednictvím soudního exekutora. K obstarání důkazů: usnesení o nařízení výkonu rozhodnutí, doklad o částečném uspokojení, exekuční titul.
+
+**2. Právní otázka.** Lze nedoplatek pohledávky z dříve zahájeného soudního výkonu rozhodnutí vymáhat exekucí podle nového exekučního řádu, a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 129 (starý výkon se dokončí podle dosavadních předpisů; při neuspokojení může oprávněný se souhlasem soudu podat návrh na exekuci podle EŘ).
+- *Související ustanovení téhož zákona:* § 35 a násl. (exekuční návrh), § 40 (exekuční titul), § 130 (substituční doložka „výkon rozhodnutí = exekuce").
+- *Související předpisy:* OSŘ — část šestá (výkon rozhodnutí); zásada zákazu dvojího vymáhání téhož.
+- *Judikatura:* ÚS III.ÚS 1275/09 a IV.ÚS 314/09 (citované výše) — maxima § 129 se analogicky uplatní i pro intertemporalitu při pozdějších novelách; starý výkon se dokončí podle dosavadních předpisů.
+
+**4. Subsumpce.** Znak „výkon nařízený před účinností EŘ" — splněn. Znak „pohledávka nebyla zcela uspokojena" — splněn (40 %). Znak „souhlas soudu" — podmínka pro podání nového exekučního návrhu na nedoplatek; bez něj nelze exekuci podle EŘ zahájit.
+
+**5. Řešení.** Probíhající starý výkon se dokončí podle dosavadních předpisů. Pro neuspokojený zbytek může oprávněný se souhlasem soudu podat exekuční návrh podle EŘ. Nesmí dojít k dvojímu vymáhání téže částky. Procesně: vyžádat souhlas soudu, doložit rozsah neuspokojení.
+
+**6. Varianty.** (a) Pokud byla pohledávka starým výkonem uspokojena zcela, nový exekuční návrh je nepřípustný (vymáhání téhož). (b) Pokud by oprávněný podal exekuční návrh bez souhlasu soudu, návrh by byl odmítnut pro nedostatek podmínky § 129.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* dvojí režim (starý výkon + nová exekuce) téže pohledávky je nepřípustný souběh. Neutralizace — § 129 umožňuje pouze převzetí neuspokojeného zbytku po skončení/neúspěchu starého výkonu, nikoli paralelní dvojí vymáhání.
+- *Protiargument:* podmínka souhlasu soudu je nadbytečná formalita. Neutralizace — souhlas soudu chrání povinného před dvojím postihem a zajišťuje kontrolu rozsahu neuspokojené pohledávky.
+- *Slabé místo:* prokázání přesného rozsahu neuspokojení ze starého výkonu — bez vyúčtování soudního výkonu sporné.
+
+### H. Praktický závěr
+
+§ 129 řeší přechod ze soudního výkonu rozhodnutí na exekuci: dříve nařízený výkon se dokončí podle dosavadních předpisů, neuspokojený zbytek lze se souhlasem soudu vymáhat exekucí podle EŘ. Maxima tohoto ustanovení se podle ÚS analogicky uplatní i pro intertemporalitu pozdějších novel.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byl výkon nařízen před účinností EŘ (resp. před účinností relevantní novely).
+- [ ] Doložit rozsah neuspokojení pohledávky ze starého výkonu.
+- [ ] Před podáním exekučního návrhu na zbytek vyžádat souhlas soudu.
+- [ ] Vyloučit dvojí vymáhání téže částky.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o nařízení výkonu rozhodnutí, vyúčtování / doklad o částečném uspokojení, souhlas soudu s exekucí, exekuční titul.
+
 ## § 130 — Souběžnost s OSŘ
 
 > (1) Tam, kde se ve zvláštních právních předpisech hovoří o **soudním výkonu rozhodnutí** nebo výkonu rozhodnutí, **rozumí se tím také exekuce** podle tohoto zákona. Tam, kde se ve zvláštních právních předpisech hovoří o nařízení výkonu rozhodnutí, **rozumí se tím také vedení exekuce** podle tohoto zákona.
@@ -281,6 +606,42 @@ Komora **nejméně 1× za 3 měsíce bezplatně zveřejňuje aktuální statisti
 
 - *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — kat. A, 1. 7. 2016
   > „Podléhá-li výkon cizího rozhodnutí úpravě podle ustanovení § 14 až § 16 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, lze jej provést jen soudním výkonem rozhodnutí, přičemž exekuci prostřednictvím zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, lze v takovém případě provést pouze podle cizího rozhodnutí, jež bylo uznáno na základě zvláštního rozhodnutí českého soudu podle ustanovení § 16 odst. 2 zákona č. 91/2012 Sb., tedy rozsudkem, který je třeba odůvodnit"
+
+### F. Kazuistika
+
+**1. Modelová situace.** Zvláštní zákon (např. daňový řád či zákon upravující určitý nárok) ukládá určité povinnosti či přiznává oprávnění při „soudním výkonu rozhodnutí" a hovoří o „nákladech státu" na jeho provedení. Věřitel vymáhá nárok prostřednictvím soudního exekutora podle EŘ; protistrana namítá, že příslušná ustanovení zvláštního zákona se na exekuci nevztahují, neboť výslovně zmiňují jen „výkon rozhodnutí". Současně je týž majetek povinného postižen jak exekucí podle EŘ, tak soudním výkonem rozhodnutí podle OSŘ. K obstarání důkazů: znění zvláštního předpisu, exekuční příkazy a usnesení o výkonu postihující týž majetek.
+
+**2. Právní otázka.** Vztahují se ustanovení zvláštních předpisů o „výkonu rozhodnutí" i na exekuci podle EŘ a podle jakého režimu se postupuje při souběžném postižení téhož majetku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 130 odst. 1 (substituce „výkon rozhodnutí = exekuce", „nařízení výkonu = vedení exekuce"), odst. 2 (náklady státu = náklady exekuce), odst. 3 (souběžné postižení téhož majetku → z. 119/2001 Sb.).
+- *Související ustanovení téhož zákona:* § 28 (úkony exekutora = úkony soudu), § 47 a násl. (exekuční příkaz), § 129 (přechod ze starého výkonu).
+- *Související předpisy:* zákon č. 119/2001 Sb. (pravidla souběžně probíhajících výkonů rozhodnutí); OSŘ — část šestá; zákon č. 91/2012 Sb. o mezinárodním právu soukromém (§ 14–16).
+- *Judikatura:* NS 20 Cdo 1349/2016 (citováno výše) — podléhá-li výkon cizího rozhodnutí § 14–16 z. 91/2012 Sb., lze jej provést jen soudním výkonem rozhodnutí; exekuci podle EŘ lze provést jen na základě cizího rozhodnutí uznaného zvláštním rozhodnutím českého soudu (rozsudkem).
+
+**4. Subsumpce.** Znak „zvláštní předpis hovoří o výkonu rozhodnutí" — díky substituční doložce odst. 1 se vztahuje i na exekuci; námitka protistrany neobstojí. Znak „týž majetek postižen exekucí i soudním výkonem" — naplněn → postupuje se podle z. 119/2001 Sb. (odst. 3). Sporné: případy mezinárodního prvku, kde § 14–16 z. 91/2012 Sb. vyhrazuje soudní výkon.
+
+**5. Řešení.** Ustanovení zvláštních předpisů o výkonu rozhodnutí se uplatní i na exekuci podle EŘ (odst. 1, 2). Při souběžném postižení téhož majetku se aplikuje z. 119/2001 Sb. (odst. 3). Výjimkou jsou cizí rozhodnutí podléhající § 14–16 z. 91/2012 Sb. — ta se provádějí soudním výkonem, exekucí jen po uznání zvláštním rozhodnutím soudu (NS 20 Cdo 1349/2016).
+
+**6. Varianty.** (a) Jde-li o uznané cizí rozhodnutí (rozsudek o uznání podle § 16 odst. 2 z. 91/2012 Sb.), lze provést i exekuci podle EŘ. (b) Bez souběhu s jiným výkonem se z. 119/2001 Sb. neuplatní a postupuje se standardně podle EŘ.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* zvláštní předpis výslovně zmiňuje jen „výkon rozhodnutí", exekuce proto vyloučena. Neutralizace — § 130 odst. 1 obsahuje generální substituční doložku, která pojmy ztotožňuje; výslovná zmínka výkonu rozhodnutí tedy zahrnuje i exekuci.
+- *Protiargument:* u cizích rozhodnutí lze postupovat exekucí bez dalšího. Neutralizace — NS 20 Cdo 1349/2016 vyžaduje předchozí uznání cizího rozhodnutí zvláštním rozhodnutím českého soudu (§ 16 z. 91/2012 Sb.).
+- *Slabé místo:* určení, který majetek je „týž" pro účely souběhu dle z. 119/2001 Sb. — bez přesné identifikace majetku sporné.
+
+### H. Praktický závěr
+
+§ 130 učinil exekuci podle EŘ plnohodnotnou náhradou soudního výkonu rozhodnutí: kdekoli jiný předpis mluví o výkonu rozhodnutí či jeho nákladech, platí to i pro exekuci. Při souběžném postižení téhož majetku se uplatní z. 119/2001 Sb.; u cizích rozhodnutí podle § 14–16 z. 91/2012 Sb. je exekuce přípustná až po jejich uznání soudem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při výkladu zvláštního předpisu aplikovat substituční doložku § 130 odst. 1 (výkon rozhodnutí = exekuce).
+- [ ] Při souběžném postižení téhož majetku postupovat podle z. 119/2001 Sb. (odst. 3).
+- [ ] U cizích rozhodnutí ověřit jejich uznání zvláštním rozhodnutím soudu (§ 16 z. 91/2012 Sb.).
+- [ ] Náklady státu posuzovat i jako náklady exekuce (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** znění dotčeného zvláštního předpisu, exekuční příkazy a usnesení o výkonu postihující týž majetek, rozsudek o uznání cizího rozhodnutí (u mezinárodního prvku).
 
 ## § 131 — Zmocnění k vyhláškám
 
@@ -298,11 +659,82 @@ Detailní seznam zmocnění MS k vydání **prováděcích vyhlášek**:
 
 **Formulář potvrzení o osobních, majetkových a výdělkových poměrech** + **poučení podle § 44 odst. 3** zveřejňuje MS + Komora **bezplatně** dálkovým přístupem.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Povinný napadne výši odměny exekutora s tvrzením, že prováděcí vyhláška č. 330/2001 Sb. překračuje meze zákonného zmocnění v § 131, neboť stanoví sazby a minimální odměnu, k nimž zákon nezmocňuje. Současně namítá, že exekutor použil formulář potvrzení o majetkových poměrech, který nebyl řádně zveřejněn. K obstarání důkazů: text vyhlášky, text zmocňovacího ustanovení § 131, doklad o zveřejnění formuláře ministerstvem/Komorou.
+
+**2. Právní otázka.** Drží se prováděcí vyhláška mezí zákonného zmocnění podle § 131 a je formulář potvrzení o poměrech řádně zveřejněn?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 131 (taxativní výčet zmocnění k vyhláškám — odměna a paušál, paušál nákladů účastníka, odměna správce, paušál plátce mzdy, pojištění, CEE, postupy a formuláře; zveřejnění formuláře a poučení podle § 44 odst. 3 bezplatně dálkovým přístupem).
+- *Související ustanovení téhož zákona:* § 87 a násl. (náklady exekuce), § 90 (odměna exekutora), § 125 (CEE), § 44 odst. 3 (poučení povinného).
+- *Související předpisy:* vyhlášky č. 330/2001 Sb. (tarif), č. 418/2001 Sb. (postupy), č. 7/2009 Sb. (datové soubory), č. 254/2015 Sb. (paušály), č. 329/2008 Sb. (CEE), č. 178/2009 Sb. (pojištění); čl. 79 odst. 3 Ústavy (meze zmocnění k podzákonnému předpisu).
+- *Judikatura:* obecná zásada (ÚS) — prováděcí předpis nesmí překročit meze zákonného zmocnění (secundum et intra legem); překročí-li je, je v dané části neaplikovatelný.
+
+**4. Subsumpce.** Znak „vyhláška v mezích zmocnění" — § 131 písm. a) výslovně zmocňuje k úpravě odměny a paušální náhrady exekutora; vyhláška č. 330/2001 Sb. se tedy pohybuje v mezích zmocnění. Znak „řádné zveřejnění formuláře" — splněn, je-li formulář bezplatně dostupný dálkovým přístupem (ministerstvo + Komora). Sporné jen tehdy, kdyby konkrétní pravidlo vyhlášky nemělo oporu v žádném písmenu § 131.
+
+**5. Řešení.** Vyhláška č. 330/2001 Sb. má oporu v § 131 písm. a) a c); námitka o překročení zmocnění neobstojí. Formulář je řádně zveřejněn dálkovým přístupem. Procesně: doložit text zmocnění a zveřejnění; případnou exces vyhlášky by soud řešil neaplikací dané části.
+
+**6. Varianty.** (a) Pokud by vyhláška upravovala otázku, k níž § 131 vůbec nezmocňuje, byla by v této části neaplikovatelná pro překročení zmocnění. (b) Pokud by formulář nebyl bezplatně dostupný dálkovým přístupem, byla by porušena povinnost podle závěru § 131.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* tarif zasahuje do práv povinného, a měl by být upraven přímo zákonem. Neutralizace — § 131 písm. a) ústavně konformně zmocňuje k úpravě odměny vyhláškou; meze a účel jsou v zákoně dány.
+- *Protiargument:* zmocnění je příliš široké a neurčité. Neutralizace — § 131 obsahuje taxativní, věcně vymezený výčet jednotlivých okruhů (tarif, paušály, CEE, pojištění, postupy), což meze zmocnění dostatečně určuje.
+- *Slabé místo:* posouzení, zda konkrétní ustanovení vyhlášky spadá pod některé z písmen § 131 — vyžaduje srovnání textu vyhlášky se zněním zmocnění.
+
+### H. Praktický závěr
+
+§ 131 taxativně zmocňuje ministerstvo k vydání prováděcích vyhlášek (tarif 330/2001, postupy 418/2001, datové soubory 7/2009, paušály 254/2015, CEE 329/2008, pojištění 178/2009). Vyhlášky nesmí překročit meze zmocnění; formulář potvrzení o poměrech a poučení podle § 44 odst. 3 musí být zveřejněny bezplatně dálkovým přístupem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že napadené pravidlo vyhlášky má oporu v některém písmenu § 131.
+- [ ] Při excesu vyhlášky navrhnout neaplikaci dané části (čl. 95 odst. 1 Ústavy).
+- [ ] Použít aktuální znění prováděcí vyhlášky (časté novely).
+- [ ] Ověřit bezplatnou dostupnost formuláře a poučení dálkovým přístupem.
+
+**Typicky rozhodné důkazy / podklady:** aktuální text relevantní vyhlášky, znění zmocňovacího § 131, doklad o zveřejnění formuláře a poučení podle § 44 odst. 3.
+
 ## § 132 — Přechodné ustanovení pro praxi
 
 > Po dobu **2 let** od účinnosti tohoto zákona může se souhlasem ministra Komora započítat i jinou právní praxi v délce 3 let.
 
 **Historicky:** umožnilo **náběh** profese — po nabytí účinnosti 1. 5. 2001 nebyl ještě exekutorský dorost (nikdo nebyl koncipientem ani kandidátem). Pro první vlnu exekutorů se započítávala širší právní praxe (typicky 3 roky kdekoli v právu).
+
+### F. Kazuistika
+
+**1. Modelová situace.** V roce 2002 (tj. necelý rok po účinnosti EŘ) se o jmenování exekutorem uchází advokát, který nikdy nebyl exekutorským koncipientem ani kandidátem (taková praxe v té době ještě reálně neexistovala), avšak má 3 roky praxe jako advokát. Žádá ministra, aby mu tato jiná právní praxe byla započtena. K obstarání důkazů: doklad o délce a druhu právní praxe, žádost o souhlas ministra, datum účinnosti zákona (pro běh dvouleté lhůty).
+
+**2. Právní otázka.** Lze uchazeči o jmenování exekutorem v náběhovém období započítat jinou (neexekutorskou) právní praxi a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 132 (po dobu 2 let od účinnosti zákona může Komora se souhlasem ministra započítat i jinou právní praxi v délce 3 let).
+- *Související ustanovení téhož zákona:* § 9 a násl. (podmínky pro jmenování exekutorem, požadavek exekutorské praxe), § 110 a násl. (Komora), § 126 (náběhové plnění funkcí Komory ministerstvem).
+- *Související předpisy:* tehdejší zákon o advokacii / jiné předpisy upravující započítávanou právní praxi.
+- *Judikatura:* neuvádí se; jde o jednorázové časově omezené přechodné ustanovení bez výkladových sporů.
+
+**4. Subsumpce.** Znak „v době 2 let od účinnosti zákona" — splněn (žádost v r. 2002, zákon účinný 2001). Znak „jiná právní praxe v délce 3 let" — splněn (3 roky advokacie). Znak „souhlas ministra" — nezbytná podmínka započtení; bez něj nelze praxi započíst.
+
+**5. Řešení.** V náběhové dvouleté lhůtě lze se souhlasem ministra započítat jinou 3letou právní praxi; podmínky jsou splněny. Procesně: doložit druh a délku praxe, vyžádat souhlas ministra. Ustanovení je dnes obsolentní (dvouletá lhůta od r. 2001 dávno uplynula).
+
+**6. Varianty.** (a) Žádost podaná po uplynutí 2leté lhůty by byla nepřípustná — jiná praxe by se nezapočítávala. (b) Bez souhlasu ministra by Komora jinou praxi započítat nemohla, byť by trvala 3 roky.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* započítání neexekutorské praxe snižuje odbornou úroveň první generace exekutorů. Neutralizace — v náběhovém období exekutorská praxe objektivně neexistovala; širší právní praxe byla jediným způsobem, jak profesi vůbec obsadit, a podléhala souhlasu ministra.
+- *Protiargument:* ustanovení je dnes neúčinné, není třeba se jím zabývat. Neutralizace — má historický význam pro posouzení legitimity jmenování exekutorů z let 2001–2003.
+- *Slabé místo:* prokázání druhu a délky započítávané praxe a dodržení dvouleté lhůty.
+
+### H. Praktický závěr
+
+§ 132 je jednorázové přechodné ustanovení, jež po dobu 2 let od účinnosti zákona (od 1. 5. 2001) umožnilo náběh profese tím, že se souhlasem ministra šlo započítat i jinou 3letou právní praxi. Lhůta dávno uplynula; ustanovení má dnes jen historický význam pro posouzení legitimity prvotních jmenování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byla žádost podána v dvouleté lhůtě od účinnosti zákona (dnes již obsolentní).
+- [ ] Doložit jinou právní praxi v délce alespoň 3 let.
+- [ ] Zajistit souhlas ministra jako nezbytnou podmínku započtení.
+
+**Typicky rozhodné důkazy / podklady:** doklad o druhu a délce právní praxe, žádost a souhlas ministra, doklad o datu podání žádosti vůči běhu dvouleté lhůty.
 
 ---
 
@@ -329,6 +761,42 @@ EŘ je **doprovodný zákon**, který v okamžiku přijetí novelizoval **18 dal
 **Dvoufázová účinnost:**
 - **1. května 2001** — obecná účinnost (organizační, personální záležitosti, novelizace dalších zákonů, Komora začíná fungovat),
 - **1. září 2001** — Hlavy III—VIII (exekuční činnost, způsoby provedení, zástavní právo, další činnost, náklady, odměna) — = **skutečný start exekučních řízení** s 4měsíčním odkladem.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný podal v červnu 2001 exekuční návrh a exekutor zahájil úkony směřující k provedení exekuce (volba způsobu, exekuční příkaz). Povinný namítá, že ustanovení o exekuční činnosti a způsobech provedení (Hlavy III—VIII) nabyla účinnosti až 1. 9. 2001, a úkony provedené před tímto datem jsou proto nicotné. K obstarání důkazů: datum vyhlášení zákona ve Sbírce, datum podání návrhu a jednotlivých úkonů exekutora, identifikace dotčených hlav zákona.
+
+**2. Právní otázka.** Od kdy bylo možné reálně provádět exekuční úkony podle Hlav III—VIII exekučního řádu, byla-li obecná účinnost zákona stanovena dříve než účinnost těchto hlav?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 151 (dvoufázová účinnost — obecně prvním dnem měsíce po vyhlášení, tj. 1. 5. 2001; Hlavy III—VIII a § 131 až 1. 9. 2001).
+- *Související ustanovení téhož zákona:* Hlavy III—VIII (§ 28–92 — exekuční činnost, způsoby provedení, zástavní právo, další činnost, náklady, odměna), § 131 (zmocnění k vyhláškám), § 126–127 (náběh Komory účinný již od 1. 5. 2001).
+- *Související předpisy:* čl. 52 Ústavy a zákon o Sbírce zákonů (podmínka platnosti — vyhlášení; podmínka účinnosti).
+- *Judikatura:* obecná zásada — úkon učiněný podle ustanovení, jež dosud nenabylo účinnosti, postrádá zákonný podklad.
+
+**4. Subsumpce.** Znak „úkon podle Hlav III—VIII" — provedení exekuce, volba způsobu a exekuční příkaz spadají do Hlav III—VIII. Znak „účinnost těchto hlav od 1. 9. 2001" — úkony z června 2001 byly učiněny před nabytím účinnosti dotčených hlav, tedy bez zákonného podkladu.
+
+**5. Řešení.** Vlastní exekuční činnost podle Hlav III—VIII bylo možné provádět až od 1. 9. 2001; úkony provedené dříve postrádají zákonný podklad. Organizační a personální záležitosti i náběh Komory (§ 126) byly účinné již od 1. 5. 2001. Procesně: ověřit datum vyhlášení a zařazení dotčeného ustanovení do příslušné hlavy.
+
+**6. Varianty.** (a) Úkony čistě organizační či personální povahy (mimo Hlavy III—VIII) byly přípustné již od 1. 5. 2001. (b) U pozdějších novel se obdobně zkoumá jejich vlastní ustanovení o účinnosti (často odložená), nikoli § 151.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* zákon byl platný (vyhlášen) již dříve, úkony jsou tedy přípustné. Neutralizace — platnost (vyhlášení) a účinnost jsou odlišné; úkony podle dosud neúčinných hlav nemají zákonný podklad.
+- *Protiargument:* čtyřměsíční odklad účinnosti Hlav III—VIII byl nadbytečný. Neutralizace — odklad poskytl čas na ustavení Komory, vydání prováděcích vyhlášek (§ 131, rovněž účinný až od 1. 9. 2001) a přípravu praxe.
+- *Slabé místo:* správné zařazení konkrétního ustanovení do hlavy s odloženou účinností vs. do části účinné od 1. 5. 2001.
+
+### H. Praktický závěr
+
+§ 151 zavedl dvoufázovou účinnost: obecně od 1. 5. 2001 (organizace, personál, novelizace dalších zákonů, náběh Komory), avšak Hlavy III—VIII a § 131 (vlastní exekuční činnost, způsoby provedení, náklady, odměna, prováděcí vyhlášky) až od 1. 9. 2001 — to byl skutečný start exekučních řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit platnost (vyhlášení) od účinnosti ustanovení.
+- [ ] Zařadit dotčené ustanovení do hlavy a určit datum jeho účinnosti (1. 5. vs. 1. 9. 2001).
+- [ ] Úkony vlastní exekuční činnosti datovat až od 1. 9. 2001.
+- [ ] U pozdějších novel zkoumat jejich vlastní (často odloženou) účinnost.
+
+**Typicky rozhodné důkazy / podklady:** datum vyhlášení zákona ve Sbírce, znění § 151, datum a povaha jednotlivých úkonů exekutora, identifikace dotčené hlavy zákona.
 
 ---
 

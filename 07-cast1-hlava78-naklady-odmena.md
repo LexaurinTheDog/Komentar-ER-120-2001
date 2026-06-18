@@ -122,6 +122,43 @@ Pokud povinný dobrovolně splní do 30 dnů (§ 46 odst. 6), použije se **sní
 
 V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný (banka) má proti povinnému čtyři samostatné vykonatelné rozsudky pro nezaplacené splátky téhož spotřebitelského úvěru. Místo jednoho společného exekučního návrhu podá oprávněný čtyři samostatné návrhy k témuž exekutorovi. Exekutor vede čtyři řízení a v každém účtuje povinnému plnou minimální odměnu (3 000 Kč), plný paušál hotových výdajů (3 500 Kč) i samostatné náklady oprávněného (advokátní odměna za sepis návrhu). Povinný namítá, že byl uměle čtyřnásobně zatížen. Důkazy: čtyři exekuční tituly, data jejich vykonatelnosti, čtyři exekuční návrhy a jejich časová posloupnost, prokázání, že titulům nic nebránilo ve spojení.
+
+**2. Právní otázka.** Jsou náklady oprávněného (§ 87 odst. 2) účelně vynaložené v plné výši čtyřnásobku, nebo jen ve výši, kterou by oprávněný vynaložil při jednom společném návrhu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 2 EŘ — oprávněný má právo na náhradu nákladů **účelně vynaložených** k vymáhání nároku; hradí je povinný.
+- *Související ustanovení téhož zákona:* § 87 odst. 4 (náklady exekuce hradí povinný), § 88 (PKÚN, jímž se náklady vyčíslí), § 90 odst. 1 (složky odměny).
+- *Související předpisy:* § 142 OSŘ (úspěch ve věci jako základ náhrady), vyhláška č. 177/1996 Sb. (advokátní tarif), vyhláška č. 330/2001 Sb. (exekutorský tarif).
+- *Judikatura:* nález ÚS I.ÚS 3571/12 — nebránilo-li oprávněnému nic v podání jediného návrhu ohledně všech titulů, jsou účelně vynaloženými náklady pouze náklady jednoho společného návrhu; mezi výší vymáhané pohledávky a výší nákladů musí existovat jistý poměr.
+
+**4. Subsumpce.** Znak „účelně vynaložené" (odst. 2) je hodnotící. Čtyři tituly proti témuž povinnému, vykonatelné ve srovnatelné době, bez procesní překážky spojení → rozštěpení do čtyř návrhů není účelné. Splněn je nárok na náhradu nákladů jednoho návrhu; sporný (neprokázaný jako účelný) je nárok na trojnásobek navíc.
+
+**5. Řešení.** Exekutor (resp. soud v námitkovém řízení podle § 88) přizná oprávněnému náklady ve výši odpovídající jednomu společnému návrhu. Procesně: povinný podá proti PKÚN námitky (§ 88 odst. 3); soud výrok o nákladech oprávněného koriguje. Riziko: pokud tituly objektivně spojit nešlo (různí povinní, různé okamžiky vykonatelnosti, různé předměty), náklady všech návrhů obstojí jako účelné.
+
+**6. Varianty.** (a) Tituly se staly vykonatelnými s odstupem několika let a oprávněný nemohl dříve podat → samostatné návrhy účelné, plné náklady. (b) Šlo by o náklady exekuce (odměna exekutora) místo nákladů oprávněného → korekce probíhá týmž poměřovacím testem, ale dotýká se přímo příjmu exekutora.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* každý titul je samostatný a zakládá samostatný nárok, takže každý návrh je formálně oprávněný. *Neutralizace:* formální oprávněnost nezakládá účelnost; test ÚS váže náhradu na to, co bylo nutné, nikoli na to, co bylo možné.
+- *Protiargument:* limit cestovních výdajů a ztráty času nad rámec vyhlášky (odst. 1 in fine) jde k tíži oprávněného, takže povinný je už chráněn. *Neutralizace:* tato ochrana se týká jen cestovného a ztráty času exekutora, nikoli nákladů oprávněného ani odměny — proto je nutné samostatné poměřovací hledisko.
+- *Slabé místo:* hranice mezi „účelné" a „neúčelné" je kazuistická; bez prokázání, že spojení bylo možné a bezrizikové, nárok obstojí.
+
+### H. Praktický závěr
+
+V praxi § 87 určuje tři toky nákladů s odlišnými plátci: náklady exekuce a náklady oprávněného hradí povinný (odst. 2, 4), paušál plátci mzdy hradí povinný z mzdy povinného (odst. 3), cestovné a ztrátu času exekutora nad limit vyhlášky hradí oprávněný (odst. 1). Klíčové je hledisko účelnosti a poměru nákladů k pohledávce.
+
+**Checklist (advokát / soud / exekutor / povinný):**
+- [ ] Bylo možné a bezrizikové spojit více titulů do jednoho návrhu? (test účelnosti nákladů oprávněného)
+- [ ] Je dodržen limit cestovného a ztráty času podle vyhlášky 330/2001; co je nad limit, jde k tíži oprávněného?
+- [ ] Byl oprávněný poučen ve vyrozumění o zahájení o nákladech nad limit (odst. 1 in fine)?
+- [ ] U plátce mzdy: účtuje se paušál jen jednou na povinného i při více pohledávkách?
+- [ ] Nezanikl paušál plátce mzdy proto, že nebyl odečten ze sražené částky?
+
+**Typicky rozhodné důkazy / podklady:** exekuční tituly a data jejich vykonatelnosti, exekuční návrhy a jejich časová posloupnost, vyrozumění o zahájení exekuce s poučením, vyúčtování záloh, doklady o sražených částkách u plátce mzdy.
+
 ---
 
 ## § 88 — Příkaz k úhradě nákladů exekuce + námitky
@@ -197,6 +234,43 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
   - DPH neoprávněně připočtena (exekutor není plátcem).
 - **Procesní úspěšnost:** podle dat Komory ~30 % námitek je úspěšných (alespoň zčásti).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Exekutor doručí povinnému příkaz k úhradě nákladů exekuce (PKÚN), v němž účtuje plnou odměnu, plný paušál hotových výdajů 3 500 Kč a DPH 21 %. Povinný však dluh dobrovolně zaplatil ve 30denní lhůtě (§ 46 odst. 6), a exekutor navíc DPH připočetl, ač není plátcem DPH. Povinný namítá, že paušál měl být snížen na 1 750 Kč a DPH neměla být účtována vůbec. Důkazy: PKÚN s vyčíslením a odůvodněním, doklad o datu doručení výzvy k dobrovolnému plnění, doklad o datu úhrady, výpis z registru plátců DPH ohledně exekutora.
+
+**2. Právní otázka.** Lze věcnou nesprávnost vyčíslení nákladů v PKÚN (chybný paušál, neoprávněná DPH) napravit, a jakou procesní cestou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 2 (obsah PKÚN včetně vyčíslení a odůvodnění), odst. 3 (námitky do 8 dnů, rozhodnutí soudu do 15 dnů), odst. 4 (proti rozhodnutí o námitkách není opravný prostředek).
+- *Související ustanovení téhož zákona:* § 55c odst. 3 písm. d) (vyloučení odvolání proti PKÚN), § 90 odst. 1 (složky odměny), § 87 (kdo náklady hradí).
+- *Související předpisy:* § 11 vyhlášky č. 330/2001 Sb. (snížení odměny a paušálu při dobrovolném plnění), § 46 odst. 6 EŘ (30denní lhůta).
+- *Judikatura:* NSS 14 Kse 1/2013 — pro PKÚN jako specifickou formu rozhodnutí exekutora platí, že zákon poskytuje opravný prostředek (námitky podle § 88 odst. 3), o nichž může rozhodnout i sám exekutor; věcnou správnost lze zpochybnit jen touto cestou.
+
+**4. Subsumpce.** PKÚN je rozhodnutí, proti němuž je odvolání vyloučeno (§ 55c). Jediný opravný prostředek = námitky do 8 dnů. Chybný paušál i neoprávněná DPH jsou vady věcné správnosti vyčíslení (odst. 2 písm. f, g) → spadají pod přezkum v námitkách. Lhůta 8 dnů běží od doručení PKÚN.
+
+**5. Řešení.** Povinný podá u exekutora námitky do 8 dnů. Exekutor jim může sám vyhovět (autoremedura) a vydat opravený PKÚN; nevyhoví-li plně, postoupí je soudu, který do 15 dnů rozhodne. Soud sníží paušál na 1 750 Kč a vyloučí DPH. Proti rozhodnutí soudu o námitkách už opravný prostředek není (odst. 4). Riziko: zmeškání 8denní lhůty činí PKÚN nezvratným.
+
+**6. Varianty.** (a) Povinný zmešká 8denní lhůtu → PKÚN nabude účinků a náklady jsou vymahatelné v plné (chybné) výši; náprava jen výjimečně. (b) Exekutor námitkám sám plně vyhoví → věc se k soudu nedostane a řízení se nezdrží.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* PKÚN je vykonatelný titul, takže nesprávnost lze řešit až v exekuci na náklady. *Neutralizace:* zákon poskytuje vlastní zrychlený opravný prostředek (námitky); kdo jej nevyužije, ztrácí možnost zpochybnit věcnou správnost (NSS 14 Kse 1/2013).
+- *Protiargument:* vyloučení odvolání proti rozhodnutí o námitkách (odst. 4) odpírá přístup k soudu. *Neutralizace:* přístup k soudu je zajištěn právě v námitkovém řízení; další stupeň by jen blokoval exekuci spory o náklady — to je smysl jednoinstanční konstrukce.
+- *Slabé místo:* krátká 8denní lhůta je prekluzivní a snadno se zmešká; obrana musí být okamžitá a věcně podložená vyčíslením.
+
+### H. Praktický závěr
+
+PKÚN je závěrečný vyúčtovací akt exekuce; jeho jediným opravným prostředkem jsou námitky (8 dnů exekutorovi, 15 dnů soudu, žádný další opravný prostředek). Strategie obrany povinného spočívá v rychlé kontrole vyčíslení.
+
+**Checklist (advokát / soud / exekutor / povinný):**
+- [ ] Obsahuje PKÚN všechny náležitosti odst. 2, zejména vyčíslení a odůvodnění (písm. f) a vyúčtování zálohy (písm. g)?
+- [ ] Byl správně aplikován snížený režim při dobrovolném plnění (odměna 1/2, paušál 1 750 Kč)?
+- [ ] Je exekutor plátcem DPH? (jinak DPH nesmí být v PKÚN)
+- [ ] Běží/uplynula 8denní lhůta k námitkám od doručení?
+- [ ] Postoupil exekutor námitky soudu, nevyhověl-li jim plně?
+
+**Typicky rozhodné důkazy / podklady:** PKÚN s vyčíslením a odůvodněním, doklad o doručení výzvy k dobrovolnému plnění a o datu úhrady, výpis z registru plátců DPH, doklad o doručení PKÚN (počátek lhůty), vyúčtování zálohy.
+
 ---
 
 ## § 89 — Anti-fraud při zastavení exekuce
@@ -241,6 +315,43 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 - **Strategický pohled oprávněného:** před podáním návrhu provede „**due diligence**" — nahlédne do CEE, KN, registru vozidel, atd. Pokud zjistí nemajetnost, návrh nepodává (nebo využije pre-emptivní zastavení § 44c).
 - **Smluvní úprava výdajů**: rámcové smlouvy bank, telekomunikací s exekutory stanoví **pevné částky** (typicky 1—3 tis. Kč na nemajetnou exekuci) — ekonomický kompromis.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný podá exekuční návrh proti povinnému na základě platebního rozkazu. Exekutor po lustraci (CEE, KN, registr vozidel, účty) zjistí, že povinný nemá žádný postižitelný majetek a je nezaměstnaný. Exekuce se zastaví pro nemajetnost. Exekutor poté vyzve oprávněného k úhradě paušálu hotových výdajů 3 500 Kč. Oprávněný odmítá s tím, že náklady má vždy nést povinný, a navrhuje uložit je povinnému, případně tvrdí, že by je měl nést exekutor. Důkazy: výsledky lustrace majetku, usnesení o zastavení a jeho důvod, případná předchozí dohoda exekutora a oprávněného o výši účelně vynaložených výdajů.
+
+**2. Právní otázka.** Kdo hradí paušálně určené a účelně vynaložené výdaje exekutora při zastavení exekuce pro nemajetnost povinného a za jakých podmínek lze náklady uložit oprávněnému?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 EŘ — náklady hradí ten, kdo zastavení zavinil; při zastavení pro nemajetnost hradí paušální a účelně vynaložené výdaje exekutorovi oprávněný; lze předem sjednat jejich výši.
+- *Související ustanovení téhož zákona:* § 55 (důvody zastavení), § 90 odst. 3 (záloha), § 87 (kategorie nákladů).
+- *Související předpisy:* § 268 odst. 1 písm. e) OSŘ (zastavení pro nedostatek majetku), vyhláška č. 330/2001 Sb. (paušál 3 500 Kč).
+- *Judikatura:* nález ÚS I.ÚS 1413/10 — exekutor má z úspěšné exekuce zisk, ale nese i riziko nemajetnosti povinného, jež nelze bezdůvodně přenášet na oprávněného; náhradu nákladů lze uložit oprávněnému jen tehdy, přistoupí-li k objektivní nemajetnosti i procesní zavinění oprávněného; samotný návrh na nařízení exekuce zavinění nezakládá.
+
+**4. Subsumpce.** Zastavení nastalo z objektivního důvodu (nemajetnost), nikoli zaviněním účastníka. Věta druhá § 89 výslovně přiřazuje paušální a účelně vynaložené výdaje oprávněnému → oprávněný hradí 3 500 Kč paušál + doložené účelné výdaje. Odměna exekutora se neúčtuje (nic se nevymohlo). Uložit oprávněnému plnou náhradu nákladů (jako „zavinění") by šlo jen při prokázaném procesním zavinění (např. vědomé vedení exekuce přes neexistující dluh).
+
+**5. Řešení.** Exekutor vyúčtuje oprávněnému paušál a účelné výdaje; odměnu neúčtuje. Byla-li předem sjednána výše účelných výdajů (rámcová smlouva), použije se sjednaná částka. Oprávněný nese ekonomické riziko nemajetnosti, exekutor riziko neuhrazení odměny. Riziko pro oprávněného: bez předchozí lustrace platí paušál i u zjevně nemajetného dlužníka.
+
+**6. Varianty.** (a) Zastavení proto, že oprávněný vědomě vedl exekuci přes již zaniklý dluh → procesní zavinění oprávněného → hradí veškeré náklady včetně odměny. (b) Povinný zaplatil až v průběhu exekuce → zánik pohledávky zavinil povinný → náklady hradí povinný.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* riziko nemajetnosti by měl nést exekutor, protože z exekuce profituje. *Neutralizace:* ÚS výslovně toto riziko rozdělil — paušál a účelné výdaje nese oprávněný, odměnu (zisk) ztrácí exekutor; přenos celého rizika na exekutora zákon nepřipouští.
+- *Protiargument:* podání návrhu samo zakládá zavinění oprávněného, takže by měl nést vše. *Neutralizace:* dispoziční úkon (návrh) podle ÚS I.ÚS 1413/10 zavinění nezakládá; nutné je konkrétní procesní zavinění nad rámec návrhu.
+- *Slabé místo:* hranice mezi „pouhou nemajetností" a „procesním zaviněním oprávněného" je sporná; bez konkrétních okolností subjektivní povahy nelze plnou náhradu oprávněnému uložit.
+
+### H. Praktický závěr
+
+§ 89 rozděluje riziko zastavení: náklady nese ten, kdo zastavení zavinil; při čisté nemajetnosti hradí paušál a účelné výdaje oprávněný, exekutor ztrácí odměnu. Plnou náhradu lze oprávněnému uložit jen při prokázaném procesním zavinění.
+
+**Checklist (advokát / soud / exekutor / oprávněný):**
+- [ ] Jaký je důvod zastavení a kdo jej zavinil?
+- [ ] Jde o čistou nemajetnost (§ 268/1 e OSŘ) → oprávněný platí paušál + účelné výdaje, exekutor neúčtuje odměnu?
+- [ ] Existuje konkrétní procesní zavinění oprávněného nad rámec samotného návrhu (test ÚS I.ÚS 1413/10)?
+- [ ] Byla předem sjednána výše účelně vynaložených výdajů?
+- [ ] Provedl oprávněný před návrhem lustraci majetku (CEE, KN, vozidla, účty)?
+
+**Typicky rozhodné důkazy / podklady:** výsledky lustrace majetku, usnesení o zastavení s uvedením důvodu, případná rámcová dohoda o výši účelných výdajů, doklady o úkonech oprávněného svědčící o (ne)zavinění.
+
 ---
 
 ## § 89a — Paušální náhrada pro nezastoupené účastníky
@@ -257,6 +368,42 @@ V praxi to znamená úsporu cca **3—5 tis. Kč** — silná motivace.
 - Nárok je **prokazatelný bez dokládání skutečných výdajů**.
 
 **Smysl:** rovné zacházení — i účastník bez advokáta by neměl být znevýhodněn proti zastoupenému.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Povinnému byla v exekuci uložena náhrada nákladů řízení ve prospěch oprávněného, který v exekučním řízení vystupoval sám (bez advokáta, notáře či patentového zástupce podle § 137 odst. 2 OSŘ) a nedoložil výši svých skutečných hotových výdajů (poštovné, kopie, cesty). Oprávněný požaduje paušální náhradu. Povinný namítá, že bez dokladů o výdajích nelze nic přiznat. Důkazy: doklad o tom, že oprávněný nebyl zastoupen kvalifikovaným zástupcem podle § 137 odst. 2 OSŘ, počet úkonů, za něž paušál náleží.
+
+**2. Právní otázka.** Má nezastoupený účastník (nebo zastoupený jiným než kvalifikovaným zástupcem) právo na paušální náhradu hotových výdajů, aniž by jejich výši dokládal?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89a odst. 1 EŘ — nedoloží-li nezastoupený účastník výši hotových výdajů, má právo na jejich náhradu v paušální výši dle zvláštního předpisu; odst. 2 — náhradu platí ten, komu byla uložena.
+- *Související ustanovení téhož zákona:* § 87 odst. 2 (náklady oprávněného), § 88 (PKÚN).
+- *Související předpisy:* § 137 odst. 2 OSŘ (vymezení kvalifikovaného zástupce), § 151 odst. 3 OSŘ (paralelní pravidlo paušální náhrady), vyhláška č. 254/2015 Sb. (výše paušální náhrady hotových výdajů).
+- *Judikatura:* obecně ustálený výklad k § 151 odst. 3 OSŘ — paušální náhrada zajišťuje rovné zacházení s nezastoupeným účastníkem, který nemusí dokládat jednotlivé výdaje.
+
+**4. Subsumpce.** Oprávněný nebyl zastoupen zástupcem podle § 137 odst. 2 OSŘ a nedoložil výši výdajů → naplněna hypotéza odst. 1. Vzniká nárok na paušální náhradu podle vyhlášky č. 254/2015 Sb. (typicky 300 Kč za úkon), bez nutnosti prokazovat skutečné výdaje. Náhradu platí ten, komu byla uložena (povinný).
+
+**5. Řešení.** Soud (exekutor v PKÚN) přizná oprávněnému paušální náhradu hotových výdajů; povinný ji uhradí. Pokud by oprávněný skutečné výdaje doložil a byly vyšší, mohl by žádat náhradu skutečnou; paušál je „dolní jistota". Riziko: paušál nelze kumulovat s odměnou advokáta podle vyhlášky 177/1996 Sb. — to se týká jen zastoupení kvalifikovaným zástupcem.
+
+**6. Varianty.** (a) Oprávněného zastupoval advokát (§ 137 odst. 2 OSŘ) → neaplikuje se § 89a, ale advokátní tarif a režim náhrady nákladů zastoupení. (b) Oprávněný doloží skutečné, vyšší výdaje → náhrada ve skutečné výši místo paušálu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* bez dokladů o výdajích nevznikl žádný náklad, takže není co hradit. *Neutralizace:* smyslem paušálu je právě osvobodit nezastoupeného účastníka od dokládání; nárok plyne přímo ze zákona a vyhlášky, nikoli z prokázaných výdajů.
+- *Protiargument:* paušál znevýhodňuje povinného, který platí i fiktivní výdaje. *Neutralizace:* paušál je nastaven nízko (typicky 300 Kč/úkon) a zajišťuje rovnost s účastníkem zastoupeným; je proporcionální.
+- *Slabé místo:* nutno správně určit, zda zástupce spadá pod § 137 odst. 2 OSŘ; chybná kvalifikace vede k chybnému režimu náhrady.
+
+### H. Praktický závěr
+
+§ 89a dává nezastoupenému účastníku (nebo zastoupenému jiným než kvalifikovaným zástupcem) právo na paušální náhradu hotových výdajů bez dokládání jejich výše; platí ji ten, komu byla náhrada uložena. Zajišťuje rovné zacházení.
+
+**Checklist (advokát / soud / exekutor / účastník):**
+- [ ] Byl účastník zastoupen zástupcem podle § 137 odst. 2 OSŘ? (pokud ano, § 89a se neaplikuje)
+- [ ] Doložil účastník skutečné výdaje, nebo žádá paušál?
+- [ ] Je paušál vyčíslen podle vyhlášky č. 254/2015 Sb. (počet úkonů × sazba)?
+- [ ] Komu byla náhrada uložena (kdo platí podle odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o (ne)zastoupení kvalifikovaným zástupcem, výčet úkonů zakládajících paušál, případné doklady o skutečných výdajích, rozhodnutí o uložení náhrady nákladů.
 
 ---
 
@@ -320,6 +467,44 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 - **§ 55 odst. 9 EŘ** — pohledávky osvobozené od zálohy (výživné, atd.).
 - **§ 29 EŘ + kárná judikatura** — smluvní odměna vs. nezávislost.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Oprávněný (velká distribuční energetická společnost) podá k témuž exekutorovi nový exekuční návrh proti povinnému na základě téhož titulu, podle něhož byla předchozí exekuce zastavena pro bezvýslednost (§ 55 odst. 7 až 13). Současně oprávněný uzavřel s exekutorem rámcovou smlouvu o vedení exekucí se smluvní odměnou ve výši 3 % z vymožené částky. Exekutor po novém návrhu požaduje přiměřenou zálohu na náklady. Oprávněný namítá, že záloha podmiňuje úspěšnost návrhu a že měl prokázat nové majetkové poměry povinného. Důkazy: rozhodnutí o předchozím zastavení a jeho důvod, nový exekuční návrh, písemná rámcová smlouva o smluvní odměně, výzva exekutora k záloze.
+
+**2. Právní otázka.** Je exekutor povinen (resp. oprávněn) žádat zálohu při opakovaném návrhu po dřívějším zastavení, lze úspěšnost nového návrhu podmínit doložením nových majetkových poměrů, a jak se vůči povinnému a nezávislosti exekutora projeví sjednaná smluvní odměna?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 odst. 2 (smluvní odměna — písemná, hradí ji oprávněný, není nákladem exekuce), odst. 3 (fakultativní a povinná záloha na náklady).
+- *Související ustanovení téhož zákona:* § 55 odst. 7 až 13 (zastavení pro bezvýslednost), § 2 odst. 1 a § 29 (nezávislost a podjatost exekutora), § 87 (kdo náklady hradí).
+- *Související předpisy:* § 138 OSŘ (osvobození od soudních poplatků), vyhláška č. 330/2001 Sb. (tarif).
+- *Judikatura:* NS 20 Cdo 1114/2025 — oprávněný může podat nový návrh podle téhož titulu po zastavení pro bezvýslednost; úspěšnost nelze podmínit uvedením nových skutečností o majetku, oprávněný je jen povinen na žádost exekutora zaplatit přiměřenou zálohu (§ 90 odst. 3). NSS 14 Kse 1/2012 — záloha musí být limitována smyslem zajištění prostředků pro úspěšné ukončení exekuce, nelze ji žádat nepřiměřeně.
+
+**4. Subsumpce.** Nový návrh je podle téhož titulu po zastavení pro bezvýslednost → naplněna hypotéza povinné zálohy (odst. 3 věta druhá): exekutor zálohu žádá, nepodmiňuje však úspěšnost doložením nových majetkových poměrů. Smluvní odměna 3 % (odst. 2) je sjednána písemně, hradí ji oprávněný, není nákladem exekuce → nelze ji vymáhat od povinného. Sama o sobě nezakládá podjatost; tou by byla až systematická závislost s manipulativním tlakem (§ 2, § 29).
+
+**5. Řešení.** Exekutor žádá přiměřenou zálohu (typicky 3 000–10 000 Kč), nesmí ji však nadsadit ani podmiňovat jí přijetí návrhu nad rámec zákona. Nový návrh je přípustný bez tvrzení nových majetkových skutečností. Smluvní odměna se účtuje oprávněnému stranou; povinnému se vyúčtuje jen zákonná odměna podle vyhlášky. Riziko: nepřiměřeně vysoká záloha je v rozporu s NSS 14 Kse 1/2012.
+
+**6. Varianty.** (a) Jde o pohledávku podle § 55 odst. 9 (výživné apod.) nebo je oprávněný osvobozen od poplatků podle § 138 OSŘ → zálohu nelze žádat (fakultativní záloha odpadá). (b) Smluvní odměna by byla sjednána tak, že exekutor je fakticky řízen jedním věřitelem s tlakem na postup → riziko podjatosti podle § 29 a kárné odpovědnosti.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* opakovaný návrh po zastavení pro bezvýslednost je zneužitím a měl by být odmítnut bez nových skutečností o majetku. *Neutralizace:* NS 20 Cdo 1114/2025 výslovně připouští nový návrh; jediným nástrojem ochrany je přiměřená záloha, nikoli podmínka nových tvrzení.
+- *Protiargument:* smluvní odměna placená exekutorovi věřitelem zakládá podjatost. *Neutralizace:* kárná judikatura NSS — smluvní odměna sama o sobě podjatost nezakládá; rozhodná je až systematická závislost s manipulativním tlakem na postup.
+- *Slabé místo:* „přiměřenost" zálohy je neurčitá; nadsazená záloha je nezákonná a zároveň podsazená ohrožuje financování úkonů — exekutor musí výši odůvodnit smyslem podle NSS 14 Kse 1/2012.
+
+### H. Praktický závěr
+
+§ 90 stanoví složky odměny, institut smluvní odměny (písemná, hradí oprávněný, není nákladem exekuce) a zálohu na náklady (fakultativní u běžných věcí, povinnou u opakovaných exekucí). Klíčová je přiměřenost zálohy a oddělení zákonné odměny účtované povinnému od smluvní odměny placené oprávněným.
+
+**Checklist (advokát / soud / exekutor / oprávněný):**
+- [ ] Jde o opakovaný návrh po zastavení / o náklady ze zastavené exekuce → povinná záloha (odst. 3 věta druhá)?
+- [ ] Není pohledávka podle § 55 odst. 9 nebo oprávněný osvobozen od poplatků (§ 138 OSŘ) → zálohu žádat nelze?
+- [ ] Je výše zálohy přiměřená a odůvodněná smyslem zajištění úkonů (NSS 14 Kse 1/2012)?
+- [ ] Není úspěšnost nového návrhu nezákonně podmiňována novými tvrzeními o majetku (NS 20 Cdo 1114/2025)?
+- [ ] Je smluvní odměna písemná, účtovaná oprávněnému, a nevymáhá se od povinného?
+- [ ] Nehrozí u systematické smluvní odměny podjatost (§ 2, § 29)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o předchozím zastavení a jeho důvod, nový exekuční návrh, písemná smlouva o smluvní odměně, výzva k záloze a její odůvodnění, doklad o případném osvobození od soudních poplatků.
+
 ---
 
 ## § 91 a § 91a — Odměna za další činnost
@@ -341,6 +526,41 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 
 **Klíčový rozdíl** § 76a: stát hradí, ne žadatel — protože stát pověřuje exekutora správou výnosů z TČ.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Soud v trestním řízení pověří soudního exekutora správou zajištěného majetku obviněného podle § 76a EŘ (správa zajištěné nemovitosti a obchodního podílu). Exekutor po skončení správy uplatní nárok na mimosmluvní odměnu a na náhradu dalších nákladů exekuce podle § 87 odst. 1 (cestovné, znalecký posudek k ocenění). Vznikne spor, zda odměnu a náklady platí stát, nebo obviněný, a kdo o výši rozhoduje. Důkazy: pověření soudu/státního zástupce, evidence úkonů správy, doklady o vynaložených nákladech, ocenění spravovaného majetku.
+
+**2. Právní otázka.** Kdo rozhoduje o výši odměny exekutora a o náhradě dalších nákladů za správu zajištěného majetku podle § 76a a kdo je vyplácí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 odst. 1 (za činnost podle § 76a náleží exekutorovi mimosmluvní odměna), odst. 2 (o výši odměny a o nároku na náhradu dalších nákladů podle § 87 odst. 1 rozhoduje a vyplácí soud nebo státní zástupce, který exekutora pověřil).
+- *Související ustanovení téhož zákona:* § 76a (správa zajištěného majetku v trestním řízení), § 87 odst. 1 (kategorie nákladů exekuce), § 90 (rámcová úprava odměny), § 92 (zmocnění k vyhlášce).
+- *Související předpisy:* vyhláška č. 330/2001 Sb. (mimosmluvní odměna a náhrady), předpisy o zajištění majetku v trestním řízení.
+
+**4. Subsumpce.** Činnost spadá pod § 76a (správa zajištěného majetku v TR) → odměna je mimosmluvní (odst. 1). O její výši i o náhradě dalších nákladů exekuce podle § 87 odst. 1 rozhoduje a vyplácí orgán, který pověřil — soud nebo státní zástupce (odst. 2), nikoli žadatel ani obviněný. Tím se § 76a odlišuje od ostatní další činnosti, kde hradí žadatel.
+
+**5. Řešení.** Exekutor uplatní vyúčtování u pověřujícího orgánu (soud/SZ), který o výši rozhodne a náklady vyplatí; exekutor je nevymáhá od obviněného přímo. Riziko: u jiné další činnosti (§ 74 odst. 1 — právní pomoc, autorizovaná konverze, úschova) by hradil žadatel, proto je nutné správně určit právní základ činnosti.
+
+**6. Varianty.** (a) Šlo by o autorizovanou konverzi nebo úschovu na žádost (§ 74) → hradí žadatel podle příslušné vyhlášky, nikoli stát. (b) Pověřujícím orgánem je státní zástupce místo soudu → o odměně a nákladech rozhoduje a vyplácí SZ.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* náklady správy by měl nést vlastník (obviněný), jehož majetek je spravován. *Neutralizace:* odst. 2 výslovně svěřuje rozhodnutí i výplatu pověřujícímu orgánu (stát), protože správu nařizuje stát v trestním řízení; přenesení na obviněného zákon u § 76a nepřipouští.
+- *Protiargument:* mimosmluvní odměna není ve vyhlášce pro správu dostatečně určitá. *Neutralizace:* výši stanoví pověřující orgán podle vyhlášky č. 330/2001 Sb.; spornou výši lze přezkoumat v rámci rozhodování tohoto orgánu.
+- *Slabé místo:* záměna režimů (§ 76a vs. § 74) vede k chybnému určení plátce; rozhodující je právní titul činnosti.
+
+### H. Praktický závěr
+
+§ 91 odlišuje, kdo hradí odměnu za další činnost: u činnosti na žádost (§ 74) žadatel, u správy zajištěného majetku v trestním řízení (§ 76a) stát — o výši odměny a náhradě nákladů rozhoduje a vyplácí pověřující soud nebo státní zástupce.
+
+**Checklist (advokát / soud / státní zástupce / exekutor):**
+- [ ] Jaký je právní základ činnosti — § 76a (stát platí) nebo § 74 (žadatel platí)?
+- [ ] Kdo exekutora pověřil (soud / státní zástupce) — ten rozhoduje o výši a vyplácí?
+- [ ] Je vyúčtována mimosmluvní odměna a náhrada nákladů podle § 87 odst. 1?
+- [ ] Jsou doloženy úkony správy a vynaložené náklady (cestovné, znalec)?
+
+**Typicky rozhodné důkazy / podklady:** pověření soudu/státního zástupce, evidence úkonů správy zajištěného majetku, doklady o nákladech (znalecké ocenění, cestovné), vyúčtování odměny a nákladů.
+
 ---
 
 ## § 92 — Zmocnění k vyhlášce
@@ -348,6 +568,42 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 > Podrobnosti o výši a způsobu určení odměny, hotových výdajů, náhrady za doručení písemností a náhrady za ztrátu času stanoví ministerstvo vyhláškou.
 
 **Zmocnění** k vydání **vyhlášky č. 330/2001 Sb.** o odměně a náhradách exekutora.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Povinný v námitkách proti PKÚN tvrdí, že konkrétní sazba paušálu hotových výdajů (3 500 Kč) a způsob jejího snížení při dobrovolném plnění nejsou upraveny v exekučním řádu, nýbrž až ve vyhlášce č. 330/2001 Sb., a namítá, že vyhláška překračuje zákonné zmocnění (jde nad rámec toho, co § 92 dovoluje upravit). Důkazy: znění napadeného ustanovení vyhlášky, text § 92 EŘ vymezující rozsah zmocnění, srovnání předmětu úpravy.
+
+**2. Právní otázka.** Pohybuje se konkrétní ustanovení vyhlášky č. 330/2001 Sb. v mezích zákonného zmocnění podle § 92 EŘ (výše a způsob určení odměny, hotových výdajů, náhrady za doručení a za ztrátu času)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 EŘ — zmocnění ministerstva stanovit vyhláškou podrobnosti o výši a způsobu určení odměny, hotových výdajů, náhrady za doručení písemností a náhrady za ztrátu času.
+- *Související ustanovení téhož zákona:* § 90 odst. 1 (složky plnění exekutora, jež vyhláška konkretizuje), § 87 odst. 1 (kategorie nákladů), § 91 (mimosmluvní odměna za další činnost).
+- *Související předpisy:* vyhláška č. 330/2001 Sb. (exekutorský tarif), čl. 79 odst. 3 Ústavy (meze prováděcích předpisů), vyhláška č. 567/2006 Sb. (cestovní náhrady), vyhláška č. 254/2015 Sb.
+- *Judikatura:* ustálená ústavněprávní doktrína k čl. 79 odst. 3 Ústavy — prováděcí předpis se musí držet v mezích zákona (secundum et intra legem), nesmí ukládat povinnosti nad rámec zákona ani upravovat věci zákonu vyhrazené.
+
+**4. Subsumpce.** § 92 zmocňuje právě k úpravě výše a způsobu určení odměny, hotových výdajů, náhrady za doručení a za ztrátu času. Paušál hotových výdajů 3 500 Kč i jeho snížení jsou „výší a způsobem určení hotových výdajů" → spadají do rozsahu zmocnění. Vyhláška se tedy pohybuje intra legem; námitka o překročení zmocnění by obstála jen u úpravy mimo vymezené okruhy.
+
+**5. Řešení.** Soud v námitkovém řízení (§ 88) aplikuje vyhlášku jako platný prováděcí předpis; námitku o překročení zmocnění odmítne, jde-li o úpravu v rámci § 92. Pouze kdyby vyhláška upravovala něco mimo okruhy § 92, mohl by soud takové ustanovení neaplikovat (resp. iniciovat přezkum). Riziko: argumentace překročením zmocnění je úspěšná jen výjimečně a vyžaduje konkrétní rozpor s textem § 92.
+
+**6. Varianty.** (a) Vyhláška by zaváděla zcela novou kategorii nákladů neuvedenou v § 90 odst. 1 ani § 92 → překročení zmocnění, neaplikace. (b) Spor by se týkal jen výpočtu v rámci sazby (nesprávná aplikace správné vyhlášky) → nejde o vadu zmocnění, ale o věcnou nesprávnost vyčíslení řešenou v námitkách.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* podstatné parametry nákladů (sazby, paušály) by měl stanovit přímo zákon, ne vyhláška. *Neutralizace:* § 92 výslovně svěřuje „podrobnosti o výši a způsobu určení" vyhlášce; rámcová pravidla zůstávají v zákoně (§ 87, § 90), takže dělba je ústavně konformní.
+- *Protiargument:* časté novelizace vyhlášky vnášejí nejistotu. *Neutralizace:* na konkrétní řízení se aplikuje znění účinné v rozhodné době; přechodná ustanovení novel řeší časovou působnost.
+- *Slabé místo:* hranice mezi „podrobností" (vyhláška) a „základem úpravy" (zákon) je v krajních případech sporná; námitku překročení zmocnění nutno opřít o konkrétní okruh mimo § 92.
+
+### H. Praktický závěr
+
+§ 92 je zmocňovací ustanovení, na jehož základě byla vydána vyhláška č. 330/2001 Sb. (exekutorský tarif). Vyhláška konkretizuje výši a způsob určení odměny, hotových výdajů, náhrady za doručení a za ztrátu času; musí se držet v mezích zmocnění (intra legem).
+
+**Checklist (advokát / soud / exekutor):**
+- [ ] Spadá napadené ustanovení vyhlášky do okruhů vymezených § 92 (odměna, hotové výdaje, doručení, ztráta času)?
+- [ ] Je aplikováno znění vyhlášky účinné v rozhodné době?
+- [ ] Nejde ve skutečnosti o věcnou nesprávnost výpočtu (řešitelnou v námitkách podle § 88) místo o vadu zmocnění?
+- [ ] Nepřekračuje vyhláška rámec § 90 odst. 1 zavedením kategorie nákladů bez opory v zákoně?
+
+**Typicky rozhodné důkazy / podklady:** znění napadeného ustanovení vyhlášky a § 92 EŘ, srovnání předmětu úpravy s okruhy zmocnění, údaj o účinném znění vyhlášky v rozhodné době.
 
 ---
 
