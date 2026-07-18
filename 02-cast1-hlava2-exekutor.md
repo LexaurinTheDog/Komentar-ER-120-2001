@@ -95,6 +95,70 @@ Pět kumulativních podmínek (svéprávnost, Mgr. právo a právní věda, bez�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b5c0303eed105c15528 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Exekutorem může být jmenován občan České republiky, který
+>
+> - a) je plně svéprávný,
+>
+> - b) získal vysokoškolské vzdělání v oboru právo
+>
+>   - 1. v magisterském studijním programu právo a právní věda studiem na vysoké škole v České republice28), nebo
+>
+>   - 2. studiem na vysoké škole v zahraničí, pokud je takové vzdělání v České republice uznáváno za rovnocenné vzdělání uvedenému v bodě 1 na základě mezinárodní smlouvy, kterou je Česká republika vázána, anebo pokud takové vzdělání bylo uznáno podle zvláštního právního předpisu29), a současně takové vzdělání odpovídá obsahem a rozsahem obecnému vzdělání, které lze získat v magisterském studijním programu právo a právní věda v oboru právo na vysoké škole v České republice,
+>
+> - c) je bezúhonný,
+>
+> - d) vykonal alespoň tříletou exekutorskou praxi, a
+>
+> - e) složil exekutorskou zkoušku.
+>
+> (2) Exekutorskou praxí se rozumí praxe exekutora, kandidáta a koncipienta podle tohoto zákona. Ministerstvo započítá zcela do exekuční praxe praxi soudce, soudce Ústavního soudu, asistenta soudce, prokurátora, advokáta, notáře, komerčního právníka, státního zástupce, asistenta státního zástupce, justičního čekatele, justičního kandidáta, právního čekatele prokuratury, advokátního koncipienta, notářského koncipienta, notářského kandidáta, právního čekatele státního zastupitelství a právního čekatele u komerčního právníka; z jiné právní praxe může započítat nejvýše 2 roky.
+>
+> (3) Exekutorskou zkouškou se rozumí odborná zkouška exekutora podle tohoto zákona. Ministerstvo uzná odbornou justiční zkoušku, soudcovskou zkoušku, jednotnou soudcovskou a advokátní zkoušku, prokurátorskou zkoušku, advokátní zkoušku, notářskou zkoušku, profesní zkoušku na komerčního právníka a závěrečnou zkoušku právního čekatele za exekutorskou zkoušku podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b5c0303eed105c15528 -->
+
 ### § 10 — Výběrové řízení
 
 > (1) Komora vyhlásí výběrové řízení nejpozději do 1 měsíce od uvolnění exekutorského úřadu nebo, jde-li o zřízení nového exekutorského úřadu, do 1 měsíce poté, kdy ministerstvo Komoře zřízení exekutorského úřadu oznámí. Komora může vyhlásit výběrové řízení i tehdy, není-li exekutorský úřad obsazen z jiného důvodu.
@@ -195,6 +259,78 @@ ministr může **sám vyhlásit výběrové řízení a sám jmenovat**, bez ná
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ad6328ec808b62624406 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 10
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Komora vyhlásí výběrové řízení nejpozději do 1 měsíce od uvolnění exekutorského úřadu nebo, jde-li o zřízení nového exekutorského úřadu, do 1 měsíce poté, kdy ministerstvo Komoře zřízení exekutorského úřadu oznámí. Komora může vyhlásit výběrové řízení i tehdy, není-li exekutorský úřad obsazen z jiného důvodu.
+>
+> (2) Komora vyhlásí opakované výběrové řízení do 6 měsíců od uvolnění exekutorského úřadu nebo do 6 měsíců poté, co je jí oznámeno zřízení exekutorského úřadu, případně od vyhlášení výběrového řízení podle odstavce 1 věty druhé, nejdříve však poté, co bylo způsobem podle odstavce 3 písm. b) ukončeno výběrové řízení podle odstavce 1.
+>
+> (3) Výběrové řízení podle odstavců 1 a [[#§ 2|2]] je ukončeno
+>
+> - a) vydáním rozhodnutí prezidia Komory o tom, který uchazeč se ve výběrovém řízení umístil na prvním místě nebo kteří uchazeči uspěli tak, že splňují předpoklady pro své jmenování,
+>
+> - b) vydáním rozhodnutí prezidia Komory o tom, že ve výběrovém řízení neuspěl žádný uchazeč z důvodu, že nesplnil předpoklady pro své jmenování,
+>
+> - c) marným uplynutím lhůty k doručení přihlášky do výběrového řízení nebo
+>
+> - d) vyřazením přihlášek všech přihlášených účastníků z výběrového řízení.
+>
+> (4) Návrh na jmenování exekutora podává na základě výběrového řízení ministrovi Komora do 1 měsíce od ukončení výběrového řízení podle odstavce 3 písm. a). Ministr jmenuje exekutora do exekutorského úřadu na návrh Komory do 1 měsíce od doručení návrhu na jmenování exekutora, a to do obvodu okresního soudu. Rozhodnutí podle odstavce 3 písm. a) nebo b) nebo informaci o skutečnostech podle odstavce 3 písm. c) nebo d) zašle Komora ministerstvu do 1 měsíce od ukončení výběrového řízení.
+>
+> (5) Nepodá-li Komora návrh na jmenování exekutora nebo nezašle-li Komora rozhodnutí podle odstavce 3 písm. a) nebo b) nebo informaci o skutečnostech podle odstavce 3 písm. c) nebo d) ve lhůtách podle odstavce 4, může ministerstvo vyzvat Komoru ke splnění povinnosti podle odstavce 4 a určit jí přiměřenou dodatečnou lhůtu.
+>
+> (6) Ministr může vyhlásit výběrové řízení a na jeho základě jmenovat exekutora i bez návrhu Komory,
+>
+> - a) nevyhlásí-li Komora výběrové řízení nebo opakované výběrové řízení ve stanovené lhůtě,
+>
+> - b) nepodá-li Komora ministrovi návrh na jmenování exekutora v dodatečné lhůtě určené ve výzvě ministerstva, ačkoliv ve výběrovém řízení bylo rozhodnuto podle odstavce 3 písm. a), nebo
+>
+> - c) nezašle-li Komora ministerstvu v dodatečné lhůtě určené ve výzvě ministerstva rozhodnutí podle odstavce 3 písm. a) nebo b) nebo informaci o skutečnostech podle odstavce 3 písm. c) nebo d).
+>
+> (7) Do výběrového řízení se může v lhůtě určené tím, kdo výběrové řízení vyhlásil, přihlásit každý, kdo splňuje podmínky podle [[#§ 9|§ 9]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad6328ec808b62624406 -->
+
 ### § 11 — Pojištění odpovědnosti
 
 > (1) Exekutor může vykonávat svou činnost pouze, jestliže
@@ -272,6 +408,60 @@ Pojištění odpovědnosti je conditio sine qua non výkonu úřadu po celou jeh
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0406838e357413eec740 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 11
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Exekutor může vykonávat svou činnost pouze, jestliže
+>
+> - a) složil slib do rukou ministra,
+>
+> - b) uzavřel smlouvu o pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s výkonem exekuční činnosti.
+>
+> (2) Exekutor je povinen uzavřít smlouvu o pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s výkonem exekuční činnosti, a prokázat se stejnopisem nebo ověřenou kopií této smlouvy Komoře do 30 dnů po svém jmenování exekutorem. Jestliže exekutor zaměstnává zaměstnance, je povinen uzavřít smlouvu o pojištění své odpovědnosti i za újmu způsobenou jeho zaměstnanci v souvislosti s činností podle tohoto zákona.
+>
+> (3) Pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s výkonem exekuční činnosti, musí trvat po celou dobu výkonu exekutorského úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0406838e357413eec740 -->
+
 ### § 12 — Slib
 
 > (1) Uchazeč vybraný ke jmenování do exekutorského úřadu skládá do rukou ministra před svým jmenováním tento slib: „Slibuji na svoje svědomí a občanskou čest, že budu zachovávat Ústavu České republiky, ústavní a jiné zákony a právní předpisy a budu je uplatňovat jako soudní exekutor podle svého nejlepšího vědomí a svědomí, při výkonu exekuční činnosti budu postupovat nezávisle a spravedlivě a budu zachovávat povinnost mlčenlivosti o všech skutečnostech, o kterých se dozvím v souvislosti s vykonáváním exekuční nebo další činnosti exekutora.“
@@ -325,6 +515,54 @@ Slib je formální, ale právně konstitutivní akt přechodu na exekutora; je n
 **Typicky rozhodné důkazy / podklady:** protokol o složení slibu, případný audiozáznam aktu, výsledné pořadí výběrového řízení, korespondence ministerstvo—Komora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dab44c5556d86b3700bc generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Uchazeč vybraný ke jmenování do exekutorského úřadu skládá do rukou ministra před svým jmenováním tento slib: „Slibuji na svoje svědomí a občanskou čest, že budu zachovávat Ústavu České republiky, ústavní a jiné zákony a právní předpisy a budu je uplatňovat jako soudní exekutor podle svého nejlepšího vědomí a svědomí, při výkonu exekuční činnosti budu postupovat nezávisle a spravedlivě a budu zachovávat povinnost mlčenlivosti o všech skutečnostech, o kterých se dozvím v souvislosti s vykonáváním exekuční nebo další činnosti exekutora.“
+>
+> (2) Odmítne-li uchazeč složit slib nebo složí-li slib s výhradou, nemůže být jmenován exekutorem a ministr jmenuje do exekutorského úřadu uchazeče, který se ve výběrovém řízení umístil na dalším místě pořadí za uchazečem, který odmítl složit slib nebo složil slib s výhradou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dab44c5556d86b3700bc -->
 
 ### § 13 — Řízení úřadu, průkaz, razítko, pečetidlo
 
@@ -387,6 +625,64 @@ Exekutor řídí úřad a odpovídá objektivně za úkony činěné jeho jméne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c35c768d0beefc42e027 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Exekutor řídí činnost exekutorského úřadu, který jeho jménem plní všechny úkoly potřebné k řádnému výkonu exekuční činnosti. Exekutor při své činnosti používá průkaz exekutora, razítko a pečetidlo, které obsahují
+>
+> - a) jeho jméno, příjmení a titul,
+>
+> - b) označení „soudní exekutor“,
+>
+> - c) sídlo exekutora,
+>
+> - d) státní znak České republiky.
+>
+> (2) Průkaz exekutora, razítko a pečetidlo vydá exekutorovi Komora.
+>
+> (3) Vzor otisku razítka a pečetidla exekutora je v příloze č. 1 k tomuto zákonu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c35c768d0beefc42e027 -->
+
 ### § 14 — Sídlo úřadu
 
 > (1) Sídlem exekutorského úřadu je obec, ve které je sídlo okresního soudu, do jehož obvodu byl exekutor jmenován. Jiné sídlo v obvodu tohoto soudu si exekutor může zvolit jen s předchozím souhlasem Komory. Sídlem exekutora je sídlo exekutorského úřadu, do kterého byl jmenován.
@@ -445,6 +741,54 @@ Sídlo exekutora je pevně vázáno na obvod OS, do něhož byl jmenován; jiné
 **Typicky rozhodné důkazy / podklady:** oznámení o jmenování s vymezením obvodu, evidence sídla, adresy na úkonech úřadu, fotodokumentace označení, souhlas Komory s volbou jiného sídla v obvodu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e28f9eae71bc615ec686 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Sídlem exekutorského úřadu je obec, ve které je sídlo okresního soudu, do jehož obvodu byl exekutor jmenován. Jiné sídlo v obvodu tohoto soudu si exekutor může zvolit jen s předchozím souhlasem Komory. Sídlem exekutora je sídlo exekutorského úřadu, do kterého byl jmenován.
+>
+> (2) Exekutorský úřad se označí podle přílohy č. 2 k tomuto zákonu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e28f9eae71bc615ec686 -->
 
 ### § 15 — Zánik výkonu úřadu
 
@@ -585,6 +929,98 @@ Zánik úřadu má taxativní katalog důvodů (odst. 1) a obligatorní důvody 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cb466b4ba20e65e1dbe6 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 15
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Výkon exekutorského úřadu zaniká
+>
+> - a) smrtí exekutora,
+>
+> - b) prohlášením exekutora za mrtvého,
+>
+> - c) odvoláním exekutora,
+>
+> - d) pozbytím státního občanství České republiky,
+>
+> - e) jestliže byla svéprávnost exekutora omezena,
+>
+> - f) dnem právní moci rozhodnutí, kterým bylo uloženo kárné opatření odvolání z exekutorského úřadu,
+>
+> - g) dnem právní moci rozhodnutí soudu, kterým byl exekutorovi uložen trest zákazu činnosti soudního exekutora nebo kterým byl exekutor odsouzen k nepodmíněnému trestu odnětí svobody,
+>
+> - h) uplynutím 6 kalendářních měsíců následujících po měsíci, v němž byla ministerstvu doručena žádost exekutora o ukončení výkonu exekutorského úřadu; žádost o ukončení výkonu exekutorského úřadu zašle exekutor bez zbytečného odkladu na vědomí Komoře.
+>
+> (2) Ministr exekutora odvolá,
+>
+> - a) jestliže byl exekutor pravomocně odsouzen pro úmyslný trestný čin nebo pro trestný čin spáchaný v souvislosti s exekuční činností,
+>
+> - b) jestliže exekutor nedoloží Komoře stejnopis nebo ověřenou kopii smlouvy o pojištění své odpovědnosti za újmu do 30 dnů po svém jmenování exekutorem nebo zanikne-li jeho pojištění odpovědnosti za újmu a exekutor jej do 30 dnů neobnoví,
+>
+> - c) jestliže si exekutor do 3 měsíců po složení slibu bez vážných důvodů neotevře v sídle exekutorského úřadu, do kterého byl jmenován, kancelář a nebude připraven vykonávat exekuční činnost,
+>
+> - d) jestliže soud na návrh ministerstva rozhodl, že exekutor vzhledem ke svému zdravotnímu stavu nemůže řádně nejméně po dobu 1 roku vykonávat exekuční činnost.
+>
+> (3) Výkon exekutorského úřadu se pozastavuje dnem doručení rozhodnutí o jeho odvolání.
+>
+> (4) Dozví-li se Komora o důvodu pro odvolání podle odstavce 2, je povinna jej ministerstvu neprodleně oznámit.
+>
+> (5) Exekutor jmenovaný do exekutorského úřadu, jehož výkon zanikl, převezme spisy tohoto exekutorského úřadu a provádí dále exekuční i další činnost. Účastníky exekučního řízení o tom informuje nejpozději při prvním úkonu exekutora v řízení a oprávněného poučí, že může navrhnout změnu exekutora nebo požádat o změnu exekutora. Exekutor, jemuž zanikl výkon exekutorského úřadu, případně jeho zástupce, zajistí bez zbytečného odkladu předání spisů, plnění vymožených v exekuci, zajištěných věcí, exekutorských úschov a registrů, případně souvisejících dat, technických zařízení nebo nosičů dat nově jmenovanému exekutorovi a předání razítek, průkazů a pečetidel podle § 103 odst. 1; vlastnické právo exekutora, kterému zanikl výkon exekutorského úřadu, k technickým zařízením či nosičům dat tím není dotčeno. Exekutor jmenovaný do exekutorského úřadu, jehož výkon zanikl, není právním nástupcem exekutora, jemuž zanikl výkon exekutorského úřadu.
+>
+> (6) Podíl exekutora, jemuž zanikl výkon exekutorského úřadu, popřípadě jeho dědiců nebo odkazovníků na odměně nově jmenovaného exekutora nebo exekutora, který převzal řízení podle odstavce 7 nebo [[#§ 9|9]], se určí dohodou. Nebude-li dohoda doručena Komoře do 2 měsíců od jmenování nového exekutora, rozhodne Komora podle zásad spravedlivého uspořádání.
+>
+> (7) Nebyl-li do exekutorského úřadu, jehož výkon zanikl, jmenován exekutor do 1 roku od uvolnění exekutorského úřadu nebo byl-li exekutorský úřad zrušen a je-li zástupce exekutora, jemuž zanikl výkon exekutorského úřadu, exekutorem, vyzve Komora bez zbytečného odkladu poté, co uplynul 1 rok od uvolnění exekutorského úřadu nebo bez zbytečného odkladu poté, co byl exekutorský úřad zrušen, zástupce, aby Komoře do 1 měsíce sdělil, že nesouhlasí s převzetím spisů, plnění vymožených v exekuci, zajištěných věcí, exekutorských úschov a registrů, případně souvisejících dat, technických zařízení nebo nosičů dat exekutora, jemuž zanikl výkon exekutorského úřadu. Nesdělí-li zástupce nejpozději do 1 měsíce od doručení výzvy Komory, že nesouhlasí s převzetím, platí, že převzal věci podle věty první. Odstavec 5 věty první a druhá se použijí přiměřeně.
+>
+> (8) Komora vyrozumí okresní soud, v jehož obvodu je sídlo exekutorského úřadu, jehož výkon zanikl nebo který byl zrušen, o tom, že
+>
+> - a) zástupce vyslovil nesouhlas podle odstavce 7, a to do 1 měsíce od vyslovení nesouhlasu,
+>
+> - b) zástupce je kandidátem a do exekutorského úřadu, jehož výkon zanikl, nebyl jmenován exekutor do 1 roku od uvolnění exekutorského úřadu nebo že exekutorský úřad byl zrušen, a to do 2 měsíců od uplynutí 1 roku od uvolnění exekutorského úřadu nebo do 2 měsíců od zrušení exekutorského úřadu,
+>
+> - c) nebylo možno postupovat podle odstavce 7, a to do 2 měsíců od uplynutí 1 roku od uvolnění exekutorského úřadu nebo do 2 měsíců od zrušení exekutorského úřadu.
+>
+> (9) Předseda okresního soudu rozvrhne exekuční řízení vedená v úřadu, jehož výkon zanikl nebo který byl zrušen, rovnoměrně mezi soudní exekutory, kteří byli jmenováni do jeho obvodu; není-li do obvodu soudu jmenován žádný exekutor, předseda okresního soudu řízení rozvrhne rovnoměrně mezi soudní exekutory, kteří byli jmenováni do obvodu soudu, který má společnou hranici s tímto obvodem a který patří do obvodu stejného krajského soudu. Na žádost poskytne zástupce předsedovi okresního soudu údaje potřebné pro rozvržení exekučních řízení. O předání exekučních řízení sepíše předseda okresního soudu, zástupce a exekutor, který řízení převzal, protokol. Odstavec 5 se použije přiměřeně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 103, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb466b4ba20e65e1dbe6 -->
+
 ## Díl 2 — Zastupování exekutora (§ 16 — § 18)
 
 ### § 16 — Ustanovení zástupce
@@ -675,6 +1111,64 @@ Každý exekutor má mít trvalého zástupce pro překážky delší než 1 mě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b3d076ce561a6ff5fc73 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Po jmenování exekutora do exekutorského úřadu mu Komora ustanoví na jeho návrh zástupce pro případ nemoci, dovolené, pozastavení nebo zániku výkonu exekutorského úřadu a nebo z jiných vážných důvodů, pro které nemůže vykonávat svůj úřad po dobu delší než 1 měsíc. Nenavrhne-li exekutor svého zástupce do 1 měsíce od svého jmenování, ustanoví mu zástupce Komora. Zastupovaný exekutor a zástupce si dohodnou podíl zástupce na odměně zastupovaného exekutora. Nebude-li dohoda doručena Komoře do dvou měsíců od ustanovení zástupce, rozhodne Komora podle zásad spravedlivého uspořádání.
+>
+> (2) Zástupce je ustanoven z řad kandidátů exekutora, nejsou-li, z řad exekutorů jmenovaných v obvodu příslušného okresního soudu nebo jejich kandidátů, a nejsou-li, z řad exekutorů jmenovaných v obvodu příslušného krajského soudu nebo jejich kandidátů. Jsou-li pro to důvody zvláštního zřetele hodné, může být zástupce ustanoven z řad exekutorů jmenovaných mimo obvod příslušného krajského soudu nebo jejich kandidátů. Za zástupce exekutora je možné ustanovit kandidáta, jen jestliže splňuje podmínky podle § 11 odst. 1 písm. b).
+>
+> (3) Exekutor je povinen bez zbytečného odkladu oznámit vznik či zánik skutečností podle odstavce 1 písemně Komoře a svému ustanovenému zástupci. Oznámení o vzniku skutečností podle odstavce 1 obsahuje zejména důvod a den, od kterého exekutor nemůže vykonávat svůj úřad. Oznámení o zániku skutečností podle odstavce 1 obsahuje důvod a den, od kterého exekutor může vykonávat svůj úřad. Zastupování začíná dnem, kdy se zástupce dozví o skutečnosti podle odstavce 1, a končí dnem, kdy zástupce obdrží písemné oznámení o zániku skutečnosti podle odstavce 1. Došlo-li k zániku výkonu exekutorského úřadu, končí zastupování dnem, kdy zástupce obdrží písemné oznámení o tom, že nově jmenovaný exekutor otevřel v sídle exekutorského úřadu, do kterého byl jmenován, kancelář, a je připraven vykonávat exekuční činnost. Bez zbytečného odkladu po dni ukončení zastupování se provede vyrovnání mezi zástupcem a zastupovaným exekutorem, popřípadě jeho dědici nebo odkazovníky, a to ke dni ukončení zastupování.
+>
+> (4) Zastupovaný exekutor, případně zástupce zastupovaného exekutora zajistí bez zbytečného odkladu svému zástupci, případně novému zástupci přístup ke spisům, plněním vymoženým v exekuci, zajištěným věcem, exekutorským úschovám a registrům, případně souvisejícím datům, technickým zařízením nebo nosičům dat, a je-li to třeba, i razítkům a pečetidlům. Zástupce exekutora má povinnost nahradit újmu způsobenou porušením povinnosti mlčenlivosti. Za újmu způsobenou zaměstnanci zastupovaného exekutora odpovídá zastupovaný exekutor. Tím nejsou dotčena ustanovení zvláštního právního předpisu.
+>
+> (5) Ustanovení zástupce z řad kandidátů je podmíněno souhlasem exekutora, u něhož je kandidát v pracovním poměru.
+>
+> (6) Ustanovený zástupce může být na svoji žádost nebo na žádost zastupovaného exekutora uvolněn z funkce zástupce pouze z důvodů zvláštního zřetele hodných.
+>
+> (7) Dohody podle odstavce 1 a podle § 15 odst. 6 eviduje Komora.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b3d076ce561a6ff5fc73 -->
+
 ### § 17 — Výkon zastupování
 
 > (1) Zástupce zastupuje exekutora při výkonu exekuční činnosti. **Pokud zastupování trvá, nemůže zastupovaný exekutor vykonávat exekuční činnost.** Byl-li exekutorovi pozastaven výkon exekutorského úřadu, nebo pokud mu výkon exekutorského úřadu zanikl, zastupuje ho zástupce **při výkonu exekuční i další činnosti**.
@@ -737,6 +1231,60 @@ Zastupování je exkluzivní: po jeho dobu vykonává exekuční (a při pozasta
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení zástupce, oznámení o vzniku/zániku překážky s daty, sporné úkony a jejich podpisy, doklady o předání razítek/pečetidel.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6e3282c94c3c5247236b generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Zástupce zastupuje exekutora při výkonu exekuční činnosti. Pokud zastupování trvá, nemůže zastupovaný exekutor vykonávat exekuční činnost. Byl-li exekutorovi pozastaven výkon exekutorského úřadu, nebo pokud mu výkon exekutorského úřadu zanikl, zastupuje ho zástupce při výkonu exekuční i další činnosti.
+>
+> (2) Zástupce exekutora podepisuje listiny svým jménem a příjmením a současně uvede také jméno a příjmení exekutora, kterého zastupuje.
+>
+> (3) Jestliže je zástupce exekutorem, používá své razítko a pečetidlo. Jestliže je kandidátem, používá razítko a pečetidlo exekutora, kterého zastupuje.
+>
+> (4) Ustanovení tohoto zákona vztahující se na exekutora platí také pro kandidáta, jestliže vykonává úřad exekutora jako zástupce exekutora.
+>
+> (5) Kandidát, který zastupuje exekutora, kterému zanikl výkon exekutorského úřadu, vykonává činnost zástupce samostatně. Ustanovení [[#§ 32|§ 32]] se použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e3282c94c3c5247236b -->
 
 ### § 18 — Nový zástupce
 
@@ -802,6 +1350,64 @@ Procesně se nový zástupce ustanovuje **stejnou cestou** jako původní (kask�
 **Typicky rozhodné důkazy / podklady:** doklad o důvodu výměny (zánik pojištění, vyškrtnutí, žádost), výzva Komory, rozhodnutí o ustanovení nového zástupce, protokol o předání agendy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=edf6fa825b1179a3daad generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Komora ustanoví exekutorovi nového zástupce,
+>
+> - a) jestliže ustanoveným zástupcem je exekutor a výkon jeho exekutorského úřadu zanikl nebo byl pozastaven,
+>
+> - b) jestliže ustanoveným zástupcem je kandidát a Komora ho vyškrtne ze seznamu kandidátů a nebo zanikne-li jeho pojištění odpovědnosti za újmu a ani po upozornění Komory ho v určené lhůtě neobnoví a nebo jestliže mu bylo uloženo kárné opatření odvolání ze zastupování,
+>
+> - c) jestliže ustanovený zástupce požádá o uvolnění z funkce zástupce,
+>
+> - d) jestliže o to požádá zastupovaný exekutor.
+>
+> (2) Ustanovení [[#§ 16|§ 16]] se přiměřeně použije i na ustanovení nového zástupce.
+>
+> (3) Ustanovením nového zástupce zaniká ustanovení předchozího zástupce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edf6fa825b1179a3daad -->
 
 ## Díl 3 — Zaměstnanci exekutora (§ 19 — § 27)
 
@@ -878,6 +1484,108 @@ Zápis koncipienta vyžaduje kumulativně svéprávnost, dokončené magistersk�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=587384e4bb2e129429e4 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Koncipient je zaměstnanec exekutora zapsaný do seznamu koncipientů.
+>
+> (2) Seznam koncipientů vede Komora.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=587384e4bb2e129429e4 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9e60908e756f7f62a8f4 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Komora zapíše do seznamu koncipientů na návrh exekutora občana České republiky, který
+>
+> - a) splňuje podmínky uvedené v § 9 odst. 1 písm. a) až c),
+>
+> - b) je v pracovním poměru u exekutora.
+>
+> (2) Zápis do seznamu koncipientů vykoná Komora do 1 měsíce ode dne doručení návrhu exekutora. Provedení zápisu, jakož i odmítnutí provedení zápisu oznámí Komora koncipientovi a exekutorovi, u kterého je koncipient v pracovním poměru.
+>
+> (3) Ten, kdo nebyl ve stanovené lhůtě zapsán do seznamu koncipientů, a s jeho souhlasem i exekutor, u kterého je ten, kdo nebyl ve stanovené lhůtě zapsán do seznamu koncipientů, v pracovním poměru, má právo domáhat se provedení zápisu návrhem u soudu. Nepodá-li kterákoli z uvedených osob žalobu do 2 měsíců od doručení oznámení Komory o odmítnutí provedení zápisu, nejpozději však do 6 měsíců od doručení návrhu na zápis do seznamu koncipientů Komoře, právo na provedení zápisu toho, kdo nebyl ve stanovené lhůtě zapsán do seznamu koncipientů, zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e60908e756f7f62a8f4 -->
+
 ### § 21 — Pověření koncipienta
 
 > (1) Exekutor může koncipienta písemně pověřit prováděním úkonů, které jsou předmětem exekuční činnosti nebo další činnosti.
@@ -953,6 +1661,54 @@ Koncipient může být pověřen běžnými úkony (sepisování podání, draž
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e8c0fbe87e31664e0d9 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Exekutor může koncipienta písemně pověřit prováděním úkonů, které jsou předmětem exekuční činnosti nebo další činnosti.
+>
+> (2) Exekutor však nemůže pověřit koncipienta k vydání exekučního příkazu. Koncipient nemůže vykonat dražbu nemovité věci nebo obchodního závodu (dále jen „závod“), vydávat rozhodnutí v exekuci prodejem nemovitých věcí nebo závodu ani zřizovat exekutorské zástavní právo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e8c0fbe87e31664e0d9 -->
+
 ### § 22 — Vyškrtnutí ze seznamu koncipientů
 
 > (1) Komora vyškrtne ze seznamu koncipientů toho,
@@ -1008,6 +1764,70 @@ Vyškrtnutí koncipienta má sedm taxativních důvodů; nejčastější je skon
 **Typicky rozhodné důkazy / podklady:** dohoda/výpověď o skončení pracovního poměru, nová pracovní smlouva, návrh na zápis, potvrzení zaměstnavatelů o době praxe, rozhodnutí Komory o výmazu/zápisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c3fc9120b0d961badd3 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Komora vyškrtne ze seznamu koncipientů toho,
+>
+> - a) kdo zemřel a nebo kdo byl prohlášen za mrtvého,
+>
+> - b) kdo pozbyl státní občanství České republiky,
+>
+> - c) kdo byl omezen ve svéprávnosti,
+>
+> - d) kdo byl pravomocně odsouzen pro úmyslný trestný čin nebo pro trestný čin spáchaný v souvislosti s exekuční činností,
+>
+> - e) kdo písemně požádal Komoru o vyškrtnutí z tohoto seznamu,
+>
+> - f) komu skončil pracovní poměr u exekutora,
+>
+> - g) kdo byl zapsán do seznamu kandidátů.
+>
+> (2) Vyškrtnutí ze seznamu koncipientů oznámí Komora koncipientovi a exekutorovi, u kterého je a nebo byl koncipient v pracovním poměru.
+>
+> (3) Ten, kdo byl ze seznamu koncipientů vyškrtnut, a s jeho souhlasem i exekutor, u kterého je ten, kdo byl ze seznamu koncipientů vyškrtnut, v pracovním poměru, má právo domáhat se ochrany návrhem u soudu. Nepodá-li kterákoli z uvedených osob žalobu do 2 měsíců od doručení oznámení Komory o vyškrtnutí ze seznamu koncipientů, právo na ochranu toho, kdo byl vyškrtnut ze seznamu koncipientů, zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c3fc9120b0d961badd3 -->
 
 ### Kandidát (§ 23—26)
 
@@ -1078,6 +1898,114 @@ Postup na kandidáta vyžaduje být koncipientem, vykonat tříletou exekutorsko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1c1ff1ad06a98214f19d generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Kandidát je zaměstnanec exekutora zapsaný do seznamu kandidátů.
+>
+> (2) Seznam kandidátů vede Komora.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c1ff1ad06a98214f19d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ceba9504955e97df53dd generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Komora na základě písemné žádosti koncipienta zapíše do seznamu kandidátů toho, kdo
+>
+> - a) je ke dni zápisu zapsán v seznamu koncipientů a u koho nenastal důvod k jeho vyškrtnutí podle § 22 odst. 1 písm. a) až f),
+>
+> - b) vykonal alespoň tříletou exekutorskou praxi,
+>
+> - c) složil exekutorskou zkoušku.
+>
+> (2) Do doby exekutorské praxe koncipienta se započítává dovolená čerpaná v době trvání této praxe. Nevykonává-li koncipient exekutorskou praxi z důvodu překážek v práci na jeho straně nebo z důvodu omluvené nepřítomnosti v práci, započítávají se mu tyto doby do doby exekutorské praxe nejvýše v rozsahu 70 pracovních dnů v každém roce jejího trvání.
+>
+> (3) Složení exekutorské zkoušky se musí umožnit každému, kdo splňuje podmínky uvedené v odstavci 1 písm. a) a b).
+>
+> (4) Zápis podle odstavce 1 provede Komora do 1 měsíce ode dne doručení žádosti. Provedení zápisu oznámí Komora kandidátovi a exekutorovi, u kterého je kandidát v pracovním poměru.
+>
+> (5) Ten, kdo nebyl ve stanovené lhůtě zapsán do seznamu kandidátů, a s jeho souhlasem i exekutor, u kterého je ten, kdo nebyl ve stanovené lhůtě zapsán do seznamu kandidátů, v pracovním poměru, má právo domáhat se provedení zápisu do seznamu kandidátů návrhem u soudu. Nepodá-li kterákoli z uvedených osob žalobu do 2 měsíců od doručení oznámení Komory o odmítnutí provedení zápisu do seznamu kandidátů, nejpozději však do 6 měsíců od doručení návrhu na zápis do seznamu kandidátů Komoře, právo na provedení zápisu toho, kdo nebyl ve stanovené lhůtě zapsán do seznamu kandidátů, zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ceba9504955e97df53dd -->
+
 ### § 25 — Pověření kandidáta
 
 > Exekutor může kandidáta písemně pověřit prováděním úkonů v exekuční nebo další činnosti.
@@ -1134,6 +2062,52 @@ Klíčový rozdíl oproti koncipientovi: kandidáta lze pověřit všemi úkony 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1e3f2f8fad4a4962041d generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> Exekutor může kandidáta písemně pověřit prováděním úkonů v exekuční nebo další činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1e3f2f8fad4a4962041d -->
+
 ### § 26 — Vyškrtnutí kandidáta
 
 Stejné důvody jako § 22 (vyjma písm. g — kandidát už nemá kam postupovat dál v rámci téhož zaměstnavatele).
@@ -1176,6 +2150,56 @@ Vyškrtnutí kandidáta se řídí stejnými důvody jako u koncipienta (§ 22),
 **Typicky rozhodné důkazy / podklady:** pravomocný rozsudek s kvalifikací skutku, výpis z rejstříku trestů (vč. zahlazení), výpis ze seznamu kandidátů, rozhodnutí Komory o vyškrtnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bd2300c7296c5293ef06 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Komora vyškrtne kandidáta ze seznamu kandidátů z důvodů uvedených v § 22 odst. 1 písm. a) až f).
+>
+> (2) Vyškrtnutí oznámí kandidátovi a exekutorovi, u kterého je a nebo byl kandidát v pracovním poměru.
+>
+> (3) Ten, kdo byl ze seznamu kandidátů vyškrtnut, a s jeho souhlasem i exekutor, u kterého je ten, kdo byl ze seznamu kandidátů vyškrtnut, v pracovním poměru, má právo domáhat se ochrany návrhem u soudu. Nepodá-li kterákoli z uvedených osob žalobu do 2 měsíců od doručení oznámení Komory o vyškrtnutí ze seznamu kandidátů, právo na ochranu toho, kdo byl vyškrtnut ze seznamu kandidátů, zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bd2300c7296c5293ef06 -->
 
 ### § 27 — Vykonavatel a další zaměstnanci
 
@@ -1269,6 +2293,68 @@ Vykonavatel je odborný neprávník pro mobilní úkony v terénu (soupis, zaji�
 **Typicky rozhodné důkazy / podklady:** písemné pověření vykonavatele, protokol o úkonu, audio-video záznam mobilní prohlídky, doklad o kvalifikační zkoušce a délce pracovního poměru, evidence sepsaných/zajištěných věcí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8d7a13db51b1caf1d17 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+#### Revizní doplnění k § 27 — Vykonavatel exekutora a další zaměstnanci exekutora
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+##### Znění ustanovení
+
+> (1) Exekutor může zaměstnávat v pracovním poměru vykonavatele exekutora a další zaměstnance.
+>
+> (2) Exekutor může vykonavatele exekutora písemně pověřit prováděním úkonů, které ve výkonu rozhodnutí podle [[občanského soudního řádu|občanského soudního řádu]] provádí vykonavatel3a). Další zaměstnance může pověřit prováděním jednoduchých úkonů, které jsou předmětem exekuční nebo další činnosti.
+>
+> (3) Vykonavatelem exekutora může být občan České republiky, který
+>
+> - a) je plně svéprávný,
+>
+> - b) je bezúhonný,
+>
+> - c) má úplné středoškolské vzdělání,
+>
+> - d) je v pracovním poměru u exekutora po dobu nejméně 6 měsíců,
+>
+> - e) složil kvalifikační zkoušku vykonavatele exekutora.
+>
+> (4) Rozsah a způsob kvalifikační zkoušky vykonavatele exekutora určí Komora podle § 110 odst. 7 písm. c) a § 110 odst. 8.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 110
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8d7a13db51b1caf1d17 -->
 
 ## Shrnutí Hlavy II — Hierarchie exekutorského personálu
 

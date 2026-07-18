@@ -124,6 +124,64 @@ Kaskáda § 58 odst. 2 je závazná: prodej bydlení je až poslední možnost p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=be27e447d36847ab1958 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 58
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Exekuci lze provést jen způsoby uvedenými v tomto zákoně. Zajistit majetek k provedení exekuce lze nejvýše v rozsahu bezpečně postačujícím k uhrazení vymáhané pohledávky, jejího příslušenství včetně příslušenství, které se pravděpodobně stane splatným po dobu trvání exekuce, pravděpodobných nákladů oprávněného a pravděpodobných nákladů exekuce.
+>
+> (2) Nepostačuje-li jeden ze způsobů provedení exekuce k uspokojení oprávněného, lze exekuci v jednom exekučním řízení provést více způsoby, popřípadě i všemi zákonem stanovenými způsoby. K provedení exekuce více nebo všemi zákonem stanovenými způsoby lze přistoupit současně nebo postupně. Nebrání-li to účelu exekuce, provede se exekuce ukládající zaplacení peněžité částky postupně
+>
+> - a) přikázáním pohledávky z účtu u peněžního ústavu, a nepostačuje-li to, pak přikázáním pohledávky z účtu manžela povinného u peněžního ústavu,
+>
+> - b) přikázáním jiné peněžité pohledávky s výjimkou pohledávky z penzijního připojištění nebo doplňkového penzijního spoření, postižením jiných majetkových práv, srážkami ze mzdy a jiných příjmů, správou nemovité věci nebo pozastavením řidičského oprávnění, nepostačuje-li způsob provedení exekuce podle písmena a),
+>
+> - c) prodejem movitých věcí, prodejem nemovitých věcí, které povinný nepoužívá k bydlení sebe a své rodiny, postižením závodu nebo přikázáním pohledávky z penzijního připojištění nebo doplňkového penzijního spoření, nepostačuje-li způsob provedení exekuce podle písmen a) a b), a
+>
+> - d) prodejem nemovitých věcí, které povinný používá k bydlení sebe a své rodiny, nepostačuje-li způsob provedení exekuce podle písmen a) až c).
+>
+> (3) Způsob provedení exekuce určí exekutor. Na návrh povinného nebo s jeho souhlasem lze exekuci provést i v jiném pořadí, než stanoví odstavec 2 písm. a) až d).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=be27e447d36847ab1958 -->
+
 ## § 59 — Katalog způsobů provedení exekuce
 
 > (1) Exekuci ukládající zaplacení peněžité částky lze provést
@@ -230,6 +288,76 @@ Katalog § 59 je taxativní (6 způsobů u peněžité, 4 u nepeněžité exekuc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fb9228d4405902727ca6 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 59
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Exekuci ukládající zaplacení peněžité částky lze provést
+>
+> - a) srážkami ze mzdy a jiných příjmů,
+>
+> - b) přikázáním pohledávky,
+>
+> - c) prodejem movitých věcí a nemovitých věcí,
+>
+> - d) postižením závodu,
+>
+> - e) správou nemovité věci,
+>
+> - f) pozastavením řidičského oprávnění.
+>
+> (2) Způsob exekuce ukládající jinou povinnost než zaplacení peněžité částky se řídí povahou uložené povinnosti. Takovou exekuci lze provést
+>
+> - a) vyklizením,
+>
+> - b) odebráním věci,
+>
+> - c) rozdělením společné věci,
+>
+> - d) provedením prací a výkonů.
+>
+> (3) Exekuci prodejem zástavy lze pro zajištěnou pohledávku provést prodejem zastavených movitých věcí a nemovitých věcí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb9228d4405902727ca6 -->
+
 ## § 59a — Finanční zajištění (Financial Collateral)
 
 > Ustanovení této hlavy upravující způsob provádění exekučního řízení nemají vliv na výkon práv a splnění povinností vyplývajících z ujednání o finančním zajištění za podmínek stanovených zákonem upravujícím finanční zajištění24) nebo srovnatelných podmínek zahraničního právního předpisu, jestliže finanční zajištění bylo sjednáno a vzniklo před podáním exekučního návrhu. To platí i v případě, že finanční zajištění bylo sjednáno nebo vzniklo v den podání exekučního návrhu, avšak až poté, co tato skutečnost nastala, ledaže příjemce finančního kolaterálu o takové skutečnosti věděl nebo vědět měl a mohl.
@@ -287,6 +415,52 @@ Finanční zajištění (repa, deriváty, kolaterál u CCP) sjednané a vzniklé
 **Typicky rozhodné důkazy / podklady:** smlouva o finančním zajištění, doklady o vzniku a datu zajištění, evidence kolaterálu, datum a čas podání exekučního návrhu, podklady k dobré víře příjemce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=17fa3337deb910f0457f generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 59a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> Ustanovení této hlavy upravující způsob provádění exekučního řízení nemají vliv na výkon práv a splnění povinností vyplývajících z ujednání o finančním zajištění za podmínek stanovených zákonem upravujícím finanční zajištění24) nebo srovnatelných podmínek zahraničního právního předpisu, jestliže finanční zajištění bylo sjednáno a vzniklo před podáním exekučního návrhu. To platí i v případě, že finanční zajištění bylo sjednáno nebo vzniklo v den podání exekučního návrhu, avšak až poté, co tato skutečnost nastala, ledaže příjemce finančního kolaterálu o takové skutečnosti věděl nebo vědět měl a mohl.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17fa3337deb910f0457f -->
 
 ## § 63, § 64 — Postižení jiných majetkových práv (podíly, IP)
 
@@ -394,6 +568,110 @@ IP práva (patenty, vzory, ochranné známky) lze postihnout soupisem, odebrán�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fccbe98798661ad3864b generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 63
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> Exekuci postižením jiných majetkových práv lze provést také postižením podílu povinného jako společníka nebo komanditisty ve společnosti nebo postižením členských práv a povinností povinného jako člena v družstvu (dále jen „postižení podílu společníka ve společnosti“).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fccbe98798661ad3864b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=3cb843767a287595d0f7 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 64
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Patenty, průmyslové vzory a ochranné známky, které byly povinnému uděleny a jsou pro něj zapsány v patentovém rejstříku, v rejstříku průmyslových vzorů nebo v rejstříku ochranných známek vedeném Úřadem průmyslového vlastnictví (dále jen „Úřad“), a licence (souhlasy) k využívání vynálezu chráněného patentem, licence k využívání průmyslového vzoru chráněného osvědčením a licence k užívání ochranné známky, které povinný poskytl třetím osobám, exekutor sepíše, jakmile se o nich dozví. Patentové listiny a osvědčení o zápisu průmyslových vzorů a osvědčení o zápisu ochranných známek se vždy odevzdají exekutorovi. V případě potřeby nebo pochybností si exekutor vyžádá od Úřadu zprávu. Je-li třeba, při jejich odebrání se postupuje přiměřeně podle ustanovení o exekuci odebráním věci.
+>
+> (2) Po sepsání exekutor sdělí Úřadu, jaké patenty, průmyslové vzory a ochranné známky, které byly povinnému uděleny a které Úřad pro povinného zapsal do patentového rejstříku nebo do rejstříku průmyslových vzorů anebo do rejstříku ochranných známek, a jaké licence (souhlasy) k využívání vynálezu chráněnému patentem, licence k využívání průmyslového vzoru chráněného osvědčením a licence k užívání ochranných známek, které povinný poskytl třetím osobám, byly sepsány, kdy k sepsání došlo a že povinný s nimi nesmí počínaje tímto dnem nakládat. Úřad obsah sdělení zapíše do svého patentového rejstříku nebo rejstříku průmyslových vzorů anebo do rejstříku ochranných známek vedených podle zvláštních právních předpisů.17)
+>
+> (3) Sepsané patenty (patentové listiny), průmyslové vzory (osvědčení o zápisu průmyslových vzorů) a ochranné známky (osvědčení o zápisu ochranných známek do rejstříku) exekutor zpeněží; postupuje přitom přiměřeně podle ustanovení o exekuci prodejem movitých věcí. Všechna práva při převodu patentů, průmyslových vzorů a ochranných známek, která jinak přísluší povinnému jako jejich majiteli zapsanému v patentovém rejstříku, v rejstříku průmyslových vzorů a rejstříku ochranných známek, vykonává po dobu exekuce exekutor.
+>
+> (4) Se získanou částkou se naloží jako s výtěžkem prodeje.
+>
+> (5) Pro exekuci práv z licence k využívání vynálezu chráněného patentem, práv z licence k využívání průmyslového vzoru chráněného osvědčením a práv z licence k užívání ochranných známek, které povinný poskytl třetím osobám, se použijí ustanovení o exekuci přikázáním jiných peněžitých pohledávek. Exekuční příkaz se doručí i Úřadu.
+>
+> (6) Po jejich zpeněžení exekutor vyrozumí Úřad o převodu patentu, průmyslového vzoru a ochranné známky a o nabyvateli těchto práv. Úřad poté provede zápis o převodu v patentovém rejstříku, v rejstříku průmyslových vzorů nebo v rejstříku ochranných známek. Byla-li exekuce zastavena, exekutor vyrozumí po právní moci rozhodnutí Úřad.
+>
+> (7) Exekucí nelze postihnout práva spojená výhradně s osobou povinného, zejména právo na původcovství.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cb843767a287595d0f7 -->
+
 ## § 65a — Náklady správy nemovité věci
 
 Stručná klauzule: náklady exekuce v rámci **správy nemovité věci** (§ 320a—320h OSŘ — výnosy z pronájmu zděděné nemovitosti směřují věřitelům) se uspokojují ve **skupině podle § 320h odst. 2 písm. a) OSŘ** = první pořadí (před věřiteli).
@@ -435,6 +713,52 @@ Náklady exekuce vzniklé při správě nemovité věci se v rozvrhu výnosů us
 **Typicky rozhodné důkazy / podklady:** vyúčtování výnosů ze správy, vyčíslení nákladů exekuce, rozvrhové usnesení, podklady k jednotlivým nákladovým položkám.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=88a78f77182bb6768b9d generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 65a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> Náklady exekuce se uspokojují jako náklady správy nemovité věci ve skupině uvedené v [[§ 320h odst. 2 písm. a)|§ 320h odst. 2 písm. a)]] [[občanského soudního řádu|občanského soudního řádu]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 320h
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88a78f77182bb6768b9d -->
 
 ## Díl 4 — Prodej movitých a nemovitých věcí (§ 66—68)
 
@@ -770,6 +1094,60 @@ K postižení závodu lze přistoupit jen po doložení, že závod je majetkem 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0ebaff66be6b027e43f0 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 70
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) K exekuci postižením závodu nebo části závodu povinného může exekutor přistoupit, jen jestliže bude doloženo, že závod nebo část závodu je majetkem povinného.
+>
+> (2) Exekutor ustanoví v exekučním příkazu správce závodu.
+>
+> (3) Ustanovení [[§ 338u odst. 3|§ 338u odst. 3]] [[občanského soudního řádu|občanského soudního řádu]] se použije obdobně pro exekutory a zaměstnance exekutorských úřadů.
+>
+> (4) Náklady exekuce se uspokojují jako pohledávky nákladů řízení ve skupině uvedené v [[§ 338ze odst. 1 písm. a)|§ 338ze odst. 1 písm. a)]] [[občanského soudního řádu|občanského soudního řádu]]. Na náklady exekuce při správě závodu se [[#§ 65a|§ 65a]] použije obdobně.
+>
+> (5) Při oceňování závodu nebo jeho části se použije obvyklá cena podle zvláštního právního předpisu.18)
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 338u, § 338ze, § 65a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ebaff66be6b027e43f0 -->
+
 ## § 71a — Pozastavení řidičského oprávnění
 
 > (1) Exekuční příkaz k pozastavení řidičského oprávnění povinného může exekutor vydat pouze tehdy, jestliže je v exekuci vymáhán nedoplatek výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, včetně pohledávek výživného, které byly postoupeny, vymáhána úplata za postupovanou pohledávku výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, nebo vymáhána pohledávka za náhradní výživné podle jiného zákona.
@@ -855,6 +1233,68 @@ Pozastavení řidičského oprávnění je přípustné výhradně pro nedoplate
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7244d9f95eba4d40d568 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 71a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Exekuční příkaz k pozastavení řidičského oprávnění povinného může exekutor vydat pouze tehdy, jestliže je v exekuci vymáhán nedoplatek výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, včetně pohledávek výživného, které byly postoupeny, vymáhána úplata za postupovanou pohledávku výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, nebo vymáhána pohledávka za náhradní výživné podle jiného zákona.
+>
+> (2) Exekuční příkaz se doručí orgánu, který vede registr řidičů podle zvláštního právního předpisu32), oprávněnému a povinnému. Orgánu, který vede registr řidičů, nesmí být exekuční příkaz doručen dříve než povinnému.
+>
+> (3) Dnem doručení exekučního příkazu povinnému se povinnému pozastavuje řidičské oprávnění udělené podle zvláštního právního předpisu32). Po dobu pozastavení řidičského oprávnění držitel řidičského oprávnění nesmí řídit motorová vozidla. Exekuční příkaz se povinnému doručuje do vlastních rukou.
+>
+> (4) Exekutor zruší exekuční příkaz pozastavením řidičského oprávnění,
+>
+> - a) prokáže-li povinný, že k uspokojování základních životních potřeb svých a osob, ke kterým má vyživovací povinnost, nezbytně potřebuje své řidičské oprávnění,
+>
+> - b) zaplatí-li povinný nedoplatek výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, včetně pohledávek výživného, které byly postoupeny,
+>
+> - c) zaplatí-li povinný úplatu za postupovanou pohledávku výživného na nezletilé dítě anebo na zletilé dítě do 26 let věku, které se soustavně připravuje studiem na své budoucí povolání, nebo
+>
+> - d) zaplatí-li povinný pohledávku za náhradní výživné podle jiného zákona.
+>
+> Zrušení exekučního příkazu exekutor oznámí orgánu, který vede registr řidičů podle zvláštního právního předpisu32).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7244d9f95eba4d40d568 -->
+
 ## § 72 — Nepeněžité plnění a pokuty podle § 351 OSŘ
 
 > (1) Byl-li vydán exekuční příkaz k **provedení prací a výkonů**, které může vykonat i někdo jiný než povinný, **postará se exekutor o to, aby práce, o které jde, provedl pro oprávněného někdo jiný**, nedohodl-li se s oprávněným jinak.
@@ -913,6 +1353,56 @@ U nepeněžitého plnění se zastupitelná práce zajistí třetí osobou na n�
 **Typicky rozhodné důkazy / podklady:** exekuční titul s nepeněžitou povinností, důkazy o jejím (ne)splnění či porušování, rozhodnutí o uložení pokuty, doklady o nákladech substitučního provedení práce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=72a60969527f5b193f8e generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 72
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Byl-li vydán exekuční příkaz k provedení prací a výkonů, které může vykonat i někdo jiný než povinný, postará se exekutor o to, aby práce, o které jde, provedl pro oprávněného někdo jiný, nedohodl-li se s oprávněným jinak.
+>
+> (2) Pokuty uložené při provedení exekuce podle ustanovení [[§ 351|§ 351]] [[občanského soudního řádu|občanského soudního řádu]] je povinný vždy povinen zaplatit na účet exekučního soudu. Uloženou pokutu vymůže exekutor bez návrhu v rámci exekučního řízení.
+>
+> (3) Exekuci prováděnou podle [[§ 351|§ 351]] [[občanského soudního řádu|občanského soudního řádu]] lze zastavit, a to i zčásti, pokud výše uložené pokuty neodpovídá vymáhané povinnosti či okolnostem případu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 351
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=72a60969527f5b193f8e -->
 
 ## Shrnutí Hlavy IV
 

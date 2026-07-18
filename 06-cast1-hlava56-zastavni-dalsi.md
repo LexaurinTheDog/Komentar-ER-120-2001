@@ -152,6 +152,74 @@ EZP je strategický konzervační nástroj: zafixuje pořadí věřitele k nemov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f6edacfda9c6b8f37ab generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 73a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Exekuční řízení ke zřízení exekutorského zástavního práva na nemovitých věcech povinného k zajištění pohledávky oprávněného se zahajuje na návrh. Exekuční návrh na zřízení exekutorského zástavního práva podává exekutorovi oprávněný.
+>
+> (2) Týká-li se návrh na zřízení exekutorského zástavního práva nemovité věci, která je předmětem evidence v katastru nemovitostí, exekutor o jeho podání vyrozumí příslušný katastrální úřad. Exekuční příkaz ke zřízení exekutorského zástavního práva má účinky i proti osobám, které nabyly nemovitou věc po zápisu poznámky informující o podání návrhu na zřízení exekutorského zástavního práva.
+>
+> (3) Součástí vyrozumění o zahájení exekuce ke zřízení exekutorského zástavního práva není výzva podle § 46 odst. 6. Internetové stránky, na které je odkazováno ve vyrozumění, obsahují namísto poučení podle § 37 odst. 5 a [[#§ 6|6]], § 44a odst. 1, [[#§ 54|§ 54]], § 87 odst. 2 poučení podle odstavců 10 a [[#§ 11|11.]] Ustanovení § 35 odst. 6, § 35b odst. 1 písm. i) až m), § 37 odst. 5 až 7, § 43a odst. 3 věty druhé až čtvrté, § 44 odst. 1 věty čtvrté, [[#§ 44a|§ 44a]], [[#§ 44c|§ 44c]], § 47 odst. 6, [[#§ 50|§ 50]], [[#§ 54|§ 54]], § 55 odst. 6 až 12, § 58 až 72 se nepoužijí.
+>
+> (4) Třetí osoby v rámci součinnosti sdělí exekutorovi údaje potřebné k vedení exekuce ke zřízení exekutorského zástavního práva. Návrh na odklad nelze podat.
+>
+> (5) Výrok exekučního příkazu ke zřízení exekutorského zástavního práva musí rovněž obsahovat označení nemovité věci, k níž má být zřízeno exekutorské zástavní právo, případně spoluvlastnického podílu na ní, označení zástavního věřitele údaji, které se zapisují do katastru nemovitostí, označení zajištěné pohledávky a údaj o dni, který je rozhodný pro pořadí exekutorského zástavního práva.
+>
+> (6) Pro pořadí exekutorského zástavního práva k nemovité věci je rozhodující den, v němž exekutorovi došel exekuční návrh na zřízení exekutorského zástavního práva; došlo-li ve stejný den exekutorovi více exekučních návrhů, mají zástavní práva stejné pořadí. Bylo-li však pro vymáhanou pohledávku již dříve zřízeno zákonné nebo smluvní zástavní právo, řídí se pořadí exekutorského zástavního práva pořadím tohoto zástavního práva. Jde-li o pohledávku náhrady škody nebo nemajetkové újmy způsobené trestným činem nebo pohledávku z bezdůvodného obohacení získaného trestným činem, byla-li nemovitá věc zajištěna v trestním řízení o tomto trestném činu a byl-li exekuční návrh ke zřízení exekutorského zástavního práva podán v době, kdy zajištění podle [[trestního řádu|trestního řádu]] trvá, je pro pořadí exekutorského zástavního práva rozhodující den právní moci rozhodnutí o zajištění nemovité věci podle [[trestního řádu|trestního řádu]].
+>
+> (7) Nestanoví-li tento zákon jinak, použijí se na exekuci ke zřízení exekutorského zástavního práva na nemovitých věcech přiměřeně ustanovení [[občanského soudního řádu|občanského soudního řádu]] upravující výkon rozhodnutí zřízením soudcovského zástavního práva na nemovitých věcech.
+>
+> (8) Oprávněný nemá právo na náhradu nákladů. Náklady exekuce hradí exekutorovi oprávněný. Exekutor nevydá exekuční příkaz ke zřízení exekutorského zástavního práva a exekuci zastaví, neuhradí-li oprávněný náklady exekuce podle příkazu k úhradě nákladů exekuce, který se doručuje pouze oprávněnému.
+>
+> (9) Pověření k vedení exekuce exekutorovi zaniká provedením exekuce ke zřízení exekutorského zástavního práva.
+>
+> (10) Exekuce ke zřízení exekutorského zástavního práva je provedena právní mocí exekučního příkazu. Provedením exekuce exekutorské zástavní právo nezaniká.
+>
+> (11) Po provedení exekuce může být podán návrh na zastavení pouze k soudu.
+>
+> (12) Exekutorské zástavní právo k nemovité věci, která je předmětem evidence v katastru nemovitostí, se do katastru nemovitostí zapíše na návrh oprávněného na základě exekučního příkazu, kterým bylo exekutorské zástavní právo zřízeno.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46, § 37, § 6, § 44a, § 54, § 87, § 11, § 35, § 35b, § 43a, § 44, § 44c, § 47, § 50, § 55, § 58
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f6edacfda9c6b8f37ab -->
+
 # HLAVA VI — Další činnost exekutora
 
 ## Díl 1 — Obecná ustanovení (§ 74 — § 76g)
@@ -622,6 +690,232 @@ Standardní identifikační pravidlo pro úkony podle § 76d — průkaz totožn
 **Typicky rozhodné důkazy / podklady:** doklad o pohledávce věřitele, doklad o zkracujícím jednání a jeho datu, text oznámení / protokol, doklad o doručení adresátovi, identifikace žadatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=56e8b656ad7f34b53b13 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 76d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> Exekutor na žádost věřitele doručí oznámení věřitele o jeho výhradě práva dovolat se neúčinnosti právního jednání podle jiného právního předpisu (dále jen „oznámení o výhradě“) tomu, koho žadatel označil za toho, vůči komu se neúčinnosti právního jednání může dovolat.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=56e8b656ad7f34b53b13 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d166c3372f5d94b5d5e2 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 76e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) O žádosti podle [[#§ 76d|§ 76d]] exekutor sepíše za účasti věřitele protokol, který musí obsahovat
+>
+> - a) místo a datum sepsání protokolu,
+>
+> - b) jméno, příjmení, datum narození a bydliště věřitele a je-li věřitelem právnická osoba, její název, adresu jejího sídla a identifikační číslo nebo registrační číslo či jiné obdobné identifikující číslo, bylo-li právnické osobě některé z nich přiděleno, a jméno, příjmení, datum narození a bydliště jejího přítomného zástupce,
+>
+> - c) jméno, příjmení, datum narození a bydliště toho, vůči komu je oznámení o výhradě činěno a jde-li o právnickou osobu, její název, adresu jejího sídla a identifikační číslo nebo registrační číslo či jiné obdobné identifikující číslo, bylo-li právnické osobě některé z nich přiděleno,
+>
+> - d) adresu, na kterou má být oznámení doručeno, je-li rozdílná od bydliště nebo adresy sídla,
+>
+> - e) údaj o tom, že bylo oznámení o výhradě exekutorem převzato,
+>
+> - f) podpis věřitele, otisk úředního razítka exekutora a jeho podpis.
+>
+> (2) Jedno vyhotovení protokolu exekutor předá věřiteli.
+>
+> (3) Exekutor neodpovídá za obsah oznámení o výhradě.
+>
+> (4) Exekutor zašle oznámení o výhradě osobě uvedené v odstavci 1 písm. c) do 3 pracovních dnů ode dne sepsání protokolu. Jakmile exekutor zjistí, že bylo oznámení o výhradě této osobě doručeno a kdy se tak stalo, sdělí tyto skutečnosti věřiteli. Nepodaří-li se exekutorovi oznámení o výhradě předat, sdělí tuto skutečnost věřiteli.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 76d
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d166c3372f5d94b5d5e2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=690c4788ef8a0cf1f50f generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 76f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Věřitel může oznámení o výhradě učinit do protokolu o žádosti podle [[#§ 76d|§ 76d]], který musí obsahovat
+>
+> - a) místo a datum sepsání protokolu,
+>
+> - b) jméno, příjmení, datum narození a bydliště věřitele a je-li věřitelem právnická osoba, její název, adresu jejího sídla a identifikační číslo nebo registrační číslo či jiné obdobné identifikující číslo, bylo-li právnické osobě některé z nich přiděleno, a jméno, příjmení, datum narození a bydliště jejího přítomného zástupce,
+>
+> - c) oznámení o výhradě, které musí mít tyto náležitosti:
+>
+>   - 1. jméno, příjmení, datum narození a bydliště věřitele a je-li věřitelem právnická osoba, její název, adresu jejího sídla a identifikační číslo nebo registrační číslo či jiné obdobné identifikující číslo, bylo-li právnické osobě některé z nich přiděleno, a jméno, příjmení, datum narození a bydliště jejího zástupce, který jménem věřitele oznámení o výhradě činí,
+>
+>   - 2. jméno, příjmení, datum narození a bydliště toho, vůči komu je oznámení o výhradě činěno a jde-li o právnickou osobu, její název, adresu jejího sídla a identifikační číslo nebo registrační číslo či jiné obdobné identifikující číslo, bylo-li právnické osobě některé z nich přiděleno,
+>
+>   - 3. označení právního jednání, ohledně něhož si vyhrazuje věřitel práva dovolat se jeho neúčinnosti,
+>
+>   - 4. jméno, příjmení, datum narození a bydliště dlužníka věřitele, a je-li dlužníkem právnická osoba, její název, adresu jejího sídla a identifikační číslo nebo registrační číslo či jiné obdobné identifikující číslo, bylo-li právnické osobě některé z nich přiděleno,
+>
+>   - 5. označení pohledávky věřitele vůči dlužníku,
+>
+>   - 6. výhradu věřitele práva dovolat se neúčinnosti právního jednání,
+>
+> - d) podpis věřitele, otisk úředního razítka exekutora a jeho podpis.
+>
+> (2) Exekutor další vyhotovení protokolu předá věřiteli a další vyhotovení protokolu zašle osobě uvedené v odstavci 1 písm. c) bodu 2 do 3 pracovních dnů ode dne sepsání protokolu. Jakmile exekutor zjistí, že bylo vyhotovení protokolu této osobě doručeno a kdy se tak stalo, nebo nepodaří-li se exekutorovi oznámení o výhradě doručit, sdělí tyto skutečnosti věřiteli.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 76d
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=690c4788ef8a0cf1f50f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c8b8aeca07bbec4a1292 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 76g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Ten, kdo žádá o úkon podle [[#§ 76d|§ 76d]], je povinen exekutorovi prokázat svoji totožnost úředním průkazem, nezná-li ho exekutor osobně. Jde-li o právnickou osobu, je povinen její zástupce prokázat vedle své totožnosti i její existenci. Obdobně se postupuje, je-li zástupcem právnické osoby jiná právnická osoba. Právnická osoba prokazuje svoji existenci výpisem z veřejného rejstříku, do kterého se zapisuje; nezapisuje-li se, prokazuje svoji existenci jiným způsobem, ze kterého lze soudit, že existuje a také prohlášením o její existenci osobou, která za ni právně jedná.
+>
+> (2) Není-li exekutorovi totožnost, popřípadě existence podle odstavce 1 prokázána, exekutor odmítne požadovaný úkon provést.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 76d
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c8b8aeca07bbec4a1292 -->
 
 ## Díl 2 — Sepisování exekutorských zápisů (§ 77, § 79, § 86)
 

@@ -635,6 +635,76 @@ Komora je veřejnoprávní stavovská organizace s povinným členstvím vznikaj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=85b9e6c0f4e7f1fb0d49 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 109 — Komora
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Zřizuje se Exekutorská komora České republiky se sídlem v Praze.
+>
+> (2) Komora je samosprávnou stavovskou organizací, která sdružuje všechny exekutory a vede seznam exekutorů, kandidátů a koncipientů. Exekutor se stává členem Komory okamžikem jmenování exekutorem. Členství v Komoře zaniká odvoláním exekutora, jeho smrtí nebo prohlášením za mrtvého.
+>
+> (3) Komora je právnickou osobou. Její příjmy tvoří členské příspěvky, dary a jiné příjmy. Členské příspěvky jsou exekutoři povinni platit ve výši stanovené sněmem exekutorů.
+>
+> (4) Komora má tyto orgány:
+>
+> - a) sněm,
+>
+> - b) prezidium,
+>
+> - c) prezidenta,
+>
+> - d) revizní komisi,
+>
+> - e) zkušební komisi,
+>
+> - f) kárnou komisi,
+>
+> - g) kontrolní komisi.
+>
+> (5) Komora může zřizovat poradní orgány.
+>
+> (6) Funkční období členů orgánů Komory je tříleté.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85b9e6c0f4e7f1fb0d49 -->
+
 ## § 110 — Sněm exekutorů
 
 ### Klíčové rysy
@@ -716,6 +786,94 @@ Sněm má širokou normotvornou a personální pravomoc, ale u zkušebního, ká
 **Typicky rozhodné důkazy / podklady:** usnesení sněmu, doklad o (ne)udělení souhlasu MS, znění řádu, kárný/správní spis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=10ee2f007c3d6c35f85e generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 110 — Sněm exekutorů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Sněm je nejvyšším orgánem Komory.
+>
+> (2) Právo účastnit se sněmu má každý exekutor.
+>
+> (3) Prezidium svolává sněm zpravidla jednou za 2 roky. Jestliže o to písemně požádá aspoň jedna třetina exekutorů, revizní komise, prezident Komory nebo ministr, je prezidium povinno svolat sněm exekutorů do 2 měsíců ode dne doručení žádosti.
+>
+> (4) Sněm je schopný usnášení, je-li přítomna alespoň nadpoloviční většina exekutorů zapsaných v seznamu exekutorů.
+>
+> (5) Není-li sněm schopný usnášení, svolá prezidium do 2 měsíců sněm nový; takto svolaný sněm je schopný usnášení, pokud je přítomna alespoň třetina všech exekutorů zapsaných v seznamu exekutorů.
+>
+> (6) K platnosti usnesení sněmu exekutorů je nutný souhlas většiny přítomných exekutorů zapsaných v seznamu exekutorů.
+>
+> (7) Sněm zejména
+>
+> - a) volí přímou a tajnou volbou na dobu 3 let z řad exekutorů členy prezidia Komory, náhradníky prezidia Komory a členy ostatních orgánů Komory z řad exekutorů a jejich náhradníky a odvolává je, nestanoví-li tento zákon jinak,
+>
+> - b) projednává a schvaluje zprávu o činnostech orgánů Komory,
+>
+> - c) přijímá organizační, volební, zkušební, kárný a kancelářský řád Komory,
+>
+> - d) ruší nebo mění usnesení prezidia Komory; práva, která ze zrušeného rozhodnutí prezidia vznikla exekutorům nebo jiným osobám, však nemohou být dotčena,
+>
+> - e) schvaluje rozpočet a hospodaření Komory,
+>
+> - f) schvaluje výšku ročního členského příspěvku exekutorů na činnost Komory, jakož i jiných plateb předvídaných tímto zákonem nebo řády Komory, popřípadě stanoví zásady pro určení jejich výše,
+>
+> - g) schvaluje výši náhrady za ztrátu času při výkonu funkcí v orgánech Komory a výši náhrady hotových výdajů vynaložených v souvislosti s výkonem těchto funkcí, popřípadě stanoví zásady pro určení jejich výše,
+>
+> - h) schvaluje výši náhrady za ztrátu času při výkonu funkce člena kárného senátu z řad exekutorů podle zákona o řízení ve věcech soudců, státních zástupců a soudních exekutorů a výši náhrady hotových výdajů vynaložených v souvislosti s výkonem této funkce, popřípadě zásady pro určení jejich výše,
+>
+> - i) zřizuje fondy Komory a schvaluje pravidla jejich tvorby a používání,
+>
+> - j) schvaluje stavovské předpisy přijaté prezidiem v případech, které si vyhradí,
+>
+> - k) stanoví postup při vyhlašování a organizaci výběrového řízení podle [[#§ 10|§ 10]],
+>
+> - l) stanoví postup při vedení, správě a provozu centrální evidence exekucí,
+>
+> - m) stanoví podrobnosti k plnění povinnosti pořizovat a uchovávat záznamy podle [[#§ 53|§ 53]],
+>
+> - n) usnáší se o dalších věcech, které si vyhradí.
+>
+> (8) K platnosti zkušebního, kárného a kancelářského řádu, jakož i k postupu při vyhlašování a organizaci výběrového řízení podle [[#§ 10|§ 10]] je zapotřebí souhlasu ministerstva.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 53
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=10ee2f007c3d6c35f85e -->
 
 ## § 111 — Prezidium Komory
 
@@ -805,6 +963,94 @@ Prezidium je výkonné jádro Komory s širokou působností (dohled, evidence, 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=36633dfdbf07dea7ea74 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 111 — Prezidium Komory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Prezidium je řídícím a výkonným orgánem Komory.
+>
+> (2) Prezidium má 5 členů a 5 náhradníků; klesne-li počet členů prezidia pod počet stanovený tímto zákonem, je prezidium oprávněno doplnit z řad náhradníků členy nové.
+>
+> (3) Prezidium Komory volí a odvolává ze svých členů prezidenta a viceprezidenta Komory.
+>
+> (4) Zasedání prezidia Komory svolává prezident Komory zpravidla jednou za měsíc, nejméně jednou za 3 měsíce.
+>
+> (5) Členství v prezidiu Komory je neslučitelné s členstvím v revizní, kárné nebo kontrolní komisi.
+>
+> (6) Prezidium
+>
+> - a) zastupuje, chrání a prosazuje zájmy exekutorů,
+>
+> - b) dohlíží na činnost exekutorů a jejich zástupců,
+>
+> - c) organizuje odbornou výchovu exekutorů, kandidátů, koncipientů a vykonavatelů exekutora a zajišťuje publikační, studijní, dokumentační a informační činnost,
+>
+> - d) vede evidenci (seznamy) exekutorů, kandidátů, koncipientů a ustanovených zástupců exekutorů a provádí v nich zápisy a změny; seznam exekutorů zasílá krajským a okresním soudům,
+>
+> - e) hospodaří s finančními prostředky Komory a spravuje její majetek,
+>
+> - f) organizuje exekutorské zkoušky a jmenuje dvě třetiny členů zkušební komise,
+>
+> - g) vyhlašuje a organizuje výběrové řízení podle [[#§ 10|§ 10]] a jmenuje členy výběrové komise,
+>
+> - h) podává ministrovi a ministerstvu návrhy v případech, kdy to stanoví tento zákon,
+>
+> - i) svolává sněm,
+>
+> - j) vypracovává návrh organizačního řádu, volebního řádu, zkušebního řádu, kárného řádu, kancelářského řádu, jakož i k postupu při vyhlašování a organizaci výběrového řízení podle [[#§ 10|§ 10]], a předkládá je sněmu ke schválení,
+>
+> - k) předkládá ministerstvu ke schválení zkušební řád, kárný řád a kancelářský řád, jakož i postup při vyhlašování a organizaci výběrového řízení podle [[#§ 10|§ 10]],
+>
+> - l) vyjadřuje se k návrhům právních předpisů týkajících se činnosti exekutorů,
+>
+> - m) ustanovuje zástupce exekutora,
+>
+> - n) schvaluje studijní plán exekutorské zkoušky,
+>
+> - o) přijímá stavovské předpisy a činí veškerá opatření nezbytná k zajištění řádné činnosti Komory,
+>
+> - p) provádí další činnost podle tohoto zákona a rozhoduje ve všech dalších věcech podle tohoto zákona, pokud rozhodování o nich není svěřeno jinému orgánu Komory.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36633dfdbf07dea7ea74 -->
+
 ## § 112 — Prezident Komory
 
 **Statutární orgán** Komory:
@@ -856,6 +1102,66 @@ Prezident je statutárním orgánem Komory — jedná navenek, řídí sněm, sv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=10ac3bfbc8b1c8cb1a2f generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 112 — Prezident Komory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Prezident Komory
+>
+> - a) zastupuje Komoru navenek a jedná jejím jménem ve všech věcech,
+>
+> - b) řídí jednání sněmu,
+>
+> - c) svolává prezidium Komory nejméně jednou za 3 měsíce a řídí jeho jednání; prezidium Komory svolá do 20 dnů vždy, požádá-li o to alespoň jedna třetina členů prezidia Komory nebo požádá-li o to revizní komise Komory,
+>
+> - d) je oprávněn činit v době mezi zasedáními prezidia rozhodnutí v působnosti prezidia, která nesnesou odkladu, a veškerá opatření a rozhodnutí nezbytná k zajištění řádné činnosti orgánů Komory, která nejsou tímto zákonem nebo stavovským předpisem vyhrazena jinému orgánu Komory,
+>
+> - e) navrhuje na výzvu předsedy kárného soudu exekutory do seznamu přísedících kárného soudu,
+>
+> - f) rozhoduje o odvoláních proti rozhodnutí Komory vydaných ve správním řízení42); ustanovení o rozkladových komisích se použije obdobně43).
+>
+> (2) Prezidenta Komory zastupuje viceprezident Komory.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=10ac3bfbc8b1c8cb1a2f -->
+
 ## § 113 — Revizní komise
 
 **Kontrolně-finanční orgán:**
@@ -906,6 +1212,66 @@ Revizní komise je interní finanční kontrolou Komory s úplným přístupem k
 **Typicky rozhodné důkazy / podklady:** účetní doklady, schválený rozpočet, roční závěrečný účet, zpráva revizní komise, zápisy ze zasedání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f7fdfe1ad32f9eca0a8f generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 113 — Revizní komise
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Revizní komise má 5 členů a 3 náhradníky; klesne-li počet členů revizní komise pod počet stanovený tímto zákonem, je revizní komise oprávněna doplnit z řad náhradníků členy nové.
+>
+> (2) Členové revizní komise volí ze svých členů předsedu a místopředsedu revizní komise.
+>
+> (3) Revizní komise
+>
+> - a) přezkoumává hospodaření Komory a podává zprávu o výsledku hospodaření Komory sněmu exekutorů; za tímto účelem musí být revizní komisi Komory umožněn přístup ke všem dokladům Komory,
+>
+> - b) vyjadřuje se k návrhu rozpočtu Komory,
+>
+> - c) schvaluje roční závěrečný účet Komory.
+>
+> (4) Předsedu revizní komise zastupuje místopředseda revizní komise.
+>
+> (5) Členství v revizní komisi je neslučitelné s členstvím v prezidiu Komory, s funkcí náhradníka člena prezidia Komory a s členstvím v kárné komisi a v kontrolní komisi.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7fdfe1ad32f9eca0a8f -->
 
 ## § 113a — Kontrolní komise (novela 2017/258 Sb.)
 
@@ -959,6 +1325,66 @@ Kontrolní komise je hlavním adresátem stížností na exekutory a interním d
 **Typicky rozhodné důkazy / podklady:** stížnost, exekuční spis, protokol o šetření v úřadě, vyžádané podklady, doporučení prezidiu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9207bfcdc2421549f1ff generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 113a — Kontrolní komise
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Kontrolní komise má 9 členů a 5 náhradníků; klesne-li počet členů kontrolní komise pod počet stanovený tímto zákonem, je kontrolní komise oprávněna doplnit z řad náhradníků členy nové.
+>
+> (2) Kontrolní komise ze svých členů volí a odvolává předsedu a místopředsedu kontrolní komise.
+>
+> (3) Kontrolní komise
+>
+> - a) připravuje podklady, zpracovává zprávy a navrhuje opatření týkající se vyřizování stížností na exekutory, kandidáty, koncipienty a další zaměstnance exekutorů; za tím účelem je kontrolní komise oprávněna činit šetření v dotčených exekutorských úřadech,
+>
+> - b) provádí kontroly a doporučuje prezidiu opatření při provádění dohledu nad činností exekutorů a nad vedením exekutorských úřadů,
+>
+> - c) působí preventivně a výchovně, provádí analýzy a zásadní poznatky ze své činnosti ve spolupráci s ostatními orgány Komory navrhuje prezidiu ke zveřejnění.
+>
+> (4) Předsedu kontrolní komise zastupuje místopředseda kontrolní komise.
+>
+> (5) Členství v kontrolní komisi je neslučitelné s členstvím v prezidiu Komory, s funkcí náhradníka člena prezidia Komory, jakož i s členstvím v revizní komisi.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9207bfcdc2421549f1ff -->
 
 ## § 114 — Kárná komise (HYBRIDNÍ)
 
@@ -1014,6 +1440,62 @@ Kárná komise je hybridní orgán (6 soudců + 3 exekutoři) pro méně závaž
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=33760ebbac39f6ecd8b9 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 114 — Kárná komise
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Kárná komise má 9 členů, z toho 6 členů z řad soudců a 3 členy z řad exekutorů. Kárná komise má 3 náhradníky z řad exekutorů; klesne-li počet členů kárné komise z řad exekutorů pod počet stanovený tímto zákonem, je kárná komise oprávněna doplnit z řad náhradníků členy nové.
+>
+> (2) Členové kárné komise volí ze svých členů předsedu a místopředsedu kárné komise. Předsedou kárné komise může být pouze soudce.
+>
+> (3) Předsedu kárné komise zastupuje místopředseda kárné komise.
+>
+> (4) Kárné řízení se koná před tříčlenným kárným senátem jmenovaným předsedou kárné komise. Kárný senát se skládá z 2 členů kárné komise z řad soudců a z 1 člena kárné komise z řad exekutorů. Předsedou kárného senátu může být pouze soudce.
+>
+> (5) Členství v kárné komisi je neslučitelné s členstvím v prezidiu Komory a s členstvím v revizní komisi a kontrolní komisi.
+>
+> (6) Řízení, rozhodování a činnost kárné komise upraví Komora kárným řádem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33760ebbac39f6ecd8b9 -->
+
 ## § 115 — Zkušební komise
 
 **Personální orgán** pro **exekutorskou zkoušku** (§ 9 odst. 1 písm. e):
@@ -1063,6 +1545,60 @@ Zkušební komise (15 členů, 1/3 soudců jmenuje MS) zkouší ve tříčlenný
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=96056fedc580794def31 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 115 — Zkušební komise
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Zkušební komise má 15 členů.
+>
+> (2) Členové zkušební komise volí ze svých členů předsedu a místopředsedu zkušební komise.
+>
+> (3) Předsedu zkušební komise zastupuje místopředseda zkušební komise.
+>
+> (4) Exekutorská zkouška se koná před tříčlenným zkušebním senátem složeným ze 2 členů zkušební komise z řad exekutorů a z 1 člena zkušební komise z řad soudců; senátu předsedá člen určený předsedou zkušební komise.
+>
+> (5) Řízení, rozhodování a činnost zkušební komise upraví Komora zkušebním řádem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96056fedc580794def31 -->
+
 ## § 115a — Výběrová komise (PARITNÍ)
 
 **Tripartitní orgán** pro výběrové řízení (§ 10):
@@ -1110,6 +1646,56 @@ Výběrová komise je paritní (2 exekutoři + 2 soudci + 2 MS) s předsedou ur�
 **Typicky rozhodné důkazy / podklady:** zápis o složení komise, protokol o losování předsedy, zápis o hlasování, dokumentace výběrového řízení dle § 10.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cc552aabb5ee2f7703df generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 115a — Výběrová komise
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Výběrová komise má 6 členů; 2 členové jsou jmenováni z řad soudních exekutorů, 2 z řad soudců na návrh předsedy krajského soudu, v jehož obvodu se nachází okresní soud, do jehož obvodu by měl být exekutor jmenován, a 2 na návrh ministra z řad zaměstnanců ministerstva.
+>
+> (2) Výběrová komise určí svého předsedu losem.
+>
+> (3) Rozhodnutí výběrové komise je přijato, vyslovila-li se pro ně nadpoloviční většina jejích členů. Při rovnosti hlasů se návrh pokládá za zamítnutý.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc552aabb5ee2f7703df -->
 
 ## § 115b — Informační povinnost Komory a exekutorů
 
@@ -1163,6 +1749,56 @@ Komora poskytuje MS statistické informace a exekutoři poskytují Komoře anony
 **Typicky rozhodné důkazy / podklady:** žádost MS s lhůtou, doklad o dostupnosti/náročnosti dat, poskytnuté statistiky, upozornění MS a reakce Komory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=23159088142834333757 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
+### Revizní doplnění k § 115b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
+
+#### Znění ustanovení
+
+> (1) Komora bezplatně poskytne ministerstvu na jeho žádost v přiměřené lhůtě určené ministerstvem údaje v podobě statistických informací týkající se činnosti exekutorů nebo údaje týkající se činnosti Komory, lze-li je zjistit bez nepřiměřených obtíží.
+>
+> (2) Exekutor je povinen bezplatně poskytnout Komoře na její žádost v přiměřené lhůtě určené Komorou anonymizované údaje týkající se jeho činnosti, lze-li je zjistit bez nepřiměřených obtíží.
+>
+> (3) Jestliže Komora neposkytne ministerstvu údaje, které je povinna poskytnout podle odstavce 1, v přiměřené lhůtě určené ministerstvem, upozorní ji ministerstvo na porušení této povinnosti a určí jí lhůtu k nápravě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23159088142834333757 -->
 
 ## Shrnutí Hlav IX a X
 
