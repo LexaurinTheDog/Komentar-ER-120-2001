@@ -161,60 +161,6 @@ V praxi § 87 určuje tři toky nákladů s odlišnými plátci: náklady exekuc
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=fc8676a5d3914cfc6dab generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 87
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> (1) Náklady exekuce jsou odměna exekutora, náhrada paušálně určených či účelně vynaložených hotových výdajů, náhrada za ztrátu času při exekuci, náhrada za doručení písemností, odměna a náhrada nákladů správce závodu a správce nemovité věci, a je-li exekutor nebo správce závodu a správce nemovité věci plátcem daně z přidané hodnoty, je nákladem exekuce rovněž příslušná daň z přidané hodnoty podle zvláštního právního předpisu20) (dále jen „náklady exekuce“). Náhrada účelně vynaložených cestovních výdajů a náhrada za ztrátu času je nákladem exekuce do výše stanovené prováděcím právním předpisem. Účelně vynaložené cestovní výdaje a ztrátu času přesahující tuto částku hradí exekutorovi oprávněný; o tom musí být poučen ve vyrozumění o zahájení exekuce.
->
-> (2) Oprávněný má právo na náhradu nákladů účelně vynaložených k vymáhání nároku (dále jen „náklady oprávněného“). Náklady oprávněného hradí oprávněnému povinný. Náklady exekuce, které byly uspokojeny ze zálohy, se stávají nákladem oprávněného; to neplatí, byla-li náhrada nákladů exekuce uložena oprávněnému. Náhrada účelně vynaložených cestovních výdajů a náhrada za ztrátu času, která není nákladem exekuce, se nestává nákladem oprávněného.
->
-> (3) Plátce mzdy má právo na paušálně stanovenou náhradu nákladů, které mu vznikly za každý kalendářní měsíc, v němž provádí srážky ze mzdy nebo jiných příjmů povinného. Paušálně stanovenou náhradu nákladů hradí plátci mzdy povinný. Provádí-li plátce mzdy zároveň srážky k vydobytí několika pohledávek vůči témuž povinnému, náleží mu náhrada nákladů pouze jednou. Právo na částku náhrady nákladů, jež nebyla odečtena ze sražené částky podle občanského soudního řádu, zaniká.
->
-> (4) Náklady exekuce hradí exekutorovi povinný.
->
-> (5) Náklady exekuce a náklady oprávněného vymůže exekutor na základě příkazu k úhradě nákladů exekuce, a to některým ze způsobů určených v exekučním příkazu k provedení exekuce ukládající zaplacení peněžité částky.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fc8676a5d3914cfc6dab -->
-
 ## § 88 — Příkaz k úhradě nákladů exekuce + námitky
 
 > (1) Náklady exekuce a náklady oprávněného určuje exekutor v příkazu k úhradě nákladů exekuce, který doručí oprávněnému a povinnému.
@@ -327,74 +273,6 @@ PKÚN je závěrečný vyúčtovací akt exekuce; jeho jediným opravným prost�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=fd063fcc806f6561b885 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 88
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> (1) Náklady exekuce a náklady oprávněného určuje exekutor v příkazu k úhradě nákladů exekuce, který doručí oprávněnému a povinnému.
->
-> (2) Příkaz k úhradě nákladů exekuce obsahuje
->
-> - a) označení exekučního soudu,
->
-> - b) označení exekutora, který vede exekuční řízení,
->
-> - c) označení exekučního titulu a orgánu, který ho vydal, nebo osoby, která jej vyhotovila,
->
-> - d) označení oprávněného a povinného včetně rodného čísla povinného, lze-li ho zjistit,
->
-> - e) označení vymáhané povinnosti,
->
-> - f) stanovení povinnosti k náhradě nákladů exekuce a nákladů oprávněného, včetně jejich vyčíslení a odůvodnění,
->
-> - g) výši zaplacené zálohy, případně její vyúčtování a odůvodnění vyúčtování,
->
-> - h) datum a podpis exekutora, poučení o námitkách a další informace týkající se postupu v exekučním řízení.
->
-> (3) Účastník řízení může podat u exekutora proti příkazu námitky do 8 dnů od doručení. Pokud exekutor v plném rozsahu námitkám nevyhoví, postoupí je bez zbytečného odkladu soudu ([[#§ 45|§ 45]]), který o námitkách rozhodne do 15 dnů. Případné vyjádření k námitkám adresované soudu exekutor doručí také tomu, kdo námitky podal.
->
-> (4) Rozhodnutí soudu o námitkách se doručí oprávněnému, povinnému a exekutorovi. Proti rozhodnutí soudu o námitkách není přípustný opravný prostředek.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 45
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fd063fcc806f6561b885 -->
-
 ## § 89 — Anti-fraud při zastavení exekuce
 
 > Dojde-li k zastavení exekuce, hradí **náklady exekuce a náklady účastníků, případně paušálně stanovenou náhradu nákladů plátce mzdy ten, který zastavení zavinil**. V případě **zastavení exekuce pro nemajetnost povinného hradí paušálně určené či účelně vynaložené výdaje exekutorovi oprávněný**. Pro případ zastavení exekuce pro nemajetnost povinného si může oprávněný s exekutorem **předem sjednat výši účelně vynaložených výdajů**.
@@ -476,52 +354,6 @@ PKÚN je závěrečný vyúčtovací akt exekuce; jeho jediným opravným prost�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=46b1866e0b5087166820 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 89
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> Dojde-li k zastavení exekuce, hradí náklady exekuce a náklady účastníků, případně paušálně stanovenou náhradu nákladů plátce mzdy ten, který zastavení zavinil. V případě zastavení exekuce pro nemajetnost povinného hradí paušálně určené či účelně vynaložené výdaje exekutorovi oprávněný. Pro případ zastavení exekuce pro nemajetnost povinného si může oprávněný s exekutorem předem sjednat výši účelně vynaložených výdajů.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=46b1866e0b5087166820 -->
-
 ## § 89a — Paušální náhrada pro nezastoupené účastníky
 
 > (1) Pokud účastník, který nebyl v řízení zastoupen zástupcem podle § 137 odst. 2 OSŘ, **nedoloží výši hotových výdajů svých nebo svého jiného zástupce, má právo na jejich náhradu v paušální výši určené zvláštním právním předpisem**. Paušální náhrada zahrnuje hotové výdaje účastníka a jeho zástupce.
@@ -574,54 +406,6 @@ PKÚN je závěrečný vyúčtovací akt exekuce; jeho jediným opravným prost�
 **Typicky rozhodné důkazy / podklady:** doklad o (ne)zastoupení kvalifikovaným zástupcem, výčet úkonů zakládajících paušál, případné doklady o skutečných výdajích, rozhodnutí o uložení náhrady nákladů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=52f00d05747f4c2a86f8 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 89a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> (1) Pokud účastník, který nebyl v řízení zastoupen zástupcem podle [[§ 137 odst. 2|§ 137 odst. 2]] [[občanského soudního řádu|občanského soudního řádu]], nedoloží výši hotových výdajů svých nebo svého jiného zástupce, má právo na jejich náhradu v paušální výši určené zvláštním právním předpisem. Paušální náhrada zahrnuje hotové výdaje účastníka a jeho zástupce.
->
-> (2) Zastupoval-li účastníka, jenž má právo na náhradu nákladů řízení, jiný zástupce než podle [[§ 137 odst. 2|§ 137 odst. 2]], je ten, jemuž byla uložena náhrada těchto nákladů, povinen zaplatit ji účastníkovi.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 137
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=52f00d05747f4c2a86f8 -->
 
 ## § 90 — Odměna exekutora (rámcová úprava)
 
@@ -723,56 +507,6 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=526fd822110abc0354fa generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 90
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> (1) Za exekuční činnost a další činnost podle tohoto zákona náleží exekutorovi odměna, náhrada hotových výdajů, náhrada za ztrátu času při vedení exekuce, náhrada za doručení písemností, a je-li exekutor plátcem daně z přidané hodnoty, rovněž příslušná daň z přidané hodnoty podle zvláštního právního předpisu.20)
->
-> (2) Exekutor a oprávněný mohou uzavřít písemnou smlouvu o vedení exekuce, v níž mohou sjednat smluvní odměnu za vedení exekuce. Smluvní odměna není nákladem exekuce. Tím není dotčeno právo exekutora na odměnu, náhradu hotových výdajů, náhradu za doručení písemností a náhradu za ztrátu času.
->
-> (3) Nejde-li o exekuci k vymožení pohledávky oprávněného podle § 55 odst. 9 nebo nesplňuje-li oprávněný podmínky osvobození od soudních poplatků podle [[§ 138|§ 138]] [[občanského soudního řádu|občanského soudního řádu]], má exekutor právo požadovat od oprávněného přiměřenou zálohu na náklady exekuce. Je-li exekuce vedena pro pohledávku, při jejímž vymáhání již byla jednou exekuce zastavena, nebo k vymožení nákladů řízení z exekuce, která byla zastavena a náklady řízení nebyly zaplaceny, požádá exekutor oprávněného o přiměřenou zálohu na náklady exekuce.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 55, § 138
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=526fd822110abc0354fa -->
-
 ## § 91 a § 91a — Odměna za další činnost
 
 > (1) Za výkon činnosti podle § 76a náleží exekutorovi mimosmluvní odměna.
@@ -829,52 +563,6 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f88a1f5610f48d4bab96 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 91
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> Za výkon další činnosti podle § 74 odst. 1 písm. a) náleží exekutorovi mimosmluvní odměna, nedohodne-li se s žadatelem jinak.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 74
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f88a1f5610f48d4bab96 -->
-
 ## § 92 — Zmocnění k vyhlášce
 
 > Podrobnosti o výši a způsobu určení odměny, hotových výdajů, náhrady za doručení písemností a náhrady za ztrátu času stanoví ministerstvo vyhláškou.
@@ -918,52 +606,6 @@ Smysl: filtrace „opakovaných vágních pohledávek" — pokud již jednou exe
 **Typicky rozhodné důkazy / podklady:** znění napadeného ustanovení vyhlášky a § 92 EŘ, srovnání předmětu úpravy s okruhy zmocnění, údaj o účinném znění vyhlášky v rozhodné době.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=341a8a7cf28aa429a420 generator=2026-07-17.4 source_sha256=450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6 -->
-### Revizní doplnění k § 92
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/120-2001 Zákon o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.md`; identifikátor verze: `SB-2001-00120_2026-01-01`; SHA-256: `450aabcb8d293a7480ccc51a0cce28e2754eb23990860ebf1ad26a6081e766c6`.
-
-#### Znění ustanovení
-
-> Podrobnosti o výši a způsobu určení odměny, hotových výdajů, náhrady za doručení písemností a náhrady za ztrátu času stanoví ministerstvo vyhláškou.
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=341a8a7cf28aa429a420 -->
 
 ## Vyhláška č. 330/2001 Sb. — Exekutorský tarif (detail)
 
